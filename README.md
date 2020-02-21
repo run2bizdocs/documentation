@@ -1,6 +1,5 @@
 # ForBiz Docs Repository
 
-BLABLA
 
 [![Docs](https://img.shields.io/badge/docs-stable-steelblue.svg?style=flat-square)](https://docs.run2biz.com)
 
