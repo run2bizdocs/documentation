@@ -1,4 +1,4 @@
-# ForBiz Docs Repository
+# 4Biz Docs Repository
 
 
 [![Docs](https://img.shields.io/badge/docs-stable-steelblue.svg?style=flat-square)](https://docs.run2biz.com)
