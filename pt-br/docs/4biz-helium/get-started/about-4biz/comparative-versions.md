@@ -47,7 +47,7 @@ Title: Comparativo de versões
 |    API                                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Formulários Customizados][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
-|    [Anuva Application - AI][16]                         |:no_entry_sign:|:new:           |
+|    [Helper Application - AI][16]                         |:no_entry_sign:|:new:           |
 |    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
 |    **Integrações**                                   |    **4biz Platform 7**    |    **4biz Helium**    |
 |    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -96,7 +96,7 @@ Nesta versão, a 4biz inova ao disponibilizar ao usuário a possibilidade de per
 A funcionalidade de escalonamento foi redirecionada para dentro da funcionalidade Requisição e Incidente, tendo o layout reformulado, trazendo assim maior simplicidade no cadastro de regras de escalonamento e seu gerenciamento.
 
 ### Chat
-A nova versão além de passar por uma reformulação, teve incorporado recursos de inteligência artificial (Anuva) para possibilitar atendimentos automáticos sem necessidade de interação humana.
+A nova versão além de passar por uma reformulação, teve incorporado recursos de inteligência artificial (Helper) para possibilitar atendimentos automáticos sem necessidade de interação humana.
 
 ### Portal do Conhecimento
 A versão 8 apresenta um Portal de Conhecimento mais inclusivo e com pesquisas mais eficientes. É possível, doravante, um usuário acessar a funcionalidade sem estar logado no sistema e buscar artigos com filtros mais refinados, tais como as tags (palavras chaves).
@@ -116,7 +116,7 @@ Agora é possível criar questionários e aplicar em diferentes cenários (pesqu
 ### Formulários customizados
 A Funcionalidade foi totalmente remodelada o que possibilita a criação de formulários rapidamente.
 
-### Anuva Application | Inteligência Artificial
+### Helper Application | Inteligência Artificial
 Foi desenvolvida para realizar a análise de dados a partir de inteligência cognitiva de modo a otimizar a gestão de processos como Gestão de Ticket, Gestão de Mudança e Gestão de Conhecimento.
 
 ### Smart Analytics
@@ -146,7 +146,7 @@ Integração do Saiku com o 4biz Analytics.
 [13]:#gestao-de-fluxo-de-trabalho
 [14]:#surveys-e-feedback
 [15]:#formularios-customizados
-[16]:#anuva-application-inteligencia-artificial
+[16]:#Helper-application-inteligencia-artificial
 [17]:#smart-analytics
 [18]:#ibm-watson
 [19]:#ldapad

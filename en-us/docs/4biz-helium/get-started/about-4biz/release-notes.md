@@ -130,7 +130,7 @@ Welcome to 4biz Version 8.0.4.0. This release has the following fixes and improv
 
 |Improvement	| Functionality	| Description |
 |--------|---------|---------|
-|5959  | Anuva | Implemented message sending functionality to Anuva |
+|5959  | Helper | Implemented message sending functionality to Helper |
 |3902  | 4biz Installation |	Fix in the internationalization of loads on a zero basis, the initial loads of the screen 'Cause' and 'Solution' should be with the language selected in the installation. |
 
 |Fix	| Functionality	| Description |
@@ -187,7 +187,7 @@ Welcome to 4biz Version 8.0.3.0. This release has the following fixes and improv
 |5925|Error in the correction on Request for Change screen|
 |5926|Entering alert message by clicking on create change option|
 |5958|Fixed error in SLA not being able to link to a Service in the portfolio - "Error running the location...."|
-|5959|Create possibility to send messages to anuva|
+|5959|Create possibility to send messages to Helper|
 |5962|Twitter integration fixes|
 |5969|Error trying to create ticket when falback message contains quotation marks "".|
 |5981|Allowing to register service requests without locale.|
@@ -385,7 +385,7 @@ Welcome to 4biz Version 8.0.1.3. This release has the following fixes and improv
 |4543|[Chat - Ticket] - Check the possibility to open the Ticket execution screen via chatbox.|
 |4315|Check the possibility of removing the information "How can I help you" from chat when the service has already started.|
 |4572|When moving an item from one Sprint to another in Tasker, it is moved to an archived list.|
-|4533|[Chat] - Problems interacting with Anuva.|
+|4533|[Chat] - Problems interacting with Helper.|
 |4535|[Chat] - Change the label "Request" to "Ticket" that appears inside the chat.|
 |4532|Change phrases displayed in chat popup.|
 |4587|Error in Tasker when registering a new Sprint - with users.|
@@ -393,7 +393,7 @@ Welcome to 4biz Version 8.0.1.3. This release has the following fixes and improv
 |4595|[Portfolio]: Error trying to save a new service registration.|
 |4529|[Time of Attendance]: "Customer" time not showing correct SLA value.|
 |852|Do not display on the parameter screen items that are already displayed on configuration screens.|
-|4536|“Anuva” widget change in the Experience Center configuration.|
+|4536|“Helper” widget change in the Experience Center configuration.|
 |3660|In the user registration, when searching the contributor by the Brazilian ID CPF - with the correct masks containing points and hyphen - no result is displayed.|
 |4570|Error accessing ticket screen on an installation basis.|
 |4546|[Chat]: Replace message icon hint inside ticket screen.|
@@ -439,7 +439,7 @@ Welcome to 4biz Version 8.0.1.0. The Version 8.0.1.0 of 4biz presents the follow
 
 |Improvement|Description|
 |--------|---------|
-|3717|Optimization in Chat, ANUVA and Message Exchange – The entire messaging system has been integrated into Chat, so channels such as Messaging from this version, promote a more iterative dialogue between the requester and the attendant.|
+|3717|Optimization in Chat, Helper and Message Exchange – The entire messaging system has been integrated into Chat, so channels such as Messaging from this version, promote a more iterative dialogue between the requester and the attendant.|
 |3467|Improvement in ticket attendance interface - 1. From this version, the users can dimension the service interface visually in a way that best meets them. 2. The interface became larger giving visibility to the ticket information, and the menus are in a tab that becomes visible only when the attendant needs other resources. 3. The comments have gained their own session where Content Search, Editing, Deletion and Response between attendant and requester and between attendants is allowed. Therefore, the function of public and private conversations was maintained.|
 |3127|Experience Center - Widget of Tasker. The resources of this important management tool from this version will be available in the Experience Center, facilitating the work of the teams that treat their activities through it.|
 |1516|We included the possibility to filter by Estimation period of a Workspace and Sprint.|

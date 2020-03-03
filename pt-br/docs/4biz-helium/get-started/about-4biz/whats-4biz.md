@@ -62,10 +62,10 @@ a construção de novas entradas de dados e possibilidades de integração. Tamb
 criamos no ano de 2018 os produtos CE - Centro de Experiências. Este produto é
 uma iniciativa para criar um construtor de espaço de trabalho digital.
 
-Anuva
+Helper
 -----
 
-A ANUVA também foi iniciada e representa a Inteligência Artificial do 4biz,
+A Helper também foi iniciada e representa a Inteligência Artificial do 4biz,
 onde promove integração e aprendizado de máquina com conhecimento.
 
 Builder

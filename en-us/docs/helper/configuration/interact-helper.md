@@ -1,7 +1,7 @@
-Title: How to interact Anuva with other systems
-# How to interact Anuva with other systems
+Title: How to interact Helper with other systems
+# How to interact Helper with other systems
 
-In order for Anuva to interact with other systems, it is necessary to add a custom ability in the dialog. 
+In order for Helper to interact with other systems, it is necessary to add a custom ability in the dialog. 
 
 The query is made through a Rest API, which must be made available by the system that holds information of interest to the user. Eg.: search for information on the status of a ticket, creation of tickets, generation of bills in the system.
 

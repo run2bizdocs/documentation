@@ -67,10 +67,10 @@ by allowing the construction of new data inputs and integration possibilities.
 We also created in the year 2018 the products CE - Center of Experiences. This product is an initiative to
 create a digital workspace builder. 
 
-Anuva
+Helper
 -----
 
-ANUVA was also initiated and represents the Artificial Intelligence of 4biz, where it promotes
+Helper was also initiated and represents the Artificial Intelligence of 4biz, where it promotes
 integration and machine learning with knowledge.
 
 Builder

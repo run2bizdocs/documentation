@@ -8,7 +8,7 @@ applications and information in a 4biz instance.
 
 Figure 1 – 4biz homepage Screen
 
--   **1 - Banner frame**: in the internal area of the system, the taskbar contains navigation items and tools. As the main menu, with all the 4biz functionalities, buttons with VoIP integration, the virtual assistant Anuva and information about the user login, environment version and also their language change;
+-   **1 - Banner frame**: in the internal area of the system, the taskbar contains navigation items and tools. As the main menu, with all the 4biz functionalities, buttons with VoIP integration, the virtual assistant Helper and information about the user login, environment version and also their language change;
 
 -   **2 - Navigation in applications**: access to 4biz's 13 certified processes,
     basic registration functionalities, creation and emission of reports, parameters,

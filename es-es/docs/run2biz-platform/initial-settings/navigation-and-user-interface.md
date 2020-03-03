@@ -8,7 +8,7 @@ aplicaciones e informaciones en una instancia de 4biz.
 
 Figura 1 - Pantalla Smart Decision
 
--   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene elementos de navegación y herramientas. Por           ejemplo, el menú principal, con todas lasfunciones 4biz, botones con integración VoIP, el asistente virtual Anuva e           información sobre el login de usuario, versión del ambiente y también su cambio de idioma;
+-   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene elementos de navegación y herramientas. Por           ejemplo, el menú principal, con todas lasfunciones 4biz, botones con integración VoIP, el asistente virtual Helper e           información sobre el login de usuario, versión del ambiente y también su cambio de idioma;
 
 -   **2 - Navegación en aplicaciones**: acceso a los 13 procesos certificados de
     4biz, funcionalidades de catastros básicos, creación y emisión de informes,

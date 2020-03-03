@@ -47,7 +47,7 @@ Title: Comparison of versions
 |    API                                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Customized Forms][15]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
-|    [Anuva Application - AI][16]                         |:no_entry_sign:|:new:           |
+|    [Helper Application - AI][16]                         |:no_entry_sign:|:new:           |
 |    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
 |    **Integrations**                                   |    **4biz Platform 7**    |    **4biz Helium**    |
 |    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -116,7 +116,7 @@ It is now possible to create questionnaires and apply in different scenarios (in
 ### Customized Forms
 This feature has been completely redesigned, which makes it possible to quickly create forms.
 
-### Anuva Application | Artificial Intelligence
+### Helper Application | Artificial Intelligence
 It was developed analyze data from cognitive intelligence in order to optimize the management of processes, such as Ticket Management, Change Management and Knowledge Management.
 
 ### Smart Analytics
@@ -146,7 +146,7 @@ Integration of Saiku with 4biz Analytics.
 [13]:#tracker-management
 [14]:#surveys-and-feedback
 [15]:#customized-forms
-[16]:#anuva-application-artificial-intelligence
+[16]:#Helper-application-artificial-intelligence
 [17]:#smart-analytics
 [18]:#ibm-watson
 [19]:#ldapad

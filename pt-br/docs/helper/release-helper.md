@@ -1,7 +1,7 @@
-Title: Novas versões Anuva
-# Release notes Anuva
+Title: Novas versões Helper
+# Release notes Helper
 
-# Bem-vindo a nova Build 1.0.0.0 do Anuva Platform.
+# Bem-vindo a nova Build 1.0.0.0 do Helper Platform.
 
 Esta nova versão conta com as melhorias abaixo listadas que vão oferecer
 uma experiência mais completa para os clientes, além de mais performance e
@@ -14,7 +14,7 @@ novas melhorias e claro, sempre que quiser nos envie feedbacks sobre elas.
 |6941|Exportação de conversas do bot em planilhas.|
 |6945|Parametrização de percentual de acurácia de intenções e diálogos para o chatBot.|
 |6942|Cadastro de e-mails para envio de notificações de treinamentos e implantações.|
-|5228|Importação e Exportação de diálogos cadastrados da Anuva no formato de planilhas.|
+|5228|Importação e Exportação de diálogos cadastrados da Helper no formato de planilhas.|
 |6944|Permitir o uso de links nas actions. (adicionar http ou https nos links dos sites)|
 |6831|Cadastro e administração de novos usuários.|
 |6943|Atualização para nova versão do ElasticSearch para melhora de algoritmo de IA e performance de busca de dados.|

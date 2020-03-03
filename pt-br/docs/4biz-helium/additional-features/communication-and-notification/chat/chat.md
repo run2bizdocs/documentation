@@ -14,7 +14,7 @@ O chat pode ser usado de três modos:
 
 -   Automático: utilizado para a troca de mensagens entre usuário e um
     assistente virtual – por meio de um Chatbot, usando a inteligência
-    artificial Anuva;
+    artificial Helper;
 
 -   Ambos: utilizado para viabilizar o contato entre o solicitante e o
     atendente, possibilitando também que um usuário interaja com um chatbot.
@@ -29,15 +29,15 @@ Para que o chat esteja disponível é preciso configurar os parâmetros de ativa
 
 •	Uso Manual: 299, 315, 316, 317, 447 e 423.
 
-•	Integração com a Anuva: 423
+•	Integração com a Helper: 423
 
-Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtual Anuva.
+Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtual Helper.
 
 # Como acessar
 
 A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenários diferentes:
 
-## Acesso ao Smart Chat sem configuração de ANUVA - Criação de ticket
+## Acesso ao Smart Chat sem configuração de Helper - Criação de ticket
 
 1. Acesse a tela de Smart Portal ou Centro de Experiência;
 2. Clique no ícone "Falar" no canto inferior da tela para iniciar a conversa;
@@ -51,7 +51,7 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenári
 8. Ambos estando online é possível manter a conversa;
 9. Se um dos interlocutores não estiver online e o parâmetro 447 - estiver configurado, então o sistema envia mensagem informando.
 
-## Acesso ao Smart Chat sem configuração de ANUVA - Criação de ticket por meio de Pesquisa de Atividades
+## Acesso ao Smart Chat sem configuração de Helper - Criação de ticket por meio de Pesquisa de Atividades
 
 1. Acesse a tela de Smart Portal ou Centro de Experiência;
 2. Clique no ícone "Falar" no canto inferior da tela para iniciar a conversa;
@@ -70,7 +70,7 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenári
 
 ## Acesso ao Assistente Virtual - Criação de Ticket
 
-1. Clique no sinalizador no topo da tela chamado "Virtual Assistant" para falar com a Anuva;
+1. Clique no sinalizador no topo da tela chamado "Virtual Assistant" para falar com a Helper;
 2. Digite sua pesquisa ou assunto;
 3. O assistente virtual poderá identificar conhecimentos ou atividades a serem abertas;
 4. Quando o assistente virtual der a mensagem de fallback, imediatamente será apresentada as opções "Falar com Atendente" ou "Retomar Atendimento";

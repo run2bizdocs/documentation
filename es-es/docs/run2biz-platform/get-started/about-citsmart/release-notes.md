@@ -129,7 +129,7 @@ Bienvenido a 4biz Versión 8.0.4.0. Esta versión tiene las siguientes correccio
 
 |Mejora	| Funcionalidad	| Descripción |
 |--------|---------|---------|
-|5959  | Anuva | Se implementó la funcionalidad de envío de mensajes a Anuva |
+|5959  | Helper | Se implementó la funcionalidad de envío de mensajes a Helper |
 |3902  | Instalación de 4biz |	Se realizó la corrección en la internacionalización de las cargas sobre una base cero, las cargas iniciales de la pantalla 'Causa' y 'Solución' deben aparecer con el idioma seleccionado en la instalación. |
 
 |Corrección	| Funcionalidad	| Descripción |
@@ -187,7 +187,7 @@ Bienvenido a 4biz Versión 8.0.3.0. Esta versión tiene las siguientes correccio
 |5925|Corrección de error en la pantalla de Solicitud de Cambio|
 |5926|Introducción de mensaje de alerta haciendo clic en la opción de crear cambio|
 |5958|Correción del error en el SLA que no podía vincularse a un Servicio en el portafolio - "Error al ejecutar localización...."|
-|5959|Crear la posibilidad de enviar mensajes a anuva|
+|5959|Crear la posibilidad de enviar mensajes a Helper|
 |5962|Correcciones en la integración con Twitter|
 |5969|Error al intentar crear un ticket cuando el mensaje de falback contiene comillas "".|
 |5981|Permite registrar solicitudes de servicio sin localización.|
@@ -385,7 +385,7 @@ Bienvenido a 4biz Versión 8.0.1.3. Esta versión tiene las siguientes correccio
 |4543|[Chat - Ticket] - Comprobar la posibilidad de conseguir abrir la pantalla de ejecución de Ticket a través de la ventana de conversación del chat.|
 |4315|Comprobar la posibilidad de eliminar la información "¿Cómo puedo ayudarlo?" de las ventanas de chat cuando el servicio ya ha comenzado.|
 |4572|Cuando mueve un elemento de un Sprint a otro en Tasker, se mueve a una lista archivada.|
-|4533|[Chat] - Problemas al interactuar con la Anuva.|
+|4533|[Chat] - Problemas al interactuar con la Helper.|
 |4535|[Chat] - Cambiar la etiqueta "Solicitud" a "Ticket" que aparece en el chat.|
 |4532|Intercambiar frases que se muestran en la pop-up del chat.|
 |4587|Error en Tasker al registrar un nuevo Sprint - con usuarios.|
@@ -393,7 +393,7 @@ Bienvenido a 4biz Versión 8.0.1.3. Esta versión tiene las siguientes correccio
 |4595|[Portafolio]: Error al intentar guardar un nuevo registro de servicio|
 |4529|[Tiempo de Atención]: Tiempo de atención del tipo "cliente" no muestra el valor de SLA correcto.|
 |852|No mostrar en la pantalla de parámetros elementos que ya se muestran en las pantallas de configuración|
-|4536|Cambio del widget "Anuva" en la configuración del Centro de Experiencia.|
+|4536|Cambio del widget "Helper" en la configuración del Centro de Experiencia.|
 |3660|En el registro de usuarios, al buscar el contribuyente por la identificación brasileña CPF, con las máscaras correctas que contienen puntos y guiones, no se muestra ningún resultado.|
 |4570|Error al acceder a la pantalla de tickets en una base de instalación.|
 |4546|[Chat]: Reemplazar el hint de icono de mensaje dentro de la pantalla del ticket.|
@@ -438,7 +438,7 @@ Bienvenidos a 4biz Versión 8.0.1.0. La versión 8.0.1.0 de 4biz presenta las si
 
 |Mejora|Descripción|
 |--------|---------|
-|3717|Optimización de Chat, ANUVA e Intercambio de Mensajes – Todo el sistema de intercambio de mensajes fue integrado al Chat, luego canales como Mensajería a partir de esa versión, promueve un diálogo más iterativo entre solicitante y asistente.|
+|3717|Optimización de Chat, Helper e Intercambio de Mensajes – Todo el sistema de intercambio de mensajes fue integrado al Chat, luego canales como Mensajería a partir de esa versión, promueve un diálogo más iterativo entre solicitante y asistente.|
 |3467|Mejora en la interfaz de servicio de ticket - 1. A partir de esta versión, el usuario podrá dimensionar la interfaz de atención visualmente de forma que mejor el atienda. 2. La interfaz se hizo más grande dando visibilidad a la información del ticket, los menús están en una pestaña que se vuelve visible solamente cuando el operador necesita otros recursos. 3. Los comentarios ganaron una sesión propia donde se permite la Búsqueda de Contenido, Edición, Exclusión y Respuesta entre atendida y solicitante y entre asistentes, pues, se mantuvo la función de conversaciones públicas y privadas.|
 |3127|Centro de Experiencia - Widget del Tasker. Los recursos de esta importante herramienta de gestión a partir de esta versión estarán disponibles en el Centro de Experiencia, facilitando el trabajo de los equipos que tratan sus actividades a través de ella.|
 |1516|Se incluyó la posibilidad de filtrar por período de estimación de una Workspace y Sprint.|

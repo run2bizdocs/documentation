@@ -9,7 +9,7 @@ Chat can be used in three ways:
     and attendant) on a 4biz instance;
 
 -   Automatic: used for messaging between user and a virtual assistant - via Chatbot, 
-    using Anuva artificial intelligence;
+    using Helper artificial intelligence;
 
 -   Both: used to enable contact between the requester and the attendant, also allowing 
     a user to interact with a chatbot.
@@ -25,15 +25,15 @@ In order for chat to be available, it's necessary to configure the parameters of
 
 •	Manual Usage: 299, 315, 316, 317, 447 e 423.
 
-•	Integration with Anuva: 423
+•	Integration with Helper: 423
 
-By enabling parameter 423 the chat will open integrated with the virtual assistant Anuva.
+By enabling parameter 423 the chat will open integrated with the virtual assistant Helper.
 
 # How to access it
 
 Below there are some examples of how to use 4biz Chat in different scenarios:
 
-## Access to Smart Chat without configure Anuva - Ticket creation
+## Access to Smart Chat without configure Helper - Ticket creation
 
 1. Access the Smart Portal or Experience Center;
 2. Click on the "Talk" icon at the bottom of the screen to start the conversation;
@@ -47,7 +47,7 @@ Below there are some examples of how to use 4biz Chat in different scenarios:
 8. Both being online, it's possible to keep the conversation;
 9. If one of the parties is not online and parameter 447 - is set, then the system sends a message stating it.
 
-## Access to Smart Chat without Anuva configuration - Ticket creation through Activity Search
+## Access to Smart Chat without Helper configuration - Ticket creation through Activity Search
 
 1. Access the Smart Portal or Experience Center;
 2. Click on the "Talk" icon at the bottom of the screen to start the conversation;
@@ -66,7 +66,7 @@ Below there are some examples of how to use 4biz Chat in different scenarios:
 
 ## Access to the Virtual Assistant - Ticket Creation
 
-1. Click on the icon at the top of the screen called "Virtual Assistant" to talk to Anuva;
+1. Click on the icon at the top of the screen called "Virtual Assistant" to talk to Helper;
 2. Type your search or subject;
 3. The virtual assistant can identify knowledge or activities to be opened;
 4. When the virtual assistant gives the fallback message, the options "Talk to Attendant" or "Resume Attendance" are immediately displayed;

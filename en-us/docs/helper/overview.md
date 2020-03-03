@@ -1,50 +1,50 @@
 Title: Overview
 # Overview
 
-## What's Anuva
+## What's Helper
 
-Anuva is the 4biz Artificial Intelligence platform. The first feature available was a virtual assistant, the Anuva Assistant, a chatbot that communicates and interacts with people through automated text messages. 
+Helper is the 4biz Artificial Intelligence platform. The first feature available was a virtual assistant, the Helper Assistant, a chatbot that communicates and interacts with people through automated text messages. 
 
-Anuva uses artificial intelligence to conduct dialogues with increasingly improved users on different platforms and, in addition to interacting with users, is able to integrate with other systems to get answers to questions, retrieving data through APIs.
+Helper uses artificial intelligence to conduct dialogues with increasingly improved users on different platforms and, in addition to interacting with users, is able to integrate with other systems to get answers to questions, retrieving data through APIs.
 
-## Anuva Operation
+## Helper Operation
 
-Anuva uses 5 main concepts in its operation:
+Helper uses 5 main concepts in its operation:
 
 * Build: through its interface, it is possible to create conversation flow examples (dialogues) so it can learn how to react to user interactions;
 
-* Train: after creating the dialogue examples, it is possible to train the Anuva so it will consider the examples given in their interactions. Unlike most solutions, Anuva uses artificial intelligence to understand what the user meant, so it is not necessary for the user to type exactly the same sentence that was given as an example;
+* Train: after creating the dialogue examples, it is possible to train the Helper so it will consider the examples given in their interactions. Unlike most solutions, Helper uses artificial intelligence to understand what the user meant, so it is not necessary for the user to type exactly the same sentence that was given as an example;
 
-* Code: It is possible to connect Anuva with external APIs, allowing data access necessary to deliver value to the user;
+* Code: It is possible to connect Helper with external APIs, allowing data access necessary to deliver value to the user;
 
-* Connect: It is possible to integrate Anuva to different messaging platforms, natively, it can already be integrated with Facebook and 4biz;
+* Connect: It is possible to integrate Helper to different messaging platforms, natively, it can already be integrated with Facebook and 4biz;
 
-* Monitor: Once it is made available to the user, it is possible to follow the conversations made by Anuva, in order to improve the training information and gain insight into new dialogues to be taught to Anuva. 
+* Monitor: Once it is made available to the user, it is possible to follow the conversations made by Helper, in order to improve the training information and gain insight into new dialogues to be taught to Helper. 
 
-## Accessing Anuva
+## Accessing Helper
 
-After the release of your Anuva environment, access the configuration environment of Anuva through the link provided by 4biz. (http://<Your-Instance>.anuvaassistant.com).
+After the release of your Helper environment, access the configuration environment of Helper through the link provided by 4biz. (http://<Your-Instance>.Helperassistant.com).
 
-In this environment, you will be able to add and review knowledge to Anuva, you can schedule trainings, follow the interactions made by Anuva and conduct interaction tests to validate if interactions are being effective.
+In this environment, you will be able to add and review knowledge to Helper, you can schedule trainings, follow the interactions made by Helper and conduct interaction tests to validate if interactions are being effective.
 
 
 ## Configuration
 
-[Make Anuva available on the 4biz interface](/en-us/anuva/configuration/anuva-4biz.html)
+[Make Helper available on the 4biz interface](/en-us/Helper/configuration/Helper-4biz.html)
 
-[Create contexts to Anuva](/en-us/anuva/configuration/context-anuva.html)
+[Create contexts to Helper](/en-us/Helper/configuration/context-Helper.html)
 
-[Store information in dialogues](/en-us/anuva/configuration/store-dialog-anuva.html)
+[Store information in dialogues](/en-us/Helper/configuration/store-dialog-Helper.html)
 
-[How to interact Anuva with other interfaces](/en-us/anuva/configuration/interact-anuva.html)
+[How to interact Helper with other interfaces](/en-us/Helper/configuration/interact-Helper.html)
 
 ## Use
 
-[How to teach Anuva](/en-us/anuva/use/teach-anuva.html)
+[How to teach Helper](/en-us/Helper/use/teach-Helper.html)
 
-[How to train Anuva](/en-us/anuva/use/trainning-anuva.html)
+[How to train Helper](/en-us/Helper/use/trainning-Helper.html)
 
-[Monitor interactions of Anuva](/en-us/anuva/use/monitoring-anuva.html)
+[Monitor interactions of Helper](/en-us/Helper/use/monitoring-Helper.html)
 
 !!! tip "About"
 

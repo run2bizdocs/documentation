@@ -1,7 +1,7 @@
-Title: Crear contextos para ANUVA
-# Crear contextos para ANUVA
+Title: Crear contextos para Helper
+# Crear contextos para Helper
 
-Los diálogos están inmersos en contextos. Las palabras iguales pueden tener significados distintos a depender del contexto en el que están insertadas. Para aumentar la exactitud en situaciones de homónimos y evitar la repetición de frases por cuenta de sinónimos, es posible registrar una base de contexto para que la Anuva haga la distinción de homónimos y la correlación entre sinónimos.
+Los diálogos están inmersos en contextos. Las palabras iguales pueden tener significados distintos a depender del contexto en el que están insertadas. Para aumentar la exactitud en situaciones de homónimos y evitar la repetición de frases por cuenta de sinónimos, es posible registrar una base de contexto para que la Helper haga la distinción de homónimos y la correlación entre sinónimos.
 
 Procedimiento
 -----------
@@ -17,7 +17,7 @@ Procedimiento
 !!! Abstract "NOTA"
 
     Es necesario vincular los contextos a las frases del Interés dentro del Diálogo, para que 
-    la información sea procesada por Anuva
+    la información sea procesada por Helper
     
     
 !!! tip "About"
