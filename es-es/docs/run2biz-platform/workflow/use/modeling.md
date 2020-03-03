@@ -6,11 +6,11 @@ El modelado de flujo de trabajo comprende las actividades de entendimiento y dis
 
 La funcionalidad de flujo fue construida trayendo elementos, que por esencia, son similares a los de la notación BPMN, esto facilita en la construcción y entendimiento de los flujos. Además, puede importar proyectos en el estándar BPMN.
 
-Esta funcionalidad es una buena alternativa para la creación de flujos de trabajo en el estándar BPMN ([Business Process Model and Notation][1]) directamente desde su instancia CITSmart. Además, es posible exportarlos o incluso importa un flujo construido en otra herramienta.
+Esta funcionalidad es una buena alternativa para la creación de flujos de trabajo en el estándar BPMN ([Business Process Model and Notation][1]) directamente desde su instancia 4biz. Además, es posible exportarlos o incluso importa un flujo construido en otra herramienta.
 
 ## Procedimiento
 
-1. Acceder al menú pricipal Workflow /> Modelado de proceso;
+1. Acceder al menú pricipal tracker /> Modelado de proceso;
 
 2. Hacer clic en "Nuevo";
 
@@ -25,5 +25,5 @@ Esta funcionalidad es una buena alternativa para la creación de flujos de traba
 
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles

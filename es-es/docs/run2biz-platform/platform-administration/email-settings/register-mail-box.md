@@ -2,7 +2,7 @@ title:  Configurar buzón de correo electrónico
 Description: Esta funcionalidad tiene por objetivo configurar el envío y la recepción de correo electrónico
 # Configurar buzón de correo electrónico
 
-Esta funcionalidad tiene por objetivo configurar el envío y la recepción de correo electrónico desde diferentes servidores, para atender contratos distintos, así que un mismo CITSmart podrá atender diferentes clientes y cada uno tendrá su propia caja de correo electrónico. En este caso, puede utilizar una cuenta de correo electrónico de envío/lectura (Ej.: email@empresa.com) en un contrato de la empresa XPTO y otra cuenta de correo electrónico perteneciente a un contrato de empresa distinta (Ej.: email@empresa2.com).
+Esta funcionalidad tiene por objetivo configurar el envío y la recepción de correo electrónico desde diferentes servidores, para atender contratos distintos, así que un mismo 4biz podrá atender diferentes clientes y cada uno tendrá su propia caja de correo electrónico. En este caso, puede utilizar una cuenta de correo electrónico de envío/lectura (Ej.: email@empresa.com) en un contrato de la empresa XPTO y otra cuenta de correo electrónico perteneciente a un contrato de empresa distinta (Ej.: email@empresa2.com).
 
 Procedimiento
 -------------
@@ -65,7 +65,7 @@ Procedimiento
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
 

@@ -1,10 +1,10 @@
 title: Configurar conexão Inventory
-Description: Tem como objetivo cadastrar todas as propriedades referentes à conexão do CITSmart Inventory, de acordo com o IP e porta onde está instalado o Jboss do CITSmart Inventory.
+Description: Tem como objetivo cadastrar todas as propriedades referentes à conexão do 4biz Inventory, de acordo com o IP e porta onde está instalado o Jboss do 4biz Inventory.
 # Configurar conexão Inventory
 
 Esta funcionalidade tem como objetivo cadastrar todas as propriedades referentes
-à conexão do CITSmart Inventory, de acordo com o IP e porta onde está instalado
-o Jboss do CITSmart Inventory.
+à conexão do 4biz Inventory, de acordo com o IP e porta onde está instalado
+o Jboss do 4biz Inventory.
 
 Antes de começar
 --------------------
@@ -29,14 +29,14 @@ Procedimento
 
     ![inventory integracao](images/conexao-inventory.jpg)
 
-       Figura 1 -Integração CITSmart inventory
+       Figura 1 -Integração 4biz inventory
 
 
 4.  Se o tipo de conexão escolhida for o OCS Inventory será apresentado o campo de configuração do mesmo para ser informado o repositório de XML, conforme ilustrado abaixo. Além disso, existem alguns *pré-requisitos* muito relevantes que devem ser observados:
 
     ![ocs](images/conexao-inventory-2.jpg)
    
-    Figura 2 -Integração CITSmart inventory - OCS inventory
+    Figura 2 -Integração 4biz inventory - OCS inventory
 
 
      -   Após instalar o OCS Inventory, ele não vem como padrão qualquer tipo de
@@ -61,7 +61,7 @@ Procedimento
 
 5.  A aplicação de Inventário realiza a captura dos dados por meio da porta do
     Agente SNMP (161) e/ou pelo Agente de Captura (porta 7103 desenvolvido pela
-    CITSmart Corporation, em .Net). Inicialmente, o Inventory realiza um comando
+    4biz Corporation, em .Net). Inicialmente, o Inventory realiza um comando
     "ping" para verificar se a máquina está ativa. Se conseguir realizar o
     comando, tentar acessar a porta SNMP do item de configuração. Se o acesso à
     porta não for obtido com sucesso, o Inventory tenta realizar o acesso
@@ -72,11 +72,11 @@ Procedimento
 Relacionado
 -------
 
-[Cadastrar gerente Inventory](/pt-br/citsmart-platform-8/processes/event/configuration/register-inventory-manager.html)
+[Cadastrar gerente Inventory](/pt-br/4biz-helium/processes/event/configuration/register-inventory-manager.html)
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 - Anna Martins

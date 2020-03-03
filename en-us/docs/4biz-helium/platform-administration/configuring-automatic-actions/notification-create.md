@@ -2,7 +2,7 @@ title: Register notification automatic action
 Description: This feature provides a variety of actions, such as including, changing, and deleting notification automatic actions.
 # Register notification automatic action
 
-This functionality is intended to register notification automatic actions. The notification formalizes and communicates information about the event, and it's important that information about an event is described and completed to facilitate the decision making later. This registration will be associated with the automatic actions, and will be used in the CITSmart event manager registration of Nagios, Zabbix, Inventory and Correlated Events.
+This functionality is intended to register notification automatic actions. The notification formalizes and communicates information about the event, and it's important that information about an event is described and completed to facilitate the decision making later. This registration will be associated with the automatic actions, and will be used in the 4biz event manager registration of Nagios, Zabbix, Inventory and Correlated Events.
 
 Event notifications should only be sent to those responsible for handling related actions or decisions. This avoids unnecessary notifications to those who are not directly involved in the event process.
 
@@ -34,11 +34,11 @@ Procedure
 Related
 -------
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Register user](/en-us/4biz-helium/initial-settings/access-settings/user/users.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

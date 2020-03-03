@@ -1,15 +1,15 @@
-Title: Ativar o Neuro
+Title: Ativar o Builder
 
-# Ativar o Neuro
+# Ativar o Builder
 
-Para a integração CITSmart/Neuro funcionar, você deve:
+Para a integração 4biz/Builder funcionar, você deve:
 
-- Ter a versão 8.0.0.0 ou superior da CITSmart
-- Ter o CITSmart configurado para acesso HTTPS: //
-- Ter os parâmetros de integração configurados no CITSmart
+- Ter a versão 8.0.0.0 ou superior da 4biz
+- Ter o 4biz configurado para acesso HTTPS: //
+- Ter os parâmetros de integração configurados no 4biz
 
 
-![Neuro Conection][1]
+![Builder Conection][1]
 
 - **Parâmetro 309:**
 
@@ -30,12 +30,12 @@ Exemplo:
 Exemplo:
 
     ```sh
-    citsmart.local\neuro.user
+    4biz.local\Builder.user
     ```
     
 
-!!! success "USUÁRIO NEURO"
-    Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Neuro contenha no campo login o atributo de identificação do domínio, ou seja, "citsmart.local" (ex. O usuário "Neuro" deverá ter no campo login a seguinte informação  "citsmart.local\neuro.user").
+!!! success "USUÁRIO Builder"
+    Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Builder contenha no campo login o atributo de identificação do domínio, ou seja, "4biz.local" (ex. O usuário "Builder" deverá ter no campo login a seguinte informação  "4biz.local\Builder.user").
 
 
-[1]:images/neuro-conection.png
+[1]:images/Builder-conection.png

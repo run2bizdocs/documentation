@@ -19,7 +19,7 @@ Figura 1 - Smart Portal
 
 - **2**: Portal do Conhecimento - Portal do Conhecimento - atalho para Portal do Conhecimento, permite ao usuário realizar a busca de informações geradas em sua organização
 
-- **3**: Docs - direciona o usuário para a documentação do produto CITSmart
+- **3**: Docs - direciona o usuário para a documentação do produto 4biz
 
 - **4**: Acessar o sistema - entrar no sistema
 
@@ -100,6 +100,6 @@ Procedimento
     organização como um todo.  
     
 !!! tip "About"  
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    

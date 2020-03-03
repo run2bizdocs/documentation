@@ -11,7 +11,7 @@ excluir expressões.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através do menu principal Workflow \> Expressões;
+1.  Acessar a funcionalidade através do menu principal tracker \> Expressões;
 
 2.  Para importar expressões de outros sistemas, clicar no botão "Importar";
 
@@ -27,5 +27,5 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 - Anna Martins

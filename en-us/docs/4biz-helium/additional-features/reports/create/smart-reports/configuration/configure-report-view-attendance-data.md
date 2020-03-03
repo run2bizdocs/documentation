@@ -100,7 +100,7 @@ sum of the times executed by each technician.*
 Related
 -------
 
-[Customize management panel (Smart Decision)](/en-us/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Customize management panel (Smart Decision)](/en-us/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 
 Attachment
@@ -113,8 +113,8 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 
-[1]:/en-us/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/images/time-technician.citreport
-[2]:/en-us/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/images/tickect-attendance.citreport
+[1]:/en-us/4biz-helium/additional-features/reports/create/smart-reports/configuration/images/time-technician.citreport
+[2]:/en-us/4biz-helium/additional-features/reports/create/smart-reports/configuration/images/tickect-attendance.citreport

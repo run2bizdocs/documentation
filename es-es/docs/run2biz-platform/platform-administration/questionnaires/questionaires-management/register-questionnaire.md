@@ -29,10 +29,10 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar categoría de cuestionario](/es-es/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
+[Registrar categoría de cuestionario](/es-es/4biz-helium/platform-administration/questionnaires/questionaires-management/questionnaire-category.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

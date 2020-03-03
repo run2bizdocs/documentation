@@ -97,21 +97,21 @@ The report can also be viewed in Smart Reports.
 Related
 -----------
 
-[Register a service](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configure service attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configure service attributes](/en-us/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configure service contract attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
+[Configure service contract attributes](/en-us/4biz-helium/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
-[Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Service level requirement](/en-us/citsmart-platform-8/processes/service-level/use/service-level-requirement.html)
+[Service level requirement](/en-us/4biz-helium/processes/service-level/use/service-level-requirement.html)
 
-[Customize management panel (Smart Decision)](/en-us/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Customize management panel (Smart Decision)](/en-us/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
-[Emit report using Smart Report](/en-us/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Emit report using Smart Report](/en-us/4biz-helium/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
-[Build and maintain smart reports](/en-us/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+[Build and maintain smart reports](/en-us/4biz-helium/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 Attachment
@@ -121,7 +121,7 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 
-[1]:/en-us/citsmart-platform-8/additional-features/reports/use/images/reliability.citreport
+[1]:/en-us/4biz-helium/additional-features/reports/use/images/reliability.citreport

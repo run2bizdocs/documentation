@@ -67,20 +67,20 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configurar atributos del servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Crear regla de escalonamiento](/es-es/citsmart-platform-8/processes/tickets/use/create-escalation-rule.html)
+[Crear regla de escalonamiento](/es-es/4biz-helium/processes/tickets/use/create-escalation-rule.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO_W3fA7hiLL0qbrsk6GyV9)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

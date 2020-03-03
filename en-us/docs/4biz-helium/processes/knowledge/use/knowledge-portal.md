@@ -95,6 +95,6 @@ It also enables it to register a new knowledge in order to make the portal dynam
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/27/2019 – Anna Martins
    

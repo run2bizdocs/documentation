@@ -27,14 +27,14 @@ Procedimento
 Relacionado
 -----------
 
-[Criar categoria de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+[Criar categoria de serviço](/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-[Cadastrar tipo de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
+[Cadastrar tipo de serviço](/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

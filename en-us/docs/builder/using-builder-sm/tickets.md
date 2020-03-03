@@ -1,9 +1,9 @@
-title: Use Neuro functionalities in Tickets
-Description: Use Neuro functionalities in Tickets
+title: Use Builder functionalities in Tickets
+Description: Use Builder functionalities in Tickets
 
-# Use Neuro functionalities in Tickets
+# Use Builder functionalities in Tickets
 
-There are two ways of interface Neuro with a Ticket:
+There are two ways of interface Builder with a Ticket:
 
 1.  You can create a **form that will be a source of information for the
     process** of a request so you will:
@@ -12,19 +12,19 @@ There are two ways of interface Neuro with a Ticket:
 
    b)  Create the SM template;
     
-   ![create](images/neuro-sm-1.jpg)
+   ![create](images/Builder-sm-1.jpg)
 
    Figure 1 - Create SM template
     
    c)  Link the template to a request/Incident;
     
-   ![create](images/neuro-sm-2.jpg)
+   ![create](images/Builder-sm-2.jpg)
 
    Figure 2 - Link template
     
    d)  Use the template on a request/Incident.
     
-   ![create](images/neuro-sm-3.jpg)
+   ![create](images/Builder-sm-3.jpg)
 
    Figure 3 - Template use
     
@@ -34,20 +34,20 @@ There are two ways of interface Neuro with a Ticket:
 
    a)  Select a User Task.
     
-   ![create](images/neuro-sm-4.png)
+   ![create](images/Builder-sm-4.png)
 
    Figure 4 - Link template
     
 
    b)  Link the form to a SM Flow step in the “Interface” tab of a User Task.
     
-   ![create](images/neuro-sm-5.png)
+   ![create](images/Builder-sm-5.png)
 
    Figure 5 - Interface
     
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins
 

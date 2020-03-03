@@ -3,7 +3,7 @@ Description: Proporciona varias acciones, como agregar, cambiar y excluir carpet
 
 # Crear carpeta
 
-Las carpetas son lugares utilizados en la aplicación para almacenar y organizar archivos. Las bases de conocimiento de CITSmart se crean utilizando estructuras de directorio. Los permisos de lectura o lectura y grabación se aplican en los directorios, las posibles acciones en el proceso de gestión del conocimiento también deben definirse: revisar, aprobar, publicar y archivar/desarchivar. Además, es posible preconfigurar las notificaciones que se producirán en las diversas acciones del proceso de gestión del conocimiento.
+Las carpetas son lugares utilizados en la aplicación para almacenar y organizar archivos. Las bases de conocimiento de 4biz se crean utilizando estructuras de directorio. Los permisos de lectura o lectura y grabación se aplican en los directorios, las posibles acciones en el proceso de gestión del conocimiento también deben definirse: revisar, aprobar, publicar y archivar/desarchivar. Además, es posible preconfigurar las notificaciones que se producirán en las diversas acciones del proceso de gestión del conocimiento.
 
 Los permisos de carpeta se aplican desde dos perspectivas: perfil de acceso y grupo de usuarios. Al usar el permiso por perfil de acceso, puede controlar los perfiles que pueden leer y escribir en la carpeta. Al usar el enfoque grupal, además del permiso estándar (lectura y grabación), puede establecer preferencias de notificación para diferentes estados de conocimiento.
 
@@ -54,11 +54,11 @@ Los permisos de carpeta se aplican desde dos perspectivas: perfil de acceso y gr
 
 
 !!! tip "About"
-    <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> 4biz | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 
-[1]:/es-es/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
-[2]:/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html
-[3]:/es-es/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
-[4]:/es-es/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[5]:/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
+[1]:/es-es/4biz-helium/processes/knowledge/use/create-knowledge.html
+[2]:/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html
+[3]:/es-es/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html
+[4]:/es-es/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
+[5]:/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html

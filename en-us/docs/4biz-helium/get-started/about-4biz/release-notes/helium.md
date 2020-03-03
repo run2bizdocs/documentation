@@ -1,4 +1,4 @@
-Description: Release Notes of CITSmart Version 8.0.0.0 from 03/01/2019
+Description: Release Notes of 4biz Version 8.0.0.0 from 03/01/2019
 
 # Version 8.0.0.0
 _03/01/2019_
@@ -27,7 +27,7 @@ Adjustments to avoid editing native expressions and expressions of same name.
 
 The quick access allows the user to find main processes through icons that help in the efficiency of fixing and viewing.
 
-**The users only sees the icons of the processes that they have access, with the exception of Simple, Knowledge Portal, Experience Center and User Guide.**
+**The users only sees the icons of the processes that they have access, with the exception of Tasker, Knowledge Portal, Experience Center and User Guide.**
 
 ### Configuration of notification via email of delegated ticket
 
@@ -41,7 +41,7 @@ For further information, see [Notification via email of reclassified ticket][4]
 
 ### Change Management
 
-Version 8.0.0.0 of CITSmart has improvements in the change management process, bringing the agile world to manage the activities that should occur during the scope of the change.
+Version 8.0.0.0 of 4biz has improvements in the change management process, bringing the agile world to manage the activities that should occur during the scope of the change.
 
 **Note:** This functionality replaces the default flow parameters for usage of the change process, moreover, the change is necessary for this configuration.
 
@@ -68,13 +68,13 @@ For further information, see [Release Management][7]
 
 ### Comments Review
 
-In version 8.0.0.0 CITSmart allows the evaluation and publication of written comments about a knowledge.
+In version 8.0.0.0 4biz allows the evaluation and publication of written comments about a knowledge.
 
 For further information, see [Comments Review][8]
 
 ### Access to the knowledge base of external users
 
-We innovate the way of access to the knowledge base for users who don't have login to the CITSmart tool.
+We innovate the way of access to the knowledge base for users who don't have login to the 4biz tool.
 
 In version 8.0.0.0 knowledge with permission of visualization can be accessed by the community in general, just have the link of access.
 
@@ -98,7 +98,7 @@ For further information, see [Create escalation rule][11]
 
 ### Ticket Approval
 
-In version 8.0.0.0 of CITSmart, we included ticket approval through a new direct icon in the attendance list, it's not necessary to open the ticket to perform the attendance, we present the available information and the options configured to accept or refuse the call.
+In version 8.0.0.0 of 4biz, we included ticket approval through a new direct icon in the attendance list, it's not necessary to open the ticket to perform the attendance, we present the available information and the options configured to accept or refuse the call.
 
 This functionality is available on Mobile SM and on the Service Portal.
 
@@ -116,12 +116,12 @@ The improvement of the occurrence registration allows the requester or technicia
 
 For further information, see [Register ticket occurrence][14]
 
-### Simple - Agile Management at sight
+### Tasker - Agile Management at sight
 
-Simple was created with the purpose of bringing the concept of agile management to the tool.
-Independently or clustered in one of the Problem, Change and Release solutions, Simple allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight.
+Tasker was created with the purpose of bringing the concept of agile management to the tool.
+Independently or clustered in one of the Problem, Change and Release solutions, Tasker allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight.
 
-For further information, see [Simple][15]
+For further information, see [Tasker][15]
 
 ### Customer's area
 
@@ -131,7 +131,7 @@ For further information, see [Experience Center][16]
 
 ### Business Intelligence
 
-From the version 8.0.0.0, we have provided some quantitative reports of the main processes contained in CITSmart through our new BI platform.
+From the version 8.0.0.0, we have provided some quantitative reports of the main processes contained in 4biz through our new BI platform.
 
 For further information, see [Business Intelligence][17]
 
@@ -157,11 +157,11 @@ For further information, see [Mobile Field Service][20]
 
 Still in the context of mobility, and no less robust, we improved the Mobile SM application, which has among other uses, the ability to sign, approve and notes.
 
-For further information, see [Mobile CITSmart Experience application manual][21]
+For further information, see [Mobile 4biz Experience application manual][21]
 
-### Neuro
+### Builder
 
-From the version 1.2.3.0 of Neuro, it's possible to automatically create a CITSmart questionnaire from the Neuro business object register. The idea behind this innovation is to facilitate the extraction of responses from CITSmart questionnaires and to create reports in a simple way, with the help of the Smart Report.
+From the version 1.2.3.0 of Builder, it's possible to automatically create a 4biz questionnaire from the Builder business object register. The idea behind this innovation is to facilitate the extraction of responses from 4biz questionnaires and to create reports in a Tasker way, with the help of the Smart Report.
 
 ### Flow
 
@@ -170,26 +170,26 @@ The package of flows delivered to the processes of Problem, Change and Release h
 __If the customer doesn't want to use the new flows, the latest version 7.1.0 will continue to work perfectly.__
 
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-related.html
-[2]:/en-us/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html
-[3]:/en-us/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html
-[4]:/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html
-[5]:/en-us/citsmart-platform-8/processes/change/overview.html
-[6]:/en-us/citsmart-platform-8/processes/problem/overview.html
-[7]:/en-us/citsmart-platform-8/processes/release/overview.html
-[8]:/en-us/citsmart-platform-8/processes/knowledge/use/review-reviews.html
-[9]:/en-us/citsmart-platform-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html
-[10]:/en-us/citsmart-platform-8/processes/configuration/overview.html
-[11]:/en-us/citsmart-platform-8/processes/tickets/use/create-escalation-rule.html
-[12]:/en-us/citsmart-platform-8/processes/tickets/use/approve-a-ticket.html
-[13]:/en-us/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html
-[14]:/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-occurrences.html
-[15]:/en-us/citsmart-platform-8/additional-features/project-management/simple-agile-management/simple-agile-management.html
-[16]:/en-us/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
-[17]:/en-us/citsmart-platform-8/additional-features/smart-analytics/use-bi-solution.html
-[18]:/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
-[19]:/en-us/citsmart-platform-8/platform-administration/security/implement-password-security-rules.html
-[20]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[21]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
+[1]:/en-us/4biz-helium/processes/tickets/use/register-ticket-related.html
+[2]:/en-us/4biz-helium/processes/tickets/use/create-and-view-sub-request.html
+[3]:/en-us/4biz-helium/processes/tickets/configuration/notification-delegated-email-ticket.html
+[4]:/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html
+[5]:/en-us/4biz-helium/processes/change/overview.html
+[6]:/en-us/4biz-helium/processes/problem/overview.html
+[7]:/en-us/4biz-helium/processes/release/overview.html
+[8]:/en-us/4biz-helium/processes/knowledge/use/review-reviews.html
+[9]:/en-us/4biz-helium/processes/knowledge/configuration/configure-external-access-knowledge-portal.html
+[10]:/en-us/4biz-helium/processes/configuration/overview.html
+[11]:/en-us/4biz-helium/processes/tickets/use/create-escalation-rule.html
+[12]:/en-us/4biz-helium/processes/tickets/use/approve-a-ticket.html
+[13]:/en-us/4biz-helium/processes/tickets/use/desktop-of-service-desk.html
+[14]:/en-us/4biz-helium/processes/tickets/use/register-ticket-occurrences.html
+[15]:/en-us/4biz-helium/additional-features/project-management/Tasker-agile-management/Tasker-agile-management.html
+[16]:/en-us/4biz-helium/processes/knowledge/use/create-experience-center.html
+[17]:/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html
+[18]:/en-us/4biz-helium/platform-administration/logs-and-auditing/system-audit.html
+[19]:/en-us/4biz-helium/platform-administration/security/implement-password-security-rules.html
+[20]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[21]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html
 
 

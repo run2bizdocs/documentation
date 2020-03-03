@@ -66,8 +66,8 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 - Anna Martins
 
-[1]:/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html
-[2]:/es-es/citsmart-platform-8/initial-settings/access-settings/user/user-data.html
+[1]:/es-es/4biz-helium/initial-settings/access-settings/user/users.html
+[2]:/es-es/4biz-helium/initial-settings/access-settings/user/user-data.html

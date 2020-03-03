@@ -6,7 +6,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
 ## Como acessar  
 
-1. Acesse a funcionalidade através da navegação no menu Neuro > Gerenciamento > Fluxo de Integração.  
+1. Acesse a funcionalidade através da navegação no menu Builder > Gerenciamento > Fluxo de Integração.  
 
 ## Pré-condições  
 
@@ -37,16 +37,16 @@ Figura 2 - Tela de listagem
 
     ![Screenshot](images/Variables-fig03.png)
     
-    Figura 3- Tela de cadastro/edição do workflow, aba de Variáveis  
+    Figura 3- Tela de cadastro/edição do tracker, aba de Variáveis  
 
 3. Preencha os campos:    
 
     * Nome da variável;  
     * Descrição;  
     * Se será armazenada no banco de dados;  
-	    * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor             durante a execução das tarefas   
+	    * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Builder, assim ela irá reter o valor             durante a execução das tarefas   
     * Se é uma variável de retorno;   
-	    * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.    
+	    * Esta opção irá fazer que o Builder retorne a variável no final da execução do fluxo.    
     * Se é uma lista de valores;  
     * Se é uma variável de entrada na interface do fluxo;  
 	    * Esta opção permite que a variável seja “injetada” no processo de negócio vinculado a este fluxo.    

@@ -8,5 +8,5 @@ Title: Personalização do Sistema
 
 - [Portal de Conhecimento (CSS e logotipo)][2]
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/environment-configuration/banner-logo.html
-[2]:/pt-br/citsmart-platform-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html
+[1]:/pt-br/4biz-helium/platform-administration/environment-configuration/banner-logo.html
+[2]:/pt-br/4biz-helium/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html

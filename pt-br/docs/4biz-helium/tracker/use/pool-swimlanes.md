@@ -3,7 +3,7 @@ Description: Organizar Fluxo com Pool e Swimlanes
 
 # Organizar Fluxo com Pool e Swimlanes
 
-Ao construir um Fluxo no CITSmart é uma boa prática prezar pela organização. Neste sentido, o uso de Pools e Swimlanes ajudam muito no entendimento de um diagrama
+Ao construir um Fluxo no 4biz é uma boa prática prezar pela organização. Neste sentido, o uso de Pools e Swimlanes ajudam muito no entendimento de um diagrama
 
 **Pool** - Representa o contexto do fluxo de trabalho, pode atribuir um diagrama (como um todo) para um grupo ou pessoa.
 
@@ -61,4 +61,4 @@ Configure as atividades de usuário que deseja utilizar e adicione outros elemen
 
 ## Relacionado
 
-[Configurar Tarefa de Usuário](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/user-task-configure.html)
+[Configurar Tarefa de Usuário](https://docs.4biz.com/pt-br/4biz-helium/tracker/use/user-task-configure.html)

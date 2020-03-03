@@ -10,7 +10,7 @@ Para utilizar as notificações é preciso entender que existem dois meios para 
 
 ### Envio de Mensagem – E-mail
 
-O envio de mensagem por e-mail é uma forma fácil de enviar uma mensagem bem estruturada para o usuário final, podendo ser planejadas de duas formas, uma delas é utilizando os templates de e-mail como mencionado anteriormente, que facilita a configuração em diversos fluxos com a mesma mensagem, a outra forma é escrevendo direto no sistema enviando uma mensagem um pouco mais simples e única para aquele momento especifico do fluxo;
+O envio de mensagem por e-mail é uma forma fácil de enviar uma mensagem bem estruturada para o usuário final, podendo ser planejadas de duas formas, uma delas é utilizando os templates de e-mail como mencionado anteriormente, que facilita a configuração em diversos fluxos com a mesma mensagem, a outra forma é escrevendo direto no sistema enviando uma mensagem um pouco mais Taskers e única para aquele momento especifico do fluxo;
 
 
 
@@ -33,7 +33,7 @@ O envio de mensagem por e-mail é uma forma fácil de enviar uma mensagem bem es
 
 ### Envio de notificação de Sistema
 
-O envio de notificação de sistema tem como funcionalidade enviar uma mensagem dentro do sistema para que o usuário interno possa ver sem ter que abrir o e-mail, é utilizado geralmente para informalções rapidas e simples, mas é possivel utiliza-la de diversas formas difrentes com grandes ou pequenas informações;
+O envio de notificação de sistema tem como funcionalidade enviar uma mensagem dentro do sistema para que o usuário interno possa ver sem ter que abrir o e-mail, é utilizado geralmente para informalções rapidas e Taskers, mas é possivel utiliza-la de diversas formas difrentes com grandes ou pequenas informações;
 
 
 

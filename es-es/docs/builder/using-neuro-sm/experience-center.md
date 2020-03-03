@@ -1,6 +1,6 @@
-title: Utilizar aplicaciones Neuro en el Centro de Experiencia
-Description: Utilizar aplicaciones Neuro en el Centro de Experiencia
-# Utilizar aplicaciones Neuro en el Centro de Experiencia
+title: Utilizar aplicaciones Builder en el Centro de Experiencia
+Description: Utilizar aplicaciones Builder en el Centro de Experiencia
+# Utilizar aplicaciones Builder en el Centro de Experiencia
 
 Centro de Experiencia
 
@@ -8,7 +8,7 @@ Centro de Experiencia
 
 2.  Marcar su formulario para **Mostrar Como Widget SM**;
 
-    ![basic](images/neuro-sm-5.jpg)
+    ![basic](images/Builder-sm-5.jpg)
 
     Figura 1 - Datos básicos
 
@@ -16,22 +16,22 @@ Centro de Experiencia
 
 4.  Selección de un formulario;
 
-    ![basic](images/neuro-sm-7.png)
+    ![basic](images/Builder-sm-7.png)
 
     Figura 2 - Formulario
 
-    ![basic](images/neuro-sm-8.png)
+    ![basic](images/Builder-sm-8.png)
 
     Figura 3 - Formulario (continuación)
 
 5.  Uso del Centro de Experiencia para Insertar Datos:
 
-![basic](images/neuro-sm-9.png)
+![basic](images/Builder-sm-9.png)
 
 Figura 4 - Centro de Experiencia
 
 
-![basic](images/neuro-sm-10.png)
+![basic](images/Builder-sm-10.png)
 
 Figura 5 - Centro de Experiencia (continuación)
 
@@ -39,5 +39,5 @@ Figura 5 - Centro de Experiencia (continuación)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

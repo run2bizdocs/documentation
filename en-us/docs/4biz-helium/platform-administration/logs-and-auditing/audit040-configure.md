@@ -1,8 +1,8 @@
 title: Configure Audit 0.4.0
-Description: The purpose of this document is to provide the technical guidance for installation and configurations for the use of the Audit functionality, version 0.4.0 (itsm-audit-0.4.0) of CITSmart Workflow 8.
+Description: The purpose of this document is to provide the technical guidance for installation and configurations for the use of the Audit functionality, version 0.4.0 (itsm-audit-0.4.0) of 4biz tracker 8.
 # Configure Audit 0.4.0
 
-The purpose of this document is to provide the technical guidance for installation and configurations for the use of the Audit functionality, version 0.4.0 (itsm-audit-0.4.0) of CITSmart Workflow 8.
+The purpose of this document is to provide the technical guidance for installation and configurations for the use of the Audit functionality, version 0.4.0 (itsm-audit-0.4.0) of 4biz tracker 8.
 
 Before getting started 
 -----------------
@@ -43,18 +43,18 @@ Procedure
         these settings). It is necessary that the user (Mongo) inserted has the necessary permissions to read and write in the informed 
         base.  
  
-3. In CITSmart, configure parameter 425 by entering the Audit URL (E.g.: http://localhost:8080/itsm-audit);
+3. In 4biz, configure parameter 425 by entering the Audit URL (E.g.: http://localhost:8080/itsm-audit);
 
-4. Add Audit WAR to the deployments folder (or via Wildfly Console) and start the Wildfly along with CITSmart;
+4. Add Audit WAR to the deployments folder (or via Wildfly Console) and start the Wildfly along with 4biz;
 
 5. After these steps and settings, the audit should already be running.
 
 Related
 -------------
 
-[Audit system](/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+[Audit system](/en-us/4biz-helium/platform-administration/logs-and-auditing/system-audit.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>05/31/2019 – Larissa Lourenço

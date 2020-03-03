@@ -64,23 +64,23 @@ Procedimiento
 Relacionado
 ---------------
 
-[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Crear ciclo](/es-es/citsmart-platform-8/platform-administration/time/create-cycle.html)
+[Crear ciclo](/es-es/4biz-helium/platform-administration/time/create-cycle.html)
 
-[Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Crear calendario](/es-es/4biz-helium/platform-administration/time/create-calendar.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNtQcs0TnUp_O20VqF2A9yL)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

@@ -3,7 +3,7 @@ Title: Configurar logotipo do banner
 # Configurar logotipo do banner
 
 
-É possível alterar o banner no seu ambiente para que o CITSmart tenha a identidade da sua empresa.
+É possível alterar o banner no seu ambiente para que o 4biz tenha a identidade da sua empresa.
 
 Procedimento
 -------
@@ -17,11 +17,11 @@ Procedimento
 
     Para alterar o ícone de carregamento, altere o valor do parâmetro 387 para "SIM".
     
-    Caminho: Parametrização > Parâmetros CITSmart > 387.  
+    Caminho: Parametrização > Parâmetros 4biz > 387.  
 	
 	
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

@@ -2,20 +2,20 @@ Title: Navegación e interfaz de usuario
 # Navegación e interfaz de usuario
 
 La interfaz de usuario es la manera más fácil de interactuar con 
-aplicaciones e informaciones en una instancia de CITSmart.
+aplicaciones e informaciones en una instancia de 4biz.
 
-![Página inicial CITsmart](images/navigation-1.png)
+![Página inicial 4biz](images/navigation-1.png)
 
 Figura 1 - Pantalla Smart Decision
 
--   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene elementos de navegación y herramientas. Por           ejemplo, el menú principal, con todas lasfunciones CITSmart, botones con integración VoIP, el asistente virtual Anuva e           información sobre el login de usuario, versión del ambiente y también su cambio de idioma;
+-   **1 - Banner frame**: En el área interna del sistema, la barra de tareas contiene elementos de navegación y herramientas. Por           ejemplo, el menú principal, con todas lasfunciones 4biz, botones con integración VoIP, el asistente virtual Anuva e           información sobre el login de usuario, versión del ambiente y también su cambio de idioma;
 
 -   **2 - Navegación en aplicaciones**: acceso a los 13 procesos certificados de
-    CITSmart, funcionalidades de catastros básicos, creación y emisión de informes,
-    parámetros, acceso al CITSmart Neuro (engine de aplicaciones), además de
+    4biz, funcionalidades de catastros básicos, creación y emisión de informes,
+    parámetros, acceso al 4biz Builder (engine de aplicaciones), además de
     funcionalidades de gestión de la plataforma;
 
--   **3 - Panel de usuario**: determina el diseño de la presentación del panel de usuario (Smart Decision) disponible en la página      de inicio de la Plataforma CITSmart. Permite colocar accesos rápidos como enlaces, informes y widgets.
+-   **3 - Panel de usuario**: determina el diseño de la presentación del panel de usuario (Smart Decision) disponible en la página      de inicio de la Plataforma 4biz. Permite colocar accesos rápidos como enlaces, informes y widgets.
 
 ## Tour por la Interfaz de Usuario
  
@@ -29,7 +29,7 @@ Figura 2 - Banner frame
 La barra de tareas, situada en la parte superior, contiene elementos de navegación y
 herramientas:
 
--   **1**: menú principal de navegación, contiene todos los procesos y funcionalidades CITSmart;
+-   **1**: menú principal de navegación, contiene todos los procesos y funcionalidades 4biz;
 
 -   **2**: al navegar por el sistema y desea volver a la pantalla de inicio, haga clic 
     en el botón "Home";
@@ -42,7 +42,7 @@ herramientas:
 
 -   **6**: atajo a las principales aplicaciones del sistema;
 
--   **7**: información del usuario, además de proporcionar un cambio de idioman del sistema, administrar el estado que aparece en el chat, medios de soporte del sistema CITSmart y datos sobre la versión del entorno instalado.
+-   **7**: información del usuario, además de proporcionar un cambio de idioman del sistema, administrar el estado que aparece en el chat, medios de soporte del sistema 4biz y datos sobre la versión del entorno instalado.
 
 ### Navegación en Aplicaciones
 
@@ -51,17 +51,17 @@ herramientas:
 Figura 3 – Pantalla del menú principal
 
 Al hacer clic en el menú principal de navegación, se visualizan todas las
-características que el CITSmart ofrece.
+características que el 4biz ofrece.
 
 -   **1**: barra de búsqueda de funciones, accesible a través del menú;
 
 -   **2**: acceso a las configuraciones relativas al mantenimiento de flujos;
 
--   **3**: posee todos los 13 procesos certificados de la Plataforma CITSmart;
+-   **3**: posee todos los 13 procesos certificados de la Plataforma 4biz;
 
 -   **4**: la gestión integrada dispone de funcionalidades que auxilian en la gestión de los procesos;
 
--   **5**: presenta catastros básicos para iniciar el CITSmart, como usuarios, localidad, además de poder registrar y editar menús dentro del sistema;
+-   **5**: presenta catastros básicos para iniciar el 4biz, como usuarios, localidad, además de poder registrar y editar menús dentro del sistema;
 
 -   **6**: tiene datos para administrar el Centro de Experiencia, que es un portal personalizable para el usuario;
 
@@ -71,9 +71,9 @@ características que el CITSmart ofrece.
 
 -   **9**: configuración de los parámetros de las aplicaciones y del sistema;
 
--   **10**:funcionalidad para administrar la Plataforma CITSmart;
+-   **10**:funcionalidad para administrar la Plataforma 4biz;
 
--   **11**: acceso al CITSmart Neuro (engine de aplicaciones).
+-   **11**: acceso al 4biz Builder (engine de aplicaciones).
 
 ### Panel de Usuário (Smart Decision)
 
@@ -97,12 +97,12 @@ informes y widgets.
 Relacionado
 ----------
 
-[Personalizar el panel de administración (Smart Decision)](/es-es/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar el panel de administración (Smart Decision)](/es-es/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/19/2019 – Anna Martins
 

@@ -12,7 +12,7 @@ To create escalation rules, it's necessary to set the parameter **190** with
 value **Y**, and previously register the contracts, employees, groups, services
 portfolios and the automatic action of escalation type.
 
-In the file **citsmart.cfg**, it's necessary configure the
+In the file **4biz.cfg**, it's necessary configure the
 properties **START\_MONITORA\_INCIDENTES** informing the parameter TRUE
 (only the operating system administrator of the application server makes this
 adjustment).
@@ -42,20 +42,20 @@ Procedure
 Related
 -----------
 
-[Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Register escalation automatic action](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
+[Register escalation automatic action](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 

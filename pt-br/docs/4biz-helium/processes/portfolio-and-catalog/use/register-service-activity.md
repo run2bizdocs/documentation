@@ -42,20 +42,20 @@ portfólio, o grupo, os itens de configuração, o contrato e o calendário.
 Relacionado
 ---------------
 
-[Criar portfólio](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Criar portfólio](/pt-br/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Cadastrar um contrato](/pt-br/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Cadastrar item de configuração](/pt-br/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Criar calendário](/pt-br/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Criar calendário](/pt-br/4biz-helium/platform-administration/time/create-calendar.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Larissa Lourenço

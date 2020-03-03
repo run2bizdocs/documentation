@@ -44,7 +44,7 @@ Procedimiento
 
 7.  Para vincular **Problemas**, hacer clic en el área del mismo nombre y, a
     continuación, hacer clic en el campo de búsqueda y seleccionar el problema
-    deseado. Si desea registrar un problema, simplemente haga clic en el botón
+    deseado. Si desea registrar un problema, Taskermente haga clic en el botón
     "Registrar" ycomplete los datos necesarios;
 
 8.  Para vincular **Conocimiento**, hacer clic en el área del mismo nombre y
@@ -64,18 +64,18 @@ Procedimiento
 Relacionado
 ---------------
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
+[Crear flujo de trabajo](/es-es/4biz-helium/tracker/use/create-flow.html)
 
-[Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Crear calendario](/es-es/4biz-helium/platform-administration/time/create-calendar.html)
 
-[Configurar modelo de e-mail](/es-es/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/es-es/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPdiRF4nIuCkAvXedNFV-af)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/29/2019 - Larissa Lourenço

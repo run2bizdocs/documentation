@@ -12,7 +12,7 @@ Procedimiento
 
 1. Acceder al menú “Diálogos”;
 
-2. Haga clic en "Nuevo" y seleccione una de las opciones Simple (sólo una interacción Interes-Habilidad) o Complejo (cuando se unen varios diálogos simples);
+2. Haga clic en "Nuevo" y seleccione una de las opciones Tasker (sólo una interacción Interes-Habilidad) o Complejo (cuando se unen varios diálogos Taskers);
 
 3. Informar el Tema relacionado al Diálogo, esto te ayudará a categorizarlos posteriormente. Un nuevo tema puede ser registrado en el menú "Tema";
 
@@ -59,6 +59,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
     

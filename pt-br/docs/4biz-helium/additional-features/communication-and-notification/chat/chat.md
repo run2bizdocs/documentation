@@ -10,7 +10,7 @@ chamados e ajustar o grupo padrão, além de outras ações.
 O chat pode ser usado de três modos:
 
 -   Manual: troca de mensagens entre diversos tipos de usuários (ex: solicitante
-    e atendente) em uma instância CITSmart;
+    e atendente) em uma instância 4biz;
 
 -   Automático: utilizado para a troca de mensagens entre usuário e um
     assistente virtual – por meio de um Chatbot, usando a inteligência
@@ -21,7 +21,7 @@ O chat pode ser usado de três modos:
 
 !!! Abstract "NOTA"
     
-    Para interação com um Chatbot é necessário ter adquirido este serviço. Em caso de dúvidas, entrar em contato com a             CITSmart.
+    Para interação com um Chatbot é necessário ter adquirido este serviço. Em caso de dúvidas, entrar em contato com a             4biz.
 
 # Antes de começar
 
@@ -35,7 +35,7 @@ Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtua
 
 # Como acessar
 
-A seguir apresentamos alguns exemplos de como utilizar o Chat do CITSmart em cenários diferentes:
+A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenários diferentes:
 
 ## Acesso ao Smart Chat sem configuração de ANUVA - Criação de ticket
 
@@ -124,10 +124,10 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do CITSmart em cen
 
 # Relacionado
 
-[Configurar parametrização - chat](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-chat.html)
+[Configurar parametrização - chat](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-chat.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart ESP | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz ESP | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>07/04/2019 – Anna Martins

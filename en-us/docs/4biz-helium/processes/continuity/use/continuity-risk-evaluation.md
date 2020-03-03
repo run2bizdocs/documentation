@@ -64,34 +64,34 @@ Requirements and Strategies.
 Related
 -----------
 
-[Register impact analysis in the continuity business](/en-us/citsmart-platform-8/processes/continuity/use/impact-analysis-continuity-business.html)
+[Register impact analysis in the continuity business](/en-us/4biz-helium/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Register service continuity](/en-us/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
+[Register service continuity](/en-us/4biz-helium/processes/continuity/use/register-service-continuity.html)
 
-[Register service continuity strategy](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-strategy.html)
+[Register service continuity strategy](/en-us/4biz-helium/processes/continuity/use/service-continuity-strategy.html)
 
-[Register threat](/en-us/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
+[Register threat](/en-us/4biz-helium/processes/continuity/configuration/register-threat.html)
 
-[Register service continuity vital functions](/en-us/citsmart-platform-8/processes/continuity/use/continuity-vital-functions.html)
+[Register service continuity vital functions](/en-us/4biz-helium/processes/continuity/use/continuity-vital-functions.html)
 
-[Register threat category](/en-us/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
+[Register threat category](/en-us/4biz-helium/processes/continuity/configuration/threat-category.html)
 
-[Register risk category](/en-us/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
+[Register risk category](/en-us/4biz-helium/processes/continuity/configuration/risk-category.html)
 
-[Register service continuity scope](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-scope.html)
+[Register service continuity scope](/en-us/4biz-helium/processes/continuity/use/service-continuity-scope.html)
 
-[Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
+[Register continuity risk](/en-us/4biz-helium/processes/continuity/configuration/register-continuity-risk.html)
 
-[Define service continuity policy](/en-us/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
+[Define service continuity policy](/en-us/4biz-helium/processes/continuity/use/continuity-policy.html)
 
-[Define service continuity project](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-project.html)
+[Define service continuity project](/en-us/4biz-helium/processes/continuity/use/service-continuity-project.html)
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Register automatic actions of incident/request/procedure](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

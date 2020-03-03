@@ -14,8 +14,8 @@ Antes de começar
 O template de ticket do tipo Questionário requer o registro de um questionário
 previamente.
 
-O template de ticket do tipo Neuro requer o registro prévio de um formulário do
-tipo **Neuro** previamente.
+O template de ticket do tipo Builder requer o registro prévio de um formulário do
+tipo **Builder** previamente.
 
 Procedimento
 ----------------
@@ -55,30 +55,30 @@ Procedimento
     serviço estiver vinculado somente a atividades do portfólio o sistema vai
     subentender que o formulário é padrão, por isso ele não vai atender às
     normativas (habilitação ou não da funcionalidade) do template. Para a regra
-    de reclassificação onde o template de serviço do tipo Questionário ou Neuro
+    de reclassificação onde o template de serviço do tipo Questionário ou Builder
     tiver que ser apresentado para a resposta do usuário, é preciso que o
     template ou formulário esteja vinculado ao template de solicitação de
     serviço concomitantemente com a tela de manutenção de fluxo e a atividade do
     portfólio.
 
-    -   **Neuro**: ao selecionar esta opção, o campo de vinculação de formulário
-    Neuro e página Neuro são disponibilizados. Também é possível eleger
+    -   **Builder**: ao selecionar esta opção, o campo de vinculação de formulário
+    Builder e página Builder são disponibilizados. Também é possível eleger
     a versão do formulário ao clicar no botão "Versão específica do
     formulário". As regras do template do tipo *Questionário* são válidas para o
-    template do tipo Neuro.
+    template do tipo Builder.
 
 
 Relacionado
 -----------
 
-[Criar um fluxo do trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
+[Criar um fluxo do trabalho](/pt-br/4biz-helium/tracker/use/create-flow.html)
 
-[Cadastrar questionário](/pt-br/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Cadastrar questionário](/pt-br/4biz-helium/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
 

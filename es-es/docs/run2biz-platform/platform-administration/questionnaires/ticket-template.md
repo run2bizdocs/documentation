@@ -11,8 +11,8 @@ Antes de empezar
 La plantilla de ticket del tipo Cuestionario requiere el registro de un
 cuestionario previamente.
 
-La plantilla de ticket del tipo Neuro requiere el registro previo de un
-formulario del tipo **Neuro** previamente.
+La plantilla de ticket del tipo Builder requiere el registro previo de un
+formulario del tipo **Builder** previamente.
 
 Procedimiento
 -------------
@@ -53,27 +53,27 @@ Procedimiento
     actividades del portafolio, el sistema va a subentender que el formulario es
     estándar, por lo que no va a cumplir las normativas (habilitación o no de la
     funcionalidad) de la plantilla. Para la regla de reclasificación, donde la
-    plantilla de servicio del tipo Cuestionario o Neuro tiene que ser presentado
+    plantilla de servicio del tipo Cuestionario o Builder tiene que ser presentado
     para la respuesta del usuario, es necesario que la plantilla o formulario
     esté vinculado a la plantilla de solicitud de servicio concomitantemente con
     la pantalla de mantenimiento del flujo y la actividad del portafolio;
 
-    -   **Neuro**: al seleccionar esta opción, el campo de vinculación de formulario
-    Neuro y la página Neuro están disponibles. También puede elegir la
+    -   **Builder**: al seleccionar esta opción, el campo de vinculación de formulario
+    Builder y la página Builder están disponibles. También puede elegir la
     **versión** del formulario haciendo clic en el botón *Versión específica del
     formulario*. Las reglas del template del tipo Cuestionario son válidas para
-    la plantilla del tipo Neuro.
+    la plantilla del tipo Builder.
 
 Relacionado
 -----------
 
-[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
+[Crear flujo de trabajo](/es-es/4biz-helium/tracker/use/create-flow.html)
 
-[Registrar cuestionario](/es-es/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Registrar cuestionario](/es-es/4biz-helium/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

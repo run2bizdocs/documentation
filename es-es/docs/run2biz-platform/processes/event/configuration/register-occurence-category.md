@@ -6,7 +6,7 @@ Description: Ofrece acciones diversas, tales como, incluir, cambiar y borrar la 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
 borrar la categoría de ocurrencia, es decir, a través de ella se permite agrupar
 ocurrencias de eventos de un mismo tipo. Este registro se asociará a cada
-elemento del registro de gerente de eventos del CITSmart Inventory, Nagios o
+elemento del registro de gerente de eventos del 4biz Inventory, Nagios o
 Zabbix.
 
 Procedimiento
@@ -28,5 +28,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

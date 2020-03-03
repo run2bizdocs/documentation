@@ -1,7 +1,7 @@
-Title: Manual de uso de la aplicación móvil CITSmart Experience
-# Manual de uso de la aplicación móvil CITSmart Experience
+Title: Manual de uso de la aplicación móvil 4biz Experience
+# Manual de uso de la aplicación móvil 4biz Experience
 
-Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil CITSmart Experience, disponible en las plataformas Android e iOS.
+Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil 4biz Experience, disponible en las plataformas Android e iOS.
 La aplicación Experience ofrece la facilidad en la atención, dirección de donde se encuentra la solicitud, filtrado de las solicitudes personales y por grupo de trabajo, visualización de los detalles de una solicitud de servicio, entre varias otras funcionalidades posibles debido a la renderización de las páginas y layout responsivo.
 
 Antes de empezar
@@ -41,7 +41,7 @@ Procedimiento
 
     *	Dominio\Usuario:  informar el dominio (local/ldap) y su usuario;
 
-    Ej.: citsmart.local\nombre.apellido
+    Ej.: 4biz.local\nombre.apellido
     
     *	Contraseña: credencial de acceso al sistema;
 
@@ -58,7 +58,7 @@ Procedimiento
 
 6.	Una vez agregada la conexión, aparecerá la lista de conexiones creadas. Para cambiar una conexión, basta seleccionar y mantener presionada la conexión y hacer el cambio;
 
-7.	Iniciar sesión con el usuario y contraseña utilizados en el CITSmart web;
+7.	Iniciar sesión con el usuario y contraseña utilizados en el 4biz web;
 
 8.	Después de realizar la conexión, aparecerá la pantalla con menús de las funcionalidades disponibles.
 
@@ -71,10 +71,10 @@ Procedimiento
 Relacionado
 ----------
 
-[Configurar opciones de menú en el mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar opciones de menú en el mobile](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/26/2019 - Anna Martins

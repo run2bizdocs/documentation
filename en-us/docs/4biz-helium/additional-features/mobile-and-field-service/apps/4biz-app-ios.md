@@ -1,7 +1,7 @@
-Title: User guide - CITSmart Experience mobile application - IOS
-# User guide - CITSmart Experience mobile application - IOS
+Title: User guide - 4biz Experience mobile application - IOS
+# User guide - 4biz Experience mobile application - IOS
 
-This document is intended to provide guidance for installing, configuring, and using the CITSmart Experience mobile application, available on both Android and iOS platforms.
+This document is intended to provide guidance for installing, configuring, and using the 4biz Experience mobile application, available on both Android and iOS platforms.
 The Experience application offers ease of service, targeting where the request is located, filtering of personal and work group requests, viewing the details of a service request, among many other possible features due to page rendering and responsive layout.
 
 Before getting started
@@ -28,7 +28,7 @@ Procedure
 
     *	Domain\User: enter the domain (local/ldap) and your user;
 
-    E.g.: citsmart.local\name.surname
+    E.g.: 4biz.local\name.surname
     
     *	Password: system access credential;
 
@@ -46,7 +46,7 @@ Procedure
 
 6.	After the connection is added, the list of created connections will appear. To change a connection, just select and hold the connection and make the change;
 
-7.	Log with the user and password used in the CITSmart web;
+7.	Log with the user and password used in the 4biz web;
 
 8.	After connecting, it will appear the screen with the menu of available features.
 
@@ -59,10 +59,10 @@ Procedure
 Related
 ----------
 
-[Configure options in the mobile menu](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configure options in the mobile menu](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/26/2019 - Anna Martins

@@ -1,24 +1,24 @@
-Title: Guia de contribuição do CITSmart Docs
+Title: Guia de contribuição do 4biz Docs
 
-# Guia de contribuição do CITSmart Docs
+# Guia de contribuição do 4biz Docs
 
-O CITSmart Docs é um trabalho incessante de documentação de nossos produtos. Entendemos que a experiência de nossa comunidade no uso da plataforma é a parte mais enriquecedora. Por isso, aqui explicamos como você poderá contribuir com nossas documentações de forma transparente e aberta.
+O 4biz Docs é um trabalho incessante de documentação de nossos produtos. Entendemos que a experiência de nossa comunidade no uso da plataforma é a parte mais enriquecedora. Por isso, aqui explicamos como você poderá contribuir com nossas documentações de forma transparente e aberta.
 
-As documentações do CITSmart estão disponíveis publicamente no [GitHub](https://github.com/citsmartdocs/). É através dele que você conseguirá editar os documentos existentes, criar novos documentos ou mesmo sugerir melhorias para nosso portal.
+As documentações do 4biz estão disponíveis publicamente no [GitHub](https://github.com/4bizdocs/). É através dele que você conseguirá editar os documentos existentes, criar novos documentos ou mesmo sugerir melhorias para nosso portal.
 
-Obrigado por acessar a página de contribuição do CITSmart Docs.
+Obrigado por acessar a página de contribuição do 4biz Docs.
 
 ## Editar documentos existentes
 
  
 
-Uma das formas de contribuir, é editando documentos existentes em nosso repositório. Sugestão de pequenos erros técnicos ou gramaticais são bastante comuns utilizando esse método simples e rápido.
+Uma das formas de contribuir, é editando documentos existentes em nosso repositório. Sugestão de pequenos erros técnicos ou gramaticais são bastante comuns utilizando esse método Taskers e rápido.
 
 Para começar:
 
  
 
-1) Acesse o repositório de documentos da CITSmart no GitHub: https://gitbub.com/citsmartdocs.
+1) Acesse o repositório de documentos da 4biz no GitHub: https://gitbub.com/4bizdocs.
 
 2) Clique em "Sign In" no topo da página e entre com um usuário e senha.
 
@@ -62,9 +62,9 @@ A criação de um usuário na plataforma do Github é gratuita.
 
 5) A partir desse momento, você conseguirá editar o documento se estiver logado. Nossos documentos são elaborados utilizando uma linguagem sintática chamada Markdown.
 
-O markdown permite que usuários sem conhecimento em linguagem de programação possa escrever documentos em formato HTML. É uma linguagem simples feita para usuários finais.
+O markdown permite que usuários sem conhecimento em linguagem de programação possa escrever documentos em formato HTML. É uma linguagem Taskers feita para usuários finais.
 
-Siga nosso [guia de escrita em Markdown](https://docs.citsmart.com/pt-br/markdown.html) para descobrir como escrever nossos documentos.
+Siga nosso [guia de escrita em Markdown](https://docs.4biz.com/pt-br/markdown.html) para descobrir como escrever nossos documentos.
 
  
 
@@ -93,5 +93,5 @@ A equipe irá avaliar sua proposta de mudança, e após a aprovação do conteú
 Caso você não encontre a documentação de uma funcionalidade, utilize nossa [área de feedback][1] para propor a criação.
 
 
-[1]:https://github.com/citsmartdocs/feedback
+[1]:https://github.com/4bizdocs/feedback
  

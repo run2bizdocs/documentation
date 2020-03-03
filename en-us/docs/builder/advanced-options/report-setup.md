@@ -6,7 +6,7 @@ The information is automatically populated from the report file. The **name, des
 
 ## How to access 
 
-Access the functionality through the menu Neuro > Management > Report. 
+Access the functionality through the menu Builder > Management > Report. 
 
 ## Preconditions 
 
@@ -47,7 +47,7 @@ Figure 3 - Register/edit report configuration, Report tab
     - **None**: if the file does not search the database.  
     - **Data connection**: if the information source is a database connection, also inform the respective database connection (register in the Database connection menu).  
     - **Data object**: if the information source is a database object registered in the application. Enter the **data object** that will be the data source (registerable in the Business Object menu).  
-    - **ESI flow**: if the source of information is an ESI flow registered in the application. Enter the **flow** that will be the data source (registered in the Workflow/ESI Design menu).  
+    - **ESI flow**: if the source of information is an ESI flow registered in the application. Enter the **flow** that will be the data source (registered in the tracker/ESI Design menu).  
     - **Script**: if the data source is a script, code the script using the Rhino language.  
 
 ![Screenshot](images/Report-setup-fig04.png)
@@ -88,7 +88,7 @@ Figure 6 - Register/edit report configuration, Form tab
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
 

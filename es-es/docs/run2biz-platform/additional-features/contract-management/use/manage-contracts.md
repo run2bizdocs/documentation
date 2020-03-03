@@ -138,11 +138,11 @@ Procedimiento para vincular SLA específico al servicio del contrato
     +   Si informa el tipo de acuerdo como **Información diversa capturada de otras fuentes**, será necesario informar los datos de         acuerdo de servicio (el valor límite, la unidad, la glosa y el límite de la glosa). Para copiar, editar o borrar el acuerdo de nivel     de servicio registrado, siga los pasos:
 
         +  Para editar o borrar un acuerdo de nivel de servicio que se ha agregado
-           al servicio de contrato, simplemente hacer clic en el icono "Editar el servicio" al lado del
+           al servicio de contrato, Taskermente hacer clic en el icono "Editar el servicio" al lado del
            acuerdo;
 
         +  Para copiar un acuerdo de nivel de servicio que se agregó al servicio
-           del contrato, simplemente hacer clic en el icono "Copiar el Acuerdo a otro servicio" al lado del acordo;
+           del contrato, Taskermente hacer clic en el icono "Copiar el Acuerdo a otro servicio" al lado del acordo;
 
 5.  Hacer clic en "Guardar".
 
@@ -467,20 +467,20 @@ Procedimiento para agregar notificación
 
 Relacionado
 ----------------------------------------------
-[Acuerdo de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/4biz-helium/processes/service-level/use/service-level-agreement.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar contrato](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Definir modelo de e-mail](/es-es/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Definir modelo de e-mail](/es-es/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROTLt6Tt7uegzqwpXHX5nA2)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
 

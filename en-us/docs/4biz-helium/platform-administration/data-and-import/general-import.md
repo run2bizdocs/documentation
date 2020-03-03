@@ -2,7 +2,7 @@ Title: General Import
 
 # General Import
 
-It's possible to import a range of data to the CITSmart Platform, this can help in the process of tool configuration or process design.
+It's possible to import a range of data to the 4biz Platform, this can help in the process of tool configuration or process design.
 
 
 ## Related
@@ -13,12 +13,12 @@ It's possible to import a range of data to the CITSmart Platform, this can help 
 
 [Load Metadata][3]
 
-[1]:/en-us/citsmart-platform-8/platform-administration/data-and-import/employee-import.html
-[2]:/en-us/citsmart-platform-8/platform-administration/data-and-import/portfolio-import-service-portfolio.html
-[3]:/en-us/citsmart-platform-8/platform-administration/data-and-import/metadata-load.html
+[1]:/en-us/4biz-helium/platform-administration/data-and-import/employee-import.html
+[2]:/en-us/4biz-helium/platform-administration/data-and-import/portfolio-import-service-portfolio.html
+[3]:/en-us/4biz-helium/platform-administration/data-and-import/metadata-load.html
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

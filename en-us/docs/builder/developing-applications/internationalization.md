@@ -2,21 +2,21 @@ title: Internationalization
 Description: Internationalization
 # Internationalization
 
-Neuro uses labels (Keys) to perform the internationalization of the forms each
+Builder uses labels (Keys) to perform the internationalization of the forms each
 field assigned at the form can use a label and those labels are attached to an
-internationalization key, the keys are connected to the Neuro Application.
+internationalization key, the keys are connected to the Builder Application.
 
 Before getting started
 ----------------------
 
-Must have the Neuro Application created.
+Must have the Builder Application created.
 
 Procedure
 ---------
 
 1.  Access the functionality through navigation in the menu:
 
-    1.  Neuro \> Configuration \> Internationalization.
+    1.  Builder \> Configuration \> Internationalization.
 
 2.  Click on "New";
 
@@ -32,17 +32,17 @@ Procedure
     Create one key for each language.
 
 
-![internationalization](images/neuro-5.png)
+![internationalization](images/Builder-5.png)
 
 Figure 1 - Internationalization
 
 
-![internationalization](images/neuro-6.png)
+![internationalization](images/Builder-6.png)
 
 Figure 2 - Internationalization data
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

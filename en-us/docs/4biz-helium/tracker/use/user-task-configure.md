@@ -1,27 +1,27 @@
-title: Configure user activity in the workflow
-Description: This document is intended to configure the activity within the workflow, called user task. 
-# Configure user activity in the workflow 
+title: Configure user activity in the tracker
+Description: This document is intended to configure the activity within the tracker, called user task. 
+# Configure user activity in the tracker 
 
-When designing a workflow, it is possible to insert several elements, among them, the User Activity. This document is intended to guide the configuration of this element in the workflow.
+When designing a tracker, it is possible to insert several elements, among them, the User Activity. This document is intended to guide the configuration of this element in the tracker.
 
 Before getting started
 ----------------------
-To use the "User Activity" element, it's necessary to have, at least, a registered workflow in the tool, with the event elements: "start" and "end".
+To use the "User Activity" element, it's necessary to have, at least, a registered tracker in the tool, with the event elements: "start" and "end".
 
 
 !!! Abstract "NOTE"
 
-    Within the *Interface* tab, choosing the "Neuro Form" Interaction Type: have 2 distinct Neuro 
+    Within the *Interface* tab, choosing the "Builder Form" Interaction Type: have 2 distinct Builder 
     forms configured for the creation form to be displayed next to the monitoring form. 
     It is also necessary to create the Ticket Template for each of the forms.
 
 Procedure
 ------------
 
-1.	Access the main menu Workflow > Flow Design;
+1.	Access the main menu tracker > Flow Design;
 2.	Click on "New”;
 3.	Click on the Diagram tab and then on Activity;
-4.	Click on the User Task element and drag it to the workflow creation panel;
+4.	Click on the User Task element and drag it to the tracker creation panel;
 5.	The following element configuration tabs will be opened:
 
 **Identification**
@@ -32,17 +32,17 @@ Procedure
 
 *	Type of instance:
 
-    *	A single instance: it can only have a single non-executed instance of the task in the workflow;
+    *	A single instance: it can only have a single non-executed instance of the task in the tracker;
     
-    *	More than one instance controlled by the workflow: it can have multiple instances not executed from the task;
+    *	More than one instance controlled by the tracker: it can have multiple instances not executed from the task;
     
     *	Create an instance for each user: in the assignment, if there is a semicolon in the users, a task will be created for each user;
 
-*	Identifier: it is a unique acronym for the task and it is used to code Rhino and for Neuro forms;
+*	Identifier: it is a unique acronym for the task and it is used to code Rhino and for Builder forms;
 
 *	Counts SLA: it sets "Yes" or "No" ( the "Suspend SLA" status will appear in the ticket management interface);
 
-*	Execution percentage: informative field about the percentage of this task in the entire workflow;
+*	Execution percentage: informative field about the percentage of this task in the entire tracker;
 
 *	Is it an approval task?: set "Yes" or "No”;
 
@@ -73,15 +73,15 @@ Procedure
 
 **Interface**
 
-*	Interaction type: it is the way in which a Questionnaire or a Neuro Form will be applied in the ticket management interface, in a given workflow status. The configuration of items that will be visible can be defined in the portfolio, or configured directly in the User Activity element (of the workflow):
+*	Interaction type: it is the way in which a Questionnaire or a Builder Form will be applied in the ticket management interface, in a given tracker status. The configuration of items that will be visible can be defined in the portfolio, or configured directly in the User Activity element (of the tracker):
 
-    *	Defined in portfolio: it is possible for a ticket template (questionnaire or form) to appear punctually in a workflow status, using what has been configured in the service attribute "Activity" (request/incident) - fields: “CREATION Template” and “Monitoring Template”. This option is advantageous when you have generic workflows used by several services.
+    *	Defined in portfolio: it is possible for a ticket template (questionnaire or form) to appear punctually in a tracker status, using what has been configured in the service attribute "Activity" (request/incident) - fields: “CREATION Template” and “Monitoring Template”. This option is advantageous when you have generic trackers used by several services.
 
     *	Standard form: default from system 
 
-    *	Neuro Form: it has an identifier to call for the workflow triggered by this form
+    *	Builder Form: it has an identifier to call for the tracker triggered by this form
 
-*	Template (Standard/Neuro): it allows to link the ticket template.
+*	Template (Standard/Builder): it allows to link the ticket template.
 
     !!! Abstract "ATTENTION"
 
@@ -101,8 +101,8 @@ Procedure
 
 !!! Abstract "RULE"    
     
-    The rules configured in the workflow will have priority over the service request template markings, as this is a 
-    complement to the workflow.
+    The rules configured in the tracker will have priority over the service request template markings, as this is a 
+    complement to the tracker.
     
 **Knowledge Base**
 
@@ -111,12 +111,12 @@ Procedure
 !!! Abstract "ATTENTION"
 
     The main purpose of linking this knowledge is to allow the attendant of a request/incident to have easy access to it. 
-    As soon as the workflow arrives at the activity of the flow linked to a knowledge, the button "Knowledge" is shown in 
+    As soon as the tracker arrives at the activity of the flow linked to a knowledge, the button "Knowledge" is shown in 
     the upper right corner of the Request/Incident screen, to give read access to the content, for that, such knowledge is 
     usually written in the form of a step by step.
     
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/22/2019 – Anna Martins

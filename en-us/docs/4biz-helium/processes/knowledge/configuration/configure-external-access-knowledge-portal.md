@@ -58,18 +58,18 @@ Access the knowledge Portal and search for some knowledge without login it.
 Related
 -------
 
-[Create folder](/en-us/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+[Create folder](/en-us/4biz-helium/processes/knowledge/configuration/create-folder.html)
 
-[Create knowledge](/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+[Create knowledge](/en-us/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
-[Customize the knowledge portal](/en-us/citsmart-platform-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
+[Customize the knowledge portal](/en-us/4biz-helium/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
 
-[Index knowledge](/en-us/citsmart-platform-8/processes/knowledge/configuration/index-knowledge.html)
+[Index knowledge](/en-us/4biz-helium/processes/knowledge/configuration/index-knowledge.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 - Anna Martins

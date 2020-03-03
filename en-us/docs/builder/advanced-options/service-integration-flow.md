@@ -1,12 +1,12 @@
 Title: Service Integration Flow  
-Description:Service integration flows, as the name implies, involve workflows that are executed based on system services, such as integrations and conversions, for example.  
+Description:Service integration flows, as the name implies, involve trackers that are executed based on system services, such as integrations and conversions, for example.  
 # Service Integration Flow   
 
-Service integration flows, as the name implies, involve workflows that are executed based on system services, such as integrations and conversions, for example.  
+Service integration flows, as the name implies, involve trackers that are executed based on system services, such as integrations and conversions, for example.  
 
 ## How to access  
 
-1. Access the functionality through the menu Neuro > Management > Integration Flow.  
+1. Access the functionality through the menu Builder > Management > Integration Flow.  
 
 ## Preconditions  
 
@@ -44,11 +44,11 @@ Through this tab, all basic information about the flow to be design is defined.
 
     ![Screenshot](images/Service-Integration-Flow-fig04.png)
     
-    Figure 4 - Workflow registration / editing screen, Flow Data tab   
+    Figure 4 - tracker registration / editing screen, Flow Data tab   
 
-4. Enter a **name** for the flow, a **description**, which **form** will start the flow (if applicable), and whether or not flow execution will persist. If the field **"Keep running the stream"** is checked, Neuro will persist in the database on every instance of the execution of this flow.  
+4. Enter a **name** for the flow, a **description**, which **form** will start the flow (if applicable), and whether or not flow execution will persist. If the field **"Keep running the stream"** is checked, Builder will persist in the database on every instance of the execution of this flow.  
 
-5. The field **version** is incremented automatically by the system whenever a new version of the workflow is created.  
+5. The field **version** is incremented automatically by the system whenever a new version of the tracker is created.  
 
 ## Variables  
 
@@ -59,16 +59,16 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
     ![Screenshot](images/Service-Integration-Flow-fig05.png)
     
-    Figure 5 - Workflow registration / editing screen, Variables tab   
+    Figure 5 - tracker registration / editing screen, Variables tab   
 
 3. Fill in the fields:  
 
     - Variable's name;  
     - Description;  
     - Whether it will be stored in the database;  
-	    - This option will store the value of the variable internally within the **Neuro** data model, so it will retain the value                 during the execution of the tasks  
+	    - This option will store the value of the variable internally within the **Builder** data model, so it will retain the value                 during the execution of the tasks  
     - Whether it is a return variable;  
-	    - This option will cause **Neuro** to return the variable at the end of the flow run.  
+	    - This option will cause **Builder** to return the variable at the end of the flow run.  
     - Whether it is a values list;  
     - If it is an input variable in the flow interface;  
 	    - This option allows the variable to be "injected" into the business process linked to this flow.  
@@ -90,7 +90,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 ## Actions 
 
-Through this menu, it is possible to register the actions that will be run in the workflow.  
+Through this menu, it is possible to register the actions that will be run in the tracker.  
 
 The actions are based on scripts programmed in **Rhino** language.  
 
@@ -99,7 +99,7 @@ The actions are based on scripts programmed in **Rhino** language.
 
     ![Screenshot](images/Service-Integration-Flow-fig06.png)
     
-    Figure 6 - Register/edit workflow, actions tab 
+    Figure 6 - Register/edit tracker, actions tab 
 
 3. Fill in the fields:  
 
@@ -117,14 +117,14 @@ The actions are based on scripts programmed in **Rhino** language.
 
 ## Diagram  
 
-The diagram of a service flow does not have the same **"Task"** components as a process flow. I.e., you cannot use the **"Human Task"** components for **"Sub Process Workflow"**.  
+The diagram of a service flow does not have the same **"Task"** components as a process flow. I.e., you cannot use the **"Human Task"** components for **"Sub Process tracker"**.  
 
 For a business process, we have, in addition, these components sections:  
 
 - **Connectors**: components used to perform operations related to the database.  
 - **Components**: varied components for performing various tasks.  
 - **Transformers**: components for converting variable types.  
-- **CITSmart**: components used for integration with an external Citsmart system.  
+- **4biz**: components used for integration with an external 4biz system.  
 
 The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
 
@@ -133,11 +133,11 @@ The other components present in the palette resemble the components of a "Proces
 
 ![Screenshot](images/Service-Integration-Flow-fig07.png)
 
-Figure 7 - Register/edit workflow, diagram tab
+Figure 7 - Register/edit tracker, diagram tab
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

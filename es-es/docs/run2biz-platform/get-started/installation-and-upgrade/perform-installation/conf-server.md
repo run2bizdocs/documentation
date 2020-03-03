@@ -28,29 +28,29 @@ Luego ejecute los siguientes comandos reemplazando los contenidos variables por 
 {"outcome" => "success"}
 [standalone@localhost:9990 /]/system-property=mongodb.password:add(value="admin")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.protocol:add(value="http")
+[standalone@localhost:9990 /]/system-property=4biz.protocol:add(value="http")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.host:add(value="my.citsmart.com")
+[standalone@localhost:9990 /]/system-property=4biz.host:add(value="my.4biz.com")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.port:add(value="8080")
+[standalone@localhost:9990 /]/system-property=4biz.port:add(value="8080")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.context:add(value="citsmart")
+[standalone@localhost:9990 /]/system-property=4biz.context:add(value="4biz")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.login:add(value="citsmart.local\\\consultor")
+[standalone@localhost:9990 /]/system-property=4biz.login:add(value="4biz.local\\\consultor")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.password:add(value="senhaConsultor")
+[standalone@localhost:9990 /]/system-property=4biz.password:add(value="senhaConsultor")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.inventory.id:add(value="citsmartinventory")
+[standalone@localhost:9990 /]/system-property=4biz.inventory.id:add(value="4bizinventory")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.evm.id:add(value="citsmartevm")
+[standalone@localhost:9990 /]/system-property=4biz.evm.id:add(value="4bizevm")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.evm.enable:add(value=true)
+[standalone@localhost:9990 /]/system-property=4biz.evm.enable:add(value=true)
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.inventory.enable:add(value=true)
+[standalone@localhost:9990 /]/system-property=4biz.inventory.enable:add(value=true)
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.port.updateparameters:add(value="9000")
+[standalone@localhost:9990 /]/system-property=4biz.port.updateparameters:add(value="9000")
 {"outcome" => "success"}
-[standalone@localhost:9990 /]/system-property=citsmart.inventory.pagelength:add(value="100")
+[standalone@localhost:9990 /]/system-property=4biz.inventory.pagelength:add(value="100")
 {"outcome" => "success"}
 [standalone@localhost:9990 /]/system-property=rhino.scripts.directory:add(value="")
 {"outcome" => "success"}
@@ -75,7 +75,7 @@ Para editar el archivo XML utilizado por el wildfly a mano, ingrese en el direct
 ``` shell
 [root@server /tmp]# /opt/wildfly/standalone/configuration
 ```
-Y edite el archivo stantalone-full.xml e incluya la configuración XML CITSmart justo después de la cláusula siguiente:
+Y edite el archivo stantalone-full.xml e incluya la configuración XML 4biz justo después de la cláusula siguiente:
 
 ``` xml
 <server xmlns="urn:jboss:domain:6.0">
@@ -94,20 +94,20 @@ Y edite el archivo stantalone-full.xml e incluya la configuración XML CITSmart 
      <property name="mongodb.port" value="27017"/>
      <property name="mongodb.user" value="admin"/>
      <property name="mongodb.password" value="admin"/>
-     <property name="citsmart.protocol" value="http"/>
-     <property name="citsmart.host" value="my.citsmartcloud.com"/>
-     <property name="citsmart.port" value="8080"/>
-     <property name="citsmart.context" value="citsmart"/>
-     <property name="citsmart.login" value="citsmart.local\\\consultor"/>
-     <property name="citsmart.password" value="senhaConsultor"/>
-     <property name="citsmart.inventory.id" value="citsmartinventory"/>
-     <property name="citsmart.evm.id" value="citsmartevm"/>
-     <property name="citsmart.evm.enable" value="false"/>
-     <property name="citsmart.inventory.enable" value="false"/>
+     <property name="4biz.protocol" value="http"/>
+     <property name="4biz.host" value="my.4bizcloud.com"/>
+     <property name="4biz.port" value="8080"/>
+     <property name="4biz.context" value="4biz"/>
+     <property name="4biz.login" value="4biz.local\\\consultor"/>
+     <property name="4biz.password" value="senhaConsultor"/>
+     <property name="4biz.inventory.id" value="4bizinventory"/>
+     <property name="4biz.evm.id" value="4bizevm"/>
+     <property name="4biz.evm.enable" value="false"/>
+     <property name="4biz.inventory.enable" value="false"/>
      <property name="rhino.scripts.directory" value=""/>
      <property name="jboss.as.management.blocking.timeout" value="600"/>
-     <property name="citsmart.port.updateparameters" value="9000"/>
-     <property name="citsmart.inventory.pagelength" value="100"/>
+     <property name="4biz.port.updateparameters" value="9000"/>
+     <property name="4biz.inventory.pagelength" value="100"/>
      <property name="org.quartz.properties" value="${jboss.server.config.dir}/quartz.properties"/>
      <property name="snmp.oid.repository.directory" value="/opt/templates"/>
  </system-properties>
@@ -123,4 +123,4 @@ Y edite el archivo stantalone-full.xml e incluya la configuración XML CITSmart 
 
 [Configurando el Datasource y Drives de base][1]
 
-[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-datasource-and-db.html
+[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/conf-datasource-and-db.html

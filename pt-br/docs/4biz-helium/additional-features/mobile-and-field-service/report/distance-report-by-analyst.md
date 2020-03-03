@@ -1,10 +1,10 @@
 title: Relatório de distância percorrida por analista
-Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app CITSmart Experience.
+Description: Mostrar as configurações para visualizar o relatório que demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento que esteja utilizando o app 4biz Experience.
 # Relatório de distância percorrida por analista
 
 Este documento visa mostrar as configurações para visualizar o relatório que
 demonstra a quilometragem (Quilômetros) percorrida pelo analista de atendimento
-que esteja utilizando o app CITSmart Experience.
+que esteja utilizando o app 4biz Experience.
 
 Antes de começar
 ----------------
@@ -12,8 +12,8 @@ Antes de começar
 Para o relatório ser visualizado é necessário importar o relatório
 disponibilizado na seção de Anexo.
 
-No aplicativo mobile CITSmart Experience o usuário deverá setar a flag “Disponível”
-(APP CITSMART > Página Inicial > [Conexão] > Editar > Disponível ) para
+No aplicativo mobile 4biz Experience o usuário deverá setar a flag “Disponível”
+(APP 4biz > Página Inicial > [Conexão] > Editar > Disponível ) para
 iniciar a contagem de Km.
 
 Ao final dos atendimentos o usuário deverá desabilitar a flag “Disponível”, pois
@@ -54,7 +54,7 @@ Anexo
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>1/30/2019 – Anna Martins
     
-[1]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport  
+[1]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport  

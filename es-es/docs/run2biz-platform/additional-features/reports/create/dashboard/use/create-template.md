@@ -4,7 +4,7 @@ Description: Ofrece acciones diversas, como, incluir, cambiar y borrar el diseñ
 
 
 Esta funcionalidad tiene por objetivo determinar el diseño de presentación de la
-Smart Decision que se presenta en el home del CITSmart. Permitiendo colocar
+Smart Decision que se presenta en el home del 4biz. Permitiendo colocar
 accesos rápidos como enlaces, informes y widgets.
 
 Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el
@@ -30,7 +30,7 @@ Procedimiento
 Lo que hacer después
 ------------------------
 
-1.  Acceder al inicio del CITSmart haciendo clic en el atajo "Home , hacer clic en el
+1.  Acceder al inicio del 4biz haciendo clic en el atajo "Home , hacer clic en el
     botón "Añadir nuevo dashboard";
 
 2.  Definir el nombre, después, elegir la plantilla creada y un icono;
@@ -42,9 +42,9 @@ Lo que hacer después
 Relacionado
 -------
 
-[Personalizar el panel gerencial (Smart Decision)](/es-es/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar el panel gerencial (Smart Decision)](/es-es/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

@@ -46,8 +46,8 @@ necessidade de novas atualizações ou softwares adicionais.
        +  **JSP**: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
           deverá informar os parâmetros e o script JSP - Java Server Pages.
 
-       +  **Neuro**: cria um relatório do tipo "Neuro", basta vincular um formulário
-          "Neuro" existente.
+       +  **Builder**: cria um relatório do tipo "Builder", basta vincular um formulário
+          "Builder" existente.
 
     !!! info "IMPORTANTE"
 
@@ -152,7 +152,7 @@ Existe a possibilidade de importar um "Relatório", para tanto, clicar no botão
 
 ## Interfaces de visualização
 
-Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, veja as possibilidades:
+Os relatórios criados podem ser visualizados em diferentes área dos 4biz, veja as possibilidades:
 
 - Visualização em Processos, conforme definido na aba "Cadastro", item "Módulo(s) onde será exibido".
 
@@ -171,4 +171,4 @@ Os relatórios criados podem ser visualizados em diferentes área dos CITSmart, 
 [5]:images/smart-reports-sql-example.png
 [6]:images/smart-reports-rhino-example.png
 [7]:images/smart-reports-jsp-example.png
-[8]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html
+[8]:/pt-br/4biz-helium/additional-features/reports/create/smart-reports/configuration/create-smart-report.html

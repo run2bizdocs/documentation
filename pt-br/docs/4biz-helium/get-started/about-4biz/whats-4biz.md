@@ -1,14 +1,14 @@
-Title: O que é CITSmart?
-Description: Introdução ao produto CITSmart
+Title: O que é 4biz?
+Description: Introdução ao produto 4biz
 
-# O que é CITSmart?
+# O que é 4biz?
 
-O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
+O 4biz, desenvolvido pela 4biz Corporation®, é uma **plataforma que
 conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
 resultados do negócio.**
 
 Através dos portais de relacionamento otimizamos a experiência de clientes e
-colaboradores e por meio do **Workflow Digital Inteligente** e gestão ágil, com uso
+colaboradores e por meio do **tracker Digital Inteligente** e gestão ágil, com uso
 de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
 gerando assim, melhoria progressiva e interativa, simplicidade na execução,
 praticidade, alinhamento e agilidade.
@@ -28,7 +28,7 @@ Há cases de gestão de serviços com processos automatizados em diversas áreas
 *   Comunicação, Marketing entre outros.
 
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
-biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
+biblioteca de melhores práticas da ITIL, o 4biz possui nativamente 13
 processos automatizados, sendo eles:
 
 *   Gerenciamento de Portfólio
@@ -45,10 +45,10 @@ processos automatizados, sendo eles:
 *   Gerenciamento de Disponibilidade
 *   Gerenciamento de Continuidade
 
-História do CITSmart
+História do 4biz
 --------------------
 
-O CITSmart é um produto que teve sua construção inicial para atender as necessidades do ITSM (Gerenciamento de Serviços de TI), principalmente para o cumprimento dos requisitos do ITIL, pregado pela instituição Pink Elephant, através da certificação PinkVerify. Atualmente, o CITSmart atende 13 processos dos 16 possíveis. As principais funcionalidades são Gestão de Tickets (incidentes e requisições), Portfólio de Catálogo e Serviços, Base de Conhecimento, Mudança e CMDB. O público atual da CITSmart são as empresas com departamentos de TI, bem como as necessidades da solução ITSM para administar suas TIs.
+O 4biz é um produto que teve sua construção inicial para atender as necessidades do ITSM (Gerenciamento de Serviços de TI), principalmente para o cumprimento dos requisitos do ITIL, pregado pela instituição Pink Elephant, através da certificação PinkVerify. Atualmente, o 4biz atende 13 processos dos 16 possíveis. As principais funcionalidades são Gestão de Tickets (incidentes e requisições), Portfólio de Catálogo e Serviços, Base de Conhecimento, Mudança e CMDB. O público atual da 4biz são as empresas com departamentos de TI, bem como as necessidades da solução ITSM para administar suas TIs.
 
 Evolução
 ------------
@@ -57,7 +57,7 @@ A principal mudança introduzida no ano passado foi o foco nos processos de
 negócios para além da TI, ou seja, Corporate Service Management, prova disso é a
 adaptação da declaração de serviço que se tornou Conexão de processos.
 Entregando experiências. Esta decisão foi baseada na capacidade do nosso
-Workflow de se adaptar às várias necessidades do negócio, e no Neuro, permitindo
+tracker de se adaptar às várias necessidades do negócio, e no Builder, permitindo
 a construção de novas entradas de dados e possibilidades de integração. Também
 criamos no ano de 2018 os produtos CE - Centro de Experiências. Este produto é
 uma iniciativa para criar um construtor de espaço de trabalho digital.
@@ -65,13 +65,13 @@ uma iniciativa para criar um construtor de espaço de trabalho digital.
 Anuva
 -----
 
-A ANUVA também foi iniciada e representa a Inteligência Artificial do CITSmart,
+A ANUVA também foi iniciada e representa a Inteligência Artificial do 4biz,
 onde promove integração e aprendizado de máquina com conhecimento.
 
-Neuro
+Builder
 -----
 
-O NEURO é um produto 100% pronto e adequado no CITSmart, este produto é muito
+O Builder é um produto 100% pronto e adequado no 4biz, este produto é muito
 poderoso e permite construir novas funcionalidades, aplicações e integrações. É
 muito próximo dos produtos RPA (automação de processos de robótica), mas traz
 diferentes possibilidades, como a integração natural com a estrutura de Service
@@ -82,6 +82,6 @@ unidades de negócio.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins
 

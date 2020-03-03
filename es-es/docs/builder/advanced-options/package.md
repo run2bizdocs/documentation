@@ -1,12 +1,12 @@
 Title: Pacote
-Description: Cuando se produce un conjunto de elementos de aplicación a través de Neuro, es posible que ese conjunto sea aglomerado en un paquete que puede ser importado/exportado entre ambientes de Neuro.    
+Description: Cuando se produce un conjunto de elementos de aplicación a través de Builder, es posible que ese conjunto sea aglomerado en un paquete que puede ser importado/exportado entre ambientes de Builder.    
 # Paquete  
 
-Cuando se produce un conjunto de elementos de aplicación a través de Neuro, es posible que ese conjunto sea aglomerado en un paquete que puede ser importado/exportado entre ambientes de Neuro.    
+Cuando se produce un conjunto de elementos de aplicación a través de Builder, es posible que ese conjunto sea aglomerado en un paquete que puede ser importado/exportado entre ambientes de Builder.    
 
 ## Cómo acceder 
 
-1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Gestión > Paquete.    
+1- Acceda a la funcionalidad a través de la navegación en el menú Builder > Gestión > Paquete.    
 
 ## Condiciones previas 
 
@@ -30,7 +30,7 @@ Figura 2 - Pantalla de lista de paquetes
 ## Completar los campos catastrales
 
 1- Para cambiar un paquete ya registrado, haga clic en "Editar", haga las modificaciones y luego haga clic en "Guardar";   
-2- Para crear un paquete, haga clic en Registrar. Introduzca el Nombre y la Descripción del paquete. A continuación, seleccione los elementos que forman parte del paquete. Todos estos elementos fueron registrados previamente en Neuro;    
+2- Para crear un paquete, haga clic en Registrar. Introduzca el Nombre y la Descripción del paquete. A continuación, seleccione los elementos que forman parte del paquete. Todos estos elementos fueron registrados previamente en Builder;    
 
 ![Screenshot](images/Package-Registration.png)  
 Figura 3 - Pantalla de registro/edición de paquetes   
@@ -38,12 +38,12 @@ Figura 3 - Pantalla de registro/edición de paquetes
 3- Se pueden seleccionar Aplicaciones, Parámetros, Labels, Imágenes, CSS, Java Scripts, Páginas HTML, Informes, Reglas de negocio, Flujos, Objetos de negocio, Componentes, Páginas de formulario, Formularios, Procesos de negocio, Notificaciones y Grupos de usuarios para componer el paquete;    
 4- Haga clic en "Guardar" para crear el paquete. Haga clic en "Buscar" para volver a la pantalla anterior;   
 5- Para exportar un paquete guardado, seleccione el paquete y haga clic en "Exportar". Los paquetes se exportan en formato .json;    
-6- Para importar un paquete a un Neuro, haga clic en "Importar", seleccione si esta versión del paquete debe reemplazar los elementos que tienen el mismo identificador, si la DDL debe ejecutarse y seleccione el archivo de importación .json.    
+6- Para importar un paquete a un Builder, haga clic en "Importar", seleccione si esta versión del paquete debe reemplazar los elementos que tienen el mismo identificador, si la DDL debe ejecutarse y seleccione el archivo de importación .json.    
 
 !!! Abstract "ATENCIÓN"  
 
-    Para garantizar la compatibilidad, es altamente recomendable que la versión de Neuro que realizó la exportación de un paquete sea 
-    la misma de Neuro que realizará la importación del mismo paquete.    
+    Para garantizar la compatibilidad, es altamente recomendable que la versión de Builder que realizó la exportación de un paquete sea 
+    la misma de Builder que realizará la importación del mismo paquete.    
 
 7- Para ver un elemento, seleccionélo y haga clic en "Ver".    
 

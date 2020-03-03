@@ -7,7 +7,7 @@ This feature allows the configuration of an audible alarm to signal to the atten
 
 ## Before getting started
 
-* [x] Have at least one workflow defined in your CITSmart environment;
+* [x] Have at least one tracker defined in your 4biz environment;
 * [x] It is essential to have the minimum conditions for audio playback on your computer;
 
 ## Procedure
@@ -21,7 +21,7 @@ This feature allows the configuration of an audible alarm to signal to the atten
 
 ### Put the "Notification" element in the flow
 
-1. Access the main menu Workflow > Flow Design;
+1. Access the main menu tracker > Flow Design;
 2. Select and edit the flow;
 3. In the "Diagram" tab, click on the item "Extensions" click and hold the item "Notification" and drag to the Design area;
 4. Double click on the "Notification" icon, and then on "Configuration";
@@ -40,9 +40,9 @@ Done, from now on it will be possible to identify new tickets by the sound notif
 
 [Register notification template][1]
 
-[Create workflow][2]
+[Create tracker][2]
 
 
-[1]:/en-us/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
+[1]:/en-us/4biz-helium/additional-features/communication-and-notification/notification/configuration/template-create.html
 
-[2]:/en-us/citsmart-platform-8/workflow/use/create-flow.html
+[2]:/en-us/4biz-helium/tracker/use/create-flow.html

@@ -98,23 +98,23 @@ Procedimento 
 Relacionado
 -----------
 
-[Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+[Criar conhecimento](/pt-br/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
-[Cadastrar um problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Cadastrar um problema](/pt-br/4biz-helium/processes/problem/use/register-problem.html)
 
-[Cadastrar item de configuração](/pt-br/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Cadastrar item de configuração](/pt-br/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Cadastrar um projeto](/pt-br/citsmart-platform-8/additional-features/project-management/project-management/use/register-project.html)
+[Cadastrar um projeto](/pt-br/4biz-helium/additional-features/project-management/project-management/use/register-project.html)
 
-[Cadastrar uma mudança](/pt-br/citsmart-platform-8/processes/change/use/register-change.html)
+[Cadastrar uma mudança](/pt-br/4biz-helium/processes/change/use/register-change.html)
 
-[Cadastrar uma liberação](/pt-br/citsmart-platform-8/processes/release/use/register-release-request.html)
+[Cadastrar uma liberação](/pt-br/4biz-helium/processes/release/use/register-release-request.html)
 
-[Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrização - ticket](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

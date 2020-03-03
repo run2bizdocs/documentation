@@ -104,7 +104,7 @@ executou e a soma dos tempos executados por cada técnico.
 Relacionado
 -------
 
-[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar o painel gerencial (Smart Decision)](/pt-br/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 Anexo
 ------
@@ -116,10 +116,10 @@ Anexo
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/images/tecnico-tempo.citreport
+[1]:/pt-br/4biz-helium/additional-features/reports/create/smart-reports/configuration/images/tecnico-tempo.citreport
 
-[2]:/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/images/ticket-atendimento.citreport
+[2]:/pt-br/4biz-helium/additional-features/reports/create/smart-reports/configuration/images/ticket-atendimento.citreport

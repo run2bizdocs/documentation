@@ -1,28 +1,28 @@
-title: Configurar actividad de usuario en el workflow
-Description: Este documento tiene por objetivo configurar la actividad tarea de usuario dentro del workflow. 
-# Configurar actividad de usuario en el workflow 
+title: Configurar actividad de usuario en el tracker
+Description: Este documento tiene por objetivo configurar la actividad tarea de usuario dentro del tracker. 
+# Configurar actividad de usuario en el tracker 
 
-Al diseña un workflow, es posible insertar diversos elementos, entre ellos, la Actividad de usuario. Este documento tiene como objetivo orientar la configuración de este elemento en el workflow.
+Al diseña un tracker, es posible insertar diversos elementos, entre ellos, la Actividad de usuario. Este documento tiene como objetivo orientar la configuración de este elemento en el tracker.
 
 Antes de empezar
 ---------------
-Para utilizar el elemento "Actividad de Usuario" es necesario, como mínimo, tener un workflow registrado en la herramienta, conteniendo los elementos de eventos: "inicio" y "fin".
+Para utilizar el elemento "Actividad de Usuario" es necesario, como mínimo, tener un tracker registrado en la herramienta, conteniendo los elementos de eventos: "inicio" y "fin".
 
 
 !!! Abstract "NOTA"
 
-    Dentro de la pestaña *Interfaz*, eligiendo el Tipo de Interacción "Formulario Neuro": poseer 2 
-    formularios de Neuro distintos y configurados para que el formulario de creación sea mostrado 
+    Dentro de la pestaña *Interfaz*, eligiendo el Tipo de Interacción "Formulario Builder": poseer 2 
+    formularios de Builder distintos y configurados para que el formulario de creación sea mostrado 
     junto al formulario de monitoreo. Es necesario también crear la Plantilla de Ticket para cada uno de 
     los formularios.
    
 Procedimiento
 ------------
 
-1.	Acceder al menú Workflow > Diseño de flujo;
+1.	Acceder al menú tracker > Diseño de flujo;
 2.	Hacer clic en "Nuevo”;
 3.	Hacer clic en la pestaña Diagrama y después en Actividad;
-4.	Hacer clic en el elemento de tarea de usuario y arrástrelo al panel de creación de workflow;
+4.	Hacer clic en el elemento de tarea de usuario y arrástrelo al panel de creación de tracker;
 5.	Se abrirán las siguientes pestañas de configuración del elemento:
 
 **Identificación**
@@ -33,17 +33,17 @@ Procedimiento
 
 *	Tipo de instancia:
 
-    *	Una solo instancia: sólo puede tener una sola instancia no ejecutada de la tarea en el workflow;
+    *	Una solo instancia: sólo puede tener una sola instancia no ejecutada de la tarea en el tracker;
     
-    *	Más de una instancia controlada por el workflow: puede tener varias instancias no ejecutadas de la tarea;
+    *	Más de una instancia controlada por el tracker: puede tener varias instancias no ejecutadas de la tarea;
     
     *	Crear una instancia para cada usuario: en la asignación, si hay punto y coma en los usuarios, se creará una tarea para cada usuario;
 
-*	Identificador: es una sigla única para la tarea. Se sirve para codificar Rhino y para formularios del Neuro;
+*	Identificador: es una sigla única para la tarea. Se sirve para codificar Rhino y para formularios del Builder;
 
 *	Cuenta SLA: definir si "Sí" o "No" (el status "SLA Suspendida" aparecerá en la interfaz de gestión de tickets);
 
-*	Percentaje de ejecución: campo informativo de la cantidad que esa tarea del flujo tiene en todo el workflow;
+*	Percentaje de ejecución: campo informativo de la cantidad que esa tarea del flujo tiene en todo el tracker;
 
 *	¿Es una tarea de aprobación?: definir si "Sí" o "No";
 
@@ -74,15 +74,15 @@ Procedimiento
 
 **Interfaz**
 
-*	Tipo de interacción: es el modo en que un Cuestionario o un Formulario Neuro se aplicará en la interfaz de gestión de tickets en un status determinado del workflow. La configuración de los elementos que serán visibles se puede definir en el portafolio, o configurada directamente en el elemento Actividad de Usuario (del workflow):
+*	Tipo de interacción: es el modo en que un Cuestionario o un Formulario Builder se aplicará en la interfaz de gestión de tickets en un status determinado del tracker. La configuración de los elementos que serán visibles se puede definir en el portafolio, o configurada directamente en el elemento Actividad de Usuario (del tracker):
 
-    *	Definido en el portafolio: es posible que una plantilla de ticket (cuestionario o formulario) aparezca puntualmente en un status del workflow, utilizando lo que se configuró en el atributo de servicio "Actividad" (solicitud/incidente) - campos: “Plantilla CREACIÓN” Y “Plantilla monitoreo”. Esta opción es ventajosa cuando se tienen workflows genéricos utilizados por varios servicios.
+    *	Definido en el portafolio: es posible que una plantilla de ticket (cuestionario o formulario) aparezca puntualmente en un status del tracker, utilizando lo que se configuró en el atributo de servicio "Actividad" (solicitud/incidente) - campos: “Plantilla CREACIÓN” Y “Plantilla monitoreo”. Esta opción es ventajosa cuando se tienen trackers genéricos utilizados por varios servicios.
 
     *	Formulario estándar: default del sistema 
 
-    *	Formulario Neuro: tiene un identificador para llamar el workflow disparado por este formulario
+    *	Formulario Builder: tiene un identificador para llamar el tracker disparado por este formulario
 
-*	Plantilla (Estándar/Neuro): permite la vinculación de plantilla de ticket.
+*	Plantilla (Estándar/Builder): permite la vinculación de plantilla de ticket.
 
     !!! Abstract "ATENCIÓN"
 
@@ -102,8 +102,8 @@ Procedimiento
 
 !!! Abstract "REGLA"    
     
-    Las normativas configuradas en el workflow tendrán prioridad en relación a las marcas de la plantilla de solicitud de 
-    servicio, pues ésta es un complemento del workflow.
+    Las normativas configuradas en el tracker tendrán prioridad en relación a las marcas de la plantilla de solicitud de 
+    servicio, pues ésta es un complemento del tracker.
     
 **Base de conocimiento**
 
@@ -111,10 +111,10 @@ Procedimiento
 
 !!! Abstract "ATENCIÓN"
 
-    El objetivo principal de esta vinculación de conocimiento es permitir que el asistente de una solicitud/incidente tenga fácil acceso. Una vez que el workflow llegue a la actividad del flujo vinculado a un conocimiento, el botón "Conocimientos" se muestra en la esquina superior derecha de la pantalla de Solicitud/Incidente para dar acceso de lectura al contenido, para ello, tal conocimiento generalmente está escrito en la forma de un paso a paso.
+    El objetivo principal de esta vinculación de conocimiento es permitir que el asistente de una solicitud/incidente tenga fácil acceso. Una vez que el tracker llegue a la actividad del flujo vinculado a un conocimiento, el botón "Conocimientos" se muestra en la esquina superior derecha de la pantalla de Solicitud/Incidente para dar acceso de lectura al contenido, para ello, tal conocimiento generalmente está escrito en la forma de un paso a paso.
     
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/22/2019 – Anna Martins

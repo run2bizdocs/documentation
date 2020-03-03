@@ -23,7 +23,7 @@ Para se torna responsável pelo ticket, é possível encontrar na barra de menu 
 
 #### Itens da barra de ferramentas
 
-![Menu bar ticket CITSmart][1]
+![Menu bar ticket 4biz][1]
 
 **1: Voltar** - Retorna para área de trabalho da Central de Serviços;
 
@@ -53,7 +53,7 @@ Para se torna responsável pelo ticket, é possível encontrar na barra de menu 
 
 ### Opção do ticket
 
-![tickets option ticket CITSmart][2]
+![tickets option ticket 4biz][2]
 
 Dentro das opções podemos encontrar:
 
@@ -79,7 +79,7 @@ Dentro das opções podemos encontrar:
 
 O início efetivo do atendimento ocorre a partir da captura do ticket para finalizar ou encaminhar o ticket para outra área. Diversos recursos podem ser utilizados pelo analista: Comentários, Histórico, Envio de notificação  por e-mail e Lançamento de horas.
 
-![Attendance ticket CITSmart][3]
+![Attendance ticket 4biz][3]
 
 **1: Comentários** – área própria para realizar comentários para as pessoas que passarem por esse ticket, tendo como opção ser;
 
@@ -97,13 +97,13 @@ O início efetivo do atendimento ocorre a partir da captura do ticket para final
 
 **Adicionar**;
 
-![Attendance ticket CITSmart][4]
+![Attendance ticket 4biz][4]
 
 **2: Histórico** – local onde é possível ver e interagir com todos os comentários feitos dentro do ticket;
 
 #### Atribuição e Situação
 
-![Assignment and Situation ticket CITSmart][5]
+![Assignment and Situation ticket 4biz][5]
 
 **3: Direcionar para grupo** – identificador do grupo que será direcionado dentro do fluxo;
 
@@ -121,7 +121,7 @@ O início efetivo do atendimento ocorre a partir da captura do ticket para final
 
 **7: Gravar e enviar** - Salva e avança para o próximo estado – do fluxo;
 
-[1]:images/menu-bar-ticket-citsmart.png
+[1]:images/menu-bar-ticket-4biz.png
 [2]:images/tickets-option-ticket.png
 [3]:images/attendance-ticket-comment.png
 [4]:images/attendance-ticket-history.png

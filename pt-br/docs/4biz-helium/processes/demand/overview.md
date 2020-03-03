@@ -10,12 +10,12 @@ Segundo a ITIL, "O processo responsável pelo entendimento, previsão e influên
 Uso
 -------
 
-- [Cadastrar atributo de demanda](/pt-br/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
+- [Cadastrar atributo de demanda](/pt-br/4biz-helium/processes/demand/use/register-demand-attribute.html)
 
-- [Importar dados de atributo de demanda](/pt-br/citsmart-platform-8/processes/demand/use/import-demand-attibute-data.html)
+- [Importar dados de atributo de demanda](/pt-br/4biz-helium/processes/demand/use/import-demand-attibute-data.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Anna Martins
 

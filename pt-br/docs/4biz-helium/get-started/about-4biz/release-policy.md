@@ -1,11 +1,11 @@
-Title: Política de Liberação e Atualização dos Produtos CITSmart
-Description: Descrever os ciclos de lançamento e atualização de produtos CITSmart, notificações de clientes e outras informações relevantes.
+Title: Política de Liberação e Atualização dos Produtos 4biz
+Description: Descrever os ciclos de lançamento e atualização de produtos 4biz, notificações de clientes e outras informações relevantes.
 
-# Política de Liberação e Atualização dos Produtos CITSmart
+# Política de Liberação e Atualização dos Produtos 4biz
 
 ## Visão Geral
 O objetivo desta política é descrever os ciclos de liberação e atualização dos
-Produtos CITSmart, notificações ao cliente e outras informações relevantes.
+Produtos 4biz, notificações ao cliente e outras informações relevantes.
 
 As diretrizes da política são aplicáveis a todos os nossos produtos, estejam eles
 usando o modelo SaaS ou On-Premise.
@@ -15,7 +15,7 @@ Nossa proposta de liberação e atualização de produtos foi definida para forn
 estabilidade, resposta rápida a problemas, além de fornecimento contínuo de novos
 recursos e experiências.
 
-Os produtos CITSmart, geralmente, seguem 3 tipos de liberação, conforme listado
+Os produtos 4biz, geralmente, seguem 3 tipos de liberação, conforme listado
 na tabela a seguir:
 
 
@@ -27,19 +27,19 @@ na tabela a seguir:
 | *Hotfix* **Crítica**   | Correções emergenciais para garantir a estabilidade e segurança do Sistema                                                 | Sempre que necessário               | Poucas horas antes, preferencialmente 48h antes                                                  |
 
 
-A CITSmart refere-se a cada Feature Release, e seus Hotfixes associados, como
+A 4biz refere-se a cada Feature Release, e seus Hotfixes associados, como
 uma “Série”. Por exemplo, a Versão 7.6.5.4 faz parte da Série 7. As séries são
 atualizações de versão, na maioria das vezes, com mudanças significativas na
 aplicação ou na arquitetura.
 
-Por conta disso, os produtos CITSmart utilizam o seguinte padrão de versão:
+Por conta disso, os produtos 4biz utilizam o seguinte padrão de versão:
 
 **Series \> Major Release \> Minor Release \> Hotfix**
 
 Por exemplo: Na versão 7.6.5.4, 7 é a Série, 6 é a Major Release, 5 é a Minor
 Release e 4 é o HotFix associado.
 
-Cronograma de Lançamento do CITSmart:
+Cronograma de Lançamento do 4biz:
 
 | **Mês de Lançamento** | **Tipo de Lançamento**             | **Número da Versão**                |
 |-----------------------|------------------------------------|-------------------------------------|
@@ -57,7 +57,7 @@ Cronograma de Lançamento do CITSmart:
 | **Dezembro**          | **Minor Release**                  | **<series\>.x.1.0**                |
 
 (\*) O tempo e a frequência dos lançamentos estão sujeitos a alterações, a critério
-exclusivo do CITSmart. No caso de alterações deste cronograma, os clientes deverão
+exclusivo do 4biz. No caso de alterações deste cronograma, os clientes deverão
 ser previamente notificados.
 
 ## Versões Suportadas
@@ -65,9 +65,9 @@ ser previamente notificados.
 Nossa política atual é oferecer suporte a Série mais recente. A série anterior
 será suportada até 6 meses após o lançamento da nova série.
 
-A CITSmart geralmente realiza dois grandes lançamentos por ano, sendo assim, o
+A 4biz geralmente realiza dois grandes lançamentos por ano, sendo assim, o
 cliente precisará atualizar, aproximadamente, uma vez por ano para se permanecer
-em uma versão suportada. A CITSmart fornece atualizações (por exemplo: correções e
+em uma versão suportada. A 4biz fornece atualizações (por exemplo: correções e
 hotfixes) somente para a versão suportada.
 
 ## Informações Adicionais Sobre Atualização
@@ -83,7 +83,7 @@ uma nova solicitação de serviço por meio de nosso site de suporte. Nessa soli
 o cliente informa a data desejada para atualização, versão desejada e tipo de ambiente
 não produção ou produção). Os tempos de interrupção são definidos para minimizar a
 interrupção dos negócios do cliente. Todo o processo de atualização é feito pelo time 
-de suporte da CITSmart
+de suporte da 4biz
 
 **Clientes On-Premise**
 

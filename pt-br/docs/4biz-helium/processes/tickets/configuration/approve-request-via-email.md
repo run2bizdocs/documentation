@@ -70,15 +70,15 @@ Procedimento
 Relacionado
 -------
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Cadastrar usuário](/pt-br/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/overview.html)
+[Fluxo de trabalho](/pt-br/4biz-helium/tracker/overview.html)
 
-[Configurar parametrização - email](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
+[Configurar parametrização - email](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-email.html)
 
-[Configurar parametrização -sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrização -sistema](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
 Anexo
 ----------
@@ -89,8 +89,8 @@ Anexo
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
 
 
-[1]:/pt-br/citsmart-platform-8/processes/tickets/images/approval.docx
+[1]:/pt-br/4biz-helium/processes/tickets/images/approval.docx

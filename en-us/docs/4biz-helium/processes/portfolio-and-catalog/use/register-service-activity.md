@@ -41,20 +41,20 @@ Procedure
 Related
 -----------
 
-[Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Create calendar](/en-us/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Create calendar](/en-us/4biz-helium/platform-administration/time/create-calendar.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
 

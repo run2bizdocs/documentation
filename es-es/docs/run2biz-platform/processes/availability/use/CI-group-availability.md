@@ -33,22 +33,22 @@ Procedimiento
 Relacionado
 ----------------
 
-[Acuerdo de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/4biz-helium/processes/service-level/use/service-level-agreement.html)
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Crear calendario](/es-es/4biz-helium/platform-administration/time/create-calendar.html)
 
-[Registrar grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/4biz-helium/processes/configuration/configuration/register-configuration-item-group.html)
 
-[Registrar costo por hora de indisponibilidad](/es-es/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
+[Registrar costo por hora de indisponibilidad](/es-es/4biz-helium/processes/configuration/use/cost-per-hour-unavailability.html)
 
-[Registrar grupo de disponibilidad](/es-es/citsmart-platform-8/processes/availability/configuration/register-availability-group.html)
+[Registrar grupo de disponibilidad](/es-es/4biz-helium/processes/availability/configuration/register-availability-group.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

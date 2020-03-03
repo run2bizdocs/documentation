@@ -1,14 +1,14 @@
 Title: Fluxo de integração de serviços  
-Description:Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
+Description:Os fluxos de integração de serviços, como o próprio nome diz, envolvem trackers executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
 
 # Fluxo de integração de serviços 
 
-Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
+Os fluxos de integração de serviços, como o próprio nome diz, envolvem trackers executados com base em serviços de sistema, como integrações e conversões, por exemplo.   
 
 ## Como acessar    
 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo de Integração.     
+1. Acesse a funcionalidade através do menu Builder > Gerenciamento > Fluxo de Integração.     
 
 ## Pré-condições    
 
@@ -46,11 +46,11 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
 
     ![Screenshot](images/Service-Integration-Flow-fig04.png)
     
-    Figura 4 - Tela de cadastro/edição do workflow, aba de Dados do fluxo    
+    Figura 4 - Tela de cadastro/edição do tracker, aba de Dados do fluxo    
 
-4. Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Neuro persistirá no banco de dados de toda instância da execução deste fluxo.    
+4. Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Builder persistirá no banco de dados de toda instância da execução deste fluxo.    
 
-5. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada.    
+5. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do tracker for criada.    
 
 ## Variáveis  
 
@@ -61,7 +61,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
     ![Screenshot](images/Service-Integration-Flow-fig05.png)
     
-    Figura 5 - Tela de cadastro/edição do workflow, aba de Variáveis     
+    Figura 5 - Tela de cadastro/edição do tracker, aba de Variáveis     
 
 3. Preencha os campos:
 
@@ -69,11 +69,11 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
     * Descrição;  
     * Se será armazenada no banco de dados;  
 
-	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor               durante a execução das tarefas.  
+	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Builder, assim ela irá reter o valor               durante a execução das tarefas.  
 
     * Se é uma variável de retorno;  
 
-	  * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
+	  * Esta opção irá fazer que o Builder retorne a variável no final da execução do fluxo.  
 
     * Se é uma lista de valores;  
     * Se é uma variável de entrada na interface do fluxo;  
@@ -103,7 +103,7 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
 
 ## Ações  
 
-Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.   
+Por meio deste menu, é possível cadastrar as ações que serão executadas no tracker.   
 
 As ações são baseadas em scripts programados na linguagem Rhino.   
 
@@ -112,7 +112,7 @@ As ações são baseadas em scripts programados na linguagem Rhino.
 
     ![Screenshot](images/Service-Integration-Flow-fig06.png) 
     
-    Figura 6 - Tela de cadastro/edição do workflow, aba de Ações   
+    Figura 6 - Tela de cadastro/edição do tracker, aba de Ações   
 
 3. Preencha os campos:   
 
@@ -130,14 +130,14 @@ As ações são baseadas em scripts programados na linguagem Rhino.
 
 ## Diagrama  
 
-O diagrama de um fluxo de serviços não possui os mesmos componentes de “Tarefa” de um fluxo de processo. Não é possível utilizar aqui os componentes de “Tarefa humana” e “Sub processo workflow”.  
+O diagrama de um fluxo de serviços não possui os mesmos componentes de “Tarefa” de um fluxo de processo. Não é possível utilizar aqui os componentes de “Tarefa humana” e “Sub processo tracker”.  
 
 Para um processo de negócio, possuímos a mais as seções de componentes:   
 
 - Conectores: componentes utilizados para a execução de operações relacionadas à banco de dados.  
 - Componentes: componentes variados para a execução de diversas tarefas.  
 - Transformadores: componentes para a conversão de tipos de variáveis.  
-- CITSmart ITSM: componentes utilizados para integração com um sistema CITSmart ITSM externo.   
+- 4biz ITSM: componentes utilizados para integração com um sistema 4biz ITSM externo.   
 
 Os demais componentes presentes na paleta se assemelham aos componentes de um “Fluxo de Processo”. Mais informações a respeito da funcionalidade e utilização de cada um dos componentes podem ser encontradas no Desenvolvendo Aplicações.    
 
@@ -147,7 +147,7 @@ Os demais componentes presentes na paleta se assemelham aos componentes de um �
 
 ![Screenshot](images/Service-Integration-Flow-fig07.png)
 
-Figura 7 - Tela de cadastro/edição do workflow, aba de Diagrama  
+Figura 7 - Tela de cadastro/edição do tracker, aba de Diagrama  
 
 
 !!! tip "About"

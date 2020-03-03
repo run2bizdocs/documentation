@@ -1,11 +1,11 @@
-Title: Política de Liberación y Actualización de los Productos CITSmart
-Description: Describe los ciclos de lanzamiento y actualización de los Productos CITSmart, las notificaciones de los clientes y otra información relevante.
+Title: Política de Liberación y Actualización de los Productos 4biz
+Description: Describe los ciclos de lanzamiento y actualización de los Productos 4biz, las notificaciones de los clientes y otra información relevante.
 
-# Política de Liberación y Actualización de los Productos CITSmart
+# Política de Liberación y Actualización de los Productos 4biz
 
 ## Visión General
 El objetivo de esta política es describir los ciclos de liberación y actualización
-de los Productos CITSmart, notificaciones al cliente y otra información relevante.
+de los Productos 4biz, notificaciones al cliente y otra información relevante.
 
 Las directrices de la política se aplican a todos nuestros productos, ya estén
 utilizando el modelo SaaS u On-Premise.
@@ -15,7 +15,7 @@ Nuestra propuesta de liberación y actualización de productos fue definida para
 proporcionar estabilidad, respuesta rápida a problemas, además de suministro continuo
 de nuevos recursos y experiencias.
 
-Los productos CITSmart, generalmente, siguen 3 tipos de liberación, como se
+Los productos 4biz, generalmente, siguen 3 tipos de liberación, como se
 muestra en la siguiente tabla:
 
 | **Tipo Liberación**     | **Alcance**                                                                                                                 | **Frecuencia**                      | **Notificación**                                                                                  |
@@ -25,19 +25,19 @@ muestra en la siguiente tabla:
 | *Hotfix* **Planificada** | Actualizaciones incluyendo corrección de errores, aplicaciones y ajustes puntuales.                                                  | Típicamente, una vez al mes        |                                                                                                  |
 | *Hotfix* **Crítica**   | Correcciones de emergencia para garantizar la estabilidad y la seguridad del sistema                                                 | Siempre que sea necesario               | Pocas horas antes, preferentemente 48h antes                                                  |
 
-CITSmart se refiere a cada Feature Release, y sus Hotfix asociados, como una
+4biz se refiere a cada Feature Release, y sus Hotfix asociados, como una
 "Serie". Por ejemplo, la Versión 7.6.5.4 forma parte de la Serie 7. Las series son
 actualizaciones de versión, la mayoría de las veces, con cambios significativos en la
 aplicación o en la arquitectura.
 
-Por lo tanto, los productos CITSmart utilizan el siguiente estándar de versión:
+Por lo tanto, los productos 4biz utilizan el siguiente estándar de versión:
 
 **Series \> Major Release \> Minor Release \> Hotfix**
 
 Por ejemplo: En la versión 7.6.5.4, 7 es la serie, 6 es la Major Release, 5 es la Minor
 Release y 4 es el HotFix asociado.
 
-Calendario de Liberación para CITSmart:
+Calendario de Liberación para 4biz:
 
 | **Mes de Liberación** | **Tipo de Liberación**             | **Número de Versión**                |
 |-----------------------|------------------------------------|--------------------------------------|
@@ -55,7 +55,7 @@ Calendario de Liberación para CITSmart:
 | **Diciembre**         | **Minor Release**                  | **<series\>.x.1.0**                 |
 
 (\*) El tiempo y la frecuencia de los lanzamientos están sujetos a cambios, a criterio
-exclusivo de CITSmart. En el caso de cambios de este cronograma, los clientes deberán
+exclusivo de 4biz. En el caso de cambios de este cronograma, los clientes deberán
 ser previamente notificados.
 
 ## Versiones Soportadas
@@ -64,9 +64,9 @@ Nuestra política actual es ofrecer soporte a la Serie más reciente. La serie
 anterior será soportada hasta 6 meses después del lanzamiento de la nueva
 serie.
 
-CITSmart generalmente hace dos grandes lanzamientos al año, siendo así, el
+4biz generalmente hace dos grandes lanzamientos al año, siendo así, el
 cliente necesitará actualizar, aproximadamente, una vez al año para permanecer en
-una versión con soporte. CITSmart proporciona actualizaciones (por ejemplo:
+una versión con soporte. 4biz proporciona actualizaciones (por ejemplo:
 correcciones y hotfixes) sólo para la versión soportada.
 
 ## Informaciones Adicionales Sobre la Actualización
@@ -83,7 +83,7 @@ enviando una nueva solicitud de servicio a través de nuestro sitio de soporte.
 En esta solicitud, el cliente informa la fecha deseada para la actualización, la versión
 deseada y el tipo de entorno (no producción o producción). Los tiempos de interrupción
 se definen para minimizar la interrupción de los negocios del cliente. Todo el proceso de
-actualización es hecho por el equipo de soporte de CITSmart.
+actualización es hecho por el equipo de soporte de 4biz.
 
 **Clientes On-Premise**
 

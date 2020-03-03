@@ -20,13 +20,13 @@ de un elemento de configuración".
 Uso
 -------
 
-- [Registrar atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
+- [Registrar atributo de la demanda](/es-es/4biz-helium/processes/demand/use/register-demand-attribute.html)
 
-- [Importar datos de atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/import-demand-attibute-data.html)
+- [Importar datos de atributo de la demanda](/es-es/4biz-helium/processes/demand/use/import-demand-attibute-data.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

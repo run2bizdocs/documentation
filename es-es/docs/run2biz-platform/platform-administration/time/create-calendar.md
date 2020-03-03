@@ -26,7 +26,7 @@ Procedimiento
 
 7. Al hacer clic en buscar, se mostrarán todos los calendarios existentes;
 
-8. Para editar un calendario simplemente seleccione el calendario y se lo dirigirá a la pestaña de registro del calendario con toda la información ya completada;
+8. Para editar un calendario Taskermente seleccione el calendario y se lo dirigirá a la pestaña de registro del calendario con toda la información ya completada;
 
 9. Si necesita eliminar el calendario, haga clic en el botón Eliminar;
 
@@ -36,7 +36,7 @@ Procedimiento
 Relacionado
 -----------
 
-[Crear perfil de acceso](/es-es/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Registrar jornadas de trabajo](/es-es/citsmart-platform-8/platform-administration/time/create-working-day.html)
+[Registrar jornadas de trabajo](/es-es/4biz-helium/platform-administration/time/create-working-day.html)
 

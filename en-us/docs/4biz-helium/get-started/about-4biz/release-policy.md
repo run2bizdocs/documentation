@@ -1,11 +1,11 @@
-Title: CITSmart Products Release and Update Policy
-Description: Describe the release and update cycles of CITSmart Products, clients notifications and other relevant information.
+Title: 4biz Products Release and Update Policy
+Description: Describe the release and update cycles of 4biz Products, clients notifications and other relevant information.
 
-# CITSmart Products Release and Update Policy
+# 4biz Products Release and Update Policy
 
 ## Overview
 The purpose of this policy is to describe the release and update cycles of
-CITSmart Products, clients notifications and other relevant information.
+4biz Products, clients notifications and other relevant information.
 
 The policy guidelines are applicable to all of our products, whether they are
 using the SaaS or On-Premise model.
@@ -14,7 +14,7 @@ using the SaaS or On-Premise model.
 Our release and update cycles approach is designed to provide stability, quick
 response to problems and continuous delivery of new features and experiences.
 
-CITSmart products generally follow 3 types of releases, as listed in the
+4biz products generally follow 3 types of releases, as listed in the
 following table:
 
 | **Release Type**     | **Scope**                                                                                                                 | **Frequency**                      | **Notification**                                                                                  |
@@ -25,19 +25,19 @@ following table:
 | *Hotfix* **Critical**   | Hot fixes needed for system stability or security                                                 | Whenever necessary               | A few hours before, preferably 48 hours before                                                  |
 
 
-CITSmart refers to each Feature Release, and its associated Hotfixes, as a
+4biz refers to each Feature Release, and its associated Hotfixes, as a
 "Series". For example, Version 7.6.5.4 is part of Series 7. The series are
 version updates, most of the time, with significant changes in the application
 or architecture.
 
-Therefore, CITSmart products use the following version standard:
+Therefore, 4biz products use the following version standard:
 
 **Series \> Major Release \> Minor Release \> Hotfix**
 
 For example: In version 7.6.5.4, 7 is the Series, 6 is the Major Release, 5 is
 the Minor Release and 4 is the HotFix associated.
 
-The Release Schedule for CITSmart:
+The Release Schedule for 4biz:
 
 | **Release Month** | **Type of Release**             | **Release Number**                |
 |-------------------|---------------------------------|-----------------------------------|
@@ -55,7 +55,7 @@ The Release Schedule for CITSmart:
 | **December**      | **Minor Release**               | **<series\>.x.1.0**              |
 
 (\*) The timing and frequency of releases is subject to change at the sole
-discretion of CITSmart. In the case of changes in this schedule, clients shall
+discretion of 4biz. In the case of changes in this schedule, clients shall
 be notified in advance.
 
 ## Supported Versions
@@ -64,8 +64,8 @@ Our current policy is to support the most recent Release Series. The immediately
 previous Release Series will be supported up to 6 months after the release of
 the new series.
 
-CITSmart generally makes two majors release per year, the client will need to
-upgrade approximately once per year to stay on a supported version. CITSmart
+4biz generally makes two majors release per year, the client will need to
+upgrade approximately once per year to stay on a supported version. 4biz
 provides Updates (e.g.: patches and hotfixes) only for supported version..
 
 ## Additional Update Information
@@ -77,10 +77,10 @@ to each one of them, follow the recommendations below:
 **SaaS Clients**
 
 Clients can schedule software updates at their convenience, submitting a new
-service request via our support website (itsm.citsmart.com). In this request,
+service request via our support website (itsm.4biz.com). In this request,
 clients define schedule to update, version and environment type (non-production
 or production). Outage times are defined to minimize disruption to clients
-business. The CITSmart Support team makes all update process.
+business. The 4biz Support team makes all update process.
 
 **On-Premise Clients**
 

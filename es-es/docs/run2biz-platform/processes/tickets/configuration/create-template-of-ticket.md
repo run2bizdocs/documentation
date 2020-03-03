@@ -35,25 +35,25 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Registrar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Registrar atributos del servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configurar atributos del contrato de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
+[Configurar atributos del contrato de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
-[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/4biz-helium/processes/service-level/configuration/create-time-attendance.html)
 
-[Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Configurar parametrización- ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización- ticket](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
@@ -61,7 +61,7 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins
 
 

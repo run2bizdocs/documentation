@@ -1,7 +1,7 @@
-Title: O que há de novo no CITSmart 8.0?
-Description: Descreve O que há de novo no CITSmart 8.0
+Title: O que há de novo no 4biz Helium.0?
+Description: Descreve O que há de novo no 4biz Helium.0
 
-# O que há de novo no CITSmart?
+# O que há de novo no 4biz?
 
 ## Versão 8.0.2.0
  
@@ -23,7 +23,7 @@ Description: Descreve O que há de novo no CITSmart 8.0
 
 - Melhorias de UI/UX na Tela de tickets e opções internas para capturar, delegar, reclassificar, suspender etc;
 
-### WORKFLOW
+### tracker
 
 - Componentes dinâmicos no desenho de fluxo;
 
@@ -41,9 +41,9 @@ Description: Descreve O que há de novo no CITSmart 8.0
 Uso da Logomarca e Login
 ------------------------
 
-O uso da imagem CITSmart foi otimizada para melhorar o uso de dados, bem como a aplicação dentro da solução, tornando mais simples, leve e adequada para os novos direcionamentos do produto.
+O uso da imagem 4biz foi otimizada para melhorar o uso de dados, bem como a aplicação dentro da solução, tornando mais Taskers, leve e adequada para os novos direcionamentos do produto.
 
-![Novo acesso do CITSmart](images/citsmart-login.png)
+![Novo acesso do 4biz](images/4biz-login.png)
 
 Centro de Experiência
 ---------------------
@@ -58,7 +58,7 @@ Cada Centro de Experiência possui páginas dinâmicas com a opção de widgets 
 *   Requisições
 *   Aprovações
 *   Centro de Conhecimento
-*   Aplicações Neuro
+*   Aplicações Builder
 *   Workspaces
 *   Notícias
 *   Notificações
@@ -100,7 +100,7 @@ Saiba mais sobre o [Centro de Experiência][1]
 
 ### Widget Minhas Aprovações
 
-Aprovar um ticket pelo CITSmart ficou mais simples, basta clicar no ícone aprovar **(a.)**, é possível visualizar os detalhes do ticket e aprovar ou não **(b.)**.
+Aprovar um ticket pelo 4biz ficou mais Taskers, basta clicar no ícone aprovar **(a.)**, é possível visualizar os detalhes do ticket e aprovar ou não **(b.)**.
  
 ![a-Aprovar uma tarefa](images/approve-task.png)
 
@@ -111,7 +111,7 @@ Menus
 
 Internamente os menus sofreram reorganização e agora estão dispostos à esquerda, com possibilidade de consulta e ocultação, melhorando o espaço de trabalho na plataforma.
 
-![Menu de Opções do CITSmart](images/citsmart-options-menu-pt.png)
+![Menu de Opções do 4biz](images/4biz-options-menu-pt.png)
 
 Smart Decisions
 ---------------
@@ -129,7 +129,7 @@ Permite manter e visualizar áreas de trabalho por usuário com :
 Acesso Rápido
 -------------
 
-Novos ícones e área de acesso rápido aos processos e portais foram disponibilizados no área superior da plataforma de forma a tornar mais simples e prático o acesso às funcionalidades do CITSmart. 
+Novos ícones e área de acesso rápido aos processos e portais foram disponibilizados no área superior da plataforma de forma a tornar mais Taskers e prático o acesso às funcionalidades do 4biz. 
 
 ![Acesso Rápido](images/quick-access-pt.png)
 
@@ -160,16 +160,16 @@ Agora, assim que uma nova Solução de Contorno é criada, automaticamente é di
 
 ![c-Detalhamento da Solução de Contorno](images/workaround-details.png)
 
-Simple - Gestão Ágil
+Tasker - Gestão Ágil
 --------------------
 
-O Simple, que trouxe o poder da gestão ágil para a plataforma CITSmart, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
+O Tasker, que trouxe o poder da gestão ágil para a plataforma 4biz, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais Taskers e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
 
-![a-Simple](images/simple.png)
+![a-Tasker](images/Tasker.png)
 
-![b-Simple-Sprints](images/simple-sprints.png)
+![b-Tasker-Sprints](images/Tasker-sprints.png)
 
-![c-Simple-Kanbans](images/simple-kanban.png)
+![c-Tasker-Kanbans](images/Tasker-kanban.png)
 
 
 Cada tarefa pode ter um ou mais membro. É possível adicionar:
@@ -184,7 +184,7 @@ Cada tarefa pode ter um ou mais membro. É possível adicionar:
 
 ![Detalhamento da Tarefa](images/task-detail.png)
 
-Saiba mais sobre o [Simple][2]
+Saiba mais sobre o [Tasker][2]
 
 Gerenciamento de Problemas
 --------------------------
@@ -220,13 +220,13 @@ Ao Vincular um Serviço ao Problema é possível visualizar o Mapa do Serviço e
 
 ![c-Vínculo de IC´s](images/ci-link.png)
 
-Uma nova área de diagnóstico foi criada e permite que através do Simple, mais pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo agilidade e eficiência **(a.)**, O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil. Uma nova notificação é enviada ao responsável pelo incidente assim que cada solução de contorno é registrada **(b.)**.
+Uma nova área de diagnóstico foi criada e permite que através do Tasker, mais pessoas ou equipes trabalhem colaborativamente na análise do problema, trazendo agilidade e eficiência **(a.)**, O registro de erro conhecido, causa raiz e soluções de contorno está mais fácil. Uma nova notificação é enviada ao responsável pelo incidente assim que cada solução de contorno é registrada **(b.)**.
 
 ![a-Diagnóstico do problema](images/problem-diagnosis.png)
 
 ![b-Registro de solução de contorno e causa raiz](images/workaround-root-cause-registration.png)
 
-Também há uma nova área de Solução com vínculo direto ao Simple e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a.)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b.)**.
+Também há uma nova área de Solução com vínculo direto ao Tasker e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a.)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b.)**.
 
 ![a-Registro de solução](images/solution-registration.png)
 
@@ -262,7 +262,7 @@ Saiba mais sobre [Gerenciamento de Configuração][4]
 Gerenciamento de Mudanças
 -------------------------
 
-O CITSmart evoluiu o Gerenciamento de Mudanças para dar mais agilidade, segurança e praticidade as mudanças em ambientes que vão além da TI . Com um novo painel de listagem é possível alterar colunas de exibição, ativar atualização automática, visualizar andamento do fluxo, pesquisar registro, acessar lista de relatórios dinâmicos etc.
+O 4biz evoluiu o Gerenciamento de Mudanças para dar mais agilidade, segurança e praticidade as mudanças em ambientes que vão além da TI . Com um novo painel de listagem é possível alterar colunas de exibição, ativar atualização automática, visualizar andamento do fluxo, pesquisar registro, acessar lista de relatórios dinâmicos etc.
 
 ![Gerenciamento de mudanças](images/change-management.png)
 
@@ -277,13 +277,13 @@ Para facilitar o atendimento, a seguinte sequência de passos foi estruturada no
 
 ![Detalhamento da mudança](images/change-detail.png)
 
-Para facilitar a organização e a classificação dos registros de mudança, o CITSmart passou a utilizar o conceito de Portfólio de Mudanças, permitindo pré-configurar templates com fluxo de atendimento, calendário, grupos responsáveis etc **(a.)**, e a classificação da mudança se tornou muito mais simples e ágil **(b.)**.
+Para facilitar a organização e a classificação dos registros de mudança, o 4biz passou a utilizar o conceito de Portfólio de Mudanças, permitindo pré-configurar templates com fluxo de atendimento, calendário, grupos responsáveis etc **(a.)**, e a classificação da mudança se tornou muito mais Taskers e ágil **(b.)**.
 
 ![a-POrtfólio de mudança](images/portfolio-of-change.png)
 
 ![b-Classificação da mudança](images/classification-of-change.png)
 
-Também é possível vincular aos templates os formulários de análise ágil de risco. Cada template de mudança poderá utilizar um formulário com perguntas e pesos. De acordo com a análise, um gráfico de risco é apresentado **(a.)**. O Planejamento, Reversão, Revisão e Fechamento da Mudança agora contam com um painel de gestão ágil (Conceito "Simple"), assim várias equipes podem executar tarefas de forma rápida, transparente e colaborativa **(b.)**.
+Também é possível vincular aos templates os formulários de análise ágil de risco. Cada template de mudança poderá utilizar um formulário com perguntas e pesos. De acordo com a análise, um gráfico de risco é apresentado **(a.)**. O Planejamento, Reversão, Revisão e Fechamento da Mudança agora contam com um painel de gestão ágil (Conceito "Tasker"), assim várias equipes podem executar tarefas de forma rápida, transparente e colaborativa **(b.)**.
 
 
 ![a-Gráfico de análise de risco](images/risk-analysis-chart.png)
@@ -302,7 +302,7 @@ O processo de Gerenciamento de Liberação e Implantação também passou por ev
 
 ![Gerenciamento de Liberação](images/release-management.png)
 
-No menu lateral foi estruturado uma sequência de passos para facilitar o acompanhamento da liberação **(a.)**,  e as mudanças empacotadas para liberação são apresentadas na mesma tela, facilitando o acompanhamento **(b.)**. O Planejamento e a Implantação agora contam com um painél de Gestão Ágil(Conceito "Simple"), facilitando o envolvimento e a colaboração de várias equipes **(c.)**.
+No menu lateral foi estruturado uma sequência de passos para facilitar o acompanhamento da liberação **(a.)**,  e as mudanças empacotadas para liberação são apresentadas na mesma tela, facilitando o acompanhamento **(b.)**. O Planejamento e a Implantação agora contam com um painél de Gestão Ágil(Conceito "Tasker"), facilitando o envolvimento e a colaboração de várias equipes **(c.)**.
 
 ![a-Menu lateral](images/side-menu.png)
 
@@ -342,9 +342,9 @@ Nesta opção de auditoria informa as licenças utilizadas para a validação do
 
 ![Auditoria de Chave](images/key-audit.png)
 
-## App CITSmart GO
+## App 4biz GO
 
-O App CITSmart GO foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
+O App 4biz GO foi criado para dar mais flexibilidade e agilidade em atendimentos realizados em campo. As funcionalidades do app podem ser executadas offline e depois sincronizadas de forma fácil.
 
 ![App FS](images/62-app-fs.jpg)
 
@@ -360,13 +360,13 @@ O App CITSmart GO foi criado para dar mais flexibilidade e agilidade em atendime
 
 ![App FS](images/69-app-fs.png)
 
-Saiba mais sobre [CITSmart GO][7]
+Saiba mais sobre [4biz GO][7]
 
-## App CITSmart Experience
+## App 4biz Experience
 
-O App CITSmart Experience foi criado para que as facilidades e benefícios da solução CITSmart possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
+O App 4biz Experience foi criado para que as facilidades e benefícios da solução 4biz possam ser acessados também via dispositivos móveis, esta nova versão inclui notificações para o sistema operacional Android e a possibilidade de confirmação de atendimento via assinatura.
 
-Saiba mais sobre [Mobile CITSmart Experience][8]
+Saiba mais sobre [Mobile 4biz Experience][8]
 
 ![App Mobile SM](images/71-app-mobile-sm.png)
 
@@ -380,18 +380,18 @@ Saiba mais sobre [Mobile CITSmart Experience][8]
 
 
 
-[1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-experience-center.html
-[2]:/pt-br/citsmart-platform-8/additional-features/project-management/simple-agile-management/simple-agile-management.html
-[3]:/pt-br/citsmart-platform-8/processes/problem/overview.html
-[4]:/pt-br/citsmart-platform-8/processes/configuration/overview.html
-[5]:/pt-br/citsmart-platform-8/processes/change/overview.html
-[6]:/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html
-[7]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[8]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html
+[1]:/pt-br/4biz-helium/processes/knowledge/use/create-experience-center.html
+[2]:/pt-br/4biz-helium/additional-features/project-management/Tasker-agile-management/Tasker-agile-management.html
+[3]:/pt-br/4biz-helium/processes/problem/overview.html
+[4]:/pt-br/4biz-helium/processes/configuration/overview.html
+[5]:/pt-br/4biz-helium/processes/change/overview.html
+[6]:/pt-br/4biz-helium/platform-administration/logs-and-auditing/system-audit.html
+[7]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[8]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Created:</b>03/14/2019 - André Fernandes
 

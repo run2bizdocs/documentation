@@ -31,9 +31,9 @@ Procedimiento
 Relacionado
 ----------------
 
-[Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/4biz-helium/processes/configuration/use/register-CI.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

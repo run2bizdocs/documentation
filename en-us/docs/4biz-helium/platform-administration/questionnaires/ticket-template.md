@@ -11,8 +11,8 @@ Before getting started
 The ticket template of type Questionnaire, requires the previous registration of
 a questionnaire.
 
-The ticket template of type Neuro, requires the previous registration
-of **Neuro** form.
+The ticket template of type Builder, requires the previous registration
+of **Builder** form.
 
 Procedure
 -------------
@@ -48,26 +48,26 @@ Procedure
     second one. If the service request template is only linked to the portfolio
     activities, the system will assume that the form is standard, so it will not
     meet the template's enabling (or not enabling) rules. For the
-    reclassification rule, where the questionnaire or Neuro service template has
+    reclassification rule, where the questionnaire or Builder service template has
     to be presented for the user response, it's necessary that the template or
     form is linked to the service request template concomitantly with the flow
     maintenance screen and the portfolio activity;  
 
-    -   **Neuro**: when you select this option, the Neuro form link field and Neuro
+    -   **Builder**: when you select this option, the Builder form link field and Builder
     page are made available. You can also elect the **version** of the form by
     clicking the "Specific Version" button on the form. The template rules of
-    the Questionnaire type are valid for the Neuro type template.
+    the Questionnaire type are valid for the Builder type template.
 
 Related
 -----------
 
-[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html)
+[Create tracker](/en-us/4biz-helium/tracker/use/create-flow.html)
 
-[Register questionnaire](/en-us/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Register questionnaire](/en-us/4biz-helium/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

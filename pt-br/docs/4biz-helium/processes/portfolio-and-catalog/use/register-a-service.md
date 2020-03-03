@@ -66,19 +66,19 @@ portfólio escolhido.
 Relacionado
 ---------------
 
-[Criar portfólio](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Criar portfólio](/pt-br/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
+[Definir a permissão de acesso às funcionalidades do Gerenciamento de Portfólio](/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
-[Criar categoria de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
+[Criar categoria de serviço](/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-[Criar mapa de serviços](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
+[Criar mapa de serviços](/pt-br/4biz-helium/processes/portfolio-and-catalog/use/create-service-map.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Larissa Lourenço

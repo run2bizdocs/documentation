@@ -56,16 +56,16 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar condición de operación](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+[Registrar condición de operación](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-[Registrar cliente](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
+[Registrar cliente](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Registrar moneda](/es-es/citsmart-platform-8/additional-features/contract-management/configuration/register-currency.html)
+[Registrar moneda](/es-es/4biz-helium/additional-features/contract-management/configuration/register-currency.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

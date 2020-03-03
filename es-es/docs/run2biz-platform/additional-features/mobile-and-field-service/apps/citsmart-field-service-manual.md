@@ -1,8 +1,8 @@
-title: Manual de uso de la aplicación CITSmart GO
+title: Manual de uso de la aplicación 4biz GO
 Description: Permitir la realización de llamadas para técnico en campo en modo offline (donde el operador no tiene internet).
-# Manual de uso de la aplicación CITSmart GO
+# Manual de uso de la aplicación 4biz GO
 
-El objetivo de la aplicación CITSmart GO es permitir la realización de llamadas
+El objetivo de la aplicación 4biz GO es permitir la realización de llamadas
 para técnico en campo en modo offline (donde el operador no tiene internet).
 
 Antes de empezar
@@ -10,9 +10,9 @@ Antes de empezar
 
 1.  Tener configurado la aplicación en la instancia ITSM;
 
-2.  Instalar la aplicación CITSmart GO en el móvil;
+2.  Instalar la aplicación 4biz GO en el móvil;
 
-3.  Es necesario delegar tareas al técnico en el sitio CITSmart para que se
+3.  Es necesario delegar tareas al técnico en el sitio 4biz para que se
     pueda atender en campo en el modo offline.
 
 Procedimiento
@@ -20,7 +20,7 @@ Procedimiento
 
 !!! Abstract "ATENCIÓN"
 
-    Al iniciar sesión en la aplicación CITSmart GO, la primera sincronización puede 
+    Al iniciar sesión en la aplicación 4biz GO, la primera sincronización puede 
     tardar unos instantes, ya que para funcionar sin conexión tiene que descargar todas 
     las solicitudes y enviar las que han cambiado para que la aplicación funcione 
     correctamente.
@@ -38,9 +38,9 @@ Procedimiento
     
     !!! Abstract "ATENCIÓN"
     
-        Sólo los componentes simples de Neuro, como los formularios, se pueden representar 
+        Sólo los componentes Taskers de Builder, como los formularios, se pueden representar 
         en el Mobile GO. Estos formularios no pueden tener ninguna lógica de JavaScript vinculada 
-        a ellos, deben ser similares al cuestionario existente en el CITSmart SM.
+        a ellos, deben ser similares al cuestionario existente en el 4biz SM.
         
     !!! Abstract "REGLA"
     
@@ -61,7 +61,7 @@ Procedimiento
     completar la sincronización;
 
 8.  Está disponible la sincronización manual de las solicitudes tan pronto la
-    aplicación encuentre una red accesible. Para ello, simplemente deslice la
+    aplicación encuentre una red accesible. Para ello, Taskermente deslice la
     pantalla hacia abajo con el dedo o haga clic en el icono "Actualizar lista";
 
 9.  Hay filtros que facilitan la localización del ticket necesario, se lo acceda
@@ -71,11 +71,11 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar instancia para utilizar la aplicación CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+[Configurar instancia para utilizar la aplicación 4biz GO](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
-[Obtener signatura en atención de campo](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
+[Obtener signatura en atención de campo](/es-es/4biz-helium/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

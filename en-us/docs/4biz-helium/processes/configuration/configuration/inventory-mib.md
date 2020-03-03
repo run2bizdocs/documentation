@@ -6,9 +6,9 @@ It's possible to collect hardware asset data using the SNMP protocol - via MIB c
 
 ## What to do beforeO que fazer antes
 
-- [X] It's necessary to have deployed the CITSmart Inventory Version 1.2.1.9 or higher (see [Perform installation][1]);
+- [X] It's necessary to have deployed the 4biz Inventory Version 1.2.1.9 or higher (see [Perform installation][1]);
 - [X] In the standalone-full.xml file, add the property `snmp.oid.repository.directory` with the path of the folder where it'll be the files xml with the layout (see [System Properties Configuration][2]);
-- [X] Have an inventory process defined via Configuration Management (see [Implement CITSmart Inventory][3]);
+- [X] Have an inventory process defined via Configuration Management (see [Implement 4biz Inventory][3]);
 - [X] Inventory the SNMP configuration item for collecting MIB (see [Configuring inventory connection][4]);
 
 
@@ -50,7 +50,7 @@ After creating the model, it's necessary to save it in the folder indicated in t
     1. http://www.oidview.com/mibs/ - Repository containing thousands of MIB separated by the manufacturers.
     2. http://ireasoning.com/mibbrowser.shtml - MibBrowser tool that can assist in OID collection.
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html
-[2]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
-[3]:/en-us/citsmart-platform-8/additional-features/add-ons/inventory.html
-[4]:/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation.html
+[2]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-system-properties
+[3]:/en-us/4biz-helium/additional-features/add-ons/inventory.html
+[4]:/en-us/4biz-helium/processes/event/configuration/set-inventory-connection.html

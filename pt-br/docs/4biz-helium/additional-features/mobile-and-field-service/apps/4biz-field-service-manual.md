@@ -1,17 +1,17 @@
-title: Manual de utilização do aplicativo CITSmart GO
-Description: O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
-# Manual de utilização do aplicativo CITSmart GO
+title: Manual de utilização do aplicativo 4biz GO
+Description: O objetivo do aplicativo 4biz GO é permitir a realização de atendimentos em do técnico em campo no modo offline (onde o atendente não possui internet).
+# Manual de utilização do aplicativo 4biz GO
 
-O objetivo do aplicativo CITSmart GO é permitir a realização de atendimentos do técnico em campo no modo offline (onde o atendente não possui internet).
+O objetivo do aplicativo 4biz GO é permitir a realização de atendimentos do técnico em campo no modo offline (onde o atendente não possui internet).
 
 Antes de começar 
 -----------------
 
 1.  Ter configurado o aplicativo na instância ITSM;
 
-2.  Instalar o aplicativo CITSmart GO (Android e iOS);
+2.  Instalar o aplicativo 4biz GO (Android e iOS);
 
-3.  É necessário delegar tarefas ao técnico no site CITSmart para que o mesmo as
+3.  É necessário delegar tarefas ao técnico no site 4biz para que o mesmo as
     possa atender em campo no modo offline.
 
 Procedimento
@@ -19,7 +19,7 @@ Procedimento
 
 !!! Abstract "ATENÇÃO"
 
-    Ao logar no aplicativo CITSmart GO, a primeira sincronização pode demorar
+    Ao logar no aplicativo 4biz GO, a primeira sincronização pode demorar
     alguns instantes, pois para funcionar offline tem que baixar todas as
     solicitações e enviar as que tiveram mudanças para que o aplicativo funcione
     corretamente.
@@ -42,7 +42,7 @@ Procedimento
 
     !!! warning "ATENÇÃO"
 
-        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no CITSmart                     Experience.
+        Apenas componentes Taskers do Builder, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no 4biz                     Experience.
 
 
     !!! Abstract "REGRA"
@@ -73,11 +73,11 @@ Procedimento
 Relacionado
 -----------
 
-[Configurar instância para uso do aplicativo CITSmart GO](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+[Configurar instância para uso do aplicativo 4biz GO](/pt-br/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
-[Obter assinatura em atendimento de campo](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
+[Obter assinatura em atendimento de campo](/pt-br/4biz-helium/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

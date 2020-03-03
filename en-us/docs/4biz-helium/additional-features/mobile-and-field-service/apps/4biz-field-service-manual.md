@@ -1,17 +1,17 @@
-title: CITSmart GO application manual
-Description: The purpose of the CITSmart GO application is to make offline technical attendance (when the attendant has no connection).
-# CITSmart GO application manual
+title: 4biz GO application manual
+Description: The purpose of the 4biz GO application is to make offline technical attendance (when the attendant has no connection).
+# 4biz GO application manual
 
-The purpose of the CITSmart GO application is to make offline technical attendance (when the attendant has no connection).
+The purpose of the 4biz GO application is to make offline technical attendance (when the attendant has no connection).
 
 Before getting started
 --------------------------
 
 1.  Have configured the application in the ITSM instance;
 
-2.  Install the CITSmart GO application in the mobile (Android and iOS);
+2.  Install the 4biz GO application in the mobile (Android and iOS);
 
-3.  It's necessary to delegate technical tasks in the CITSmart website so it'll
+3.  It's necessary to delegate technical tasks in the 4biz website so it'll
     be possible to field attendance in offline.
 
 Procedure
@@ -19,7 +19,7 @@ Procedure
 
 !!! Abstract "NOTE"
 
-    When logging into the CITSmart GO application, the first synchronization can take 
+    When logging into the 4biz GO application, the first synchronization can take 
     a few moments, because to work offline, you have to download all the requests and 
     send the ones that have changed, so that the application works correctly.
 
@@ -35,9 +35,9 @@ Procedure
     
     !!! Abstract "NOTE"
     
-        Only simple components of Neuro, for example, forms, can be rendered in the Mobile GO.
+        Only Tasker components of Builder, for example, forms, can be rendered in the Mobile GO.
         These forms cannot have any JavaScript logic linked to them, they should be similar to 
-        the existing questionnaire in CITSmart SM.
+        the existing questionnaire in 4biz SM.
         
     !!! Abstract "RULE"
     
@@ -67,13 +67,13 @@ Procedure
 Related
 -------------  
 
-[Configure instance to use CITSmart GO application](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
+[Configure instance to use 4biz GO application](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html)
 
-[Get signature in field service](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
+[Get signature in field service](/en-us/4biz-helium/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
     
 

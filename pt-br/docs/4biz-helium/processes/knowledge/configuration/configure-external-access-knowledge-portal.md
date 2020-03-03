@@ -63,18 +63,18 @@ Acessar o Portal do conhecimento e fazer busca por algum conhecimento sem logar.
 Relacionado
 ----------
 
-[Criar pasta](/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+[Criar pasta](/pt-br/4biz-helium/processes/knowledge/configuration/create-folder.html)
 
-[Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+[Criar conhecimento](/pt-br/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
-[Customizar o Portal do Conhecimento](/pt-br/citsmart-platform-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
+[Customizar o Portal do Conhecimento](/pt-br/4biz-helium/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html)
 
-[Indexar conhecimentos](/pt-br/citsmart-platform-8/platform-administration/data-indexing/management.html)
+[Indexar conhecimentos](/pt-br/4biz-helium/platform-administration/data-indexing/management.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

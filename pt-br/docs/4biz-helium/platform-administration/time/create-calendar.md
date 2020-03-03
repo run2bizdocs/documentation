@@ -36,7 +36,7 @@ Procedimento
 Relacionado
 -----------
 
-[Criar perfil de acesso](/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Criar perfil de acesso](/pt-br/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Cadastrar jornadas de trabalho](/pt-br/citsmart-platform-8/platform-administration/time/create-working-day.html)
+[Cadastrar jornadas de trabalho](/pt-br/4biz-helium/platform-administration/time/create-working-day.html)
 

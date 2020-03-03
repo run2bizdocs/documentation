@@ -2,7 +2,7 @@ Title: Implementing Remote Access
 
 # Implementing Remote Access
 
-The remote access functionality allows computers to be accessed remotely from your CITSmart instance. In this sense, we use the Virtual Network Computing (VNC) protocol resources through the Apache Guacamole - web-based remote access gateway - to make this operation feasible. In addition to being able to remotely access a configuration item, all sessions are saved and made available to the CI information. This ensures better control over the actions taken by providing a reliable and auditable environment.
+The remote access functionality allows computers to be accessed remotely from your 4biz instance. In this sense, we use the Virtual Network Computing (VNC) protocol resources through the Apache Guacamole - web-based remote access gateway - to make this operation feasible. In addition to being able to remotely access a configuration item, all sessions are saved and made available to the CI information. This ensures better control over the actions taken by providing a reliable and auditable environment.
 
 This functionality is an add-on to the Configuration Management and depends on the inventory process to make viable remote access to a CI.
 
@@ -11,13 +11,13 @@ This functionality is an add-on to the Configuration Management and depends on t
 
 The following requirements precede the effective use of this functionality:
 
-* [x] Having the inventory process defined and functional using the CITSmart Inventory;
+* [x] Having the inventory process defined and functional using the 4biz Inventory;
 * [x] Having inventoried the configuration items; 
 
 ## Procedure
 
-1. Install the GuaCD using the [official documentation][1] or download the container provided by CITSmart. It is not necessary to install 
-the guacamole-client, since CITSmart only uses the Guacamole daemon, that is, the GuaCD;
+1. Install the GuaCD using the [official documentation][1] or download the container provided by 4biz. It is not necessary to install 
+the guacamole-client, since 4biz only uses the Guacamole daemon, that is, the GuaCD;
 
 2. After installation, set up the logs;
 
@@ -32,7 +32,7 @@ the guacamole-client, since CITSmart only uses the Guacamole daemon, that is, th
 5. Perform the configuration by replacing the variables with the information of your server;
 
     ```java
-    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
+    java -Durl=${4biz_PROTOCOL}://${4biz_URL}/4biz -DcontainerIdentifier=${4bizGUACD_ID} -DuserName=4biz.local\\${4biz_LOGIN} -Dpassword=${4biz_PASSWORD} -jar /4biz-guacd-encoder.jar &
     ```
 
 6. Set directory for recording videos (eg.: /mp4);
@@ -53,11 +53,11 @@ With GuaCD service active and communicable, the next step is to remotely access 
 
 [Configuration Management][5]
 
-[Implement CITSmart Inventory][6]
+[Implement 4biz Inventory][6]
 
 [1]:https://guacamole.apache.org/doc/gug/installing-guacamole.html
 [3]:https://www.tightvnc.com/
-[4]:/en-us/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html
-[5]:/en-us/citsmart-platform-8/processes/configuration/overview.html
-[6]:https://docs.citsmart.com/en-us/citsmart-platform-8/additional-features/add-ons/inventory.html
+[4]:/en-us/4biz-helium/processes/configuration/configuration/configure-remote-access.html
+[5]:/en-us/4biz-helium/processes/configuration/overview.html
+[6]:https://docs.4biz.com/en-us/4biz-helium/additional-features/add-ons/inventory.html
 

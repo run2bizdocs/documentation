@@ -1,13 +1,13 @@
 Title: Fluxo de integração de processos  
-Description:Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.  
+Description:Os fluxos de integração de processos são trackers que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.  
 
 # Fluxo de integração de processos  
 
-Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
+Os fluxos de integração de processos são trackers que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.    
 
 ## Como acessar 
 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo de Integração.  
+1. Acesse a funcionalidade através do menu Builder > Gerenciamento > Fluxo de Integração.  
 
 ## Pré-condições
 
@@ -21,14 +21,14 @@ Os fluxos de integração de processos são workflows que possuem tarefas execut
 
 ![Screenshot](images/Process-fig01.png)
 
-Figura 1 - Tela de pesquisa de design workflow/ESI   
+Figura 1 - Tela de pesquisa de design tracker/ESI   
 
 ## Listagem de itens   
 1. Os seguintes campos cadastrais estão disponíveis ao usuário para facilitar a identificação dos itens desejados na listagem padrão da funcionalidade: Nome, Descrição, Aplicação do fluxo, Versão e Data de bloqueio.   
 
 ![Screenshot](images/Process-fig02.png) 
 
-Figura 2 - Tela de listagem de design workflow/ESI   
+Figura 2 - Tela de listagem de design tracker/ESI   
 
 ## Preenchimento dos campos cadastrais - dados do fluxo 
 
@@ -40,7 +40,7 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
     
     Figura 3 - Tela de cadastro de fluxo de integração de serviços    
 
-2. Será apresentada a tela de cadastro de Design Workflow/ESI, precisamente na aba Dados de Fluxo, conforme ilustrada na figura abaixo:     
+2. Será apresentada a tela de cadastro de Design tracker/ESI, precisamente na aba Dados de Fluxo, conforme ilustrada na figura abaixo:     
 
     ![Screenshot](images/Process-fig04.png)
     
@@ -50,7 +50,7 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
  
  * Informe um nome para o fluxo, uma descrição, a aplicação do fluxo e qual formulário dará início ao fluxo (caso se             aplique);  
 
- * O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada;  
+ * O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do tracker for criada;  
 
  * O gerenciamento de tempo poderá ocorrer das seguintes formas:  
 
@@ -68,7 +68,7 @@ Verificar documentação de Variáveis.
 
 Os estados do fluxo representam as situações nas quais um fluxo pode se encontrar, de acordo com o seu ciclo de vida.    
 
-1. Para adicionar um estado para o workflow, selecione a aba Estados e clique em "Adicionar".   
+1. Para adicionar um estado para o tracker, selecione a aba Estados e clique em "Adicionar".   
 2. Será apresentado a seguinte tela de cadastro de estado:    
 
     ![Screenshot](images/Process-fig05.png)
@@ -82,7 +82,7 @@ Os estados do fluxo representam as situações nas quais um fluxo pode se encont
     - Uma cor de fundo que será exibida quando o fluxo estiver nesse estado;  
     - A cor do texto que será exibida quando o fluxo estiver nesse estado;   
     - Se é o estado inicial do fluxo;    
-    - A situação da instância do fluxo, ou seja, se nesse estado o workflow estará aberto, encerrado, suspenso ou cancelado.   
+    - A situação da instância do fluxo, ou seja, se nesse estado o tracker estará aberto, encerrado, suspenso ou cancelado.   
 
 4. Para editar um estado, selecione o estado desejado, clique em "Editar", faça as alterações necessárias e clique em "Atualizar" para concluir a edição.   
 5. Para remover um estado, selecione a estado desejado, clique em "Remover" e confirme a exclusão.   
@@ -93,14 +93,14 @@ Os estados do fluxo representam as situações nas quais um fluxo pode se encont
 	
 ## Ações
 
-Por meio deste menu, é possível cadastrar as ações que serão executadas no workflow.     
+Por meio deste menu, é possível cadastrar as ações que serão executadas no tracker.     
 
 1. Para incluir uma ação, selecione a aba Ações e clique na opção "Adicionar".  
 2. Será apresentado a tela de cadastro de ação, conforme ilustrado na figura abaixo:   
 
     ![Screenshot](images/Process-fig06.png) 
     
-    Figura 6 - Tela de cadastro/edição do workflow, aba de ações   
+    Figura 6 - Tela de cadastro/edição do tracker, aba de ações   
 
 3. Preencha os campos, informando:    
 
@@ -119,7 +119,7 @@ Por meio deste menu, é possível cadastrar as ações que serão executadas no 
 	
 ## Atores 
 
-Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do workflow desenhado.   
+Os atores do fluxo são os usuários ou grupos de usuários que participam de tarefa(s) do tracker desenhado.   
 
 Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de pedido de delivery de pizza, você provavelmente contará com atores como o cliente, o atendente, o pizzaiolo, e o entregador. Todos esses papéis são considerados atores no fluxo, pois todos eles participam do processo de entrega de pizzas.    
 
@@ -128,7 +128,7 @@ Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de 
 	
     ![Screenshot](images/Process-fig07.png)
     
-    Figura 7 - Tela de cadastro/edição do workflow, aba de Atores    
+    Figura 7 - Tela de cadastro/edição do tracker, aba de Atores    
 	
 3. Preencha os campos, informando:    
 
@@ -158,9 +158,9 @@ Exemplo: Suponha que você queira pedir uma pizza da sua casa.  No seu fluxo de 
 	
 ## Diagrama  
 
-O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode ser desenhado por aqui, por meio da utilização da notação BPMN.    
+O desenho do tracker é feito na aba Diagrama. Todo o processo de negócio pode ser desenhado por aqui, por meio da utilização da notação BPMN.    
 
-1. Os elementos que podem ser adicionados ao workflow, se encontram na paleta no canto esquerdo da tela. Estes elementos são subdivididos em:   
+1. Os elementos que podem ser adicionados ao tracker, se encontram na paleta no canto esquerdo da tela. Estes elementos são subdivididos em:   
 
     - Eventos: “São ocorrências que disparam, interrompem, mudam ou finalizam o processo. São classificados como eventos de início,         intermediários ou de fim, dependendo do momento em que ocorrem no processo”.   
     - Tarefas: “É a menor parte de um processo. Ela é uma ação, não é uma função, nem o estado de um produto ou serviço. É “o que”           fazer, por isto deve ser escrita com o verbo no infinitivo”.   
@@ -168,7 +168,7 @@ O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode
 
     ![Screenshot](images/Process-fig08.png)
     
-    Figura 8 - Tela de cadastro/edição do workflow, aba de Diagrama   
+    Figura 8 - Tela de cadastro/edição do tracker, aba de Diagrama   
 
 2. Para incluir um elemento no fluxo, selecione-o e arraste-o para a página de desenho. Um modal com as propriedades do elemento será exibido na tela (de acordo com o elemento escolhido). As informações exibidas para preenchimento no modal dependem de acordo com o elemento selecionado, que podem ser:    
 
@@ -189,10 +189,10 @@ O desenho do workflow é feito na aba Diagrama. Todo o processo de negócio pode
 	    - Identificação  
 
 3. Variáveis  
-    - Nesta aba deverão ser selecionadas as variáveis cadastradas que fazem parte da execução dessa tarefa. Poderão ser selecionadas         várias variáveis, sendo que uma variável poderá ser de entrada e/ou saída. As variáveis que são apresentadas nessa lista são as         mesmas que foram cadastradas na aba “Variáveis” do cadastro do workflow.    
+    - Nesta aba deverão ser selecionadas as variáveis cadastradas que fazem parte da execução dessa tarefa. Poderão ser selecionadas         várias variáveis, sendo que uma variável poderá ser de entrada e/ou saída. As variáveis que são apresentadas nessa lista são as         mesmas que foram cadastradas na aba “Variáveis” do cadastro do tracker.    
 
 4. Ações do usuário   
-    - A aba de ações de usuário representa as ações que o usuário poderá acionar quando estiver executando a tarefa em questão.             Dependendo da ação selecionada, o fluxo poderá seguir um fluxo alternativo, ou não. Tudo depende da modelagem. As ações que são         apresentadas nessa lista são as mesmas que foram cadastradas na aba “Ações” do cadastro do workflow.    
+    - A aba de ações de usuário representa as ações que o usuário poderá acionar quando estiver executando a tarefa em questão.             Dependendo da ação selecionada, o fluxo poderá seguir um fluxo alternativo, ou não. Tudo depende da modelagem. As ações que são         apresentadas nessa lista são as mesmas que foram cadastradas na aba “Ações” do cadastro do tracker.    
 
 5. Interface  
    

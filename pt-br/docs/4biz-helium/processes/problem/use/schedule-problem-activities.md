@@ -29,12 +29,12 @@ Procedimento
 Relacionado
 ------------
 
-[Cadastrar um problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)	
+[Cadastrar um problema](/pt-br/4biz-helium/processes/problem/use/register-problem.html)	
 
-[Cadastrar grupo de atividade periódica](/pt-br/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Cadastrar grupo de atividade periódica](/pt-br/4biz-helium/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço
 

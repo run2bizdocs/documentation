@@ -12,7 +12,7 @@ expressions.
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Workflow \> Expressions;
+1.  Access the functionality through the main menu tracker \> Expressions;
 
 2.  To import expressions from other system, click on "Import";
 
@@ -26,5 +26,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

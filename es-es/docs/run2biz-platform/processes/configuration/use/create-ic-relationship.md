@@ -50,7 +50,7 @@ El registro de la relación requiere:
 
 [Crear Ítem de Configuración][3]
 
-[1]:/es-es/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
-[2]:/es-es/citsmart-platform-8/processes/configuration/configuration/create-type-relationship-ci.html
-[3]:/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html
-[4]:/es-es/citsmart-platform-8/processes/configuration/use/view-ci-relationship-map.html
+[1]:/es-es/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html
+[2]:/es-es/4biz-helium/processes/configuration/configuration/create-type-relationship-ci.html
+[3]:/es-es/4biz-helium/processes/configuration/use/register-CI.html
+[4]:/es-es/4biz-helium/processes/configuration/use/view-ci-relationship-map.html

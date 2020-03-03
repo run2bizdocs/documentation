@@ -8,7 +8,7 @@ auditoria.
 !!! Abstract "NOTA"
 
     Caso os nomes das tabelas não estejam atualizados, acessar a
-    funcionalidade Parâmetros CITSmart e definir o nome do banco de dados
+    funcionalidade Parâmetros 4biz e definir o nome do banco de dados
     utilizado no parâmetro ' DB - nome do SHEMA do banco de dados '. Após isto,
     acessar funcionalidade Carrega Meta Dados e atualizar todas as tabelas.
 
@@ -28,5 +28,5 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

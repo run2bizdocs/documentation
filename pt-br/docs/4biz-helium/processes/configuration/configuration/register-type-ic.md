@@ -34,9 +34,9 @@ Procedimento
 Relacionado
 ----------
 
-[Cadastrar característica](/pt-br/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
+[Cadastrar característica](/pt-br/4biz-helium/processes/configuration/configuration/register-characteristics.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 – Anna Martins

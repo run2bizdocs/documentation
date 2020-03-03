@@ -1,8 +1,8 @@
 title: CSS
-Description: The Neuro allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.
+Description: The Builder allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.
 # CSS
 
-The Neuro allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.  
+The Builder allows the maintenance of CSS files within the tool. These files can be used on Forms as a dependency.  
 
 !!! Abstract "ATTENTION"
 
@@ -10,7 +10,7 @@ The Neuro allows the maintenance of CSS files within the tool. These files can b
 
 ##How to access  
 
-1.  Access the feature by navigating the menu Neuro > Resources > CSS.  
+1.  Access the feature by navigating the menu Builder > Resources > CSS.  
 
 ##Preconditions  
 
@@ -61,6 +61,6 @@ Figure 2 - CSS listing screen
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 

@@ -19,7 +19,7 @@ Before getting started
 --------------------------
 
 To register the Global manager, it's necessary to previously register the
-CITSmart Event Monitor connection, the CITSmart Inventory connection, the time,
+4biz Event Monitor connection, the 4biz Inventory connection, the time,
 occurrence category, automatic action and connection.
 
 Procedure
@@ -48,16 +48,16 @@ Procedure
 Related
 -------
 
-[Register occurrence category](/en-us/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+[Register occurrence category](/en-us/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-[Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Register time](/en-us/4biz-helium/processes/event/configuration/register-time.html)
 
-[Set Inventory connection](/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+[Set Inventory connection](/en-us/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

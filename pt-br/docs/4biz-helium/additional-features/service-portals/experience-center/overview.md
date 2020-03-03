@@ -51,4 +51,4 @@ Para acessar a funcionalidade do Centro de Experiência, acesse o menu **Centro 
 !!! note "NOTA"
     A exportação pode ser realizada na área de criação do Centro de Experiência ou editando um Centro de Experiência já existente.
 
-[1]:/pt-br/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html
+[1]:/pt-br/4biz-helium/additional-features/service-portals/experience-center/create-experience-center.html

@@ -1,13 +1,13 @@
 title: Visão Geral  
 
-# O que é CITSmart ?
+# O que é 4biz ?
 
-O CITSmart, desenvolvido pela CITSmart Corporation®, é uma **plataforma que
+O 4biz, desenvolvido pela 4biz Corporation®, é uma **plataforma que
 conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
 resultados do negócio**.
 
 Através dos portais de relacionamento otimizamos a experiência de clientes e
-colaboradores. Além disso, por meio do **Workflow Digital Inteligente** e gestão ágil, 
+colaboradores. Além disso, por meio do **tracker Digital Inteligente** e gestão ágil, 
 com uso de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
 gerando assim, melhoria progressiva e interativa, simplicidade na execução,
 praticidade, alinhamento e agilidade.
@@ -27,7 +27,7 @@ Há cases de gestão de serviços com processos automatizados em diversas áreas
 *   Comunicação, Marketing entre outros.
 
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
-biblioteca de melhores práticas da ITIL, o CITSmart possui nativamente 13
+biblioteca de melhores práticas da ITIL, o 4biz possui nativamente 13
 processos automatizados, sendo eles:
 
 *   Gerenciamento de Portfólio
@@ -45,7 +45,7 @@ processos automatizados, sendo eles:
 *   Gerenciamento de Continuidade
 
 Alinhado com as técnicas de Gerenciamento de Serviços de Negócios, adotando as melhores
-práticas da ITIL (Information Technology Infrastructure Library), CITSmart é uma
+práticas da ITIL (Information Technology Infrastructure Library), 4biz é uma
 solução integrada, desenhada para gerenciar qualquer Serviço, ticket ou situação de fluxo
 de trabalho.
 
@@ -69,7 +69,7 @@ Isso fornece às empresas uma estrutura organizacional e uma implementação de
 serviços que aplicam as melhores práticas ao ambiente organizacional,
 traduzindo objetivos e metas em realidade mensurável.
 
-Atendendo a essas demandas, a governança do CITSmart Platform fornece os recursos para
+Atendendo a essas demandas, a governança do 4biz Platform fornece os recursos para
 gerenciar o ambiente informacional dentro das melhores práticas para a
 execução, monitoramento e medição, culminando na disponibilidade de
 serviços que atendam às necessidades da organização, alcance de seus escopos corporativos
@@ -79,7 +79,7 @@ Acelerar a transformação digital
 ---------------------------------
 
 Os serviços vinculados à nossa plataforma dão o suporte necessário ao seu negócio.
-Ao adotar as tecnologias contidas no CITSmart, sua organização pode criar
+Ao adotar as tecnologias contidas no 4biz, sua organização pode criar
 as melhores alternativas de aumento, com a garantia do melhor ROI, quando
 comparado às soluções de mercado.
 
@@ -133,7 +133,7 @@ empresa em um único ponto.
 
 -   Reduzir custos melhorando seus processos. O padrão de BPM irá ajudá-lo na
     criação de COMO-SE, e com a solução, desenhar o PARA-SER se tornará
-    muito simples
+    muito Taskers
 
 -   Controlar a equipe de profissionais através de georreferenciamento e responder às
     demandas externas mais rapidamente (Gerenciamento de Suporte em Campo)
@@ -162,12 +162,12 @@ segue o conceito integrador de Governança
 Corporativa, tem o objetivo de ser uma fonte de conhecimento que pode treiná-lo
 de acordo com as necessidades e modelo de negócio da sua instituição.
 
-O CITSmart foi planejado e escrito com o objetivo de esclarecer o universo de
+O 4biz foi planejado e escrito com o objetivo de esclarecer o universo de
 gerenciamento inteligente e eficaz dos serviços de TI, através da unificação de
 informações e demandas dos diversos componentes de uma empresa, tornando o seu
 dia-a-dia mais prático, inteligente e dinâmico.
 
-A solução CITSmart foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
+A solução 4biz foi desenvolvida com foco no atendimento das necessidades do Gerenciamento de
 Serviço e da Central de Serviço. É possível desenvolver e implantar processos de gerenciamento de serviços
 com base nos principais processos ITIL da sua organização,
 apoiados pela certificação internacional Pink Elephant.
@@ -182,7 +182,7 @@ outros serviços da sua organização.
     com telefonia e redes sociais, entre outros.
 
 -   Trabalho Ágil: várias tabelas Kanban, checklists, planejamento rápido, delegação fácil e
-    ágil, controle simples e eficiente.
+    ágil, controle Taskers e eficiente.
 
 -   Operações de Negócios: Portal de serviços para clientes e funcionários, gerenciamento de
     diversas demandas, gestão de desempenho de pessoas, portal de serviços de RH modernos,
@@ -207,12 +207,12 @@ Por que adotá-lo?
 
 Ágil é o novo normal. Adaptar-se rapidamente é quase obrigatório.
 
-O CITSmart é desenhado para mover departamentos e pessoas em um conceito ágil,
+O 4biz é desenhado para mover departamentos e pessoas em um conceito ágil,
 sem esquecer o fator humano, para as metas estabelecidas por cada
 organização. Acreditamos que mais do que velocidade, o importante é ter
 consistência no movimento.
 
-A visão futura do CITSmart é baseada em 4 pilares: **Pessoas, Processos,
+A visão futura do 4biz é baseada em 4 pilares: **Pessoas, Processos,
 Experiências e Resultados**.
 
 | **Pilar**      | Nossa visão                                                                                                                                                                                                                                                                                                                              |
@@ -234,7 +234,7 @@ ou compra. Prepare-se para este futuro.
 
 ### Diferencial Competitivo
 
-CITSmart Platform traz os seguintes diferenciais competitivos:
+4biz Platform traz os seguintes diferenciais competitivos:
 
 -   Pronto para uso (85% das personalizações para TI e RH já estão aplicadas).
     A transformação digital começa rapidamente.
@@ -245,16 +245,16 @@ CITSmart Platform traz os seguintes diferenciais competitivos:
 -   ROI aprimorado no investimento em soluções corporativas ITSM, pois ele pode ser usado para
     ESM
 
--   Alta capacidade de adaptação aos negócios do cliente (devido ao Neuro e ao Fluxo de
+-   Alta capacidade de adaptação aos negócios do cliente (devido ao Builder e ao Fluxo de
     Trabalho) - Personalização online e codeless
 
--   All-In-One e, ao mesmo tempo, simples de usar, integrando-se facilmente às
+-   All-In-One e, ao mesmo tempo, Taskers de usar, integrando-se facilmente às
     atividades e operações diárias
 
 -   Adaptação a vários tamanhos de empresas (pequenas, médias ou grandes). Pode monitorar a
     empresa em sua jornada de crescimento
 
--   Modelo de marketing simples. Fácil de entender pelo parceiro e cliente
+-   Modelo de marketing Taskers. Fácil de entender pelo parceiro e cliente
 
 -   Plataforma de Centro de Experiência Integrada, BPM e Kanban para gerenciar várias áreas
     de negócios, fornecendo um espaço de trabalho digital eficiente

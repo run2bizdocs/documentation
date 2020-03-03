@@ -1,18 +1,18 @@
 title: Create ticket via Twitter
-Description: CITSmart, in order to expand the service modalities, allows users to register their tickets directly through the social network interface Twitter.
+Description: 4biz, in order to expand the service modalities, allows users to register their tickets directly through the social network interface Twitter.
 
 # Create ticket via Twitter
-CITSmart, in order to expand the service modalities, allows users to register their tickets directly through the social network interface Twitter.
+4biz, in order to expand the service modalities, allows users to register their tickets directly through the social network interface Twitter.
 
 Before getting started
 ----------------------
 
-It is necessary to have the integration functionality with Twitter configured in the CITSmart instance besides of having the machine learning functionality (Python environment). Moreover, it is necessary to define the service that will attend to this type of service, as well as contracts and permissions in workflows. 
+It is necessary to have the integration functionality with Twitter configured in the 4biz instance besides of having the machine learning functionality (Python environment). Moreover, it is necessary to define the service that will attend to this type of service, as well as contracts and permissions in trackers. 
 
 Procedure 
 -------------
 
-1.  Follow CITSmart on Twitter;
+1.  Follow 4biz on Twitter;
 
 2.  Click on "Messages" on Twitter;
 
@@ -29,11 +29,11 @@ Procedure
 
 !!! Abstract "IMPORTANT"
 
-    The opening and attendance of tickets via Twitter is only possible if the system follows a Neuro workflow 
+    The opening and attendance of tickets via Twitter is only possible if the system follows a Builder tracker 
     specifically created in order to meet this type of request. Besides, to execute this flow, it is necessary 
     a business process scheduled by Cron expression.  
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/29/2019 – Larissa Lourenço

@@ -51,13 +51,13 @@ O que fazer a seguir
 Relacionado
 ---------------
 
-[Cadastrar uma liberação](/pt-br/citsmart-platform-8/processes/release/use/register-release-request.html)
+[Cadastrar uma liberação](/pt-br/4biz-helium/processes/release/use/register-release-request.html)
 
-[Atividades da fase de planejamento da liberação](/pt-br/citsmart-platform-8/processes/release/use/release-planning-activities.html)
+[Atividades da fase de planejamento da liberação](/pt-br/4biz-helium/processes/release/use/release-planning-activities.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPc9F3kW8T8Mw2rtMylBEWC)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

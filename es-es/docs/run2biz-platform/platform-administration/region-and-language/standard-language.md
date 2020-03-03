@@ -6,13 +6,13 @@ Esta funcionalidad está destinada a configurar el idioma predeterminado del sis
 
 ## Procedimiento
 
-1. Acceder al menú principal Parametrización > Parámetros CITSmart;   
+1. Acceder al menú principal Parametrización > Parámetros 4biz;   
 2. Buscar parámetro 66, configurar valor EN para inglés, ES para español o PT para portugués;
 3. Hacer clic en "Guardar".
 
 !!! Abstract "Siempre mantenga el sistema en inglés."  
 
-    1. Acceder al menú principal Parametrización > Parámetros CITSmart;   
+    1. Acceder al menú principal Parametrización > Parámetros 4biz;   
     2. Buscar parámetro 275; 
     3. Seleccionar "Sí";  
     4. Hacer clic en "Guardar".  
@@ -20,7 +20,7 @@ Esta funcionalidad está destinada a configurar el idioma predeterminado del sis
 	
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles
 	
 	

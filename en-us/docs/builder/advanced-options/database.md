@@ -1,13 +1,13 @@
 Title: Database  
-Description:By using this screen the user can register the databases used by Neuro.
+Description:By using this screen the user can register the databases used by Builder.
 
 # Database  
 
-By using this screen the user can register the databases used by Neuro.  
+By using this screen the user can register the databases used by Builder.  
 
 ##How to access  
 
-1. Access the feature by navigating the menu Neuro > Configuration > Database.  
+1. Access the feature by navigating the menu Builder > Configuration > Database.  
 
 ##Preconditions  
 
@@ -55,5 +55,5 @@ By using this screen the user can register the databases used by Neuro.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

@@ -44,16 +44,16 @@ Procedure
 Related
 -------
 
-[Configure email templates](/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configure email templates](/en-us/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Register notification recipient](/en-us/citsmart-platform-8/processes/event/configuration/register-notification-recipient.html)
+[Register notification recipient](/en-us/4biz-helium/processes/event/configuration/register-notification-recipient.html)
 
-[Register EPL template](/en-us/citsmart-platform-8/processes/event/configuration/register-epl-template.html)
+[Register EPL template](/en-us/4biz-helium/processes/event/configuration/register-epl-template.html)
 
-[Register notification template](/en-us/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html)
+[Register notification template](/en-us/4biz-helium/additional-features/communication-and-notification/notification/configuration/template-create.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

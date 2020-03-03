@@ -61,15 +61,15 @@ Acessar o ticket desejado e efetuar a delegação.
 Relacionado
 -------
 
-[Delegar um ticket](/pt-br/citsmart-platform-8/processes/tickets/use/delegate-ticket.html)
+[Delegar um ticket](/pt-br/4biz-helium/processes/tickets/use/delegate-ticket.html)
 
-[Configurar modelo de email](/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de email](/pt-br/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins

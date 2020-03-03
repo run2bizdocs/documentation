@@ -6,7 +6,7 @@ Esta funcionalidade tem como objetivo cadastrar ações automáticas de
 notificação. A notificação formaliza e comunica informações sobre o evento e é
 importante que as informações sobre um evento sejam descritas e completas para
 facilitar posteriormente a tomada de decisão. Este cadastro será associado às
-ações automáticas, e será usado nos cadastros de gerentes de eventos do CITSmart
+ações automáticas, e será usado nos cadastros de gerentes de eventos do 4biz
 Nagios, Zabbix, Inventory e Eventos Correlacionados.
 
 Convém que as notificações de eventos sejam enviadas somente para os
@@ -46,11 +46,11 @@ Procedimento
 Relacionado
 -------
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Cadastrar usuário](/pt-br/4biz-helium/initial-settings/access-settings/user/users.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

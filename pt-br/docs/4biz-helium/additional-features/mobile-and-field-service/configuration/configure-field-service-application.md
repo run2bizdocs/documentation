@@ -1,15 +1,15 @@
-title: Configurar instância para uso do aplicativo CITSmart GO
-Description: O aplicativo CITSmart GO possibilita a realização de atendimentos em modo offline
-# Configurar instância para uso do aplicativo CITSmart GO
-O aplicativo CITSmart GO possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
+title: Configurar instância para uso do aplicativo 4biz GO
+Description: O aplicativo 4biz GO possibilita a realização de atendimentos em modo offline
+# Configurar instância para uso do aplicativo 4biz GO
+O aplicativo 4biz GO possibilita a realização de atendimentos em modo offline - em que o atendente não possui internet. Após o aplicativo se conectar a internet, a aplicação enviará, automaticamente, as informações para o ambiente em produção. Vale lembrar que a delegação da solicitação para um atendente deve ser realizada manualmente por um responsável.
  O atendente visualizará apenas solicitações que foram delegadas a ele.
 
 Antes de começar
 ----------------
 
-1.  Instalar o aplicativo CITSmart GO;
+1.  Instalar o aplicativo 4biz GO;
 
-2.  No ambiente - instância do CITSmart -, configurar as seguintes
+2.  No ambiente - instância do 4biz -, configurar as seguintes
     funcionalidades:
 
     -   Webservice: indicar no item "permissões" os grupos de atendimento que poderão visualizar os tickets;
@@ -67,15 +67,15 @@ Procedimento
 O que fazer a seguir
 --------------------
 
-Logar no aplicativo CITSmart GO já instalado, inserindo a URL, usuário e a senha
+Logar no aplicativo 4biz GO já instalado, inserindo a URL, usuário e a senha
 do ambiente. Verificar os tickets e realizar atendimento.
 
 Relacionado
 -----------
 
-[Manual de utilização do aplicativo CITSmart GO](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo 4biz GO](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

@@ -5,7 +5,7 @@ Title: Requerimientos del Sistema
 
 ## Servidor de la Aplicación
 
-CITSmart se ejecuta en el servidor de aplicaciones Wildfly versión 12. Los requerimientos mínimos del sistema requeridos para el servidor de aplicaciones son:
+4biz se ejecuta en el servidor de aplicaciones Wildfly versión 12. Los requerimientos mínimos del sistema requeridos para el servidor de aplicaciones son:
 
 | Recurso | Valor  |
 |---------|---------|
@@ -15,7 +15,7 @@ CITSmart se ejecuta en el servidor de aplicaciones Wildfly versión 12. Los requ
 
 ## Servidor de Base de Datos Relacional
 
-CITSmart es compatible con bases de datos PostgreSQL, Oracle y Microsoft SQL Server. Si ya tiene un sistema de gestión de bases de datos corporativas, se puede utilizar para alojar la base de datos de CITSmart. Si no posee y desea instalar un nuevo SGDB sólo para la aplicación, recomendamos el uso de PostgreSQL 9.2 o posterior, con las siguientes configuraciones:
+4biz es compatible con bases de datos PostgreSQL, Oracle y Microsoft SQL Server. Si ya tiene un sistema de gestión de bases de datos corporativas, se puede utilizar para alojar la base de datos de 4biz. Si no posee y desea instalar un nuevo SGDB sólo para la aplicación, recomendamos el uso de PostgreSQL 9.2 o posterior, con las siguientes configuraciones:
 
 | Recurso | Valor   |
 |---------|---------|
@@ -44,10 +44,10 @@ Para instalar el Apache SOLR, se recomienda seguir la siguiente configuración:
 | **Disco**   | 80 GB   |
 
 !!! tip
-    Los servicios **SOLR** y **MongoDB** se pueden instalar en el mismo servidor que la aplicación CITSmart. Recomendamos para entornos de producción que separe el servidor de base de datos del servidor de aplicaciones.
+    Los servicios **SOLR** y **MongoDB** se pueden instalar en el mismo servidor que la aplicación 4biz. Recomendamos para entornos de producción que separe el servidor de base de datos del servidor de aplicaciones.
    
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins
 

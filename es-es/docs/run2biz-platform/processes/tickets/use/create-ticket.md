@@ -19,7 +19,7 @@ Crear un ticket significa abrir un llamado dentro del sistema, con posibilidad d
 
 3.	Informar los datos del solicitante;
 
-![procedure ticket CITSmart][1]
+![procedure ticket 4biz][1]
 
 **1: Nombre completo** - del solicitante;
 
@@ -37,7 +37,7 @@ Crear un ticket significa abrir un llamado dentro del sistema, con posibilidad d
 
 ### Seleccionar servicio
 
-![Select service ticket CITSmart][2]
+![Select service ticket 4biz][2]
 
 **1: Portafolio**;
 
@@ -54,7 +54,7 @@ Crear un ticket significa abrir un llamado dentro del sistema, con posibilidad d
 
 ### Describir servicio
 
-![Description service CITSmart][3]
+![Description service 4biz][3]
 
 **1: Descripción** – espacio para describir la necesidad del ticket;
 
@@ -124,34 +124,34 @@ Ver en el panel de tickets listados y comprobar la información registrada.
 Relacionado
 ---------------
 
-[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Registrar actividad de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html)
+[Registrar actividad de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html)
 
-[Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/4biz-helium/processes/service-level/configuration/create-time-attendance.html)
 
-[Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 
-[1]:images/procedure-ticket-CITSmart.png
-[2]:images/Select-service-ticket-CITSmart.png
-[3]:images/Description-service-CITSmart.png
+[1]:images/procedure-ticket-4biz.png
+[2]:images/Select-service-ticket-4biz.png
+[3]:images/Description-service-4biz.png
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço
 

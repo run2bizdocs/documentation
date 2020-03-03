@@ -2,13 +2,13 @@ title: Domain
 Description: Domain
 # Domain
 
-Neuro allows to define domains that will be used by all application of the
+Builder allows to define domains that will be used by all application of the
 institution. The identifier (Key) groups the Domain items.
 
 Procedure
 ---------
 
-1.  Access the functionality through navigation in the menu Neuro \> Configuration \> Domain;
+1.  Access the functionality through navigation in the menu Builder \> Configuration \> Domain;
 
 2.  Click on "New";
 
@@ -24,16 +24,16 @@ Procedure
 1.  Click on "Save”.
 
 
-![search](images/neuro-7.png)
+![search](images/Builder-7.png)
 
 Figure 1 - Search domain
 
 
-![search](images/neuro-8.png)
+![search](images/Builder-8.png)
 
 Figure 2 - Register domain
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

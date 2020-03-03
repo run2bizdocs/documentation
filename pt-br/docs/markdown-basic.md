@@ -2,7 +2,7 @@ Title: Usando Markdown
 
 # Usando Markdown
 
-A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown. O Markdown é uma linguagem de marcação leve que você pode usar para adicionar elementos de formatação a documentos de texto em texto simples. Criado por John Gruber em 2004, o Markdown é agora uma das linguagens de marcação mais populares do mundo.
+A documentação de nossos produtos é produzida utilizando o padrão de liguagem Markdown. O Markdown é uma linguagem de marcação leve que você pode usar para adicionar elementos de formatação a documentos de texto em texto Taskers. Criado por John Gruber em 2004, o Markdown é agora uma das linguagens de marcação mais populares do mundo.
 
 Veja abaixo algumas opções de sintax que podem ser utilizadas na criação de documentos.
 

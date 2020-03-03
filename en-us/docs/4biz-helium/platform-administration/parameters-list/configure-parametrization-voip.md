@@ -1,5 +1,5 @@
 title: Configure parametrization - VoIP
-Description: Allow setting the password for communication with the server, informing the standard communication extension for VoIP connection, among other feasible actions in order to configure the use of VoIP in CITSmart.
+Description: Allow setting the password for communication with the server, informing the standard communication extension for VoIP connection, among other feasible actions in order to configure the use of VoIP in 4biz.
 # Configure parametrization - VoIP
 
 VoIP (Voice over Internet Protocol) is human conversation routing using the
@@ -7,7 +7,7 @@ Internet or any other Internet protocol-based computer network, making voice
 transmission one of the services supported by the data network. The "VoIP"
 parameters allow setting the password for communication with the server,
 informing the standard communication extension for VoIP connection, among other
-feasible actions in order to configure the use of VoIP in CITSmart.
+feasible actions in order to configure the use of VoIP in 4biz.
 
 Procedure
 -------------
@@ -30,11 +30,11 @@ Procedure
 | 327 |                                       VOIP - User (Eg: goofy, replaces SIP Identifier when informed)                                      |                                                                                                                E.g.: goofy, replaces the SIP Identifier when informed                                                                                                                |                                  Identification to the communication with the server                                 |                                                                             Not applicable                                                                            |
 | 328 |                                                              VOIP - Password                                                              |                                                                                                                                      Not applied                                                                                                                                     |                                     Password to the communication with the server                                    |                                                                             Not applicable                                                                            |
 | 329 |                                                        VOIP - Extension (Eg.: 0800)                                                       |                                                                                                                                      E.g.:: 0800                                                                                                                                     |                            Inform the default communication extension for VoIP connection                            |                                                                             Not applicable                                                                            |
-| 330 | VOIP - Registration Approach (eg, 1. Register using simple password, 2. Register using HA1 password, 3.Register as a guest (no password)) | If the user configures:1 - It means that the system will use the password defined in parameter 328;2 - It means the system will use an encrypted password;3 - It means that it will not have a password, and even if you set parameter 328, the system will disregard the parameter. | Registration approach for the communication to happen, whether it is a registration approach using a password or not |                                                                             Not applicable                                                                            |
+| 330 | VOIP - Registration Approach (eg, 1. Register using Tasker password, 2. Register using HA1 password, 3.Register as a guest (no password)) | If the user configures:1 - It means that the system will use the password defined in parameter 328;2 - It means the system will use an encrypted password;3 - It means that it will not have a password, and even if you set parameter 328, the system will disregard the parameter. | Registration approach for the communication to happen, whether it is a registration approach using a password or not |                                                                             Not applicable                                                                            |
 
 Table 1 - Parameters list
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

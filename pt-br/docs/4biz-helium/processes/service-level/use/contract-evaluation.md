@@ -1,7 +1,7 @@
 title: Avaliação de contrato
-Description: O CITSmart disponibiliza a oportunidade de verificar e avaliar o desempenho dos contratos por serviço. 
+Description: O 4biz disponibiliza a oportunidade de verificar e avaliar o desempenho dos contratos por serviço. 
 # Avaliação de contrato
-O CITSmart disponibiliza a oportunidade de verificar e avaliar o desempenho dos contratos por serviço.
+O 4biz disponibiliza a oportunidade de verificar e avaliar o desempenho dos contratos por serviço.
 
 Antes de começar
 ----------------
@@ -24,14 +24,14 @@ Procedimento
 Relacionado
 -----------
 
-[Cadastrar um contrato](/pt-br/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Cadastrar um contrato](/pt-br/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Cadastrar atividade de serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html)
+[Cadastrar atividade de serviço](/pt-br/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço
 

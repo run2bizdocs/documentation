@@ -1,12 +1,12 @@
-title: Manual de uso de la aplicación móvil CITSmart Experience (Android)
-Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación CITSmart Experience Mobile.
-# Manual de uso de la aplicación móvil CITSmart Experience (Android)
+title: Manual de uso de la aplicación móvil 4biz Experience (Android)
+Description: Proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación 4biz Experience Mobile.
+# Manual de uso de la aplicación móvil 4biz Experience (Android)
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-instalar, configurar y utilizar la aplicación CITSmart Experience mobile.
+instalar, configurar y utilizar la aplicación 4biz Experience mobile.
 
-El CITSmart Experience mobile ofrece varios recursos:
+El 4biz Experience mobile ofrece varios recursos:
 
 1.  Facilidad en la atención y tener una dirección de donde la solicitud está
     localizada;
@@ -42,22 +42,22 @@ Este documento se ha estructurado en cuatro grandes secciones:
 Antes de empezar
 ----------
 
-   Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart Experience
+   Es necesario Implantar la versión 7.2.2.0 (o superior) de 4biz Experience
    mobile y también configurar el servidor para uso de la
-   aplicación móvil CITSmart Experience mobile (ver Relacionado).
+   aplicación móvil 4biz Experience mobile (ver Relacionado).
 
 Instalación y configuración dell APP en el celular (smartphone)
 --------------------------------------------------------------
 
-Para instalar el CITSmart mobile, se debe realizar la búsqueda de la
+Para instalar el 4biz mobile, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (Google Play).
 
-1.  Busque CITSmart Experience y después de la búsqueda, seleccione la
+1.  Busque 4biz Experience y después de la búsqueda, seleccione la
     aplicación, como se indica en la figura siguiente:
 
 2.  Presione el botón "Instalar" para descargar la aplicación;
 
-3.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart Experience mobile;
+3.  Después de la instalación aparecerá en sus aplicaciones el icono de 4biz Experience mobile;
 
 4.  Para crear una conexión, pulse el icono con formato de llave, situado en
     la esquina superior derecha de la pantalla, como se indica en la figura
@@ -169,7 +169,7 @@ elegido y realizar otras acciones, que serán explicadas a continuación.
 
         Para que la funcionalidad de búsqueda funcione, es necesario configurar el
         web service (notification_buscaNotificación) correspondiente en la pantalla
-        de "Registro de Operación Web Service" en el CITSmart Experience Web.
+        de "Registro de Operación Web Service" en el 4biz Experience Web.
 
 
 7.  En cada solicitud se presenta un símbolo con el color que representa su
@@ -259,8 +259,8 @@ elegido y realizar otras acciones, que serán explicadas a continuación.
 
     !!! Abstract "ATENCIÓN"
 
-        La solicitud registrada por CITSmart mobile utiliza servicios que se
-        configuran en CITSmart Web.
+        La solicitud registrada por 4biz mobile utiliza servicios que se
+        configuran en 4biz Web.
 
 3.  Introduzca la descripción de la solicitud de servicio y pulse el
     botón "Enviar" para realizar la operación;
@@ -335,7 +335,7 @@ ubicación de la misma.
       -   Seleccione el contrato y la unidad. Hecho esto, presione el botón "Obtener
       Coordenadas" para efectuar la operación;
 
-      -   Se enviará su latitud y longitud al servidor (CITSmart Web).
+      -   Se enviará su latitud y longitud al servidor (4biz Web).
 
 
 #### Atendiendo la solicitud de servicio
@@ -443,7 +443,7 @@ ubicación de la misma.
 
 #### Notificaciones
 
-La aplicación CITSmart Experience mobile se está ejecutando en segundo plano en
+La aplicación 4biz Experience mobile se está ejecutando en segundo plano en
 el teléfono móvil, a través de lo que recibirá automáticamente notificaciones
 que son pasivas de acción.
 
@@ -496,14 +496,14 @@ que son pasivas de acción.
 Relacionado
 ---------
 
-[Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
+[Configurar instancia 4biz para acceso vía móvil](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
-[Configurar la opciones del mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar la opciones del mobile](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins
 
 

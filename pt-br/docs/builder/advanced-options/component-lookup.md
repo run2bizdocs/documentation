@@ -1,9 +1,9 @@
 Title: Componente Lookup
-Description: O componente lookup do Neuro permite a criação de interfaces mater-datails em listagens de itens.
+Description: O componente lookup do Builder permite a criação de interfaces mater-datails em listagens de itens.
 
 # Componente Lookup
 
-O componente Lookup é um recurso do Neuro que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do item selecionado, como por exemplo, criar campos para que o usuário selecione um país, logo após selecione um estado do país, e depois uma cidade do estado.
+O componente Lookup é um recurso do Builder que permite a criação de listas rápidas de opções sendo possível uma interface mestre-detalhes (master-detail interface), ou seja, exibição de uma lista mestre e os detalhes do item selecionado, como por exemplo, criar campos para que o usuário selecione um país, logo após selecione um estado do país, e depois uma cidade do estado.
 
 Para usar este recurso em formulários você deve:
 
@@ -13,11 +13,11 @@ Para usar este recurso em formulários você deve:
 
 ## O que fazer antes
 
-Antes de criar componentes lookup's você deve criar uma aplicação e, opcionalmente, uma conexão de banco de dados Neuro.
+Antes de criar componentes lookup's você deve criar uma aplicação e, opcionalmente, uma conexão de banco de dados Builder.
 
 ## Criar componentes Lookup's
 
-1. Acessar a funcionalidade pelo menu Neuro > Gerenciamento > Componente Lookup;
+1. Acessar a funcionalidade pelo menu Builder > Gerenciamento > Componente Lookup;
 2. Casdastrar o(s) componente(s) lookup;
 3. Inserir as informações:
 
@@ -25,8 +25,8 @@ Antes de criar componentes lookup's você deve criar uma aplicação e, opcional
     |-----|---------|-------|
     |Nome|Identificador que não permite espaço|pais|
     |Descrição|Informações do lookup|País|
-    |Aplicação|Aplicação Neuro|My App|
-    |Conexão de Banco|Conexão de banco de dados (a mesma utilizada em objetos de negócio)|Neuro DB Connection|
+    |Aplicação|Aplicação Builder|My App|
+    |Conexão de Banco|Conexão de banco de dados (a mesma utilizada em objetos de negócio)|Builder DB Connection|
     |Coluna ou expressão para campo chave|ID para retorno da chave|idpais|
     |Coluna ou expressão para descrição|Retorno do campo descrição|nomepais|
     |FROM e WHERE|Query para FROM e Query|`FROM pais`|
@@ -58,7 +58,7 @@ Descrição: País
 
 Aplicação: My App
 
-Conexão de Banco: Neuro DB Connection 
+Conexão de Banco: Builder DB Connection 
 
 Coluna ou expressão para campo chave: idpais
 
@@ -78,7 +78,7 @@ Descrição: UF
 
 Aplicação: My App
 
-Conexão de Banco: Neuro DB Connection 
+Conexão de Banco: Builder DB Connection 
 
 Coluna ou expressão para campo chave: iduf
 
@@ -96,7 +96,7 @@ Descrição: UF
 
 Aplicação: My App
 
-Conexão de Banco: Neuro DB Connection
+Conexão de Banco: Builder DB Connection
 
 Coluna ou expressão para campo chave: idcidade
 

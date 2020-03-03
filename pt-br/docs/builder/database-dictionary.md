@@ -1,6 +1,6 @@
-title: Dicionário de Dados Neuro
+title: Dicionário de Dados Builder
 
-# Dicionário de Dados Neuro
+# Dicionário de Dados Builder
 
 Como podemos ver no site da Wikipedia, um dicionário de dados é uma coleção de metadados que contém definições e representações de elementos de dados. Dentro do contexto do SGBD (Sistema de Gerenciamento de Banco de Dados), um dicionário de dados é um grupo de tabelas habilitadas apenas para leitura ou consulta, ou seja, é um banco de dados em si que, entre outras coisas, contém informações, tais como:
 
@@ -10,15 +10,15 @@ Como podemos ver no site da Wikipedia, um dicionário de dados é uma coleção 
 - Restrições de Integridade
 - Entre outros
 
-No link abaixo você pode ter acesso ao dicionário de dados da ferramenta CITSmart Neuro.
+No link abaixo você pode ter acesso ao dicionário de dados da ferramenta 4biz Builder.
 
 ## Anexos
 
 [Download - Dicionário Base de Dados][1]
 
-[1]:/en-us/neuro/images/database-dictionary.rtf  
+[1]:/en-us/Builder/images/database-dictionary.rtf  
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

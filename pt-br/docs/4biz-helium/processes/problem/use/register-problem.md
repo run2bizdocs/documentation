@@ -38,7 +38,7 @@ Procedimento
     
     !!! Abstract "ATENÇÃO"
         É necessário definir se o problema a ser cadastrado é um problema de
-        natureza reativo a um contratempo encontrado ou é uma simples prática
+        natureza reativo a um contratempo encontrado ou é uma Taskers prática
         proativa a fim de administrar o sistema.
 
 7.  Selecionar, se necessário, quando será enviado as notificações sobre
@@ -49,11 +49,11 @@ Procedimento
 Relacionado
 ------------
 
-[Criar um portfólio de problema](/pt-br/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
+[Criar um portfólio de problema](/pt-br/4biz-helium/processes/problem/configuration/problem-portfolio.html) 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço
 
 

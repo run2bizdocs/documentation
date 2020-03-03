@@ -41,16 +41,16 @@ can be accessed in the document "Link activities to service contract".
 ## Related
 
 
-[Register a service](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Register contract](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Register contract](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Link activities to service contract](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
+[Link activities to service contract](/en-us/4biz-helium/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Anna Martins

@@ -464,20 +464,20 @@ Procedimento para adicionar notificação
 
 Relacionado
 ----------------------------------------------
-[Acordo de Nível de Serviço](/pt-br/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+[Acordo de Nível de Serviço](/pt-br/4biz-helium/processes/service-level/use/service-level-agreement.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar um contrato](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Cadastrar um contrato](/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Configurar modelo de e-mail](/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/pt-br/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Cadastrar um serviço](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Cadastrar um serviço](/pt-br/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNUc7XoNAAOyo3Ex5fKM2db)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço
 

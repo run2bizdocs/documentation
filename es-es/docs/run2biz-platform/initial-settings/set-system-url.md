@@ -6,7 +6,7 @@ Esta funcionalidad tiene por objetivo configurar la URL del sistema.
 Procedimiento  
 --------
 
-1. Acceder al menú principal Parametrización > Parámetros CITSmart;  
+1. Acceder al menú principal Parametrización > Parámetros 4biz;  
 2. Buscar el parámetro con ID 33 y configurar la dirección URL para la instancia:
     ``` sh
     https://127.0.0.1:8080

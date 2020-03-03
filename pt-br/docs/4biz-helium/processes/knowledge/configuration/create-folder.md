@@ -3,7 +3,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 
 # Criar pasta
 
-Pastas são locais utilizados na aplicação para armazenamento e organização de arquivos. As bases de conhecimentos do CITSmart são construídas utilizando estruturas de diretórios. Nos diretórios são aplicadas as permissões de leitura ou leitura e gravação, também devem ser definidas as ações possíveis no processo de gestão do conhecimento: revisar, aprovar, publicar e arquivar/desarquivar. Além disso, é possível realizar a pré-configuração das notificações que ocorrerão nas diversas ações do processo de gestão do conhecimento.
+Pastas são locais utilizados na aplicação para armazenamento e organização de arquivos. As bases de conhecimentos do 4biz são construídas utilizando estruturas de diretórios. Nos diretórios são aplicadas as permissões de leitura ou leitura e gravação, também devem ser definidas as ações possíveis no processo de gestão do conhecimento: revisar, aprovar, publicar e arquivar/desarquivar. Além disso, é possível realizar a pré-configuração das notificações que ocorrerão nas diversas ações do processo de gestão do conhecimento.
 
 As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e grupo de usuários. Ao usar o permissionamento por perfil de acesso você poderá controlar os perfis que podem ler e escrever na pasta. Ao utilizar a abordagem por grupo, além do permissionamento padrão (ler e escrever), você poderá definir preferências de notificações para os diversos status dos conhecimentos.
 
@@ -54,11 +54,11 @@ As permissões em pastas são aplicadas em duas perspectivas: perfil de acesso e
 
 
 !!! tip "About"
-    <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> 4biz | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 
-[1]:/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
-[2]:/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html
-[3]:/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
-[4]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[5]:/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
+[1]:/pt-br/4biz-helium/processes/knowledge/use/create-knowledge.html
+[2]:/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html
+[3]:/pt-br/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html
+[4]:/pt-br/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
+[5]:/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html

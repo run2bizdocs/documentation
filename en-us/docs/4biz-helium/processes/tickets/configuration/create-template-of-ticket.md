@@ -30,25 +30,25 @@ Procedure
 Related
 -------
 
-[Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Register a service](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Configure service attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+[Configure service attributes](/en-us/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-[Configure service contract attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
+[Configure service contract attributes](/en-us/4biz-helium/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
-[Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Create time of attendance](/en-us/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Create time of attendance](/en-us/4biz-helium/processes/service-level/configuration/create-time-attendance.html)
 
-[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
+[Configure access permission of request/incident management](/en-us/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 
 
 
@@ -57,7 +57,7 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/02/2019 - Anna Martins
 
 

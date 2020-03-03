@@ -29,6 +29,6 @@ A visualização do mapa de relacionamento está condicionada ao seguinte cenár
 
 [Relacionar Item de Configuração a um serviço][1]
 
-[1]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[1]:/pt-br/4biz-helium/processes/configuration/use/create-ic-relationship.html
 
-[2]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[2]:/pt-br/4biz-helium/processes/configuration/use/create-ic-relationship.html

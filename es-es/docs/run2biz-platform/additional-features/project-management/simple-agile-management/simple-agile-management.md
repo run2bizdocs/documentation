@@ -1,18 +1,18 @@
-Title: Gestión ágil Simple
+Title: Gestión ágil Tasker
 
-# Gestión ágil Simple
+# Gestión ágil Tasker
 
 
-Simple es una funcionalidad de CITSmart que permite la gestión fácil
+Tasker es una funcionalidad de 4biz que permite la gestión fácil
 y ágil de actividades. Fue creado para gestionar los proyectos de manera
-más simple, con recursos para organizar, monitorear y delegar las actividades
+más Tasker, con recursos para organizar, monitorear y delegar las actividades
 entre los miembros de su equipo o individualmente.
 
-El Simple se basa en la metodología Kanban, donde los mismos se organizan
+El Tasker se basa en la metodología Kanban, donde los mismos se organizan
 visualmente en un cuadro dispuesto de tarjetas que señalan el progreso del flujo.
 
-En el área de trabajo del Simple, las actividades se insertan y agrupan por
-proyectos (en el Simple llamados de Workspaces), panel de tareas (en el Simple
+En el área de trabajo del Tasker, las actividades se insertan y agrupan por
+proyectos (en el Tasker llamados de Workspaces), panel de tareas (en el Tasker
 llamados Sprint) y por fin las tareas, que pueden estar en grupos de tarjetas.
 
 
@@ -29,11 +29,11 @@ Procedimiento
 ### Crear Workspace
 
 1.  Acceder al menú principal Gestión Integrada \>
-    Simple – Gestión Ágil;
+    Tasker – Gestión Ágil;
 
 2.  Hacer clic en “Workspace” y poner un nombre para crear nuevo Workspace;
 
-    ![pantalla sprint](images/figure-01-simple.png)
+    ![pantalla sprint](images/figure-01-Tasker.png)
     
     Figura 1 - Pantalla Workspace
 
@@ -138,7 +138,7 @@ Procedimiento
 
 2.  Para crear nueva lista, hacer clic en “+Lista”, nombrar y “Guardar”.
 
-    ![pantalla lista](images/figure-2-simple.png)
+    ![pantalla lista](images/figure-2-Tasker.png)
     
     Figura 2 - Pantalla de lista
 
@@ -161,7 +161,7 @@ Procedimiento
 
 ### Crear tareas
 
-   ![pantalla tarea](images/figure-3-simple.png)
+   ![pantalla tarea](images/figure-3-Tasker.png)
     
    Figura 3 - Pantalla tarea
 
@@ -177,15 +177,15 @@ Procedimiento
     Para mover una **tarea** de una lista a otra, hacer clic y arrastrar para la 
     lista deseada.
 
-### Completar tarjeta Simple
+### Completar tarjeta Tasker
 
-La tarjeta Simple contiene campos y botones para describir una tarea/acción con
+La tarjeta Tasker contiene campos y botones para describir una tarea/acción con
 planificación y control de fechas, horarios, checklist y diversos otros
 dispositivos de control y gestión.
 
 1.  Cada tarjeta tiene dispositivos de control e información:
 
-     ![pantalla tarjeta](images/figure-4-simple.png)
+     ![pantalla tarjeta](images/figure-4-Tasker.png)
     
       Figura 4 - Pantalla de tarjeta
 
@@ -202,7 +202,7 @@ dispositivos de control y gestión.
     -   **5**: agregar tags para identificar visualmente la tarjeta de tarea
 
     -   **6**: haga clic para notificarse acerca de cualquier modificación en esta tarea. La
-        comunicación será a través del botón de notificaciones del CITSmart
+        comunicación será a través del botón de notificaciones del 4biz
 
     -   **7**: indicar la finalización de la tarea
 
@@ -250,5 +250,5 @@ dispositivos de control y gestión.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Anna Martins

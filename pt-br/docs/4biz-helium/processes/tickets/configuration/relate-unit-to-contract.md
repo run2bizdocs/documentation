@@ -4,10 +4,10 @@ Description: Permite relacionar uma unidade ao contrato.
 
 Para relacionar unidade ao contrato, proceder conforme as orientações abaixo:
 
-1.  Acessar a funcionalidade de Parâmetros do CITSmart através da navegação
-    no menu principal Parametrização \> Parâmetros CITSmart. Após isso, será
-    apresentada a tela de Parâmetros do CITSmart, clicar na aba **Pesquisa
-    de Parâmetros do CITSmart**;
+1.  Acessar a funcionalidade de Parâmetros do 4biz através da navegação
+    no menu principal Parametrização \> Parâmetros 4biz. Após isso, será
+    apresentada a tela de Parâmetros do 4biz, clicar na aba **Pesquisa
+    de Parâmetros do 4biz**;
 
 2.  Pesquisar parâmetro "61 - Vincula contratos a unidade" e selecionar
     o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o
@@ -35,14 +35,14 @@ Para relacionar unidade ao contrato, proceder conforme as orientações abaixo:
 Relacionado
 -------
 
-[Cadastrar uma unidade](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Cadastrar uma unidade](/pt-br/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Configurar parametrização - ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrização - ticket](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

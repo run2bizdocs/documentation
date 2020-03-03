@@ -2,7 +2,7 @@ Title: Instalando o MongoDB
 
 # Instalando o MongoDB
 
-A instalação do MongoDB pode ser feita via repositório do yum disponível no endereço https://repo.mongodb.org/. A versão homologada pelo CITSmart é a 3.4. Considerando que o servidor seja CentOS versão 7, crie um arquivo no `/etc/yum.repos.d/` chamado mongo.repo, e inclua o conteúdo abaixo. Lembre-se de trocar o `baseurl` pelo URL de acordo com sua versão de sistema operacional. No exemplo abaixo o repositório escolhido foi para um CentOS 7:
+A instalação do MongoDB pode ser feita via repositório do yum disponível no endereço https://repo.mongodb.org/. A versão homologada pelo 4biz é a 3.4. Considerando que o servidor seja CentOS versão 7, crie um arquivo no `/etc/yum.repos.d/` chamado mongo.repo, e inclua o conteúdo abaixo. Lembre-se de trocar o `baseurl` pelo URL de acordo com sua versão de sistema operacional. No exemplo abaixo o repositório escolhido foi para um CentOS 7:
 
 ``` shell
 [mongodb-org-3.4]
@@ -93,7 +93,7 @@ Reinicie o serviço do mongo:
 ``` shell
 [root@server /tmp]# systemctl restart mongod
 ```
-Conecte no mongodb para criar o banco de dados do CITSmart e configurar a senha de admin:
+Conecte no mongodb para criar o banco de dados do 4biz e configurar a senha de admin:
 ``` shell
 [root@server /tmp]# mongo
 MongoDB shell version v3.4.23
@@ -112,7 +112,7 @@ user: "admin",
 pwd: "yourpassword",
 roles:[
 { role: "root", db: "admin" },
-{ role: "dbOwner", db: "citsmart" }
+{ role: "dbOwner", db: "4biz" }
 ]
 })
 Successfully added user: {
@@ -124,7 +124,7 @@ Successfully added user: {
                 },
                 {
                         "role" : "dbOwner",
-                        "db" : "citsmart"
+                        "db" : "4biz"
                 }
         ]
 }
@@ -133,6 +133,6 @@ Successfully added user: {
 
 ## Próximo passo
 
-[Realizando o deploy do CITSmart][1]
+[Realizando o deploy do 4biz][1]
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html
+[1]:/pt-br/4biz-helium/get-started/installation-and-upgrade/perform-installation/deploy-4biz.html

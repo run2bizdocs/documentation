@@ -1,13 +1,13 @@
 Title: Visão geral da instalação
 
 # Visão geral da instalação
-Antes de iniciar a instalação é necessário compreender todos os softwares necessários para funcionamento dos 13 processos certificados da plataforma. Cada software desempenha um papel dentro da solução, por isso é importante entender o papel de cada um deles, a ordem de instalação e o próprio contexto de instalação em si. Dependendo do tipo de instalação (sobretudo de quais processos serão implantados) não é necessário instalar todos eles. Abaixo os softwares que compõem a plataforma do CITSmart Workflow:
+Antes de iniciar a instalação é necessário compreender todos os softwares necessários para funcionamento dos 13 processos certificados da plataforma. Cada software desempenha um papel dentro da solução, por isso é importante entender o papel de cada um deles, a ordem de instalação e o próprio contexto de instalação em si. Dependendo do tipo de instalação (sobretudo de quais processos serão implantados) não é necessário instalar todos eles. Abaixo os softwares que compõem a plataforma do 4biz tracker:
 
-- **CITSmart Workflow**: pacote do software no formato java WAR (Web Application ARchive) para ser instalado no Wildfly. Obrigatório em todos os cenários.
+- **4biz tracker**: pacote do software no formato java WAR (Web Application ARchive) para ser instalado no Wildfly. Obrigatório em todos os cenários.
 
 - **Wildfly**: servidor de aplicação Java EE Web. Obrigatório em todos os cenários.
 
-- **SOLR**: plataforma escrita em Java mantida pelo Apache utilizada para indexação e pesquisas de textos. Ele é necessário para indexação dos textos do módulo de conhecimento do CITSmart Workflow. Obrigatório para o funcionamento da base de conhecimento.
+- **SOLR**: plataforma escrita em Java mantida pelo Apache utilizada para indexação e pesquisas de textos. Ele é necessário para indexação dos textos do módulo de conhecimento do 4biz tracker. Obrigatório para o funcionamento da base de conhecimento.
 
 - **MongoDB**: banco de dados NoSQL para armazenar objetos não relacionais. Obrigatório somente para utilização dos módulos de inventário e eventos.
 

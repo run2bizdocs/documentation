@@ -8,19 +8,19 @@ A funcionalidade Mobile foi desenvolvida para permitir maior autonomia no gerenc
 Relacionado
 ----------
 
-[Configurar instância para uso do aplicativo CITSmart GO][1]
+[Configurar instância para uso do aplicativo 4biz GO][1]
 
-[Manual de utilização do aplicativo CITSmart GO][2]
+[Manual de utilização do aplicativo 4biz GO][2]
 
 [Configurar as opções de menu no mobile][3]
 
 
-[1]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html
-[2]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[3]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
+[1]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html
+[2]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[3]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
 
 
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  

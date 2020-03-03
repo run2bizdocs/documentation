@@ -1,9 +1,9 @@
 title: Cadastrar importação de dados
-Description: Realizar a importação de dados de uma outra base de dados para base de dados do CITSmart.
+Description: Realizar a importação de dados de uma outra base de dados para base de dados do 4biz.
 # Cadastrar importação de dados
 
 A finalidade desta funcionalidade é realizar a importação de dados de uma outra
-base de dados para base de dados do CITSmart.
+base de dados para base de dados do 4biz.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir a importação de dados.
@@ -31,10 +31,10 @@ Procedimento
 Relacionado
 -------
 
-[Cadastrar conexões externas](/pt-br/citsmart-platform-8/platform-administration/database/register-external-connections.html)
+[Cadastrar conexões externas](/pt-br/4biz-helium/platform-administration/database/register-external-connections.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 - Anna Martins

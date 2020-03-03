@@ -1,14 +1,14 @@
 title: Registrar Conexión Event Monitor
-Description: Registrar todas las propiedades referentes a la conexión del CITSmart Event Monitor
+Description: Registrar todas las propiedades referentes a la conexión del 4biz Event Monitor
 # Registrar Conexión Event Monitor
 
 
 Esta funcionalidad tiene como objetivo registrar todas las propiedades
-referentes a la conexión del CITSmart Event Monitor, de acuerdo con el IP y el
-puerto donde está instalado el Jboss del CITSmart Event Monitor (EVM).
+referentes a la conexión del 4biz Event Monitor, de acuerdo con el IP y el
+puerto donde está instalado el Jboss del 4biz Event Monitor (EVM).
 
 Esta funcionalidad ofrece acciones diversas, tales como, incluir, cambiar y
-borrar las propiedades referentes a la conexión del CITSmart Event.
+borrar las propiedades referentes a la conexión del 4biz Event.
 
 Antes de empezar
 --------------------
@@ -22,7 +22,7 @@ Procedimiento
 1.  Acceder al menú principal Procesos \> Gestión de Evento \> Conexión \> Event
     Monitor;
 
-2.  En la pestaña Registro de Conexión del CITSmart Event Monitor, completar los
+2.  En la pestaña Registro de Conexión del 4biz Event Monitor, completar los
     campos disponibles;
 
 3.  Hacer clic en "Testar Conexión";
@@ -33,5 +33,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

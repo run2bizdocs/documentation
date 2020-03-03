@@ -1,5 +1,5 @@
 Title: A área de trabalho da Central de Serviços
-Description:  Interface de gerenciamento de tickets no CITSmart. Processos de gerenciamento de incidente e cumprimento de requisição.
+Description:  Interface de gerenciamento de tickets no 4biz. Processos de gerenciamento de incidente e cumprimento de requisição.
 
 # A área de trabalho da Central de Serviços
 
@@ -21,7 +21,7 @@ A tela inicial da gerência de ticket é a interface do analista de atendimento 
 
 É possível utilizar a barra de pesquisa para facilitar a busca de um ticket específico – informando o número - ou um conjunto de tickets com características similares – utilizando diversos atributos - como por exemplo:
 
-![Search Ticket Citsmart][1]
+![Search Ticket 4biz][1]
 
 **1: Número do ticket**;
 
@@ -54,9 +54,9 @@ A tela inicial da gerência de ticket é a interface do analista de atendimento 
 
 Para aplicar uma pesquisa com base nos filtros definidos, utilize o botão “pesquisar”. Após a pesquisa ser realizada ocorrerá a alteração do ícone para identificar o status da pesquisa, como por exemplo:
 
- ![Search Ticket Citsmart][2] Ícone sem pesquisa ativa
+ ![Search Ticket 4biz][2] Ícone sem pesquisa ativa
 
- ![Search Ticket Citsmart][3] Ícone com pesquisa ativa
+ ![Search Ticket 4biz][3] Ícone com pesquisa ativa
 
 É possível limpar todos os filtros selecionados e retornar ao formato padrão ao clicar em “limpar”.
 
@@ -64,7 +64,7 @@ Para aplicar uma pesquisa com base nos filtros definidos, utilize o botão “pe
 
 •	Na lista podemos visualizar os tickets disponíveis em uma fila de atendimento – com base nas permissões de grupos – onde encontramos as seguintes colunas:
 
- ![List Ticket Citsmart][4]
+ ![List Ticket 4biz][4]
 
 **1: Selecionar Ticket(s)** – para delegar ou suspender/reativar;
 
@@ -102,7 +102,7 @@ Para aplicar uma pesquisa com base nos filtros definidos, utilize o botão “pe
 
 Localizado no canto superior direito podemos visualizar uma serie de ícones que representam respectivamente:
 
-![List Ticket Citsmart][5]
+![List Ticket 4biz][5]
 
 #### Paginação:
 
@@ -125,7 +125,7 @@ Localizado no canto superior direito podemos visualizar uma serie de ícones que
 **8: Delegar** – ticket(s) para um grupo;
 
 !!! Warning “Atenção”
-    O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do CITSmart, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
+    O botão “Atualização automática” virá por padrão não habilitado nos parâmetros do 4biz, para habilitá-lo é necessário mudar o parâmetro 418 para a opção “SIM”. Desse modo, o botão ficará disponível na tela de ticket para realizar a atualização automática da página a cada 25 segundos.
 
 #### Atualização da Página:
 
@@ -147,7 +147,7 @@ Localizado no canto superior direito podemos visualizar uma serie de ícones que
 
 Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que podem ser realizadas por você:
 
-![Option Ticket Citsmart][6]
+![Option Ticket 4biz][6]
 
 #### Opções principais:
 
@@ -214,9 +214,9 @@ Ao clicar em um ticket em sua fila de atendimento, aparecerão as ações que po
 
 •	**Auditoria**: Apresenta todas as alterações que ocorrem em um ticket sejam automáticas ou manuais;
 
-[1]:images/ticket-search-citsmart.png
-[2]:images/ticket-search-inactive-citsmart.png
-[3]:images/ticket-search-active-citsmart.png
-[4]:images/ticket-list-citsmart.png
-[5]:images/ticket-list-options-citsmart.png
-[6]:images/ticket-list-options-details-citsmart.png
+[1]:images/ticket-search-4biz.png
+[2]:images/ticket-search-inactive-4biz.png
+[3]:images/ticket-search-active-4biz.png
+[4]:images/ticket-list-4biz.png
+[5]:images/ticket-list-options-4biz.png
+[6]:images/ticket-list-options-details-4biz.png

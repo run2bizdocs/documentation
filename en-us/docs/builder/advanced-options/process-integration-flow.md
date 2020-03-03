@@ -1,13 +1,13 @@
 Title: Process Integration Flow  
-Description:The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.
+Description:The process integration flows are trackers that have tasks performed by users and may also have automatic tasks performed by the system.
 
 # Process Integration Flow  
 
-The process integration flows are workflows that have tasks performed by users and may also have automatic tasks performed by the system.  
+The process integration flows are trackers that have tasks performed by users and may also have automatic tasks performed by the system.  
 
 ## How to access
 
-1. Access the functionality through the menu Neuro > Management > Integration Flow.  
+1. Access the functionality through the menu Builder > Management > Integration Flow.  
 
 ## Preconditions
 
@@ -21,7 +21,7 @@ The process integration flows are workflows that have tasks performed by users a
 
 ![Screenshot](images/Process-fig01.png)
 
-Figure 1 - Workflow / ESI design search screen  
+Figure 1 - tracker / ESI design search screen  
 
 ## Items list 
 
@@ -29,7 +29,7 @@ Figure 1 - Workflow / ESI design search screen
 
 ![Screenshot](images/Process-fig02.png) 
 
-Figure 2 - Workflow / ESI design listing screen  
+Figure 2 - tracker / ESI design listing screen  
 
 ## Filling in the registration fields
 
@@ -41,11 +41,11 @@ Through this tab, basic information about the flow to be design is defined.
     
     Figure 3 - Service integration flow register screen  
 
-2. The Design Workflow / ESI registration screen will be displayed, precisely on the Flow Data tab, as shown in the figure below:   
+2. The Design tracker / ESI registration screen will be displayed, precisely on the Flow Data tab, as shown in the figure below:   
 
     ![Screenshot](images/Process-fig04.png)
     
-    Figure 4 – Register/edit workflow, Flow data tab.  
+    Figure 4 – Register/edit tracker, Flow data tab.  
 
 3. Fill in the fields: 
  
@@ -53,7 +53,7 @@ Through this tab, basic information about the flow to be design is defined.
     will start to flow (if applicable)
 
 -  The field version is incremented automatically by the system whenever a new
-    version of the workflow is created.
+    version of the tracker is created.
 
 -  Time management can take place in the following ways:
 
@@ -73,12 +73,12 @@ See knowledge Variables.
 
 Flow states represent the situations in which a flow can found, according to its life cycle.  
 
-1. To add a state to the workflow, select the States tab and click "Add",  
+1. To add a state to the tracker, select the States tab and click "Add",  
 2. The following status register screen will be displayed, as shown in the figure below:  
 
     ![Screenshot](images/Process-fig05.png) 
     
-    Figure 5 - Register/edit workflow, states tab  
+    Figure 5 - Register/edit tracker, states tab  
 
 3. Fill in the fields, informing:  
 
@@ -87,7 +87,7 @@ Flow states represent the situations in which a flow can found, according to its
     - A background color that will be displayed when the flow in this state;  
     - The color of text that is displayed when the flow in this state;  
     - Whether it is the initial state of the flow;  
-    - The state of the flow instance, i.e. whether the workflow is open, closed, suspended, or canceled in this state.  
+    - The state of the flow instance, i.e. whether the tracker is open, closed, suspended, or canceled in this state.  
 
 4. To edit a state, select the state you want, click "Edit", make the necessary changes, and click "Update" to complete the edit.  
 5. To remove a state, select the desired state, click "Remove", and confirm the deletion.  
@@ -98,14 +98,14 @@ Flow states represent the situations in which a flow can found, according to its
 	
 ## Actions
 
-Through this menu, it is possible to register the actions that will be executed in the workflow.  
+Through this menu, it is possible to register the actions that will be executed in the tracker.  
 
 1. To include an action, select the Actions tab and click  the "Add" option,  
 2. The action register screen will be displayed, as shown in the figure below:  
 
     ![Screenshot](images/Process-fig06.png) 
     
-    Figure 6 - Register/edit workflow, actions tab  
+    Figure 6 - Register/edit tracker, actions tab  
 
 3. Fill in the fields, informing:  
 
@@ -124,7 +124,7 @@ Through this menu, it is possible to register the actions that will be executed 
 	
 ## Actors  
 
-Flow actors are the users or groups of users who participate in the task (s) of the workflow designed.  
+Flow actors are the users or groups of users who participate in the task (s) of the tracker designed.  
 
 Example: Suppose you want to order a pizza from your house. In your pizza delivery order flow, you'll probably have actors like the customer, the attendant, the pizzaiolo, and the delivery man. All these roles are considered actors in the flow, as they all participate in the process of delivering pizzas.  
 
@@ -133,7 +133,7 @@ Example: Suppose you want to order a pizza from your house. In your pizza delive
 	
     ![Screenshot](images/Process-fig07.png)
     
-    Figure 7 - Workflow registration / editing screen, Actors tab  
+    Figure 7 - tracker registration / editing screen, Actors tab  
 	
 3. Fill in the fields, informing:  
 
@@ -163,9 +163,9 @@ Example: Suppose you want to order a pizza from your house. In your pizza delive
 	
 ## Diagram  
 
-The workflow drawing is done in the Diagram tab. The entire business process can be drawn here by using BPMN notation.  
+The tracker drawing is done in the Diagram tab. The entire business process can be drawn here by using BPMN notation.  
 
-1. The elements that can be added to the workflow are in the palette in the left corner of the screen. These elements are subdivided into:  
+1. The elements that can be added to the tracker are in the palette in the left corner of the screen. These elements are subdivided into:  
 
     - Events: "They trigger, interrupt, change or terminate the process. These events are classified as start, intermediate or end events, depending on when they occur in the process."  
     - Tasks: "It's the smallest part of a process. It is an action, not a function, nor the state of a product or service. It is "what" to do, so it must be written with the verb in the infinitive."  
@@ -173,7 +173,7 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 
     ![Screenshot](images/Process-fig08.png) 
     
-    Figure 8 - Register/edit workflow, Diagram tab  
+    Figure 8 - Register/edit tracker, Diagram tab  
 
 2. To include an element in the flow, select it and drag it to the drawing page. A modal with element properties will be displayed on the screen (according to the chosen element). The information displayed for modal fill depends on the selected element, which can be:  
 
@@ -194,10 +194,10 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 	    - Instance type.  
 
 3. Variables  
-    - In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be for input and / or output. The list presented here is the same as in the "**Variables**" tab of the workflow register.  
+    - In this tab the selected variables that are part of this task must be selected. Several variables can be selected, which can be for input and / or output. The list presented here is the same as in the "**Variables**" tab of the tracker register.  
 
 4. User Actions  
-    - The user actions tab represents the actions that the user can trigger when executing a task and, depending on the **action** selected, the flow may follow an alternate flow, it all depends on modeling. The actions that are presented in this list are the same ones that were registered in the "Actions" tab of the workflow register.  
+    - The user actions tab represents the actions that the user can trigger when executing a task and, depending on the **action** selected, the flow may follow an alternate flow, it all depends on modeling. The actions that are presented in this list are the same ones that were registered in the "Actions" tab of the tracker register.  
 
 5. Interface
 
@@ -221,7 +221,7 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 	
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 	
 	

@@ -29,12 +29,12 @@ Procedimiento
 Relacionado
 ----------------
 
-[Registrar elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Registrar elemento de configuración](/es-es/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Registrar atributo de la demanda](/es-es/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
+[Registrar atributo de la demanda](/es-es/4biz-helium/processes/demand/use/register-demand-attribute.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/21/2019 – Larissa Lourenço
 

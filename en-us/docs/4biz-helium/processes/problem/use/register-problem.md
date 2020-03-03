@@ -38,7 +38,7 @@ Procedure
     
     !!! Abstract "NOTE"
         It's necessary to set if the problem to be create is a problem of
-        reactive nature to a setback found, or it's justa a simple proactive
+        reactive nature to a setback found, or it's justa a Tasker proactive
         practice to manage the system.
 
 7.  Select, if necessary, when send notifications about
@@ -49,9 +49,9 @@ Procedure
 Related
 ------------
 
-[Create problem portfolio](/en-us/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
+[Create problem portfolio](/en-us/4biz-helium/processes/problem/configuration/problem-portfolio.html) 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço 

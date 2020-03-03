@@ -30,4 +30,4 @@ The user must have access to the Relationship Type Registration screen.
 
 [Relating Configuration Item to a service][1]
 
-[1]:/en-us/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[1]:/en-us/4biz-helium/processes/configuration/use/create-ic-relationship.html

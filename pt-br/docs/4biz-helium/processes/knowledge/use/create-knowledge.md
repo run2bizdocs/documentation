@@ -3,7 +3,7 @@ Description: É possível criar, editar e pesquisar conhecimentos que vão desde
 
 # Criar conhecimento
 
-Criar um conhecimento é o ato de registrar informações no CITSmart utilizando a funcionalidade Gerência de conhecimento. Neste momento você irá interagir com a interface e suas aplicações. Note que para realizar qualquer ação é necessário possuir permissões adequadas, assim, sua visão está limitada ao tipo de perfil criado.
+Criar um conhecimento é o ato de registrar informações no 4biz utilizando a funcionalidade Gerência de conhecimento. Neste momento você irá interagir com a interface e suas aplicações. Note que para realizar qualquer ação é necessário possuir permissões adequadas, assim, sua visão está limitada ao tipo de perfil criado.
 
 ## Antes de começar
 
@@ -34,7 +34,7 @@ Ao acessar a Gerência de Conhecimento, você verá a principal interface de ges
     
 ### Interface de gestão do conhecimento
 
-A gestão de bases de conhecimento tem como principal atividade o registro das informações no CITSmart para, posteriormente, possibilitar o seu gerenciamento. Vamos acessar a interface de registro e conhecer suas funções.
+A gestão de bases de conhecimento tem como principal atividade o registro das informações no 4biz para, posteriormente, possibilitar o seu gerenciamento. Vamos acessar a interface de registro e conhecer suas funções.
 
 1. Clicar no botão "Opções", localizado no canto inferior direito, logo em seguida em "Adicionar novo conhecimento";
 
@@ -110,31 +110,31 @@ Você dispõe de um editor [WYSIWYG][1] para trabalhar o conteúdo HTML de seu d
 
 ### Salvar e Versionar
 
-Na criação do conhecimento o CITSmart estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
+Na criação do conhecimento o 4biz estabelecerá sempre a versão "1.0" e, quando da alteração de um documento poderá ser indicado, pelo operador, se a alteração deve ser Versionada ou não e, também se as versões anteriores devem ser arquivadas.
 
 ### Dicas
 
 !!! warning "ATENÇÃO"
     Deve-se ter muito cuidado ao utilizar a privacidade “Público”, pois corre-se o risco de disponibilizar documentos de forma inadequada. Este cenário desconsidera a configuração de perfil de acesso e libera o acesso do documento a todos os usuários.
 
-!!! note "Workflow de Aprovação"
+!!! note "tracker de Aprovação"
     O usuário final pode propor novos Documentos/Conhecimentos no botão flutuante do Portal de Conhecimento, o Documento é gravado na pasta indicada pelo Parâmetro 313 do sistema. O Gerente de conhecimento pesquisa os documentos não publicados ou na pasta indicada e, conforme o andamento da aprovação, o documento ganhará outros status.
 
 ### Relacionado
 
-[Criar pasta](/pt-br/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+[Criar pasta](/pt-br/4biz-helium/processes/knowledge/configuration/create-folder.html)
 
-[Configurar acesso externo ao Portal do Conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
+[Configurar acesso externo ao Portal do Conhecimento](/pt-br/4biz-helium/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.05 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/26/2019 – Education Team
     
 [1]:https://en.wikipedia.org/wiki/WYSIWYG
-[2]:/pt-br/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
-[3]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[4]:/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
-[5]:/pt-br/citsmart-platform-8/platform-administration/email-settings/key-field/knowledge-base-email.html
-[6]:/pt-br/citsmart-platform-8/platform-administration/email-settings/key-field/knowledge-base-email.html#exemplos-de-utilizacao
+[2]:/pt-br/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html
+[3]:/pt-br/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
+[4]:/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html
+[5]:/pt-br/4biz-helium/platform-administration/email-settings/key-field/knowledge-base-email.html
+[6]:/pt-br/4biz-helium/platform-administration/email-settings/key-field/knowledge-base-email.html#exemplos-de-utilizacao

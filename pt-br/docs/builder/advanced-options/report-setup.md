@@ -7,7 +7,7 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 
 ## Como acessar 
 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Relatório.
+1. Acesse a funcionalidade através do menu Builder > Gerenciamento > Relatório.
 
 ## Pré-condições
 
@@ -48,7 +48,7 @@ Figura 3 - Cadastro/edição de configuração de relatório, aba Dados do Relat
     - Nenhum: caso o arquivo não realize uma busca no banco de dados.    
     - Conexão de dados: caso a fonte de informações seja uma conexão com banco de dados, informe também a conexão de banco respectiva       (cadastrável no menu Conexão de banco).   
     - Objeto de dados: caso a fonte de informações seja um objeto de banco de dados cadastrado na aplicação. Informe o objeto de negócio      que será a fonte de dados (cadastrável no menu Objeto de negócio).    
-    - Fluxo ESI: caso a fonte de informações seja um fluxo ESI cadastrado na aplicação. Informe o fluxo que será a fonte de dados           (cadastrável no menu Design Workflow/ESI).    
+    - Fluxo ESI: caso a fonte de informações seja um fluxo ESI cadastrado na aplicação. Informe o fluxo que será a fonte de dados           (cadastrável no menu Design tracker/ESI).    
     - Script: caso a fonte de dados seja um script, codifique o script utilizando a linguagem Rhino.    
 
 ![Screenshot](images/Report-setup-fig04.png)

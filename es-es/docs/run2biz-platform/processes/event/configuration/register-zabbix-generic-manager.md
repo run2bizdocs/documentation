@@ -21,8 +21,8 @@ Antes de empezar
 ----------
 
 Para registrar el gerente Global, es necesario registrar previamente la conexión
-del CITSmart Event Monitor, horario, categoría de ocurrencia, acción automática
-y la conexión del CITSmart Inventory.
+del 4biz Event Monitor, horario, categoría de ocurrencia, acción automática
+y la conexión del 4biz Inventory.
 
 Procedimiento
 -----------
@@ -51,16 +51,16 @@ Procedimiento
 Relacionado
 ----------
 
-[Registrar categoría de ocurrencia](/es-es/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurrencia](/es-es/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-[Registrar Conexión Event Monitor](/es-es/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-[Registrar horario](/es-es/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/4biz-helium/processes/event/configuration/register-time.html)
 
-[Configurar conexión Inventory](/es-es/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar conexión Inventory](/es-es/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

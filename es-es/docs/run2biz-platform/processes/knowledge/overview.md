@@ -10,43 +10,43 @@ La premisa de la Gestión del Conocimiento es administrar las informaciones, sie
 Uso
 -------
 
-- [Crear conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+- [Crear conocimiento](/es-es/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
-- [Crear centro de experiencia](/es-es/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
+- [Crear centro de experiencia](/es-es/4biz-helium/processes/knowledge/use/create-experience-center.html)
 
-- [Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/knowledge-portal.html)
+- [Portal del Conocimiento](/es-es/4biz-helium/processes/knowledge/use/knowledge-portal.html)
 
-- [Presentar y buscar por tags en el portal del conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
+- [Presentar y buscar por tags en el portal del conocimiento](/es-es/4biz-helium/processes/knowledge/use/display-tags-on-knowledge-portal.html)
 
-- [Revisar comentarios del Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
+- [Revisar comentarios del Portal del Conocimiento](/es-es/4biz-helium/processes/knowledge/use/review-reviews.html)
 
 Configuración
 -----------------
 
-- [Crear carpeta](/es-es/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+- [Crear carpeta](/es-es/4biz-helium/processes/knowledge/configuration/create-folder.html)
 
-- [Refinar búsquedas en el Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+- [Refinar búsquedas en el Portal del Conocimiento](/es-es/4biz-helium/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
-- [Registrar categoría de imagen](/es-es/citsmart-platform-8/processes/knowledge/configuration/register-image-category.html)
+- [Registrar categoría de imagen](/es-es/4biz-helium/processes/knowledge/configuration/register-image-category.html)
 
-- [Almacenar imágenes en la galería](/es-es/citsmart-platform-8/processes/knowledge/configuration/store-images-gallery.html)
+- [Almacenar imágenes en la galería](/es-es/4biz-helium/processes/knowledge/configuration/store-images-gallery.html)
 
-- [Registrar sinónimo](/es-es/citsmart-platform-8/processes/knowledge/configuration/register-synonym.html)
+- [Registrar sinónimo](/es-es/4biz-helium/processes/knowledge/configuration/register-synonym.html)
 
-- [Registrar tema](/es-es/citsmart-platform-8/processes/knowledge/configuration/register-subject.html)
+- [Registrar tema](/es-es/4biz-helium/processes/knowledge/configuration/register-subject.html)
 
-- [Configurar parametrización - conocimiento](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)  
+- [Configurar parametrización - conocimiento](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html)  
 
-- [Configurar acceso externo al Portal del Conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
+- [Configurar acceso externo al Portal del Conocimiento](/es-es/4biz-helium/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
-- [Notificar responsable por la expiración del conocimiento](/es-es/citsmart-platform-8/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
+- [Notificar responsable por la expiración del conocimiento](/es-es/4biz-helium/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
 
 Informe
 -----------
 
-- [Generar informes - Gestión de conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/generate-reports-knowledge-management.html)
+- [Generar informes - Gestión de conocimiento](/es-es/4biz-helium/processes/knowledge/use/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

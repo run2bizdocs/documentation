@@ -8,7 +8,7 @@ Description: É possível criar fluxos de trabalho que melhor se adequam a reali
 Procedimento
 ------------
 
-1.  Acessar o menu principal Workflow > Desenho de fluxo;
+1.  Acessar o menu principal tracker > Desenho de fluxo;
 
 2.  Clicar no botão “Novo";
 
@@ -41,7 +41,7 @@ Procedimento
     !!! Abstract "ATENÇÃO"
 
         A aba “Interface” possibilita escolher qual o modo de interação (formulário
-        padrão, questionário ou formulário neuro) que será aplicado ao serviço.
+        padrão, questionário ou formulário Builder) que será aplicado ao serviço.
         Porém, caso não ocorra a vinculação de nenhum template de
         solicitação de serviço nesta aba, o sistema subentenderá e aplicará as
         configurações de um formulário padrão, habilitado a vinculação de item de
@@ -59,12 +59,12 @@ Procedimento
 Relacionado
 ------------
 
-[Cadastrar template de ticket](/pt-br/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
+[Cadastrar template de ticket](/pt-br/4biz-helium/platform-administration/questionnaires/ticket-template.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[2]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[2]:/pt-br/4biz-helium/tracker/configuration/expressions-creator.html

@@ -25,11 +25,11 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Registrar problema](/es-es/4biz-helium/processes/problem/use/register-problem.html)
 
-[Registrar justificación del problema](/es-es/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
+[Registrar justificación del problema](/es-es/4biz-helium/processes/problem/configuration/problem-justification.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

@@ -28,12 +28,12 @@ Procedimiento
 Relacionado
 ----------------
 
-[Registrar grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/4biz-helium/processes/configuration/configuration/register-configuration-item-group.html)
 
-[Configurar parametrización - configuración](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+[Configurar parametrización - configuración](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-configuration.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

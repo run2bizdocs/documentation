@@ -55,7 +55,7 @@ After=network-online.target
 [Service]
 Environment=LAUNCH_JBOSS_IN_BACKGROUND=1
 EnvironmentFile=-/etc/wildfly/wildfly.conf
-Type=simple
+Type=Tasker
 User=wildfly
 Group=wildfly
 ExecStart=/opt/wildfly/bin/launch.sh $WILDFLY_MODE $WILDFLY_CONFIG $WILDFLY_BIND
@@ -99,4 +99,4 @@ To check if the service is running, run the command below:
 
 [Configuring application server][1]
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-server.html
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation/conf-server.html

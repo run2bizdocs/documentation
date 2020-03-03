@@ -12,20 +12,20 @@ E seu gerenciamento como "O processo responsável por garantir que os serviços 
 Uso
 -------
 
-- [Verificar disponibilidade do item de configuração](/pt-br/citsmart-platform-8/processes/availability/use/configuration-item-availability.html)
+- [Verificar disponibilidade do item de configuração](/pt-br/4biz-helium/processes/availability/use/configuration-item-availability.html)
 
-- [Verificar disponibilidade de grupo de IC](/pt-br/citsmart-platform-8/processes/availability/use/CI-group-availability.html)
+- [Verificar disponibilidade de grupo de IC](/pt-br/4biz-helium/processes/availability/use/CI-group-availability.html)
 
-- [Verificar disponibilidade de grupo de disponibilidade](/pt-br/citsmart-platform-8/processes/availability/use/availability-group.html)
+- [Verificar disponibilidade de grupo de disponibilidade](/pt-br/4biz-helium/processes/availability/use/availability-group.html)
 
-- [Verificar a disponibilidade de serviço](/pt-br/citsmart-platform-8/processes/availability/use/service-availability.html)
+- [Verificar a disponibilidade de serviço](/pt-br/4biz-helium/processes/availability/use/service-availability.html)
 
 Configuração
 -----------------
 
-- [Cadastrar grupo de disponibilidade](/pt-br/citsmart-platform-8/processes/availability/configuration/register-availability-group.html)
+- [Cadastrar grupo de disponibilidade](/pt-br/4biz-helium/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Anna Martins

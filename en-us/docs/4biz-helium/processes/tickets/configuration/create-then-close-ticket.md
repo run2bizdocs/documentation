@@ -14,13 +14,13 @@ Procedure
 
 *  **1st Way - Import flow**: it's possible to import the flow with script already
 registered. Download the attachment "JSON Flow" and access the flow
-functionality (Workflow \> Flow Design), click on "New", then click on
+functionality (tracker \> Flow Design), click on "New", then click on
 "Import" and select the option "JSON". Upload the attachment and click on
 "Import". Then, to verify the script, click on the tab "Diagram" and on the task
 icon, next, click on "Input Action";
 
 *  **2nd Way - Copy the script**: to copy only the script, copy the attachment
-"Script" content and access the functionality flow (Workflow \> Flow Design),
+"Script" content and access the functionality flow (tracker \> Flow Design),
 click on "New" and complete the field necessary. Then, click on the tab
 "Diagram", design the flow about the creation and closure of a task, select and
 click on this task (small gray box next to the task) and in the tab "Input
@@ -45,9 +45,9 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Anna Martins
 
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/images/fluxo-JSON.json
-[2]:/en-us/citsmart-platform-8/processes/tickets/images/script.zip
+[1]:/en-us/4biz-helium/processes/tickets/images/fluxo-JSON.json
+[2]:/en-us/4biz-helium/processes/tickets/images/script.zip

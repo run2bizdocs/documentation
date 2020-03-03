@@ -57,19 +57,19 @@ Procedimiento
 Relacionado
 ----------------
 
-[Acuerdo de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+[Acuerdo de Nivel de Servicio](/es-es/4biz-helium/processes/service-level/use/service-level-agreement.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar localidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-locations.html)
+[Registrar localidad](/es-es/4biz-helium/platform-administration/region-and-language/register-locations.html)
 
-[Registrar tipo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+[Registrar tipo de elemento de configuración](/es-es/4biz-helium/processes/configuration/configuration/register-type-ic.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

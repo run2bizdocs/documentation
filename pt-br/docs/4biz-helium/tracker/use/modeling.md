@@ -6,11 +6,11 @@ A modelagem de fluxo de trabalho compreende as atividades de entendimento e dese
 
 A funcionalidade de fluxo foi construída trazendo elementos, que por essência, são semelhantes aos da notação BPMN, isto facilita na construção e entendimento dos fluxos.
 
-Esta funcionalidade é uma boa alternativa para a criação de fluxos de trabalho no padrão BPMN ([Business Process Model and Notation][1]) diretamente da sua instância CITSmart. Além disso é possível exportá-los ou até mesmo importa um fluxo construído em outra ferramenta.
+Esta funcionalidade é uma boa alternativa para a criação de fluxos de trabalho no padrão BPMN ([Business Process Model and Notation][1]) diretamente da sua instância 4biz. Além disso é possível exportá-los ou até mesmo importa um fluxo construído em outra ferramenta.
 
 ## Procedimento
 
-1. Acessar o menu principal Workflow > Modelagem de processo;
+1. Acessar o menu principal tracker > Modelagem de processo;
 
 2. Clicar no botão "Novo";
 
@@ -25,5 +25,5 @@ Esta funcionalidade é uma boa alternativa para a criação de fluxos de trabalh
 
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles

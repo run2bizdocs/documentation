@@ -56,20 +56,20 @@ Procedure
 Related
 -------
 
-[Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Service level agreement](/en-us/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+[Service level agreement](/en-us/4biz-helium/processes/service-level/use/service-level-agreement.html)
 
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Register type of configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+[Register type of configuration item](/en-us/4biz-helium/processes/configuration/configuration/register-type-ic.html)
 
-[Register location](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-locations.html)
+[Register location](/en-us/4biz-helium/platform-administration/region-and-language/register-locations.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

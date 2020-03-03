@@ -27,13 +27,13 @@ Procedimiento
   
 !!! Abstract "NOTA"
 
-    La integración necesita ser homologada por la CITSmart, siendo así que después de 
+    La integración necesita ser homologada por la 4biz, siendo así que después de 
     configurar esta habilidad es necesario abrir un ticket para que la hagamos la 
     homologación de la integración.
     
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
    

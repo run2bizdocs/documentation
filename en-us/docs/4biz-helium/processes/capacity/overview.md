@@ -19,11 +19,11 @@ needs of the business".
 Use
 -------
 
-- [Register capacity indicators](/en-us/citsmart-platform-8/processes/capacity/use/register-capacity-indicators.html)
+- [Register capacity indicators](/en-us/4biz-helium/processes/capacity/use/register-capacity-indicators.html)
 
-- [Import capacity indicators data](/en-us/citsmart-platform-8/processes/capacity/use/capacity-indicators-data.html)
+- [Import capacity indicators data](/en-us/4biz-helium/processes/capacity/use/capacity-indicators-data.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

@@ -1,10 +1,10 @@
-title: Manual de uso de la aplicación móvil CITSmart Experience (iOS)
-Description: Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil CITSmart ITSM Enterprise en la plataforma iOS.
-#Manual de uso de la aplicación móvil CITSmart Experience (iOS)
+title: Manual de uso de la aplicación móvil 4biz Experience (iOS)
+Description: Este documento tiene el propósito de proporcionar orientaciones necesarias para instalar, configurar y utilizar la aplicación móvil 4biz ITSM Enterprise en la plataforma iOS.
+#Manual de uso de la aplicación móvil 4biz Experience (iOS)
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-instalar, configurar y utilizar la aplicación móvil CITSmart Experience
+instalar, configurar y utilizar la aplicación móvil 4biz Experience
 en la plataforma iOS.
 
 Ofrece varios recursos, tales como:
@@ -29,20 +29,20 @@ Este documento se ha estructurado en tres grandes secciones:
 Antes de empezar
 -----------
 
-Es necesario Implantar la versión 7.2.2.0 (o superior) de CITSmart
-Experience y también Configurar el servidor para uso de la aplicación móvil CITSmart
+Es necesario Implantar la versión 7.2.2.0 (o superior) de 4biz
+Experience y también Configurar el servidor para uso de la aplicación móvil 4biz
 Experience (ver documentos relacionados).
 
 Instalación y configuración del APP en el mobile
 --------------------
 
-Para instalar el CITSmart Experience, se debe realizar la búsqueda de la
+Para instalar el 4biz Experience, se debe realizar la búsqueda de la
 aplicación en la tienda en línea (App Store).
 
-1.  Puedes buscar CITSmart Experience en la App Store, seleccionar y bajar
+1.  Puedes buscar 4biz Experience en la App Store, seleccionar y bajar
     la aplicación ;
 
-2.  Después de la instalación aparecerá en sus aplicaciones el icono de CITSmart
+2.  Después de la instalación aparecerá en sus aplicaciones el icono de 4biz
     Experience:;
 3.  Para crear una conexión, presione el icono con "Agregar conexión", como se
     indica en la figura siguiente:
@@ -72,7 +72,7 @@ aplicación en la tienda en línea (App Store).
      +  **Dominio\\Usuario:** a partir de esta versión el usuario tendrá que
      informar el dominio LDAP de uso y su usuario;
 
-        + El formato es citsmart.local\\usuario.consultor (ejemplo), siendo que la
+        + El formato es 4biz.local\\usuario.consultor (ejemplo), siendo que la
           primera parte es la información del dominio y la segunda parte es el
           usuario;
 
@@ -154,7 +154,7 @@ Utilización del APP en el mobile
 
         Para que la funcionalidad de búsqueda funcione, es necesario configurar el
         web service (notification_buscaNotificación) correspondiente en la pantalla
-        de "Registro de Operación Web Service" en el CITSmart Web.
+        de "Registro de Operación Web Service" en el 4biz Web.
 
 
 6.  En cada solicitud, cuando se hace clic encima se muestra una lista de
@@ -194,8 +194,8 @@ Utilización del APP en el mobile
 
     !!! Abstract "ATENCIÓN"
 
-        La solicitude registrada por CITSmart Experience utiliza servicios que
-        se configuran em CITSmart Web.
+        La solicitude registrada por 4biz Experience utiliza servicios que
+        se configuran em 4biz Web.
 
 
 2.  Se mostrará la pantalla con campos de registro, según las figuras abajo:
@@ -367,12 +367,12 @@ necesario aprobarlas.
 Relacionado
 -------
 
-[Configurar instancia CITSmart para acceso vía móvil](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
+[Configurar instancia 4biz para acceso vía móvil](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
-[Configurar las opciones del mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar las opciones del mobile](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins

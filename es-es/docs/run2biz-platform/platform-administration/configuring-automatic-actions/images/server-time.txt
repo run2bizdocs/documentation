@@ -22,7 +22,7 @@ print.println("DATA E HORA DO SERVIDOR: "+ dataHoraAtual);
 
 executaConsultaCURRENT_TIMESTAMP = function(){
 
-var jdbcEngine = new importNames.JdbcEngine("jdbc/citsmart", null);
+var jdbcEngine = new importNames.JdbcEngine("jdbc/4biz", null);
 
 return jdbcEngine.execSQL("select CURRENT_TIMESTAMP", null, 0);
 

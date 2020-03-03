@@ -1,7 +1,7 @@
-Title: Manual de utilização do aplicativo mobile CITSmart Experience
-# Manual de utilização do aplicativo mobile CITSmart Experience
+Title: Manual de utilização do aplicativo mobile 4biz Experience
+# Manual de utilização do aplicativo mobile 4biz Experience
 
-Este documento tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile CITSmart Experience, disponível nas plataformas Android e iOS.
+Este documento tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile 4biz Experience, disponível nas plataformas Android e iOS.
 O aplicativo Experience oferece a facilidade no atendimento, direcionamento de onde a solicitação está localizada, filtragem das solicitações pessoais e por grupo de trabalho, visualização dos detalhes de uma solicitação de serviço, entre diversas outras funcionalidades possíveis devido a renderização das páginas e leiaute responsivo
 
 Antes de começar
@@ -41,7 +41,7 @@ Procedimento
 
     *	Domínio\Usuário:  informar o domínio (local/ldap) e seu usuário;
 
-    Ex.: citsmart.local\nome.sobrenome
+    Ex.: 4biz.local\nome.sobrenome
     
     *	Senha: credencial de acesso ao sistema;
 
@@ -57,7 +57,7 @@ Procedimento
 
 6.	Depois de adicionada a conexão, aparecerá a listagem das conexões criadas. Para alterar uma conexão, basta selecionar e manter pressionada a conexão e fazer a alteração;
 
-7.	Logar com o usuário e senha utilizados no CITSmart web;
+7.	Logar com o usuário e senha utilizados no 4biz web;
 
 8.	Após realizar a conexão, será apresentada a tela com menus de funcionalidades disponíveis.
 
@@ -70,10 +70,10 @@ Procedimento
 Relacionado
 ----------
 
-[Configurar opções de menu no mobile](/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar opções de menu no mobile](/pt-br/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/26/2019 - Anna Martins

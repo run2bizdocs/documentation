@@ -24,17 +24,17 @@ Para enviar el comentario por correo electrónico es necesario [Configurar el se
 ## Relacionado
 
 
-[El area de trabajo del service desk](/es-es/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
+[El area de trabajo del service desk](/es-es/4biz-helium/processes/tickets/use/desktop-of-service-desk.html)
 
-[Crear ticket](/es-es/citsmart-platform-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/4biz-helium/processes/tickets/use/create-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)
 
 
-[1]:/es-es/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-citsmart.html
+[1]:/es-es/4biz-helium/additional-features/communication-and-notification/notification/configuration/enable-messaging-within-4biz.html
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>06/26/2019
 

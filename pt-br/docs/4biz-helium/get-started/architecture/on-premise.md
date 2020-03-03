@@ -4,4 +4,4 @@ Title: On-Premise
 
 Este exemplo mostra uma configuração complexa com várias instâncias.
 
-![Cluster CITsmart](images/cluster-citsmart.png)
+![Cluster 4biz](images/cluster-4biz.png)

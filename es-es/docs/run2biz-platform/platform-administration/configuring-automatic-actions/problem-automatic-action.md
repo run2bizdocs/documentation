@@ -4,7 +4,7 @@ Description: Tiene como objetivo realizar el registro de acciones automáticas d
 
 Algunos eventos presentarán una situación donde la acción apropiada necesitará ser tratada por el proceso de gestión de problemas, es decir, esta funcionalidad tiene como objetivo realizar el registro de acciones automáticas del tipo problema. 
 
-Este registro será asociado a las acciones automáticas, donde será usado en los registros de gerentes de eventos del CITSmart Nagios, Zabbix, Inventory y Eventos Correlacionados.
+Este registro será asociado a las acciones automáticas, donde será usado en los registros de gerentes de eventos del 4biz Nagios, Zabbix, Inventory y Eventos Correlacionados.
 
 Antes de empezar
 ----------------
@@ -27,18 +27,18 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
+[Crear flujo de trabajo](/es-es/4biz-helium/tracker/use/create-flow.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 

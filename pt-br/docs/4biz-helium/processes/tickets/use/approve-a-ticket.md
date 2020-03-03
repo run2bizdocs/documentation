@@ -24,8 +24,8 @@ mesmo.
 Procedimento 
 -------------
 
-*Estes passos são para a funcionalidade no CITSmart Platform 8 quanto para o mobile
-CITSmart SM.*
+*Estes passos são para a funcionalidade no 4biz Helium quanto para o mobile
+4biz SM.*
 
 
 1.  Acessar a funcionalidade Ticket navegando pelo menu principal Processos \>
@@ -53,17 +53,17 @@ CITSmart SM.*
 Relacionado
 -----------
 
-[Criar um ticket](/pt-br/citsmart-platform-8/processes/tickets/use/create-ticket.html)
+[Criar um ticket](/pt-br/4biz-helium/processes/tickets/use/create-ticket.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
+[Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 
-[Criar um fluxo de trabalho](/pt-br/citsmart-platform-8/workflow/use/create-flow.html)
+[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracker/use/create-flow.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

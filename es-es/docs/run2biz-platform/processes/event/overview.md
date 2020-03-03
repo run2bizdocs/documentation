@@ -14,65 +14,65 @@ Esta funcionalidad tiene como objetivo presentar algunas funcionalidades para la
 Uso
 -------
 
-- [La central de eventos](/es-es/citsmart-platform-8/processes/event/use/the-event-center.html)
+- [La central de eventos](/es-es/4biz-helium/processes/event/use/the-event-center.html)
 
-- [Buscar evento](/es-es/citsmart-platform-8/processes/event/use/search-event.html)
+- [Buscar evento](/es-es/4biz-helium/processes/event/use/search-event.html)
 
-- [Ver un evento](/es-es/citsmart-platform-8/processes/event/use/view-event.html)
+- [Ver un evento](/es-es/4biz-helium/processes/event/use/view-event.html)
 
-- [Cerrar ocurrencia de evento](/es-es/citsmart-platform-8/processes/event/use/close-event-occurrence.html)
+- [Cerrar ocurrencia de evento](/es-es/4biz-helium/processes/event/use/close-event-occurrence.html)
 
-- [Cerrar ocurrencia y aciones del evento](/es-es/citsmart-platform-8/processes/event/use/close-occurences-and-actions.html)
+- [Cerrar ocurrencia y aciones del evento](/es-es/4biz-helium/processes/event/use/close-occurences-and-actions.html)
 
-- [Crear ticket a desde un evento](/es-es/citsmart-platform-8/processes/event/use/create-ticket-from-an-event.html)
+- [Crear ticket a desde un evento](/es-es/4biz-helium/processes/event/use/create-ticket-from-an-event.html)
 
-- [Crear un cambio desde un evento](/es-es/citsmart-platform-8/processes/event/use/create-change-from-an-event.html)
+- [Crear un cambio desde un evento](/es-es/4biz-helium/processes/event/use/create-change-from-an-event.html)
 
-- [Crear un problema desde un evento](/es-es/citsmart-platform-8/processes/event/use/create-a-problem-from-an-event.html)
+- [Crear un problema desde un evento](/es-es/4biz-helium/processes/event/use/create-a-problem-from-an-event.html)
 
-- [Menú interno de la gestión de eventos](/es-es/citsmart-platform-8/processes/event/use/internal-menu-of-event.html)
+- [Menú interno de la gestión de eventos](/es-es/4biz-helium/processes/event/use/internal-menu-of-event.html)
 
-- [Registrar auditoría de evento](/es-es/citsmart-platform-8/processes/event/use/register-event-audit.html)
+- [Registrar auditoría de evento](/es-es/4biz-helium/processes/event/use/register-event-audit.html)
 
 Configuración
 -----------------
 
-- [Registrar modelo de EPL](/es-es/citsmart-platform-8/processes/event/configuration/register-epl-template.html)
+- [Registrar modelo de EPL](/es-es/4biz-helium/processes/event/configuration/register-epl-template.html)
 
-- [Registrar Conexión Event Monitor](/es-es/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+- [Registrar Conexión Event Monitor](/es-es/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-- [Registrar evento de notificación](/es-es/citsmart-platform-8/processes/event/configuration/register-event-notification.html)
+- [Registrar evento de notificación](/es-es/4biz-helium/processes/event/configuration/register-event-notification.html)
 
-- [Registrar gerente Global](/es-es/citsmart-platform-8/processes/event/configuration/register-global-manager.html)
+- [Registrar gerente Global](/es-es/4biz-helium/processes/event/configuration/register-global-manager.html)
 
-- [Registrar gerente Inventory](/es-es/citsmart-platform-8/processes/event/configuration/register-inventory-manager.html)
+- [Registrar gerente Inventory](/es-es/4biz-helium/processes/event/configuration/register-inventory-manager.html)
 
-- [Registrar gerente genérico Nagios](/es-es/citsmart-platform-8/processes/event/configuration/register-nagios-generic-manager.html)
+- [Registrar gerente genérico Nagios](/es-es/4biz-helium/processes/event/configuration/register-nagios-generic-manager.html)
 
-- [Registrar gerente Nagios](/es-es/citsmart-platform-8/processes/event/configuration/register-nagios-manager.html)
+- [Registrar gerente Nagios](/es-es/4biz-helium/processes/event/configuration/register-nagios-manager.html)
 
-- [Registrar conexión Nagios/Zabbix](/es-es/citsmart-platform-8/processes/event/configuration/register-nagios-zabbix-connection.html)
+- [Registrar conexión Nagios/Zabbix](/es-es/4biz-helium/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-- [Registrar destinatario de la notificación](/es-es/citsmart-platform-8/processes/event/configuration/register-notification-recipient.html)
+- [Registrar destinatario de la notificación](/es-es/4biz-helium/processes/event/configuration/register-notification-recipient.html)
 
-- [Registrar categoría de ocurrencia](/es-es/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+- [Registrar categoría de ocurrencia](/es-es/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-- [Registrar horario](/es-es/citsmart-platform-8/processes/event/configuration/register-time.html)
+- [Registrar horario](/es-es/4biz-helium/processes/event/configuration/register-time.html)
 
-- [Registrar gerente genérico Zabbix](/es-es/citsmart-platform-8/processes/event/configuration/register-zabbix-generic-manager.html)
+- [Registrar gerente genérico Zabbix](/es-es/4biz-helium/processes/event/configuration/register-zabbix-generic-manager.html)
 
-- [Registrar gerente Zabbix](/es-es/citsmart-platform-8/processes/event/configuration/register-zabbix-manager.html)
+- [Registrar gerente Zabbix](/es-es/4biz-helium/processes/event/configuration/register-zabbix-manager.html)
 
-- [Configurar conexión Inventory](/es-es/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+- [Configurar conexión Inventory](/es-es/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
 Informe
 -----------
 
-- [Generar informes - Gestión de eventos](/es-es/citsmart-platform-8/processes/event/use/generate-reports-event-management.html)
+- [Generar informes - Gestión de eventos](/es-es/4biz-helium/processes/event/use/generate-reports-event-management.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins
 

@@ -5,7 +5,7 @@ Description: Disponibiliza ações diversas, tais como, incluir, alterar e exclu
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
 excluir a categoria de ocorrência, ou seja, através dela é permitido agrupar
 ocorrências de eventos de um mesmo tipo. Este cadastro será associado a cada
-item do cadastro de gerente de eventos do CITSmart Inventory, Nagios ou Zabbix.
+item do cadastro de gerente de eventos do 4biz Inventory, Nagios ou Zabbix.
 
 Procedimento
 ----------------
@@ -25,5 +25,5 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 – Anna Martins

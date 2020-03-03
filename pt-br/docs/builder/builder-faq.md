@@ -1,7 +1,7 @@
-Title: FAQ (Neuro)
-Description: CITSmart - FAQ
+Title: FAQ (Builder)
+Description: 4biz - FAQ
 
-# FAQ (Neuro)
+# FAQ (Builder)
 
 !!! Question "Qual a diferença entre criar um formulário através do menu Formulário e através do menu Objeto de negócio?"
 
@@ -27,41 +27,41 @@ Description: CITSmart - FAQ
 
 	Assim, pode-se relacionar um dado do objeto A a vários dados do objeto B, e um dado do objeto B a vários dados do objeto A, através do objeto de negócio C, tendo efetivamente um relacionamento "muitos para muitos"
 
-!!! Question "Todo workflow precisa ter um processo de negócio relacionado?"
+!!! Question "Todo tracker precisa ter um processo de negócio relacionado?"
 
-	Nem todo workflow precisa ter um processo de negócio relacionado. Pode-se dizer que todo workflow principal precisa de um processo de negócio, porém os subprocessos não necessitam de outros processos de negócio para eles.   
+	Nem todo tracker precisa ter um processo de negócio relacionado. Pode-se dizer que todo tracker principal precisa de um processo de negócio, porém os subprocessos não necessitam de outros processos de negócio para eles.   
 	
 	Além disso, essa regra se aplica apenas a fluxos de integração de processos, visto que os fluxos de integração de serviço não precisam de processo de negócio relacionado.
 
-!!! Question "Existe alguma alternativa para que eu acesse as minhas tarefas do workflow abertas em um menu customizado, ou seja, fora do Gerenciamento de tarefas?"
+!!! Question "Existe alguma alternativa para que eu acesse as minhas tarefas do tracker abertas em um menu customizado, ou seja, fora do Gerenciamento de tarefas?"
 
-	É possível fazer sua própria listagem de tarefas para acessar as tarefas do workflow. Para um tutorial completo, vide a documentação técnica.  
+	É possível fazer sua própria listagem de tarefas para acessar as tarefas do tracker. Para um tutorial completo, vide a documentação técnica.  
 
 !!! Question "É possível criar componentes customizados que possam ser utilizados na criação de formulários?"
 
 	É possível criar seus próprios componentes para serem utilizados no formulário. Para um tutorial completo, vide a documentação técnica.
 
-!!! Question "Por onde devo começar a construção de uma aplicação utilizando o Neuro?"
+!!! Question "Por onde devo começar a construção de uma aplicação utilizando o Builder?"
 
-	Recomenda-se que o primeiro passo a ser executado no Neuro seja o cadastro da aplicação ou o cadastro de uma conexão de banco de dados, de acordo com a necessidade da aplicação.  
+	Recomenda-se que o primeiro passo a ser executado no Builder seja o cadastro da aplicação ou o cadastro de uma conexão de banco de dados, de acordo com a necessidade da aplicação.  
 
-!!! Question "Como funciona a injeção de dependências próprias dentro de um formulário no Neuro? Quais passos devem ser executados?"
+!!! Question "Como funciona a injeção de dependências próprias dentro de um formulário no Builder? Quais passos devem ser executados?"
 
-	Para injetar uma dependência própria, é necessário cadastrá-la antes. As dependências que podem ser injetadas dentro de um formulário Neuro são somente do tipo CSS e Javascript.
+	Para injetar uma dependência própria, é necessário cadastrá-la antes. As dependências que podem ser injetadas dentro de um formulário Builder são somente do tipo CSS e Javascript.
 
-	Criar um cadastro novo de acordo com o tipo da sua dependência através do menu "Neuro > Recursos" e fazer o upload da dependência.
+	Criar um cadastro novo de acordo com o tipo da sua dependência através do menu "Builder > Recursos" e fazer o upload da dependência.
 
 	Para importá-la no formulário, selecionar a aba do tipo da página que deseja importar e escolher a aba "Dependências". 
 
 	Clicar no ícone de "+ Adicionar" para incluir uma dependência nova, no campo "Nome" digitar o nome cadastrado do recurso da sua dependência e selecionar a opção correspondente. Para mais informações à respeito de dependências de formulário, vide a documentação técnica.
 
-!!! Question "Como defino as ações que devem estar disponíveis em cada tarefa do workflow?"
+!!! Question "Como defino as ações que devem estar disponíveis em cada tarefa do tracker?"
 
-	As ações são cadastradas nas abas principais do cadastro do fluxo. Para associar uma ação a uma tarefa específica, ir para o desenho do workflow, abra as propriedades daquele elemento, selecionar as ações desejadas e salvar as alterações.
+	As ações são cadastradas nas abas principais do cadastro do fluxo. Para associar uma ação a uma tarefa específica, ir para o desenho do tracker, abra as propriedades daquele elemento, selecionar as ações desejadas e salvar as alterações.
 
-!!! Question "Como deleto um elemento do workflow?"
+!!! Question "Como deleto um elemento do tracker?"
 
-	Para deletar um elemento do workflow, selecionar o elemento que deseja deletar e pressionar Ctrl + Del.
+	Para deletar um elemento do tracker, selecionar o elemento que deseja deletar e pressionar Ctrl + Del.
 
 !!! Question "O que faço quando ocorrer o erro "Processo de negócio não informado"?"
 
@@ -69,7 +69,7 @@ Description: CITSmart - FAQ
 
 !!! Question "Quando eu cadastro um subprocesso, as informações do processo principal são herdadas pelo subprocesso?"
 
-	Não. Ao incluir um novo subprocesso, seja do tipo ESI ou do tipo BPE em um workflow principal, deverá, informar na aba "Atributos", o nome exato do subprocesso que deverá ser criado manualmente no cadastro do workflow.
+	Não. Ao incluir um novo subprocesso, seja do tipo ESI ou do tipo BPE em um tracker principal, deverá, informar na aba "Atributos", o nome exato do subprocesso que deverá ser criado manualmente no cadastro do tracker.
 
 	Todas as informações, como ações e estados do fluxo principal deverão ser replicados no cadastro do subprocesso.
 
@@ -81,9 +81,9 @@ Description: CITSmart - FAQ
 
 !!! Question "Qual a diferença entre um fluxo de integração de processos e um fluxo de integração de serviços?"
 
-	Os fluxos de integração de processos são workflows que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.
+	Os fluxos de integração de processos são trackers que possuem tarefas executadas por usuários, podendo também possuir tarefas automáticas executadas pelo sistema.
 
-	Os fluxos de integração de serviços, como o próprio nome diz, envolvem workflows executados com base em serviços de sistema, como integrações e conversões, por exemplo.
+	Os fluxos de integração de serviços, como o próprio nome diz, envolvem trackers executados com base em serviços de sistema, como integrações e conversões, por exemplo.
 
 	Nada impede que um fluxo de integração de processos utilize um subprocesso de integração de serviços, por exemplo.
 	

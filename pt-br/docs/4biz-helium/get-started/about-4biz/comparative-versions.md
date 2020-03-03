@@ -2,17 +2,17 @@ Title: Comparativo de versões
 
 # Comparativo de versões
 
-| Suporte, Gestão de Processos, Recursos, Integrações e Segurança    |    CITSmart Platform 7    |    CITSmart Platform 8    |
+| Suporte, Gestão de Processos, Recursos, Integrações e Segurança    |    4biz Platform 7    |    4biz Helium    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Aplicação Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Android app                                    |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Suporte**                                        |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
+|    **Suporte**                                        |    **4biz Platform 7**    |    **4biz Helium**    |
 |    Telefone                                      |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Suporte online                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Documentação                                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Tutoriais em video                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Gerenciamento de Processos**                           |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
+|    **Gerenciamento de Processos**                           |    **4biz Platform 7**    |    **4biz Helium**    |
 |    Gerenciamento de Portfólio                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Catálogo de Serviço                 |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Nível de Serviço                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -27,16 +27,16 @@ Title: Comparativo de versões
 |    Gerenciamento de Disponibilidade                       |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Capacidade                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Demanda                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Recursos**                                       |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
-|    [Simple - Agile Project Management][6]          |:no_entry_sign:|:new:           |
+|    **Recursos**                                       |    **4biz Platform 7**    |    **4biz Helium**    |
+|    [Tasker - Agile Project Management][6]          |:no_entry_sign:|:new:           |
 |    Gerenciamento de Tarefas com Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Centro de Experiência][7]               |:no_entry_sign:|:new:           |
 |    [Alertas/Escalonamento][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Chat] [9]                                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Portal do Conhecimento][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Dashboards e Relatórios Personalizados             |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Apliacação CITSmart][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
-|    [Mobile e CITSmart GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Apliacação 4biz][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [Mobile e 4biz GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Gerenciamento de Contrato                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Projeto                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Gestão de Fluxo de trabalho][13]                            |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -49,7 +49,7 @@ Title: Comparativo de versões
 |    Widgets                                        |:no_entry_sign:|:ballot_box_with_check:  |
 |    [Anuva Application - AI][16]                         |:no_entry_sign:|:new:           |
 |    [Smart Analytics][17]                                |:no_entry_sign:|:new:           |
-|    **Integrações**                                   |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
+|    **Integrações**                                   |    **4biz Platform 7**    |    **4biz Helium**    |
 |    Nágios                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Zabbix                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [IBM Watson][18]                                     |:no_entry_sign:|:new:           |
@@ -57,7 +57,7 @@ Title: Comparativo de versões
 |    [LDAP/AD][19]                                        |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Saiku][20]                                          |:no_entry_sign:|:new:          |
 |    E-mail                                         |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    **Securança**                                       |    **CITSmart Platform 7**    |    **CITSmart Platform 8**    |
+|    **Securança**                                       |    **4biz Platform 7**    |    **4biz Helium**    |
 |    HTTPS                                          |:ballot_box_with_check:  |:ballot_box_with_check:  |
 
 + Legenda
@@ -72,7 +72,7 @@ Title: Comparativo de versões
 ## O que há de novo?
 
 ### Gerenciamento de Mudança
-Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais simples da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível e descomplicado ao concentrar as mesmas numa interface de gestão ágil.
+Nesta versão, o processo de mudança foi renovado, proporcionando um uso mais Taskers da funcionalidade. É possível gerenciar as fases da mudança de modo compreensível e descomplicado ao concentrar as mesmas numa interface de gestão ágil.
 
 ### Gerenciamento de Liberação
 Nesta versão, a funcionalidade foi remodelada afim de possibilitar uma maior facilidade em seu uso, caracterizando-se por uma interação mais intuitiva. Se distingue da versão anterior, ao apresentar uma sequência das fases da Liberação de maneira mais lógica e descomplicada, acrescentando recursos para organizar e aprimorar a gestão de atividades concentrando em um único local, todos os esforços para realizar as mudanças.
@@ -86,11 +86,11 @@ O Gerenciamento de Ativos e Configuração, no que tange ao CMDB houve uma refor
 ### Gerenciamento de Ticket
 Nesta nova atualização o Gerenciamento de Ticket, além das tarefas já realizáveis na versão anterior, adquiriu um novo layout no cadastro de um serviço, com novos grupos de funcionalidades, trazendo para o usuário maior agilidade.
 
-### Gestão de Projeto Ágil - Simple
-A nova ferramenta orientadora de tarefas do CITSmart traz uma ideia de simplificar em um só lugar todo o ciclo de vida de uma tarefa/atendimento. Como o próprio nome diz, o Simple busca agilizar mais ainda o cotidiano de uma organização, com maior e melhor visualização de um processo e controle dos envolvidos.
+### Gestão de Projeto Ágil - Tasker
+A nova ferramenta orientadora de tarefas do 4biz traz uma ideia de simplificar em um só lugar todo o ciclo de vida de uma tarefa/atendimento. Como o próprio nome diz, o Tasker busca agilizar mais ainda o cotidiano de uma organização, com maior e melhor visualização de um processo e controle dos envolvidos.
 
 ### Centro de Experiência com o Usuário
-Nesta versão, a CITSmart inova ao disponibilizar ao usuário a possibilidade de personalizar, com as características próprias de sua organização, um portal com as informações necessárias ao bom funcionamento da empresa. Isto é feito de forma simples e acessível, permitindo ao cliente uma maior autonomia dentro do sistema.
+Nesta versão, a 4biz inova ao disponibilizar ao usuário a possibilidade de personalizar, com as características próprias de sua organização, um portal com as informações necessárias ao bom funcionamento da empresa. Isto é feito de forma Taskers e acessível, permitindo ao cliente uma maior autonomia dentro do sistema.
 
 ### Alertas / Escalonamento
 A funcionalidade de escalonamento foi redirecionada para dentro da funcionalidade Requisição e Incidente, tendo o layout reformulado, trazendo assim maior simplicidade no cadastro de regras de escalonamento e seu gerenciamento.
@@ -101,11 +101,11 @@ A nova versão além de passar por uma reformulação, teve incorporado recursos
 ### Portal do Conhecimento
 A versão 8 apresenta um Portal de Conhecimento mais inclusivo e com pesquisas mais eficientes. É possível, doravante, um usuário acessar a funcionalidade sem estar logado no sistema e buscar artigos com filtros mais refinados, tais como as tags (palavras chaves).
 
-### Aplicação CITSmart Neuro
-Nesta atualização, a engine de aplicativos Neuro foi aprimorada de modo a possibilitar a geração diversos recursos como a criação de formulários complexos, criação de widgets, construção de fluxos avançados, dentre outros.
+### Aplicação 4biz Builder
+Nesta atualização, a engine de aplicativos Builder foi aprimorada de modo a possibilitar a geração diversos recursos como a criação de formulários complexos, criação de widgets, construção de fluxos avançados, dentre outros.
 
-### Mobile e CITSmart GO
-A CITSmart sempre conectada com as necessidades de seus clientes, lança um novo aplicativo chamado “CITSmart GO” que permite a gestão de atendimentos realizados por técnicos em campo no modo offline, permitindo que cliente realize seus trabalhos de forma ininterrupta.
+### Mobile e 4biz GO
+A 4biz sempre conectada com as necessidades de seus clientes, lança um novo aplicativo chamado “4biz GO” que permite a gestão de atendimentos realizados por técnicos em campo no modo offline, permitindo que cliente realize seus trabalhos de forma ininterrupta.
 
 ### Gestão de fluxo de trabalho
 Nesta versão, foram implementadas diversas funcionalidades que possibilitam a criação e manutenção de fluxos mais rápida e versátil. Além disso, agora é possível importar fluxos BPMN e utilizar subprocessos.
@@ -120,28 +120,28 @@ A Funcionalidade foi totalmente remodelada o que possibilita a criação de form
 Foi desenvolvida para realizar a análise de dados a partir de inteligência cognitiva de modo a otimizar a gestão de processos como Gestão de Ticket, Gestão de Mudança e Gestão de Conhecimento.
 
 ### Smart Analytics
-Permite integração com a ferramenta Saiku o que possibilita análises fantásticas nos dados do CITSmart Experience permitindo a criação de dashboards, painéis re relatórios.
+Permite integração com a ferramenta Saiku o que possibilita análises fantásticas nos dados do 4biz Experience permitindo a criação de dashboards, painéis re relatórios.
 
 ### IBM Watson
-Integração com a solução IBM Watson o que permite o uso de inteligência cognitiva nos fluxos de trabalho do CITSmart.
+Integração com a solução IBM Watson o que permite o uso de inteligência cognitiva nos fluxos de trabalho do 4biz.
 
 ### LDAP/AD
 Esta funcionalidade foi aprimorada possibilitando a coleta, por meio de atributos, de diversas informações disponibilizadas no diretório ativo.
 
 ### Integração com Saiku
-Integração do Saiku com o CITSmart Analytics.
+Integração do Saiku com o 4biz Analytics.
 
 [1]:#gerenciamento-de-mudanca
 [2]:#gerenciamento-de-liberacao
 [3]:#gerenciamento-de-conhecimento
 [4]:#gerenciamento-de-ativos-e-configuracao
 [5]:#gerenciamento-de-ticket
-[6]:#gestao-de-projeto-agil-simple
+[6]:#gestao-de-projeto-agil-Tasker
 [7]:#centro-de-experiencia-com-o-usuario
 [8]:#alertas-escalonamento
 [9]:#chat
 [10]:#portal-do-conhecimento
-[11]:#aplicacao-citsmart-neuro
+[11]:#aplicacao-4biz-Builder
 [12]:#mobile-e-field-service
 [13]:#gestao-de-fluxo-de-trabalho
 [14]:#surveys-e-feedback

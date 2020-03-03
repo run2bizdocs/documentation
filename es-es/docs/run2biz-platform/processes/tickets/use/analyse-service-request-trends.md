@@ -44,15 +44,15 @@ Procedimiento
 Relacionado
 -----------
 
-[Crear ticket](/es-es/citsmart-platform-8/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/4biz-helium/processes/tickets/use/create-ticket.html)
 
-[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Registrar problema](/es-es/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Registrar problema](/es-es/4biz-helium/processes/problem/use/register-problem.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

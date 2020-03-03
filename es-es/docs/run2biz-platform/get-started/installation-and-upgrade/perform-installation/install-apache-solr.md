@@ -2,7 +2,7 @@ Title: Instalando el Apache SOLR
 
 # Instalando el Apache SOLR
 
-La versión aprobada de Apache Solr para CITSmart es 6.4.2. El paquete se puede descargar desde el sitio web en la URL https://archive.apache.org/dist/lucene/solr/. En el caso específico de CITSmart, también deberá descargar los archivos de configuración (Knowledge Base Confs) que se pueden descargar desde el área de relaciones con socios, en el elemento Installation Components.
+La versión aprobada de Apache Solr para 4biz es 6.4.2. El paquete se puede descargar desde el sitio web en la URL https://archive.apache.org/dist/lucene/solr/. En el caso específico de 4biz, también deberá descargar los archivos de configuración (Knowledge Base Confs) que se pueden descargar desde el área de relaciones con socios, en el elemento Installation Components.
 
 ## Instalando SOLR
 
@@ -53,7 +53,7 @@ Solr process 23010 running on port 8983
 [root@server /tmp]#
 
 ```
-Importe las configuraciones de CITSmart para el SOLR. Para hacer esto, envíe a través de scp al servidor el archivo base_knowledge_configs.zip que se descargó del área de socios. Suponiendo que el archivo está en `/tmp`, y tiene que descomprimir, ejecute el siguiente comando:
+Importe las configuraciones de 4biz para el SOLR. Para hacer esto, envíe a través de scp al servidor el archivo base_knowledge_configs.zip que se descargó del área de socios. Suponiendo que el archivo está en `/tmp`, y tiene que descomprimir, ejecute el siguiente comando:
 
 ``` shell
 [root@server /tmp]# unzip base_conhecimento_configs.zip -d /opt/solr-6.4.2/
@@ -91,4 +91,4 @@ Después del mensaje anterior, el SOLR está configurado.
 
 [Instalando MongoDB][1]
 
-[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-mongo.html
+[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/install-mongo.html

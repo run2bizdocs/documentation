@@ -3,7 +3,7 @@ Title: Configurar logo del banner
 # Configurar logo del banner
 
 
-Es posible cambiar el banner de su ambiente para que CITSmart tenga la identidad de su empresa.
+Es posible cambiar el banner de su ambiente para que 4biz tenga la identidad de su empresa.
 
 Procedimiento
 -------
@@ -16,11 +16,11 @@ Procedimiento
 !!! Abstract "Cambiar el icono de carga"
     Para cambiar el icono de carga, cambie el valor del parámetro 387 a "SÍ".
 	
-	Camino: Parametrización > Parámetros CITSmart > 387.  
+	Camino: Parametrización > Parámetros 4biz > 387.  
 	
 	
 !!! tip "Sobre"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

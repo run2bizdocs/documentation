@@ -2,7 +2,7 @@ Title: Gestionar indización de contenido
 
 # Gestionar Indización de Contenido
 
-CITSmart utiliza el Apache SOLR para indexar el contenido creado en la Gestión de Conocimiento y lo disponibiliza en el sistema de búsqueda del Portal de Conocimiento.
+4biz utiliza el Apache SOLR para indexar el contenido creado en la Gestión de Conocimiento y lo disponibiliza en el sistema de búsqueda del Portal de Conocimiento.
 
 ## Lo que hacer antes
 
@@ -12,7 +12,7 @@ Para que la Indización del conocimiento funcione correctamente, es necesario:
 
 ## Parametrizar el servicio de indización
 
-1. Acceder al menú principal Parametrización > Parámetros CITSmart;
+1. Acceder al menú principal Parametrización > Parámetros 4biz;
 2. Configurar el parámetro 304 que indica la dirección URL del componente SOLR;
 
     ```sh
@@ -32,7 +32,7 @@ indexados, haga clic en "Eliminar la indexación de la base de conocimiento".
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
 
-[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacion-apache-solr
+[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacion-apache-solr

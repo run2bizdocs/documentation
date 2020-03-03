@@ -1,18 +1,18 @@
 title: Criar ticket pelo Twitter
-Description: O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
+Description: O 4biz, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
 
 # Criar ticket pelo Twitter
-O CITSmart, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
+O 4biz, com intuito de ampliar as modalidades de atendimento, possibilita que os usuários possam registrar seus tickets diretamente pela interface da rede social Twitter.
 
 Antes de começar
 ----------------
 
-É necessário ter a funcionalidade de integração com o Twitter configurada na instância CITSmart e ter a funcionalidade de machine learning (ambiente com Python). Além disso, é preciso definir o serviço que atenderá à esta modalidade de atendimento, bem como contratos e permissões em fluxos de trabalho. 
+É necessário ter a funcionalidade de integração com o Twitter configurada na instância 4biz e ter a funcionalidade de machine learning (ambiente com Python). Além disso, é preciso definir o serviço que atenderá à esta modalidade de atendimento, bem como contratos e permissões em fluxos de trabalho. 
 
 Procedimento 
 -------------
 
-1.  É necessário seguir a página CITSmart no Twitter;  
+1.  É necessário seguir a página 4biz no Twitter;  
 
 2.  Clicar no ícone “Mensagem” nesta página;
 
@@ -29,11 +29,11 @@ Procedimento
 
 !!! Abstract "IMPORTANTE"
 
-    A abertura e atendimento de tickets pelo Twitter só é possível se o sistema seguir um formulário (workflow) 
-    Neuro criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
+    A abertura e atendimento de tickets pelo Twitter só é possível se o sistema seguir um formulário (tracker) 
+    Builder criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
     necessitará de um processo de negócio agendado por expressão Cron.  
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/29/2019 – Larissa Lourenço

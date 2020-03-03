@@ -1,9 +1,9 @@
 title: Configure BI solution (Smart Analytics) via Docker
-Description: This document is intended to configure the BI in the CITSmart instance.
+Description: This document is intended to configure the BI in the 4biz instance.
 # Configure BI solution (Smart Analytics) via Docker
 
-CITSmart Analytics is a solution of Business Intelligence (BI) for analyzing the data
-from CITSmart. The BI solution uses resources of the tools [Saiku
+4biz Analytics is a solution of Business Intelligence (BI) for analyzing the data
+from 4biz. The BI solution uses resources of the tools [Saiku
 Analytics](https://www.meteorite.bi/products/saiku-reporting) and [Pentaho](https://www.hitachivantara.com/go/pentaho.html).
 
 It's possible to have BI in your environment using the container structure of
@@ -36,7 +36,7 @@ Procedure
     cd/citbi/
     
     ```
-    docker build -t registry.citsmartcloud.com/templates/bi .
+    docker build -t registry.4bizcloud.com/templates/bi .
     ```
     
 1.  In the folder /citbi/composes, configure the database:
@@ -52,10 +52,10 @@ Procedure
     services:
       citBI:
         container_name: citBI
-        image: registry.citsmartcloud.com/templates/bi:latest
+        image: registry.4bizcloud.com/templates/bi:latest
         environment:
     - BI_HOST=127.0.0.1
-    - BI_DATABASE= citsmart_equipeteste_equatorial
+    - BI_DATABASE= 4biz_equipeteste_equatorial
     - BI_PORT=5432
     - BI_USER=root
     - BI_PASSWORD=1
@@ -104,7 +104,7 @@ docker logs -f citBI
 
 3.  Add DataSource:
 
-    jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
+    jdbc:postgresql://127.0.0.1:5432/4biz_equipeteste_equatorial
 
 ***Useful commands: box***
 
@@ -134,9 +134,9 @@ docker logs -f citBI
 What to do next
 ------------------
 
-1. To enjoy the benefits of BI in your CITSmart instance, it's necessary to
+1. To enjoy the benefits of BI in your 4biz instance, it's necessary to
 configure the parameters 401 and 412. To do so, access the main menu
-Parametrization \> CITSmart Parameters;
+Parametrization \> 4biz Parameters;
 
 2. Detais of the parameters:
 
@@ -147,17 +147,17 @@ Parametrization \> CITSmart Parameters;
     -   412: Job to update the password Saiku
 
     Example:
-    http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
+    http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=login4biz
 
 
 Related
 -----------
 
-[Using Smart Analytcs (BI) to generate reports](/en-us/citsmart-platform-8/additional-features/smart-analytics/use-bi-solution.html)
+[Using Smart Analytcs (BI) to generate reports](/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins

@@ -31,7 +31,7 @@ Procedimento
 
 *2° Passo: Setar a parametrização referente ao serviço de alteração de senha*
 
-1.  Acessar o menu principal Parametrização \> Parâmetros CITSmart;
+1.  Acessar o menu principal Parametrização \> Parâmetros 4biz;
 
 2.  Editar e salvar o parâmetro 116 atribuindo-lhe o valor numeral do ID gerado
     para o modelo de e-mail recém criado;
@@ -50,8 +50,8 @@ local e apertar “Gravar”.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[2]:/pt-br/citsmart-platform-8/platform-administration/email-settings/configuration.html
+[1]:/pt-br/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
+[2]:/pt-br/4biz-helium/platform-administration/email-settings/configuration.html

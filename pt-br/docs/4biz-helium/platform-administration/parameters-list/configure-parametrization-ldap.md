@@ -1,17 +1,17 @@
 title: Configurar parametrização - LDAP
-Description: Esta configuração de parâmetros ligados à integração com o LDAP ocorre de uma forma implícita usando a funcionalidade Configuração LDAP ou de forma explícita usando a funcionalidade Parâmetros do CITSmart.
+Description: Esta configuração de parâmetros ligados à integração com o LDAP ocorre de uma forma implícita usando a funcionalidade Configuração LDAP ou de forma explícita usando a funcionalidade Parâmetros do 4biz.
 # Configurar parametrização - LDAP
 
 Ao contrário dos demais parâmetros do produto, esta configuração de parâmetros
 ligados à integração com o LDAP ocorre de uma forma implícita usando a
 funcionalidade Configuração LDAP ou de forma explícita usando a
-funcionalidade Parâmetros do CITSmart.
+funcionalidade Parâmetros do 4biz.
 
 Procedimento
 ----------------
 
 1.  Acessar a funcionalidade através da navegação no menu principal
-    Parametrização \> Parâmetros CITSmart;
+    Parametrização \> Parâmetros 4biz;
 
 2.  Definir o valor do parâmetro a ser configurado;
 
@@ -33,5 +33,5 @@ Tabela 1 - Tabela de parâmetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 - Anna Martins

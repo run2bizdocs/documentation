@@ -11,7 +11,7 @@ In order to define the activities released to the service contract, it's necessa
 have registered certain functionalities, such as: having permission to access the
 Portfolio and Catalog Management functions, having the portfolio with registered services,
 having the contract linked to the service, , currency, condition of operation, set
-the calendar, the time of attendance, email templates, workflow and searches.
+the calendar, the time of attendance, email templates, tracker and searches.
 In addition, you must have already defined the service contract attributes.
 
 Procedure
@@ -52,7 +52,7 @@ Procedure
         It's necessary in all of the above activities to link a flow to this 
         activity, otherwise it'll not be possible to register a service request
         solicitação de serviço. To do so, simply in the "Service Flow" area,
-        click on "Add" and select the workflow that matches the scenario and 
+        click on "Add" and select the tracker that matches the scenario and 
         click on "Save"  
 
      -  **Unavailability Cost**: Inform the cost per hour, what the organization 
@@ -78,6 +78,6 @@ Procedure
        
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/08/2019 – Larissa Lourenço
 

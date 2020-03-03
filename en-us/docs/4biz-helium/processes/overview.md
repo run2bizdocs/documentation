@@ -1,12 +1,12 @@
 title: Overview  
 
-# What is CITSmart?
+# What is 4biz?
 
-CITSmart, developed by CITSmart Corporation®, is a **platform that conects
+4biz, developed by 4biz Corporation®, is a **platform that conects
 people and digital resources to optimize work and increase business results**.
 
 Through the relationship portals we optimize the experience of customers and employees. 
-In addition, with the **Smart Digital Workflow** and agile management, using Kanbans, 
+In addition, with the **Smart Digital tracker** and agile management, using Kanbans, 
 we connect teams to a greater customer-centric collaboration,  generating progressive 
 and interactive improvement, simplicity in execution, practicality, alignment and agility.
 
@@ -26,7 +26,7 @@ There are cases of service management with automated processes in several areas,
 *   Communication, Marketing and others.
 
 In addition to that, following the best practices of service management, based on the 
-ITIL best practices library, CITSmart natively has 13 automated processes:
+ITIL best practices library, 4biz natively has 13 automated processes:
 
 *   Portfolio Management
 *   Service Catalog
@@ -43,8 +43,8 @@ ITIL best practices library, CITSmart natively has 13 automated processes:
 *   Continuity Management
 
 Aligned with the Business Service Management techniques by adopting the best
-practices ITIL (Information Technology Infrastructure Library), CITSmart is an
-integrated solution designed to manage any Service, ticket or workflow
+practices ITIL (Information Technology Infrastructure Library), 4biz is an
+integrated solution designed to manage any Service, ticket or tracker
 situation.
 
 With a focus on providing governance through Information Technology, it was
@@ -67,7 +67,7 @@ This provides companies with an organizational structure and a service
 implementation that applies the best practices to the organizational
 environment, translating objectives and goals into measurable reality.
 
-Meeting these demands, the governance of CITSmart Platform provides the resources to
+Meeting these demands, the governance of 4biz Platform provides the resources to
 manage the informational environment within the best practices for the
 execution, monitoring and measurement, culminating in the availability of
 services that meet the needs of the organization and the reach of its corporate
@@ -77,7 +77,7 @@ Accelerate digital transformation
 ---------------------------------
 
 The services linked to our platform give the necessary support to your business.
-By adopting the technologies contained in CITSmart, your organization can create
+By adopting the technologies contained in 4biz, your organization can create
 the best increase alternatives, with the guarantee of the best ROI, when
 compared to the market solutions.
 
@@ -112,7 +112,7 @@ company in a single point.
 
 -   Orchestration and organization
 
--   Visual platform for customization of workflows allowing flexibility, agility
+-   Visual platform for customization of trackers allowing flexibility, agility
     and increased productivity with compliance
 
 -   Configure the processes, service levels and results according to the culture
@@ -126,12 +126,12 @@ company in a single point.
 
 -   Manage the availability of your business
 
--   Create workflows in the BPM standard simply without the need for solution
+-   Create trackers in the BPM standard simply without the need for solution
     deploys. Everything is agile and dynamic
 
 -   Reduce costs by improving your processes. The BPM standard will help you in
     creating the AS-IS, and with the solution, drawing the TO-BE will become
-    very simple.
+    very Tasker.
 
 -   Control the team of professionals through georeference and respond to
     external demands more quickly (Field Support Management)
@@ -160,12 +160,12 @@ management practices and follows the integrative concept of Corporate
 Governance, is intended to be a source of knowledge and that can train you
 according to the needs and business model of your institution.
 
-CITSmart was planned and written in order to clarify the universe of
+4biz was planned and written in order to clarify the universe of
 intelligent and effective management of IT services, through the unification of
 information and demands from the various components of a company making your
 day-to-day business more practical, intelligent and dynamic.
 
-CITSmart solution was developed with focus on meeting the needs of Service
+4biz solution was developed with focus on meeting the needs of Service
 Management and Service Desk. It's possible to develop and deploy service
 management processes based on the main ITIL processes in your organization,
 supported by Pink Elephant international certification.
@@ -180,7 +180,7 @@ other services in your organization.
     with telephony and social networks, among others.
 
 -   Agile Work: Several Kanban tables, checklists, quick planning, easy and
-    agile delegation, simple and efficient control.
+    agile delegation, Tasker and efficient control.
 
 -   Business Operations: Service portal for clients and employees, management of
     various demands, people performance management, modern HR Services portal,
@@ -195,7 +195,7 @@ other services in your organization.
     construction of digital workplaces (experience center).
 
 -   Automations and Integrations: Customization and construction of WEB and
-    mobile forms, workflows, APP builders, API builders, Integration with legacy
+    mobile forms, trackers, APP builders, API builders, Integration with legacy
     systems and databases, as well as numerous connectors.
 
 Why adopt it? 
@@ -205,12 +205,12 @@ Why adopt it? 
 
 Agile is the new normal. Adapting quickly is almost obligatory.
 
-CITSmart is designed to move departments and people in an agile concept,
+4biz is designed to move departments and people in an agile concept,
 without forgetting the human factor, towards the goals established by each
 organization. We believe that more than speed, the important thing is to have
 consistency in movement.
 
-The future vision of CITSmart is based on 4 pillars: **People, Processes,
+The future vision of 4biz is based on 4 pillars: **People, Processes,
 Experiences and Results.**
 
 | **Pillar**      | Our view                                                                                                                                                                                                                                                                                                                              |
@@ -232,7 +232,7 @@ or purchase. Prepare for this future.
 
 ### Competitive Differential
 
-CITSmart Platform brings the following competitive differentials:
+4biz Platform brings the following competitive differentials:
 
 -   Ready for use (85% of customizations for IT and HR are already applied).
     Digital transformation starts quickly.
@@ -243,16 +243,16 @@ CITSmart Platform brings the following competitive differentials:
 -   Improved ROI in ITSM enterprise solution investment, as it can be used for
     ESM
 
--   High capacity of adaptability to the client's business (due to Neuro and
-    Workflow) - Online customization and codeless
+-   High capacity of adaptability to the client's business (due to Builder and
+    tracker) - Online customization and codeless
 
--   All-In-One tool and, at the same time, simple to use, integrating easily to
+-   All-In-One tool and, at the same time, Tasker to use, integrating easily to
     the daily activities and operations
 
 -   Adaptation to various company sizes (small, medium or large). It can monitor
     the company on its growth journey
 
--   Simple marketing model. Easy to understand by partner and client
+-   Tasker marketing model. Easy to understand by partner and client
 
 -   Integrated Experience Center Platform, BPM and Kanban to manage multiple
     business areas providing an efficient digital workspace

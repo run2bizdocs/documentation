@@ -22,7 +22,7 @@ Procedimento
 
 2.  Completar los campos disponibles;
 
-3.  En el campo **Tipo de plantilla**, a cada opción elegida (JSP, Cuestionario o Neuro) los campos para relleno se cambiarán
+3.  En el campo **Tipo de plantilla**, a cada opción elegida (JSP, Cuestionario o Builder) los campos para relleno se cambiarán
 
     ![jsp](images/template-1.jpg)
 
@@ -34,19 +34,19 @@ Procedimento
 
     ![jsp](images/template-3.jpg)
 
-    Figura 3 - Neuro plantilla
+    Figura 3 - Builder plantilla
 
 4. Hacer clic en "Guardar".
 
 Relacionado
 -----------
 
-[Cadastrar cuestionario](/es-es/citsmart-platform-8/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
+[Cadastrar cuestionario](/es-es/4biz-helium/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

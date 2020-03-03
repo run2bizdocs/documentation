@@ -3,7 +3,7 @@ Title: Visión General
 
 ## ¿Qué es Anuva?
 
-Anuva es la plataforma de Inteligencia Artificial de CITSmart. El primer recurso disponible fue un asistente virtual, Anuva Assistant, un chatbot que se comunica e interactúa con personas a través de mensajes de texto automatizados. 
+Anuva es la plataforma de Inteligencia Artificial de 4biz. El primer recurso disponible fue un asistente virtual, Anuva Assistant, un chatbot que se comunica e interactúa con personas a través de mensajes de texto automatizados. 
 
 Anuva utiliza inteligencia artificial para realizar diálogos con usuarios de forma cada vez más perfeccionados en diferentes plataformas y, además de interactuar con los usuarios, es capaz de integrarse con otros sistemas para obtener respuestas a cuestionamientos, recuperando datos a través de APIs.
 
@@ -17,20 +17,20 @@ Anuva utiliza 5 conceptos principales en su funcionamiento:
 
 * Code: Es posible conectar Anuva con API externas, permitiendo acceder a datos necesarios para entregar valor al usuario;
 
-* Connect: Es posible integrar Anuva a diferentes plataformas de mensajes, de forma nativa, ya puede ser integrada a Facebook y al CITSmart.
+* Connect: Es posible integrar Anuva a diferentes plataformas de mensajes, de forma nativa, ya puede ser integrada a Facebook y al 4biz.
 
 * Monitor: Una vez disponible para el usuario, es posible acompañar las conversaciones realizadas por Anuva, para mejorar la información de entrenamiento y obtener información sobre nuevos diálogos a ser enseñados a Anuva. 
 
 ## Accedendo a Anuva
 
-Después de la liberación de su entorno Anuva, acceda al ambiente de configuración de Anuva a través del enlace disponibilizado por CITSmart. (http://<Su-Instancia>.anuvaassistant.com).
+Después de la liberación de su entorno Anuva, acceda al ambiente de configuración de Anuva a través del enlace disponibilizado por 4biz. (http://<Su-Instancia>.anuvaassistant.com).
 
 En este ambiente, usted podrá agregar y revisar conocimientos para Anuva, podrá programar entrenamientos, acompañar las interacciones realizadas por Anuva y realizar pruebas de interacción para validar si las interacciones están siendo efectivas.
 
 
 ## Configuración
 
-[Disponer Anuva en la interfaz CITSmart](/es-es/anuva/configuration/anuva-citsmart.html)
+[Disponer Anuva en la interfaz 4biz](/es-es/anuva/configuration/anuva-4biz.html)
 
 [Crear contextos para Anuva](/es-es/anuva/configuration/context-anuva.html)
 
@@ -49,6 +49,6 @@ En este ambiente, usted podrá agregar y revisar conocimientos para Anuva, podr�
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
 

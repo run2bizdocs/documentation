@@ -2,7 +2,7 @@ Title: Gerenciar a indexação de conteúdo
 
 # Gerenciar a indexação de conteúdo
 
-O CITSmart usa o Apache SOLR para indexar o conteúdo criado na Gerência de Conhecimento e o disponibiliza no sistema de busca do Portal de Conhecimento.
+O 4biz usa o Apache SOLR para indexar o conteúdo criado na Gerência de Conhecimento e o disponibiliza no sistema de busca do Portal de Conhecimento.
 
 ## O que fazer antes
 
@@ -12,7 +12,7 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
 
 ## Parametrizar o serviço de indexação
 
-1. Acessar o menu principal Parametrização > Parâmetros CITSmart;
+1. Acessar o menu principal Parametrização > Parâmetros 4biz;
 2. Configurar o parâmetro 304 informando a URL do componente SOLR;
 
     ```sh
@@ -31,7 +31,7 @@ Para que a Indexação de conhecimento funcione corretamente é necessário:
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1
+[1]:/pt-br/4biz-helium/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1

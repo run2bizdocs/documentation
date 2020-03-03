@@ -7,7 +7,7 @@ Esta funcionalidad tiene por objeto comprobar el registro del sistema para el ca
 !!! Abstract "NOTA"
 
     Si los nombres de las tablas no están actualizados, accede a la
-    funcionalidad Parámetros CITSmart y defina el nombre de la base de datos
+    funcionalidad Parámetros 4biz y defina el nombre de la base de datos
     utilizada en el parámetro 'DB - nombre del SHEMA de la base de datos '.
     Después de esto, accede a la funcionalidad Cargar Meta Datos y actualice
     todas las tablas.
@@ -27,5 +27,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

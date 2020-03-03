@@ -1,8 +1,8 @@
-title: Configurar instancia para utilizar la aplicación CITSmart GO
-Description: La aplicación CITSmart GO permite atender en modo offline - en las que el operador no tiene internet.
-# Configurar instancia para utilizar la aplicación CITSmart GO
+title: Configurar instancia para utilizar la aplicación 4biz GO
+Description: La aplicación 4biz GO permite atender en modo offline - en las que el operador no tiene internet.
+# Configurar instancia para utilizar la aplicación 4biz GO
 
-La aplicación CITSmart GO permite atender en modo offline - en las que el
+La aplicación 4biz GO permite atender en modo offline - en las que el
 operador no tiene internet. Una vez que la aplicación se conecta a Internet,
 enviará automáticamente la información al ambiente en producción. Es importante
 recordar que la delegación de la solicitud a un empleado debe ser hecha
@@ -13,9 +13,9 @@ Los asistentes visualizará sólo las solicitudes que se los delegaron.
 Antes de empezar
 --------------------
 
-1.  Instalar la aplicación CITSmart GO;
+1.  Instalar la aplicación 4biz GO;
 
-2.  En el ambiente - instancia del CITSmart - , configurar las siguientes
+2.  En el ambiente - instancia del 4biz - , configurar las siguientes
     funcionalidades:
 
     -   Webservice: indicar en el ítem "permisos" los grupos de atención que podrán
@@ -75,7 +75,7 @@ Procedimiento
 Lo que hacer después
 ----------
 
-Inicie sesión en la aplicación CITSmart GO ya instalada, insertando la dirección
+Inicie sesión en la aplicación 4biz GO ya instalada, insertando la dirección
 URL, el usuario y la contraseña del ambiente. Comprobar los tickets y hacer la
 atención.
 
@@ -83,9 +83,9 @@ atención.
 Relacionado
 -----------
 
-[Manual de utilización del CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilización del 4biz GO](/es-es/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

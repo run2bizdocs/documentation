@@ -5,7 +5,7 @@ Description: Permite definir se ativa a integração dos webservices com a telef
 A parametrização da "Telefonia permite definir se ativa a integração dos
 webservices com a telefonia, informar o número de identificação do serviço de
 requisição, dentre outras ações possíveis afim de configurar o uso da telefonia
-no CITSmart.
+no 4biz.
 
 Procedimento
 ------------
@@ -31,5 +31,5 @@ Tabela 1 - Lista de parâmetros
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

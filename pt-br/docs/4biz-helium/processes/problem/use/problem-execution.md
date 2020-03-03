@@ -86,7 +86,7 @@ Procedimento
     tomadas para corrigir o problema e as melhorias a serem implantadas para
     evitar a ocorrência posterior do mesmo, dentre outros;
 
-    -   Na aba “Simple”, é liberado a criação do quadro Kanban;
+    -   Na aba “Tasker”, é liberado a criação do quadro Kanban;
 
     -   Em “Lições aprendidas”, ao clicar no botão “Adicionar”, será possível
     selecionar e vincular um conhecimento para dizimar as instruções a fim
@@ -105,9 +105,9 @@ Procedimento
 Relacionado
 ------------
  
-[Cadastrar um problema](/pt-br/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Cadastrar um problema](/pt-br/4biz-helium/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

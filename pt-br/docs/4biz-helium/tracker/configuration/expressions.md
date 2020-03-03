@@ -9,11 +9,11 @@ Expressões são recursos utilizados nos fluxos do sistema para permitir a const
 [Construir Expressões][1]  
 
 
-[1]:/pt-br/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[1]:/pt-br/4biz-helium/tracker/configuration/expressions-creator.html
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

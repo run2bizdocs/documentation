@@ -58,19 +58,19 @@ Procedure
 Related
 -----------
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Create calendar](/en-us/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Create calendar](/en-us/4biz-helium/platform-administration/time/create-calendar.html)
 
-[Configure email template](/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configure email template](/en-us/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Create workflow](/en-us/citsmart-platform-8/workflow/use/create-flow.html) 
+[Create tracker](/en-us/4biz-helium/tracker/use/create-flow.html) 
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Larissa Lourenço  
 

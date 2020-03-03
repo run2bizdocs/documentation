@@ -52,7 +52,7 @@ of objectives". It's what everyone is looking for.
 
 It's easy to think of services for end clients, the whole clients experience is
 made up of them; however, have you ever heard of corporate services? Perhaps the
-term is new, but it is simple, is to put internal areas or departments to
+term is new, but it is Tasker, is to put internal areas or departments to
 provide results for each other. This changes everything.
 
 With this concept of "corporate services", a larger management or organization
@@ -74,11 +74,11 @@ What worries most companies is setting what separates a good client experience
 from a bad one. Today, in the business world, many of the needs of the company
 itself tend to overshadow client needs.
 
-CITSmart Corporation believes that the focus of the business should be on the
+4biz Corporation believes that the focus of the business should be on the
 good client experience and being one-step ahead depends on how you connect the
 services and processes.
 
-That´s the new mindset for the new Companies and our CITSmart - Enterprise
+That´s the new mindset for the new Companies and our 4biz - Enterprise
 Services Platform will help changes those corporates perspective.
 
 !!! tip "About"

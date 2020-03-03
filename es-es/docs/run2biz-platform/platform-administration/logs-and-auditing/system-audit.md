@@ -99,9 +99,9 @@ hechas en el sistema.*
 Relacionado
 -------------
     
-[Configurar el Audit 0.4.0](/es-es/citsmart-platform-8/platform-administration/logs-and-auditing/audit040-configure.html)
+[Configurar el Audit 0.4.0](/es-es/4biz-helium/platform-administration/logs-and-auditing/audit040-configure.html)
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/15/2019 – Larissa Lourenço

@@ -28,7 +28,7 @@ electrónico.
 Procedimiento
 -----------------
 
-1.  Acceder a la funcionalidad en el menú principal Workflow \> Diseño de
+1.  Acceder a la funcionalidad en el menú principal tracker \> Diseño de
     flujo;
 
 2.  Seleccionar el flujo de apobación de solicitud y hacer clic en "Editar";
@@ -72,15 +72,15 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Flujo de trabajo](/es-es/citsmart-platform-8/workflow/overview.html)
+[Flujo de trabajo](/es-es/4biz-helium/tracker/overview.html)
 
-[Configurar parametrización - correo eletronico](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
+[Configurar parametrización - correo eletronico](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-email.html)
 
-[Configurar parametrización -sistema](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización -sistema](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
 Adjunto
 ----------
@@ -91,8 +91,8 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
 
 
-[1]:/es-es/citsmart-platform-8/processes/tickets/images/aprobacion.docx
+[1]:/es-es/4biz-helium/processes/tickets/images/aprobacion.docx

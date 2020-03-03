@@ -31,10 +31,10 @@ Procedure
 Related
 -------
 
-[Create profile access](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Create profile access](/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins

@@ -8,21 +8,21 @@ The Mobile functionality was developed to allow greater autonomy in the manageme
 Related
 ------
 
-[Configure CITSmart GO application][1]
+[Configure 4biz GO application][1]
 
-[CITSmart GO application Manual][2]
+[4biz GO application Manual][2]
 
 [Configure the menu options in mobile][3]
 
 
-[1]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html
-[2]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[3]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
+[1]:/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html
+[2]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[3]:/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	
 

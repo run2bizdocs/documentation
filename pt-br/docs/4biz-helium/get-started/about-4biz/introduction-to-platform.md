@@ -51,7 +51,7 @@ objetivos". É o que todo mundo está procurando.
 
 É fácil pensar em serviços para clientes finais, toda a experiência dos clientes
 é composta deles; no entanto, já ouviu falar de serviços corporativos?
-Talvez o termo seja novo, mas é simples, é colocar áreas internas ou
+Talvez o termo seja novo, mas é Taskers, é colocar áreas internas ou
 departamentos para fornecer resultados para o outro. Isso muda tudo.
 
 Com esse conceito de "serviços corporativos", uma administração ou organização
@@ -74,11 +74,11 @@ O que preocupa a maioria das empresas é definir o que separa uma boa experiênc
 de cliente de uma ruim. Hoje, no mundo dos negócios, muitas das necessidades da
 própria empresa tendem a ofuscar as necessidades dos clientes.
 
-A CITSmart Corporation acredita que o foco do negócio deve estar na boa
+A 4biz Corporation acredita que o foco do negócio deve estar na boa
 experiência do cliente e estar um passo a frente, dependendo de como se conecta
 serviços e processos.
 
-Essa é a nova mentalidade para as novas empresas e a CITSmart -
+Essa é a nova mentalidade para as novas empresas e a 4biz -
 Enterprise Services Platform ajudará nas mudanças da perspectiva dessas corporações.
 
 !!! tip "About"

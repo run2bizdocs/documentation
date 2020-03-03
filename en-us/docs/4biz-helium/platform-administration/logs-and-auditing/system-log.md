@@ -6,7 +6,7 @@ This functionality is intended to verify the system log to trail the audit.
 
 !!! Abstract "NOTE"
 
-    If the names of the tables are not updated, access the CITSmart Parameters
+    If the names of the tables are not updated, access the 4biz Parameters
     feature and define the name of the database used in the parameter 'DB - name
     of the database SHEMA'. After that, access the Load Metadata functionality
     and update all tables.
@@ -25,5 +25,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

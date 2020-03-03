@@ -1,12 +1,12 @@
-title: Aplicación Neuro
-Description: Aplicación Neuro
-# Aplicación Neuro
+title: Aplicación Builder
+Description: Aplicación Builder
+# Aplicación Builder
 
 
 
-La Aplicación Neuro es una composición de elementos que interactúan entre sí para componer un conjunto de funcionalidades integradas al Citsmart y sistemas legados. 
+La Aplicación Builder es una composición de elementos que interactúan entre sí para componer un conjunto de funcionalidades integradas al 4biz y sistemas legados. 
 
-Los principales elementos de Citsmart Neuro son Objetos de Negocio, Reglas de Negocio, Formularios, Flujos y Procesos de Negocio.
+Los principales elementos de 4biz Builder son Objetos de Negocio, Reglas de Negocio, Formularios, Flujos y Procesos de Negocio.
 
 Antes de empezar
 --------------
@@ -16,7 +16,7 @@ Es necesario haber creado la conexión BD.
 Procedimiento
 -----------
 
-1.  Acceder al menú de navegación Neuro > Administración > Aplicación;
+1.  Acceder al menú de navegación Builder > Administración > Aplicación;
 
 2.  Hacer clic en "Registro”;
 
@@ -36,12 +36,12 @@ Procedimiento
     Todos los campos de la lista de elementos se utilizarán como filtro para restringir los elementos listados.
     
    
-![APP NEURO](images/neuro-4.png)
+![APP Builder](images/Builder-4.png)
 
-Figura 1 - Aplicación Neuro
+Figura 1 - Aplicación Builder
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins
 

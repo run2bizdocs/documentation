@@ -92,7 +92,7 @@ Procedure
     taken to correct the problem and the improvements to be deployed to
     to avoid its subsequent occurrence, among others;
 
-    -   In the “Simple” tab, it's possible the creation of a Kanban;
+    -   In the “Tasker” tab, it's possible the creation of a Kanban;
 
     -   In "Lessons learned", when click in "Add", it'll be possible
     to select and link a knowledge to decimate the instructions to
@@ -112,9 +112,9 @@ Procedure
 Relacionado
 ------------
  
-[Register problem](/en-us/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Register problem](/en-us/4biz-helium/processes/problem/use/register-problem.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

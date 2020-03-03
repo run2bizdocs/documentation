@@ -12,8 +12,8 @@ Procedimento
 
 1. Acessar o menu principal “Diálogos”;
 
-2. Clicar no botão "Cadastrar" e selecionar uma das opções Simples (apenas um interação Interesse-Habilidade) ou Complexo 
-(para unir vários diálogos simples);
+2. Clicar no botão "Cadastrar" e selecionar uma das opções Taskers (apenas um interação Interesse-Habilidade) ou Complexo 
+(para unir vários diálogos Taskers);
 
 3. Informar o Tema relacionado ao Diálogo, isto ajudará a categorizá-los, posteriormente. Um novo tema pode ser cadastrado no menu “Tema”.
 
@@ -54,6 +54,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
     

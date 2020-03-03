@@ -1,9 +1,9 @@
 title: Verify execution status of CI inventory
-Description: Allows to view the current status of the inventory execution through the application of CITSmart Inventory.
+Description: Allows to view the current status of the inventory execution through the application of 4biz Inventory.
 # Verify execution status of CI inventory
 
 This functionality allows to view the current status of the inventory execution
-through the application of CITSmart Inventory.
+through the application of 4biz Inventory.
 
 Before getting started
 --------------------------
@@ -25,10 +25,10 @@ Procedure
 Related
 ----------
 
-[Implement CITSmart Inventory](/en-us/citsmart-platform-8/additional-features/add-ons/inventory.html)
+[Implement 4biz Inventory](/en-us/4biz-helium/additional-features/add-ons/inventory.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

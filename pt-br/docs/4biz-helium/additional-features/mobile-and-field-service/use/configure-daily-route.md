@@ -37,7 +37,7 @@ Procedimento
 
 4.  Clicar no botão "Gravar" para efetuar a operação. Após a gravação, será
     enviada uma notificação para o técnico, onde o mesmo poderá verificar pelo
-    aplicativo CITSmart Enterprise ITSM Mobile as solicitações que serão
+    aplicativo 4biz Enterprise ITSM Mobile as solicitações que serão
     atendidas por ele.
 
 
@@ -45,5 +45,5 @@ Procedimento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

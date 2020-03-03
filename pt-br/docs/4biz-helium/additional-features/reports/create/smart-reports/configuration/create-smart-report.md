@@ -23,10 +23,10 @@ Procedimento
 Relacionado
 -------
 
-[Construir e manter relatórios Smart - V.8.0](/pt-br/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
+[Construir e manter relatórios Smart - V.8.0](/pt-br/4biz-helium/additional-features/reports/create/smart-reports/configuration/build-maintain-smart-report.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

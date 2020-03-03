@@ -7,10 +7,10 @@ events.
 
 Each global event manager contains an EPL for *Information*, *Warning*, and/or
 *Exception*. EPL is an event correlation language used by Esper (Espertech). In
-the initialization of CITSmart Event Monitor, these EPLs are imported into the
+the initialization of 4biz Event Monitor, these EPLs are imported into the
 Esper engine so that a new correlated event will be created each time the
 condition set in the EPL is satisfied. Example of an EPL that correlates between
-CITSmart Inventory and Nagios events: \@Description ('For any Nagios event that
+4biz Inventory and Nagios events: \@Description ('For any Nagios event that
 occurs after any Inventory event in the last 10 minutes) select \* from pattern
 [every a = EventCheckInventory- \> b = EventServiceNagios where timer: within
 (10minutes)].
@@ -22,8 +22,8 @@ Before getting started
 --------------------------
 
 To register the Global manager, it's necessary to previously register the
-CITSmart Event Monitor connection, time, occurrence category, automatic action
-and the CITSmart Inventory connection.
+4biz Event Monitor connection, time, occurrence category, automatic action
+and the 4biz Inventory connection.
 
 Procedure
 -------------
@@ -61,19 +61,19 @@ Procedure
 Related
 -------
 
-[Register occurrence category](/en-us/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+[Register occurrence category](/en-us/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-[Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Register time](/en-us/4biz-helium/processes/event/configuration/register-time.html)
 
-[Set Inventory connection](/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+[Set Inventory connection](/en-us/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
-[Register automatic action](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
+[Register automatic action](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-action.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins
  

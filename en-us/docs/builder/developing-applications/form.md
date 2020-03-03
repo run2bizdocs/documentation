@@ -30,11 +30,11 @@ resources.
    -  **Process page**
 
        * Page for SM system processes associated with business processes, used to
-         Start a Neuro Business Process.
+         Start a Builder Business Process.
 
    -  **Task page**
 
-       * Run through a created Workflow/ESI Design, rendering a neuro form on the
+       * Run through a created tracker/ESI Design, rendering a Builder form on the
          ticket screen.
 
    -  **Report page**
@@ -45,12 +45,12 @@ resources.
 Before getting started
 ----------------------
 
-Must have the Neuro Application created.
+Must have the Builder Application created.
 
 Procedure
 ---------
 
-1.  Access the functionality through navigation in the menu Neuro \> Management \> Form;
+1.  Access the functionality through navigation in the menu Builder \> Management \> Form;
 
 2.  Click on "New";
 
@@ -61,7 +61,7 @@ Procedure
     grouper on the server, for the purposes of organization and mark if the Form
     is to be **Show as a SM widget**;
 
-    ![form](images/neuro-18.jpg)
+    ![form](images/Builder-18.jpg)
 
     Figure 1 - Form
 
@@ -72,7 +72,7 @@ Procedure
 
 4. Add page
 
-    ![form](images/neuro-19.jpg)
+    ![form](images/Builder-19.jpg)
 
     Figure 2 - Add page
     
@@ -81,28 +81,28 @@ Procedure
 
     * Properties: General data
 
-    ![form](images/neuro-20.jpg)
+    ![form](images/Builder-20.jpg)
 
     Figure 3 - General data
     
 
     * HTML: page HTML structure
 
-    ![form](images/neuro-21.jpg)
+    ![form](images/Builder-21.jpg)
 
     Figure 4 - HTML
     
 
     * Controller: controller code referring to the form
 
-    ![form](images/neuro-22.jpg)
+    ![form](images/Builder-22.jpg)
 
     Figure 5 - Controller
     
 
     •	Dependencies: the dependencies of the application are reported. The name of the dependency and the path in which it is located must be entered. The user must also inform whether it will be injected into the controller.
 
-    ![form](images/neuro-23.jpg)
+    ![form](images/Builder-23.jpg)
 
     Figure 6 - Dependencies
 
@@ -114,7 +114,7 @@ Procedure
     *	You can also create tabs on the forms. To do this, go to the tabs menu, and choose tabs horizontally or vertically. The tabs will be added on the screen, and you can design the screen with the components on each tab.
 
 
-    ![form](images/neuro-24.jpg)
+    ![form](images/Builder-24.jpg)
 
     Figure 7 - Design
 
@@ -128,5 +128,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  

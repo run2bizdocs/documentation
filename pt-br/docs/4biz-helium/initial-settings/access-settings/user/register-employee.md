@@ -28,11 +28,11 @@ Procedimento
 Relacionado
 -------
 
-[Cadastrar uma unidade](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Cadastrar uma unidade](/pt-br/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar cargo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/position.html)
+[Cadastrar cargo](/pt-br/4biz-helium/initial-settings/access-settings/user/position.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 - Anna Martins

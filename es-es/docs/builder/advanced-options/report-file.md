@@ -1,13 +1,13 @@
 Title: Archivo de informe  
-Description: Cuando sea necesaria la creación de informes en las aplicaciones construidas a través de Neuro, el archivo deberá ser agregado en esa pantalla.  
+Description: Cuando sea necesaria la creación de informes en las aplicaciones construidas a través de Builder, el archivo deberá ser agregado en esa pantalla.  
 
 # Archivo de informe   
  
-Cuando sea necesaria la creación de informes en las aplicaciones construidas a través de Neuro, el archivo deberá ser agregado en esa pantalla.    
+Cuando sea necesaria la creación de informes en las aplicaciones construidas a través de Builder, el archivo deberá ser agregado en esa pantalla.    
 
 ## Cómo acceder  
 
-1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Recursos > Upload de informe.   
+1- Acceda a la funcionalidad a través de la navegación en el menú Builder > Recursos > Upload de informe.   
 
 ## Condiciones previas
 
@@ -33,7 +33,7 @@ Figura 2 - Pantalla de lista de archivos de informe
 
 !!! Abstract "ATENCIÓN"  
 
-    No se puede crear un informe en Neuro. Esta funcionalidad se refiere sólo al cargar un archivo de informe.  
+    No se puede crear un informe en Builder. Esta funcionalidad se refiere sólo al cargar un archivo de informe.  
 	
 1- El campo de versión se incrementa automáticamente por el sistema. Introduzca el nombre del informe, una descripción y la carpeta de la agrupación del proyecto en el servidor. El campo engine se completa automáticamente de acuerdo con el formato del archivo. Actualmente, sólo se acepta el formato jrxml de Jasper.    
 2- Cargue el archivo del informe.  

@@ -1,10 +1,10 @@
 title: Informe de distancia recorrida por analista
-Description: Mostrar las configuraciones para visualizar el informe que demuestra el kilometraje (Kilómetros) recorrido por el analista de atención que está utilizando el app CITSmart Experience.
+Description: Mostrar las configuraciones para visualizar el informe que demuestra el kilometraje (Kilómetros) recorrido por el analista de atención que está utilizando el app 4biz Experience.
 # Informe de distancia recorrida por analista
 
 Este documento tiene por objeto mostrar la configuración para visualizar el informe que
 demuestra el kilometraje (Kilómetros) recorrido por el analista de atención
-que está utilizando la aplicación CITSmart Experience.
+que está utilizando la aplicación 4biz Experience.
 
 Antes de empezar
 ----------------
@@ -12,8 +12,8 @@ Antes de empezar
 Para que el informe se vea, debe importar el informe
 disponible en la sección de Adjunto.
 
-En la aplicación móvil CITSmart Experience, el usuario deberá establecer la flag "Disponible"
-(APP CITSMART \> Página de Inicio \> [Conexión] \> Editar \> Disponible ) para
+En la aplicación móvil 4biz Experience, el usuario deberá establecer la flag "Disponible"
+(APP 4biz \> Página de Inicio \> [Conexión] \> Editar \> Disponible ) para
 iniciar el recuento de Km.
 
 Al final de las atenciones, el usuario deberá deshabilitar la bandera "Disponible", pues
@@ -53,8 +53,8 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>1/30/2019 – Anna Martins
     
     
-  [1]:/pt-br/citsmart-platform-8/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport
+  [1]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport

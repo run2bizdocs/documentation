@@ -2,7 +2,7 @@ Title: Conceitos Básicos.
 Description: Conceitos Básicos para melhor uso e construção do fluxo de trabalho.  
 
 # Conceitos Básicos
-Os Fluxos do CITSmart podem ser desenhados utilizando uma vasta quantidade de elementos que estão disponíveis, abaixo está descrito os elementos bem como as suas características e propriedades.
+Os Fluxos do 4biz podem ser desenhados utilizando uma vasta quantidade de elementos que estão disponíveis, abaixo está descrito os elementos bem como as suas características e propriedades.
 
 ## Elementos do Fluxo
 Elementos é a nomenclatura utilizada para a agrupar os componentes que você pode utilizar na criação de um fluxo, eles são distribuídos da seguinte forma: **Eventos**, **Atividades**, **Extensões**, **Gateways**, **Swimlanes**, **Artefatos** e **Componentes Dinâmicos**.
@@ -15,11 +15,11 @@ Eventos são componentes utilizados para representar acontecimentos em um fluxo,
 
 |Icone|Descrição|
 |------|-----|
-|![ Start event CITSmart][1]|•	**Evento de Início** – elemento que dá início ao fluxo;|
-|![ send event CITSmart][2]|•	**Evento Intermediário de Envio** – permite enviar o controle de uma atividade do usuário para outra atividade.|
-|![ catch event CITSmart][3]|•	**Evento Intermediário de Captura** – permite receber o controle que foi enviado.|
-|![ time event CITSmart][4]|•	**Evento Intermediário do Temporizador** - são eventos acionados por tempo definido e relacionados a uma Expressão Cron, pode ser utilizado como evento inicial ou intermediário. Um uso frequente para este evento está nos serviços Batch.|
-|![ end event CITSmart][5]|•	**Evento de Fim** – elemento que identifica o fim do fluxo.|
+|![ Start event 4biz][1]|•	**Evento de Início** – elemento que dá início ao fluxo;|
+|![ send event 4biz][2]|•	**Evento Intermediário de Envio** – permite enviar o controle de uma atividade do usuário para outra atividade.|
+|![ catch event 4biz][3]|•	**Evento Intermediário de Captura** – permite receber o controle que foi enviado.|
+|![ time event 4biz][4]|•	**Evento Intermediário do Temporizador** - são eventos acionados por tempo definido e relacionados a uma Expressão Cron, pode ser utilizado como evento inicial ou intermediário. Um uso frequente para este evento está nos serviços Batch.|
+|![ end event 4biz][5]|•	**Evento de Fim** – elemento que identifica o fim do fluxo.|
 
 ### Atividades
 
@@ -27,10 +27,10 @@ Os componentes de atividades são representação do que será feito no fluxo.
 
 |Icone|Descrição|
 |------|-----|
-|![ user task CITSmart][6]|•  **Tarefa de Usuário** - é usada para modelar o trabalho que precisa ser feito por uma ação humana.|
-|![ mensage CITSmart][7]|•	**Envio de Mensagem** – E-mail - é usada para "enviar" e-mails automaticamente para um ou mais usuários ou grupo (s) atribuídos a esta tarefa.|
-|![ service task CITSmart][8]|•	**Tarefa de Serviço** – ESI - é uma solução "Bus Service" que permite criar fluxos de integração e interfaces entre soluções, bancos de dados, arquivos e / ou serviços existentes em um ambiente de computação.|
-|![ subprocess CITSmart][9]|•	**Subprocessos** - Permite a criação de solicitações ou incidentes ITSM, relacionados ou não à solicitação do workflow que está sendo executado.|
+|![ user task 4biz][6]|•  **Tarefa de Usuário** - é usada para modelar o trabalho que precisa ser feito por uma ação humana.|
+|![ mensage 4biz][7]|•	**Envio de Mensagem** – E-mail - é usada para "enviar" e-mails automaticamente para um ou mais usuários ou grupo (s) atribuídos a esta tarefa.|
+|![ service task 4biz][8]|•	**Tarefa de Serviço** – ESI - é uma solução "Bus Service" que permite criar fluxos de integração e interfaces entre soluções, bancos de dados, arquivos e / ou serviços existentes em um ambiente de computação.|
+|![ subprocess 4biz][9]|•	**Subprocessos** - Permite a criação de solicitações ou incidentes ITSM, relacionados ou não à solicitação do tracker que está sendo executado.|
 
 ### Extensões
 
@@ -38,8 +38,8 @@ Os componentes de extensão integram o fluxo e com o usuário de forma prática 
 
 |Icone|Descrição|
 |------|-----|
-|![ REST CITSmart][10]|•	**Comunicação REST** - é uma conexão com serviços da Web acessando e passando parâmetros com o métodos GET ou POST.|
-|![ notification CITSmart][11]|•	**Notificação** - usada para enviar notificação durante o processo de um ou mais usuários ou grupo atribuídos a ela.|
+|![ REST 4biz][10]|•	**Comunicação REST** - é uma conexão com serviços da Web acessando e passando parâmetros com o métodos GET ou POST.|
+|![ notification 4biz][11]|•	**Notificação** - usada para enviar notificação durante o processo de um ou mais usuários ou grupo atribuídos a ela.|
 
 ### Gateways
 
@@ -48,22 +48,22 @@ São representados visualmente por um losango. O símbolo interno do losango ide
 
 |Icone|Descrição|
 |------|-----|
-|![ Inclusivo CITSmart][12]|•	**Gateway Inclusivo** - divide o fluxo do processo em um ou mais fluxos. Ao dividir, um ou mais ramos são ativados. Todas as ramificações de entrada ativas devem ser concluídas antes da mesclagem.|
-|![ paralelo CITSmart][13]|•	**Gateway Paralelo** - Símbolo paralelo - Difere de outros gateways porque não depende de condições ou eventos. Em vez disso, os gateways paralelos são usados para representar duas tarefas simultâneas em um fluxo de negócios.|
-|![ exclusivos CITSmart][14]|•	**Gateway Exclusivo** - baseado na condição, divide o fluxo em um ou mais caminhos mutuamente exclusivos. Ao dividir, ele roteia o fluxo de sequência para exatamente um dos ramos de saída. Ao mesclar, ele aguarda que uma ramificação de entrada seja concluída antes de acionar o fluxo de saída.|
+|![ Inclusivo 4biz][12]|•	**Gateway Inclusivo** - divide o fluxo do processo em um ou mais fluxos. Ao dividir, um ou mais ramos são ativados. Todas as ramificações de entrada ativas devem ser concluídas antes da mesclagem.|
+|![ paralelo 4biz][13]|•	**Gateway Paralelo** - Símbolo paralelo - Difere de outros gateways porque não depende de condições ou eventos. Em vez disso, os gateways paralelos são usados para representar duas tarefas simultâneas em um fluxo de negócios.|
+|![ exclusivos 4biz][14]|•	**Gateway Exclusivo** - baseado na condição, divide o fluxo em um ou mais caminhos mutuamente exclusivos. Ao dividir, ele roteia o fluxo de sequência para exatamente um dos ramos de saída. Ao mesclar, ele aguarda que uma ramificação de entrada seja concluída antes de acionar o fluxo de saída.|
 
 ### Swimlanes
 
 |Icone|Descrição|
 |------|-----|
-|![Pool CITSmart][15]|•	**Pool/Participante** - Uma Pool é a representação gráfica de um contexto de workflow. Também age como uma “lane”. É um recipiente gráfico para particionar um conjunto de Atividades.|
-|![ lane CITSmart][16]|• **Lane** - Uma Lane é uma subpartição dentro de um processo, às vezes dentro de um pool, e vai estender todo o comprimento do processo. As lanes são usadas para organizar e categorizar as Atividades.|
+|![Pool 4biz][15]|•	**Pool/Participante** - Uma Pool é a representação gráfica de um contexto de tracker. Também age como uma “lane”. É um recipiente gráfico para particionar um conjunto de Atividades.|
+|![ lane 4biz][16]|• **Lane** - Uma Lane é uma subpartição dentro de um processo, às vezes dentro de um pool, e vai estender todo o comprimento do processo. As lanes são usadas para organizar e categorizar as Atividades.|
 
 ### Artefatos
 
 |Icone|Descrição|
 |------|-----|
-|![ notes CITSmart][17]|•	**Notas de Texto** - Representar uma informação relevante ao modelo ou a elementos individuais dentro do processo.|
+|![ notes 4biz][17]|•	**Notas de Texto** - Representar uma informação relevante ao modelo ou a elementos individuais dentro do processo.|
 
 ### Componentes dinâmicos
 
@@ -82,7 +82,7 @@ A aba de **Fluxo de Integração** dentro do fluxo padrão tem como funcionalida
 Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Vejo nossa documentação, ela vai te ajudar nessa jornada.
 
 ## Relacionado
-[Organizar Fluxo com Pool e Swimlanes](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/use/pool-swimlanes.html)
+[Organizar Fluxo com Pool e Swimlanes](https://docs.4biz.com/pt-br/4biz-helium/tracker/use/pool-swimlanes.html)
 
 [1]:images/1.png
 [2]:images/2.png

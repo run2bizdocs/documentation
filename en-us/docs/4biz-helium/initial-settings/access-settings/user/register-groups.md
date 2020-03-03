@@ -42,13 +42,13 @@ access.
     |Service Desk Group|[Yes/No] - If the group makes attendance (= YES), otherwise, the group will not appear in the group list for ticket direction/delegation|
     |Chat Requester|[Yes/No] - If members of the group can open tickets via chat|
     |Change Advisory Board|[Yes/No] - If the group is part of a CAB (Change Management)|
-    |Suspension/Reactivation |Parameter to allow tickets to be suspended/reactivated regardless of workflow permissions (reactivate/suspend)|
+    |Suspension/Reactivation |Parameter to allow tickets to be suspended/reactivated regardless of tracker permissions (reactivate/suspend)|
     |Mandatory email notifications (Opening, Progress and Closing)|If enabled, it makes the sending of email - coming from the various actions of the flows - mandatory (not configurable by the attendant). When it is disabled, the attendant can configure the options of email sending.|
     |Description |Details to help identify the group|
 
     - **Contracts:** Agreements that the group will have access (to register a service, attend and others).
 
-    - **Permissions on workflows**
+    - **Permissions on trackers**
 
     |Actions```*```| Description|
 	  |-|-|
@@ -65,7 +65,7 @@ access.
     ```*```Select only the permissions specific to the context of the action.
 
     - **Employees (System users):** members of the group.
-    - **E-mail:** email addresses that will receive notifications originating from a workflow. This option is very useful when it is necessary to make a person "informed" of the group's interactions without participating in the group.
+    - **E-mail:** email addresses that will receive notifications originating from a tracker. This option is very useful when it is necessary to make a person "informed" of the group's interactions without participating in the group.
 
 4.  Define the necessary configurations;
 5.  Click on "Save".
@@ -79,13 +79,13 @@ access.
 Related
 -----------
 
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Create profile access](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Create profile access](/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROVt1SUUxco2tWF8E99_eva)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço

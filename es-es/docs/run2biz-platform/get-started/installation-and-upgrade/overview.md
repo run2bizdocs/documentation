@@ -2,13 +2,13 @@ Title: Visión general de la instalación
 
 # Visión general de la instalación
 
-Estos pasos ayudarán a instalar el CITSmart en los entornos locales. Antes de
+Estos pasos ayudarán a instalar el 4biz en los entornos locales. Antes de
 empezar, es importante tener en cuenta el software necesario para la instalación de
-la plataforma, así como su funcionalidad. La plataforma CITSmart se compone de los
+la plataforma, así como su funcionalidad. La plataforma 4biz se compone de los
 siguientes conjuntos de software:
 
 
-* **Plataforma CITSmart Enterprise**: paquete de plataforma en formato java WAR (web application ARchive).
+* **Plataforma 4biz Enterprise**: paquete de plataforma en formato java WAR (web application ARchive).
 * **Wildfly**: servidor de aplicación Java EE Web.
 * **SOLR**: plataforma escrita en Java mantenida por Apache usada para búsquedas.
 * **MongoDB**: base de datos NoSQL para almacenar objetos no relacionales.
@@ -21,7 +21,7 @@ diferentes tipos de formatos de archivo (como PPT, XLS e PDF).
 !!! warning "ATENCIÓN"
 
     No todas las instalaciones de plataformas exigen el Guacamole, sólo las que
-    requieren acceso remoto a las estaciones son hechas por CITSmart. El resto de
+    requieren acceso remoto a las estaciones son hechas por 4biz. El resto de
     las  herramientas es necesario en todas las instalaciones para la operación
     adecuada de la plataforma .
 
@@ -29,5 +29,5 @@ diferentes tipos de formatos de archivo (como PPT, XLS e PDF).
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins

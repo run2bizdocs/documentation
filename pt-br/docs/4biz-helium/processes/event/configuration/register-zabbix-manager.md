@@ -19,8 +19,8 @@ Antes de começar
 --------------------
 
 Para cadastrar o gerente Zabbix é necessário cadastrar previamente a conexão do
-CITSmart Event Monitor, o horário, a categoria de ocorrência, a ação automática
-e a conexão do CITSmart Inventory.
+4biz Event Monitor, o horário, a categoria de ocorrência, a ação automática
+e a conexão do 4biz Inventory.
 
 Procedimento
 ----------------
@@ -30,7 +30,7 @@ Procedimento
 
 2.  Preencher os campos disponibilizados em cada área;
 
-3.  Na área Item de configuração pai é possível cadastrar o IC no CITSmart com
+3.  Na área Item de configuração pai é possível cadastrar o IC no 4biz com
     os dados do Host selecionado. Clicar no botão "Criar IC". Vale lembrar que
     esse registro só poderá ser realizado caso não haja um IC com a mesma
     identificação do Host:
@@ -47,16 +47,16 @@ Procedimento
 Relacionado
 ----------
 
-[Cadastrar categoria de ocorrência](/pt-br/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+[Cadastrar categoria de ocorrência](/pt-br/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-[Cadastrar Conexão Event Monitor](/pt-br/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Cadastrar Conexão Event Monitor](/pt-br/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-[Cadastrar horário](/pt-br/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Cadastrar horário](/pt-br/4biz-helium/processes/event/configuration/register-time.html)
 
-[Configurar conexão Inventory](/pt-br/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+[Configurar conexão Inventory](/pt-br/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 – Anna Martins

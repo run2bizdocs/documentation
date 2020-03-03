@@ -29,4 +29,4 @@ O usuário deverá possuir acesso à tela de Cadastro de Tipo de Relacionamento.
 
 [Relacionar Item de Configuração a um serviço][1]
 
-[1]:/pt-br/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[1]:/pt-br/4biz-helium/processes/configuration/use/create-ic-relationship.html

@@ -1,14 +1,14 @@
-title: Configure CITSmart instance for mobile access
-Description: Intended to provide guidance for configuring the server for using CITSmart ITSM Enterprise mobile application (iOS and Android plataform).
-# Configure CITSmart instance for mobile access
+title: Configure 4biz instance for mobile access
+Description: Intended to provide guidance for configuring the server for using 4biz ITSM Enterprise mobile application (iOS and Android plataform).
+# Configure 4biz instance for mobile access
 
 This document is intended to provide guidance for configuring the server for
-using CITSmart Experience mobile application (iOS and Android plataform).
+using 4biz Experience mobile application (iOS and Android plataform).
 
 Before getting starded
 ----------------------
 
-It’s necessary to have the Deploy CITSmart Web in version 7.2.2.0
+It’s necessary to have the Deploy 4biz Web in version 7.2.2.0
 or higher, setup the parameters 257 and 272 must be:
 
   + Values: "Y" or "N" Default: "N";
@@ -25,18 +25,18 @@ The parameters 254 (system parametrization), 255, 256, 258, 267, 284, 285, 286,
 Configuring web services
 ------------------------
 
-Configure CITSmart Web Services to access the functionality of the
-CITSmart Experience application.
+Configure 4biz Web Services to access the functionality of the
+4biz Experience application.
 
-1.  On CITSmart Experience Web, access the Web Services feature for the mobile
-    (System > Settings > Mobile > Citsmart Mobile Web Service);
+1.  On 4biz Experience Web, access the Web Services feature for the mobile
+    (System > Settings > Mobile > 4biz Mobile Web Service);
 
 2.  Click on the "Link Groups" tab and link the activity executing group to the
-    CITSmart Experience Web Services.
+    4biz Experience Web Services.
 
 !!! Abstract "RULE"
 
-    At the time the group is selected, it will be linked to all CITSmart Experience
+    At the time the group is selected, it will be linked to all 4biz Experience
     Web Services in an automated way.  
 
 Installing globalsign intermediate certificate
@@ -65,15 +65,15 @@ Certification Issuer), it must be installed. Follow the procedures below:
     Figure 2 - Certificate installation on desktop
 
 3.  Once installed, simply change the application's address to
-    “<https://citsmart.centralit.com.br/citsmart>”.
+    “<https://4biz.centralit.com.br/4biz>”.
 
 ### Android and iOS app installation
 
 
-1.  Go to Store (Play Store or App Store) to download the CITSmart Experience Mobile
+1.  Go to Store (Play Store or App Store) to download the 4biz Experience Mobile
     application;
 
-2.  Search for CITSmart Experience and after the search, select the application;
+2.  Search for 4biz Experience and after the search, select the application;
 
 3.  Press the “Install” button to download the application.
 
@@ -201,16 +201,16 @@ To enable an API for use, proceed as described below:
 Related
 -------
 
-[Configure parametrization - mobile](/en-us/citsmart-platform-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
+[Configure parametrization - mobile](/en-us/4biz-helium/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
-[Cofigure parametrization - system](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Cofigure parametrization - system](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Mobile CITSmart Experience application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
-[Configure mobile options](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configure mobile options](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/11/2019 - Anna Martins
 

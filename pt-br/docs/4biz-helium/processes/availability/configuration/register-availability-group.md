@@ -30,9 +30,9 @@ Procedimento
 Relacionado
 -----------
 
-[Criar calendário](/pt-br/citsmart-platform-8/platform-administration/time/create-calendar.html)
+[Criar calendário](/pt-br/4biz-helium/platform-administration/time/create-calendar.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/15/2019 – Anna Martins

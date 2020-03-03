@@ -59,11 +59,11 @@ var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citf
 Relacionado
 -------
 
-[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-[Criar ação automática via email](/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
+[Criar ação automática via email](/pt-br/4biz-helium/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
 
-[Processamento Batch](/pt-br/citsmart-platform-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
+[Processamento Batch](/pt-br/4biz-helium/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
@@ -71,9 +71,9 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins
 
-[1]:/pt-br/citsmart-platform-8/processes/tickets/images/rotina-verificar-email.docx
+[1]:/pt-br/4biz-helium/processes/tickets/images/rotina-verificar-email.docx
 
-[2]:/pt-br/citsmart-platform-8/processes/tickets/images/script-rhino-dados-email.rtf
+[2]:/pt-br/4biz-helium/processes/tickets/images/script-rhino-dados-email.rtf

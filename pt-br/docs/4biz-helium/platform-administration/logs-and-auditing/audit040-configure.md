@@ -1,8 +1,8 @@
 title: Configurar o Audit 0.4.0
-Description: O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do CITSmart Workflow 8.
+Description: O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do 4biz tracker 8.
 # Configurar o Audit 0.4.0
 
-O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do CITSmart Workflow 8.
+O objetivo deste documento é fornecer o norteamento técnico de instalação e configurações para o uso da funcionalidade de Auditoria (Audit), versão 0.4.0 (itsm-audit-0.4.0) do 4biz tracker 8.
 
 Antes de começar 
 -----------------
@@ -40,18 +40,18 @@ Procedimento
     !!! Abstract "OBSERVAÇÃO"
         Configurar a conexão do banco mongo com host, port, user, pass e database     (Provavelmente já existente, EVM e Inventory utilizam essas configurações). É necessário que o usuário (Mongo) inserido tenha as devidas permissões para leitura e escrita no banco informado.  
  
-3. No CITSmart, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
+3. No 4biz, configurar o parâmetro 425 informando a URL DO Audit (Ex: http://localhost:8080/itsm-audit);
 
-4. Adicionar o WAR  do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o CITSmart;
+4. Adicionar o WAR  do Audit na pasta deployments (Ou via Console do Wildfly) e realizar start do Wildfly junto com o 4biz;
 
 5. Após esses passos e configurações, a auditoria já deve estar em execução
 
 Relacionado
 -------------
 
-[Realizar auditoria no sistema](/pt-br/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
+[Realizar auditoria no sistema](/pt-br/4biz-helium/platform-administration/logs-and-auditing/system-audit.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>05/31/2019 – Larissa Lourenço

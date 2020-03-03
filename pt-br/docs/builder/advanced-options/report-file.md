@@ -1,13 +1,13 @@
 Title: Arquivo de relatório  
-Description: Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.  
+Description: Quando for necessária a criação de relatórios nas aplicações construídas através do Builder, o arquivo deverá ser adicionado nessa tela.  
 
 # Arquivo de relatório   
  
-Quando for necessária a criação de relatórios nas aplicações construídas através do Neuro, o arquivo deverá ser adicionado nessa tela.    
+Quando for necessária a criação de relatórios nas aplicações construídas através do Builder, o arquivo deverá ser adicionado nessa tela.    
 
 ## Como acessar
 
-1. Acesse a funcionalidade através da navegação no menu Neuro > Recursos > Upload de relatório.   
+1. Acesse a funcionalidade através da navegação no menu Builder > Recursos > Upload de relatório.   
 
 ## Pré-condições
 
@@ -35,7 +35,7 @@ Figura 2 - Tela de listagem de arquivos de relatório
 
 !!! Abstract "ATENÇÃO"
 
-    Não é possível criar um relatório propriamente dito no Neuro. Essa funcionalidade refere-se apenas ao upload de um arquivo de           relatório. 
+    Não é possível criar um relatório propriamente dito no Builder. Essa funcionalidade refere-se apenas ao upload de um arquivo de           relatório. 
 	
 1. TO campo versão é auto incrementado pelo sistema. Informe o nome do relatório, uma descrição, e a pasta agrupadora do projeto no servidor. O campo engine é preenchido automaticamente de acordo com o formato do arquivo. Atualmente, é aceito apenas o formato jrxml do Jasper.    
 2. Faça o upload do arquivo do relatório.  

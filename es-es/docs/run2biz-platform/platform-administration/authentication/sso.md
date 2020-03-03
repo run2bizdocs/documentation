@@ -1,6 +1,6 @@
-title: CITSmart auto-login - SSO
-Description: CITSmart auto-login
-# CITSmart auto-login - SSO
+title: 4biz auto-login - SSO
+Description: 4biz auto-login
+# 4biz auto-login - SSO
 
 
 **Branchs**:
@@ -60,10 +60,10 @@ Crear usuario AD
 8.  Abrir el **CMD** como administrador y colocar los siguientes comandos.
     Recuerde que la primera configura el **SPN** y el segundo genera el Keytab       (lo que se utilizará en el Wildfly):
 
-    -   setspn -s HTTP/hom-itsm.centralit.com.br citsmart2
+    -   setspn -s HTTP/hom-itsm.centralit.com.br 4biz2
 
-    -   ktpass / princ HTTP/hom-itsm.centralit.com.br /mapuser citsmart2  /pass
-        central\@123 /ptype KRB5_NT_Principal/outcitsmart2.keytab /crypto ALL
+    -   ktpass / princ HTTP/hom-itsm.centralit.com.br /mapuser 4biz2  /pass
+        central\@123 /ptype KRB5_NT_Principal/out4biz2.keytab /crypto ALL
 
 9.  Realizado los pasos anteriores, el **AD** estará configurado. 
 
@@ -86,13 +86,13 @@ Configurar el servidor Wildfly
     
     ```sh
     citgosrv004.cit.local  = {
-    kdc = citsmartsrv.citsmartsrv.bigdata-team.com
-    default_domain = citsmartsrv.citsmartsrv.bigdata-team.com }     
+    kdc = 4bizsrv.4bizsrv.bigdata-team.com
+    default_domain = 4bizsrv.4bizsrv.bigdata-team.com }     
     ```
     
     ```sh
     [domain_realm]
-    .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
+    .4bizsrv.4bizsrv.bigdata-team.com = 4bizsrv.4bizsrv.bigdata-team.com
     ```
 
 1.  Copiar el archivo login.conf (validar las informaciones de acuerdo con el AD) para la 
@@ -104,7 +104,7 @@ Configurar el servidor Wildfly
     storeKey=true
     useKeyTab=true
     keyTab="file:///opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"
-    principal=HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM;
+    principal=HTTP/light-desenvolvimento.4bizcloud.com\@4bizSRV.BIGDATA-TEAM.COM;
     };
     ```
 
@@ -117,12 +117,12 @@ Configurar el servidor Wildfly
     
     ```java
     \<property name="sun.security.krb5.debug" value="true"/\>
-    \<property name="java.security.krb5.kdc" value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-    \<property name="java.security.krb5.realm"value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
+    \<property name="java.security.krb5.kdc" value="4bizSRV.BIGDATA-TEAM.COM"/\>
+    \<property name="java.security.krb5.realm"value="4bizSRV.BIGDATA-TEAM.COM"/\>
     \<property name="java.security.krb5.conf"value="/opt/wildfly-12.0.0.Final/standalone/configuration/krb5.conf"/\>
     \<property name="java.security.auth.login.config"value="/opt/wildfly-12.0.0.Final/standalone/configuration/login.conf"/\>
     \<property name="krb.keyTab"value="/opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"/\>
-    \<property name="krb.principal"value="HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM"/\>
+    \<property name="krb.principal"value="HTTP/light-desenvolvimento.4bizcloud.com\@4bizSRV.BIGDATA-TEAM.COM"/\>
     ```
     
     En **\<security-domains\>**
@@ -174,7 +174,7 @@ Configurar el servidor Wildfly
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/15/2019 – Anna Martins
 
    

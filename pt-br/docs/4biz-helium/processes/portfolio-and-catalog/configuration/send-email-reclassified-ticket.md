@@ -48,13 +48,13 @@ Acessar o ticket desejado e efetuar a reclassificação.
 Relacionado
 -------
 
-[Reclassificar um ticket](/pt-br/citsmart-platform-8/processes/tickets/use/reclassify-ticket.html)
+[Reclassificar um ticket](/pt-br/4biz-helium/processes/tickets/use/reclassify-ticket.html)
 
-[Configurar modelo de e-mail](/pt-br/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configurar modelo de e-mail](/pt-br/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPUBXWp7r7A0YUQY07qkSrO)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

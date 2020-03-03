@@ -69,18 +69,18 @@ Relacionado
 -----------
 
 [Criar um
-ticket](/pt-br/citsmart-platform-8/processes/tickets/use/create-ticket.html)
+ticket](/pt-br/4biz-helium/processes/tickets/use/create-ticket.html)
 
 [Configurar parametrização -
-ticket](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+ticket](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 [Configurar parametrização -
-sistema](/pt-br/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+sistema](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
 [Video
 Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Larissa Lourenço

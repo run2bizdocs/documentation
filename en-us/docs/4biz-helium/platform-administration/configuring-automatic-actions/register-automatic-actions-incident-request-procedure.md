@@ -1,12 +1,12 @@
 title: Register automatic actions of incident/request/procedure
-Description: This registration will be associated to the automatic actions, where it will be used in the registrations of CITSmart event managers Nagios, Zabbix, Inventory and Events Correlated.
+Description: This registration will be associated to the automatic actions, where it will be used in the registrations of 4biz event managers Nagios, Zabbix, Inventory and Events Correlated.
 # Register automatic actions of incident/request/procedure
 
 Some events will present a status where the action appropriate will need to be
 treated by the incident management process, that is, this functionality is
 intended to register the automatic actions of incident/request/procedure. This
 registration will be associated to the automatic actions, where it will be used
-in the registrations of CITSmart event managers Nagios, Zabbix, Inventory and
+in the registrations of 4biz event managers Nagios, Zabbix, Inventory and
 Events Correlated.
 
 The event management supports the incident management process, because it's
@@ -38,22 +38,22 @@ Procedure
 Related
 -------
 
-[Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Create the portfolio](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Create time of attendance](/en-us/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
+[Create time of attendance](/en-us/4biz-helium/processes/service-level/configuration/create-time-attendance.html)
 
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Register periodic activity group](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Register periodic activity group](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

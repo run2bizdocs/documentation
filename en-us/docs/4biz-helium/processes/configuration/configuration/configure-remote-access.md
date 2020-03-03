@@ -26,13 +26,13 @@ Procedure
 Related
 -------
 
-[Register configuration item group](/en-us/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+[Register configuration item group](/en-us/4biz-helium/processes/configuration/configuration/register-configuration-item-group.html)
 
-[Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Register time](/en-us/4biz-helium/processes/event/configuration/register-time.html)
 
-[Configure parametrization – system](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configure parametrization – system](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

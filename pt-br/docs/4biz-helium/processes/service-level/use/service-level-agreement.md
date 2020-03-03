@@ -31,21 +31,21 @@ Procedimento
 Relacionado
 -----------
 
-[Requisito de nível de serviço](/pt-br/citsmart-platform-8/processes/service-level/use/service-level-requirement.html)
+[Requisito de nível de serviço](/pt-br/4biz-helium/processes/service-level/use/service-level-requirement.html)
 
-[Cadastrar um grupo](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Cadastrar uma unidade](/pt-br/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Cadastrar uma unidade](/pt-br/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Cadastrar usuário](/pt-br/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Cadastrar usuário](/pt-br/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Cadastrar prioridade](/pt-br/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+[Cadastrar prioridade](/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-[Criar modelo de template de incidente, requisição e procedimento](/pt-br/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
+[Criar modelo de template de incidente, requisição e procedimento](/pt-br/4biz-helium/processes/tickets/configuration/create-template-of-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RO6td7lCM5EzIfRcU2cKLNX)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Larissa Lourenço

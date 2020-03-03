@@ -3,7 +3,7 @@ Description:Objeto de Negocio
 # Objeto de Negocio
 
 
-Los Objetos de Negocio son los vínculos entre el Neuro y una Entidad de Datos de
+Los Objetos de Negocio son los vínculos entre el Builder y una Entidad de Datos de
 las aplicaciones. De esta forma, el Objeto de Negocio representará el modelo de
 datos y podrá alcanzar uno o más formularios.
 
@@ -13,11 +13,11 @@ Cada objeto de negocio creado representa una tabla en la base de datos.
 Antes de empezar
 ----------------
 
-Es necesario tener creado la Conexión BD y la Aplicación Neuro.
+Es necesario tener creado la Conexión BD y la Aplicación Builder.
 
 ## Dados generales
 
-1.  Acceder al menú de navegación Neuro > Administración > Objeto de Negocio;
+1.  Acceder al menú de navegación Builder > Administración > Objeto de Negocio;
 
 2.  Hacer clic en “Registro";
 
@@ -25,7 +25,7 @@ Es necesario tener creado la Conexión BD y la Aplicación Neuro.
 
 4.  Seleccione la **Aplicación** para la que se crea el objeto de negocio, asigne al Objeto de Negocio un Nombre y una Descripción, también informe el propósito del Objeto de Negocio.
     
-    ![business](images/neuro-9.jpg)
+    ![business](images/Builder-9.jpg)
 
     Figura 1 - Identificación
 
@@ -49,7 +49,7 @@ Es necesario tener creado la Conexión BD y la Aplicación Neuro.
     4.  Nombre en la Base de Datos del objeto de negocio
     
 
-![business](images/neuro-10.jpg)
+![business](images/Builder-10.jpg)
 
 Figura 2 - Base de datos
 
@@ -77,11 +77,11 @@ Figura 2 - Base de datos
     Después de guardar, puede indicar la clave del Dominio, adémas de escribir y asignar la relación, si es necesario.
     
 
-![business](images/neuro-11.jpg)
+![business](images/Builder-11.jpg)
 
 Figura 3 - Lista de columnas
 
-![business](images/neuro-12.jpg)
+![business](images/Builder-12.jpg)
 
 Figura 4 - Agregar nuevas columnas
 
@@ -111,7 +111,7 @@ Figura 4 - Agregar nuevas columnas
     7.  Configurar se a Coluna de objeto de negócio fará parte do relacionamento;
     
     
-![business](images/neuro-13.jpg)
+![business](images/Builder-13.jpg)
 
 Figura 5 - Relación 
 
@@ -119,7 +119,7 @@ Figura 5 - Relación
 
 1.	Seleccionar la Regla de Negocio asignada para insertar, cambiar o eliminar la acción en el Objeto de Negocio  
 
-![business](images/neuro-14.jpg)
+![business](images/Builder-14.jpg)
 
 Figura 6 - Reglas de negocio
     
@@ -132,7 +132,7 @@ Figura 6 - Reglas de negocio
     2.  El SQL será ejecutado por un flujo ESI y será llamado por el Flujo SM (usando el componente para integración con el flujo ESI.
   
     
-![business](images/neuro-15.jpg)
+![business](images/Builder-15.jpg)
 
 Figura 7 - SQL
 
@@ -140,12 +140,12 @@ Figura 7 - SQL
 
 1.	Puede cambiar las labels de atributos a través de la guía de Labels y editar los campos de grid mediante la guía Grid.
 
-    ![business](images/neuro-16.jpg)
+    ![business](images/Builder-16.jpg)
 
     Figura 8 - Labels
 
 
-    ![business](images/neuro-17.jpg)
+    ![business](images/Builder-17.jpg)
 
     Figura 9 - Grid
 
@@ -154,6 +154,6 @@ Figura 7 - SQL
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  
 

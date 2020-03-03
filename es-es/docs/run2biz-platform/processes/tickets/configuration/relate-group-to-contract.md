@@ -5,10 +5,10 @@ Description: Demuestra cómo relacionar un grupo a un contrato.
 
 Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
 
-1.  Acceda a la funcionalidad de** Parámetros de CITSmart a través de la
-    navegación en el menú principal Parametrización \> Parámetros CITSmart.
-    Se mostrará la pantalla de **Parámetros de CITSmart**, haga clic en la
-    pestaña de consulta de parámetros de CITSmart;
+1.  Acceda a la funcionalidad de** Parámetros de 4biz a través de la
+    navegación en el menú principal Parametrización \> Parámetros 4biz.
+    Se mostrará la pantalla de **Parámetros de 4biz**, haga clic en la
+    pestaña de consulta de parámetros de 4biz;
 
 2.  Realiza la búsqueda del parámetro "41 - ¿Hace que el control de vínculo de
     colaboradores a los contratos (S/N)?" y seleccione. Después de eso,
@@ -39,14 +39,14 @@ Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
 Relacionado
 -------
 
-[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROl8PJLi-kszYhGzr17uvz-)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins

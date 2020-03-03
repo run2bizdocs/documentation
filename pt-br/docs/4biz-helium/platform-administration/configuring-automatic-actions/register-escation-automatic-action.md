@@ -24,10 +24,10 @@ Procedimento
 Relacionado
 ----------
 
-[Criar regra de escalonamento](/pt-br/citsmart-platform-8/processes/tickets/use/create-escalation-rule.html)
+[Criar regra de escalonamento](/pt-br/4biz-helium/processes/tickets/use/create-escalation-rule.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 - Anna Martins

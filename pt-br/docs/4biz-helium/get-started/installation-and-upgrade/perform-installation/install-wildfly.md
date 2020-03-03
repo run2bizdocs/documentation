@@ -17,7 +17,7 @@ Crie um link simbólico para o wildfly versão 12. Isso visa facilitar administr
 [root@server /tmp]# ln -s /opt/wildfly-12.0.0.Final /opt/wildfly
 ```
 
-Envie via scp e descomprima o arquivo assets disponibilizada pela CITSmart dentro do diretório do wildfly. Essa pasta é necessária para funcionamento da solução, e é disponibilizada para parceiros através de nosso portal de parceria juntamente com os pacotes de instalação:
+Envie via scp e descomprima o arquivo assets disponibilizada pela 4biz dentro do diretório do wildfly. Essa pasta é necessária para funcionamento da solução, e é disponibilizada para parceiros através de nosso portal de parceria juntamente com os pacotes de instalação:
 
 ```sh
 [root@server /tmp]# tar -xzvf assets.tar.gz -C /opt/wildfly/
@@ -71,11 +71,11 @@ Acompanhe as mensagens de inicialização. Caso o servidor tenha iniciado corret
 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 12.0.0.Final (WildFly Core 4.0.0.Final) started in 3762ms - Started 292 of 513 services (308 services are lazy, passive or on-demand)
 ```
 
-Se a mensagem acima indica que o serviço está funcionando corretamente. Pressione `[CTRL+C]` para interromper o serviço. Em seguinda digite `exit` para sair do usuário CITSmart.
+Se a mensagem acima indica que o serviço está funcionando corretamente. Pressione `[CTRL+C]` para interromper o serviço. Em seguinda digite `exit` para sair do usuário 4biz.
 
 ## Próximo passo
 
 [Configurando o Java para o WildFly][2]
 
-[1]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/system-requirements.html
-[2]:/pt-br/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html
+[1]:/pt-br/4biz-helium/get-started/installation-and-upgrade/system-requirements.html
+[2]:/pt-br/4biz-helium/get-started/installation-and-upgrade/perform-installation/conf-java-for-wildfly.html

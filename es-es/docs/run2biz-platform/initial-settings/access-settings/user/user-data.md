@@ -32,10 +32,10 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Registrar usuario](/es-es/4biz-helium/initial-settings/access-settings/user/users.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins

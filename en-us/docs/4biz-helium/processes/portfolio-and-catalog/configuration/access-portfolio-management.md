@@ -4,7 +4,7 @@ Description: Defines who will have access to the Service Portfolio Management an
 
 ITIL recommends that an ITSM product should be able to assign specific levels of
 responsibilities to a Portfolio Manager or others, based on this recommendation,
-CITSmart adopts this differentiated form of permissions control, per module. It
+4biz adopts this differentiated form of permissions control, per module. It
 is worth mentioning that the 'Access Profile' functionality continues to exist
 and it controls all types of access without the separation by modules, so that
 the product administrator can intervene more properly whenever necessary.
@@ -42,10 +42,10 @@ Procedure
 Related
 -------
 
-[Create profile access](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Create profile access](/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

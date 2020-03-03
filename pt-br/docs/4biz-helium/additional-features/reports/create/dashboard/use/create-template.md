@@ -1,9 +1,9 @@
 title: Configurar template para Smart Decision
-Description: Determinar o layout de apresentação do Smart Decision que é apresentado no home do CITSmart.
+Description: Determinar o layout de apresentação do Smart Decision que é apresentado no home do 4biz.
 # Configurar template para Smart Decision
 
 Esta funcionalidade tem por objetivo determinar o layout de apresentação do
-Smart Decision que é apresentado no home do CITSmart. Permitindo colocar acessos
+Smart Decision que é apresentado no home do 4biz. Permitindo colocar acessos
 rápidos como links, relatórios e widgets.
 
 Esta funcionalidade disponibiliza ações diversas, tais como, incluir, alterar e
@@ -28,7 +28,7 @@ Procedimento
 O que fazer a seguir
 --------------------
 
-1.  Acessar a home do CITSmart clicando no atalho "Home" , clicar no botão "Adicionar novo dashboard" ;
+1.  Acessar a home do 4biz clicando no atalho "Home" , clicar no botão "Adicionar novo dashboard" ;
 
 2.  Definir o nome, em seguida escolher o template elaborado e um ícone;
 
@@ -38,9 +38,9 @@ O que fazer a seguir
 Relacionado
 -------
 
-[Personalizar o painel gerencial (Smart Decision)](/pt-br/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Personalizar o painel gerencial (Smart Decision)](/pt-br/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/18/2019 – Anna Martins

@@ -19,35 +19,35 @@ relacionamentos armazenadas na BDGC.
 Uso
 -------
 
-- [Pesquisa avançada de liberações encerradas](/pt-br/citsmart-platform-8/processes/release/use/advanced-search-for-release.html)
+- [Pesquisa avançada de liberações encerradas](/pt-br/4biz-helium/processes/release/use/advanced-search-for-release.html)
  
-- [Cancelar a liberação](/pt-br/citsmart-platform-8/processes/release/use/cancel-release.html)
+- [Cancelar a liberação](/pt-br/4biz-helium/processes/release/use/cancel-release.html)
 
-- [Atividades da fase de Implantação da liberação](/pt-br/citsmart-platform-8/processes/release/use/deployment-release-activities.html)
+- [Atividades da fase de Implantação da liberação](/pt-br/4biz-helium/processes/release/use/deployment-release-activities.html)
 
-- [Executar uma liberação](/pt-br/citsmart-platform-8/processes/release/use/execute-release.html)
+- [Executar uma liberação](/pt-br/4biz-helium/processes/release/use/execute-release.html)
 
-- [Cadastrar uma liberação](/pt-br/citsmart-platform-8/processes/release/use/register-release-request.html)
+- [Cadastrar uma liberação](/pt-br/4biz-helium/processes/release/use/register-release-request.html)
 
-- [Relacionar informações à liberação](/pt-br/citsmart-platform-8/processes/release/use/relate-information-to-release.html)
+- [Relacionar informações à liberação](/pt-br/4biz-helium/processes/release/use/relate-information-to-release.html)
    
-- [A área de trabalho do gerenciamento de liberação](/pt-br/citsmart-platform-8/processes/release/use/release-desktop.html)
+- [A área de trabalho do gerenciamento de liberação](/pt-br/4biz-helium/processes/release/use/release-desktop.html)
    
-- [Cadastrar a justificativa de liberação](/pt-br/citsmart-platform-8/processes/release/use/release-justification.html)
+- [Cadastrar a justificativa de liberação](/pt-br/4biz-helium/processes/release/use/release-justification.html)
 
-- [Atividades da fase de Planejamento da liberação](/pt-br/citsmart-platform-8/processes/release/use/release-planning-activities.html)
+- [Atividades da fase de Planejamento da liberação](/pt-br/4biz-helium/processes/release/use/release-planning-activities.html)
    
-- [Reabrir liberação](/pt-br/citsmart-platform-8/processes/release/use/reopen-release.html)
+- [Reabrir liberação](/pt-br/4biz-helium/processes/release/use/reopen-release.html)
 
-- [Suspender a liberação](/pt-br/citsmart-platform-8/processes/release/use/suspend-release.html)
+- [Suspender a liberação](/pt-br/4biz-helium/processes/release/use/suspend-release.html)
 
 Configuração
 -----------------
 
-- [Criar um portfólio de liberação](/pt-br/citsmart-platform-8/processes/release/configuration/release-portfolio.html)
+- [Criar um portfólio de liberação](/pt-br/4biz-helium/processes/release/configuration/release-portfolio.html)
   
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 – Larissa Lourenço
 

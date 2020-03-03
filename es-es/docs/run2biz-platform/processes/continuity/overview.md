@@ -36,53 +36,53 @@ servicio.
 Uso
 -------
 
-- [Registrar continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
+- [Registrar continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/register-service-continuity.html)
   
-- [Definir política de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
+- [Definir política de la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/continuity-policy.html)
    
-- [Registrar alcance de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/service-continuity-scope.html)
+- [Registrar alcance de la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/service-continuity-scope.html)
 
-- [Definir el proyecto de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/service-continuity-project.html)
+- [Definir el proyecto de la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/service-continuity-project.html)
 
-- [Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-platform-8/processes/continuity/use/continuity-vital-functions.html)
+- [Registrar las funciones vitales de la continuidad de servicio](/es-es/4biz-helium/processes/continuity/use/continuity-vital-functions.html)
 
-- [Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/impact-analysis-continuity-business.html)
+- [Registrar análisis de impacto al negocio de la continuidad](/es-es/4biz-helium/processes/continuity/use/impact-analysis-continuity-business.html)
 
-- [Registrar evaluación de riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
+- [Registrar evaluación de riesgo de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-risk-evaluation.html)
 
-- [Registrar estratégia de la continuidad de servicios](/es-es/citsmart-platform-8/processes/continuity/use/service-continuity-strategy.html)
+- [Registrar estratégia de la continuidad de servicios](/es-es/4biz-helium/processes/continuity/use/service-continuity-strategy.html)
 
-- [Registrar plan de continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-plan.html)
+- [Registrar plan de continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-plan.html)
 
-- [Registrar la planificación organizacional de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-organizational-planning.html)
+- [Registrar la planificación organizacional de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-organizational-planning.html)
 
-- [Registrar estrategia de pruebas de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-test-registration.html)
+- [Registrar estrategia de pruebas de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-test-registration.html)
 
-- [Registrar conciencia de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-awareness.html)
+- [Registrar conciencia de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-awareness.html)
 
-- [Revisar y auditar la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/review-and-audit-continuity.html)
+- [Revisar y auditar la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/review-and-audit-continuity.html)
 
-- [Calendario de pruebas de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-test-calendar.html)
+- [Calendario de pruebas de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-test-calendar.html)
 
-- [Invocar la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/invoke-continuity.html)
+- [Invocar la continuidad](/es-es/4biz-helium/processes/continuity/use/invoke-continuity.html)
 
 Configuración
 -----------------
 
-- [Definir permiso de acceso para la gestión de continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/access-continuity-management.html)
+- [Definir permiso de acceso para la gestión de continuidad](/es-es/4biz-helium/processes/continuity/configuration/access-continuity-management.html)
 
-- [Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
+- [Registrar amenaza](/es-es/4biz-helium/processes/continuity/configuration/register-threat.html)
 
-- [Registrar categoria de amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
+- [Registrar categoria de amenaza](/es-es/4biz-helium/processes/continuity/configuration/threat-category.html)
 
-- [Registrar o riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
+- [Registrar o riesgo de la continuidad](/es-es/4biz-helium/processes/continuity/configuration/register-continuity-risk.html)
 
-- [Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
+- [Registrar categoría de riesgo](/es-es/4biz-helium/processes/continuity/configuration/risk-category.html)
 
-- [Registrar plantilla de continuidad](/pt-br/citsmart-platform-8/processes/continuity/configuration/continuity-template.html)
+- [Registrar plantilla de continuidad](/pt-br/4biz-helium/processes/continuity/configuration/continuity-template.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins
 

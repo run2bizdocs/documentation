@@ -3,7 +3,7 @@ Description: Esta funcionalidade disponibiliza ações diversas, tais como, incl
 
 # Criar Centro de Experiência
 
-A criação é o processo de concepção e disponibilização de Centros de Experiência (CE's) no CITSmart. Neste documento, são apresentados os recursos de interface que viabilizam o registro, alteração, exclusão, importação e exportação de CE’s.
+A criação é o processo de concepção e disponibilização de Centros de Experiência (CE's) no 4biz. Neste documento, são apresentados os recursos de interface que viabilizam o registro, alteração, exclusão, importação e exportação de CE’s.
 
 ## Antes de começar
 
@@ -21,7 +21,7 @@ A criação é o processo de concepção e disponibilização de Centros de Expe
 
 2. Na guia Informações, preencher os campos disponibilizados;
 
-![information Experience Center CITSmart][1]
+![information Experience Center 4biz][1]
 
 **1: Alterar** – ícone do Centro de Experiência;
 
@@ -38,7 +38,7 @@ Experiência;
 
 3. Na guia Permissões, definir os grupos que poderão visualizar o Centro de Experiência;
 
-![Permission Experience Center CITSmart][2]
+![Permission Experience Center 4biz][2]
 
 ### Construção
 
@@ -98,7 +98,7 @@ Na Área de desenho você pode construir o conteúdo que será publicado no Cent
 
 3. Clicar em gravar para salvar as alterações.
 
-- Após selecionar o layout desejado, é possível escolher funções do CITSmart em forma de Widgets (Ver tabela de Widgets);
+- Após selecionar o layout desejado, é possível escolher funções do 4biz em forma de Widgets (Ver tabela de Widgets);
 
 !!! note "NOTA"
     - Deseja definir está página como inicial ao abrir o centro de experiência pela primeira vez? - tem a função de transformar esse menu na página principal do seu Centro de Experiência.
@@ -121,7 +121,7 @@ Na Área de desenho você pode construir o conteúdo que será publicado no Cent
 
 **Cabeçalho fixo**
 
-![header Experience Center CITSmart][3]
+![header Experience Center 4biz][3]
 
  **1: Menu** – com ele é possível acessar outros Centros de experiência a qual você possui permissão;
 
@@ -153,7 +153,7 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 |Espaçador| Geral | Inserir espaço entre um widget e outro. |
 |Texto| Geral | Inserir Texto com diversas formatações. |
 |Lista| Geral | Inserir lista de links. |
-|Menu| Geral | Permite visualizar menu do CITSmart. |
+|Menu| Geral | Permite visualizar menu do 4biz. |
 ||||
 |Centro de conhecimento| Conhecimento| Gera um botão que direciona para o Centro de Conhecimento|
 |Conhecimento| Conhecimento| Permite inserir documentos já existentes na base de conhecimento|
@@ -164,7 +164,7 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 |Meus serviços | Solicitações| Permite abrir um ticket pelo Centro de Experiência|
 |Meus tickets | Solicitações| Permite visualizar a listagem de tickets abertos pelo usuário logado|
 ||||
-|Simple | Simple-Gestão Ágil | Permite visualizar worksplaces da funcionalidade Simple |
+|Tasker | Tasker-Gestão Ágil | Permite visualizar worksplaces da funcionalidade Tasker |
 ||||
 |Smart Chat | Comunicação | Permite inserir logo para este submenu |
 |Ligue | Comunicação | Permite inserir logo para este submenu |
@@ -180,7 +180,7 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 
 ## Relacionado
 
-[Criar conhecimento](/pt-br/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+[Criar conhecimento](/pt-br/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)

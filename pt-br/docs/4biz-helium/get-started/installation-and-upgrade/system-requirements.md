@@ -10,11 +10,11 @@ Caso instale todos os programas, e o banco de dados relacional no mesmo servidor
 
 ## Aplicação e banco de dados desmembrados
 
-Caso já tenha um servidor de banco relacional em seu ambiente, você pode fazer utilização dele para instalação do CITSmart. Nesse caso, o servidor de aplicação deverá ter no mínimo `16GB` de memória. Para o servidor de banco, recomendamos no mínimo `4GB` para um ambiente de produção.
+Caso já tenha um servidor de banco relacional em seu ambiente, você pode fazer utilização dele para instalação do 4biz. Nesse caso, o servidor de aplicação deverá ter no mínimo `16GB` de memória. Para o servidor de banco, recomendamos no mínimo `4GB` para um ambiente de produção.
 
 !!! Warning "ATENÇÃO"
 
-    Qualquer que seja o caso, esses serão os  valores mínimos recomendados. Lembre-se que a plataforma do CITSmart é composta por outros aplicativos, como o Neuro por exemplo, que permite integrações com a s mais diversas finalidades. Essas integrações podem levar a consumos e cargas de processamento diferentes das normais, portanto os valores dos requisitos de sistema podem variar de ambiente para ambiente.   
+    Qualquer que seja o caso, esses serão os  valores mínimos recomendados. Lembre-se que a plataforma do 4biz é composta por outros aplicativos, como o Builder por exemplo, que permite integrações com a s mais diversas finalidades. Essas integrações podem levar a consumos e cargas de processamento diferentes das normais, portanto os valores dos requisitos de sistema podem variar de ambiente para ambiente.   
 
 # Versões recomendadas dos pacotes
 
