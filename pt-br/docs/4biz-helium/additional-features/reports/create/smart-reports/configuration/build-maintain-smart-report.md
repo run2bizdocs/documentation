@@ -46,8 +46,8 @@ necessidade de novas atualizações ou softwares adicionais.
        +  **JSP**: cria um relatório com conteúdo dinâmico. Ao optar por este tipo,
           deverá informar os parâmetros e o script JSP - Java Server Pages.
 
-       +  **Neuro**: cria um relatório do tipo "Neuro", basta vincular um formulário
-          "Neuro" existente.
+       +  **Builder**: cria um relatório do tipo "Builder", basta vincular um formulário
+          "Builder" existente.
 
     !!! info "IMPORTANTE"
 

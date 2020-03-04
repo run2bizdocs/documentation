@@ -159,9 +159,9 @@ Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo M
 
 Para mais informações, veja [Manual de utilização do aplicativo mobile 4biz Experience][21]
 
-### Neuro
+### Builder
 
-A partir da versão 1.2.3.0 do Neuro é possível criar automaticamente um questionário do 4biz a partir do cadastro de objeto de negócio do Neuro. A ideia dessa inovação é facilitar a extração de respostas de questionários do 4biz e formar relatórios de forma simples com o auxílio do Smart Report.
+A partir da versão 1.2.3.0 do Builder é possível criar automaticamente um questionário do 4biz a partir do cadastro de objeto de negócio do Builder. A ideia dessa inovação é facilitar a extração de respostas de questionários do 4biz e formar relatórios de forma simples com o auxílio do Smart Report.
 
 
 ### Fluxo

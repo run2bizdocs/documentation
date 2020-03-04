@@ -1,14 +1,14 @@
-title: Passos para implementar a Solução Neuro
-Description: Passos para implementar a Solução Neuro
-#Passos para implementar a Solução Neuro
+title: Passos para implementar a Solução Builder
+Description: Passos para implementar a Solução Builder
+#Passos para implementar a Solução Builder
 
 
-![create neuro app](images/neuro-1.png)
+![create builder app](images/builder-1.png)
 
-Figura 1 - Criar aplicação Neuro
+Figura 1 - Criar aplicação Builder
 
 
-![business](images/neuro-2.png)
+![business](images/builder-2.png)
 
 Figure 2 - Objeto de negócios
 
@@ -20,14 +20,14 @@ Figure 2 - Objeto de negócios
 ## Desenhar App
 
 
-Para um melhor desenvolvimento das aplicações Neuro, é necessário o **desenho anterior das necessidades, requisitos que a aplicação atenderá**, além de incluir o modelo de entidades dos dados que percorrerão a aplicação.
+Para um melhor desenvolvimento das aplicações Builder, é necessário o **desenho anterior das necessidades, requisitos que a aplicação atenderá**, além de incluir o modelo de entidades dos dados que percorrerão a aplicação.
 
-Uma pesquisa das **interfaces desejadas** e, se o Neuro for a opção de usar dados para serviços, o **desenho dos serviços** que serão automatizados.
+Uma pesquisa das **interfaces desejadas** e, se o Builder for a opção de usar dados para serviços, o **desenho dos serviços** que serão automatizados.
 
-## Configuração Neuro
+## Configuração Builder
 
 
-Depois de Desenhar a Aplicação reunindo as informações referentes às entidades de dados de sua Aplicação Neuro, você irá:
+Depois de Desenhar a Aplicação reunindo as informações referentes às entidades de dados de sua Aplicação Builder, você irá:
 
 1.  Criar sua BASE DE DADOS DE CONEXÃO e sua entrada APLICAÇÃO NEURO;
 
@@ -37,7 +37,7 @@ Depois de Desenhar a Aplicação reunindo as informações referentes às entida
 
 4.  Se você tiver formulários que usarão vários idiomas, você criará as CHAVES DE INTERNACIONALIZAÇÃO, labels que serão usadas para todos os campos em seus formulários.
 
-## Desenvolvimento Neuro
+## Desenvolvimento Builder
 
 
 A etapa de configuração nos preparará para desenvolver a aplicação:

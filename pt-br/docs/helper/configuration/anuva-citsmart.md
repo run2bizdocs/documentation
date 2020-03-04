@@ -1,17 +1,17 @@
-Title: Disponibilizar Anuva na interface 4biz
-# Disponibilizar Anuva na interface 4biz
+Title: Disponibilizar Helper na interface 4biz
+# Disponibilizar Helper na interface 4biz
 
-A Anuva já se integra nativamente ao 4biz, então é muito fácil adicioná-la ao seu ambiente.
+A Helper já se integra nativamente ao 4biz, então é muito fácil adicioná-la ao seu ambiente.
 
 ## Procedimento
 
 1. Com acesso de Administrador, acesse a tela de parâmetros do 4biz
-2. Altere o valor do parâmetro “402 Anuva Assistant - External URL” para http://[nome-servidor].anuvaassistant.com
-3. Altere o valor do parâmetro “441 Anuva Assistant - Conversation API” para http://[nome-servidor][sigla-idioma].anuvaassistant.com/webhooks/rest/webhook e clique em “Salvar”
-4. Altere o valor do parâmetro “442 Anuva Assistant - Parameters API” para http://[nome-servidor][sigla-idioma].anuvaassistant.com/conversations/
-5. Configurar o parâmetro 453 "Mensagem default de Fallback da Anuva Assistant", com uma mensagem que a Anuva irá responder sempre que não possuir resposta para aquela pergunta
-6. Habilitar parâmetro 423 "Habilitar Anuva Assistant na área interna do sistema", parâmetro que permite que os analistas tenham iteração com a ANUVA
-7. Habilitar parâmetro 450 "Habilitar Anuva Assistant na área externa", parâmetro que permite que os usuários finais tenham iteração com ANUVA.    
+2. Altere o valor do parâmetro “402 Helper Assistant - External URL” para http://[nome-servidor].helperassistant.com
+3. Altere o valor do parâmetro “441 Helper Assistant - Conversation API” para http://[nome-servidor][sigla-idioma].helperassistant.com/webhooks/rest/webhook e clique em “Salvar”
+4. Altere o valor do parâmetro “442 Helper Assistant - Parameters API” para http://[nome-servidor][sigla-idioma].helperassistant.com/conversations/
+5. Configurar o parâmetro 453 "Mensagem default de Fallback da Helper Assistant", com uma mensagem que a Helper irá responder sempre que não possuir resposta para aquela pergunta
+6. Habilitar parâmetro 423 "Habilitar Helper Assistant na área interna do sistema", parâmetro que permite que os analistas tenham iteração com a ANUVA
+7. Habilitar parâmetro 450 "Habilitar Helper Assistant na área externa", parâmetro que permite que os usuários finais tenham iteração com ANUVA.    
 
 
 !!! note "NOTA"

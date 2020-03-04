@@ -5,7 +5,7 @@ Description: Visão geral de como criar e gerenciar um fluxo de trabalho no cits
 
 Fluxos são representações visuais de algo que se move continuamente. Assim, fluxos podem ser usados para representar graficamente um processo ou qualquer ação. Eles podem ser materializados em um papel (documento físico) ou em uma ferramenta eletrônica. No 4biz, a funcionalidade de Workflow tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do 4biz.
 
-Os fluxos de trabalho automatizados dão vida às atividades do sistema, proporcionando que as atividades da sua organização sejam digitalizadas e automatizadas. Assim, você pode criar fluxos com controle de tarefas, adicionar notificações, subprocessos e estabelecer comunicação direta com outras aplicações, como é o caso do Neuro – que é um framework para a geração de aplicações.
+Os fluxos de trabalho automatizados dão vida às atividades do sistema, proporcionando que as atividades da sua organização sejam digitalizadas e automatizadas. Assim, você pode criar fluxos com controle de tarefas, adicionar notificações, subprocessos e estabelecer comunicação direta com outras aplicações, como é o caso do Builder – que é um framework para a geração de aplicações.
 
 Você vai perceber que tarefas do dia a dia, como realizar um pedido, registrar um ticket, aprovar uma solicitação podem ser feitas de forma rápida e inteligente, evitando o desperdício de tempo. Os fluxos do 4biz te ajudam a materializar seus processos de negócio em uma visão sistêmica em que você tem total controle do que acontece.
 
@@ -27,7 +27,7 @@ Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à 
 
 3: Modelagem de processos;
 
-**Integração Neuro**
+**Integração Builder**
 
 4: Fluxo de Integração;
 
@@ -36,7 +36,7 @@ Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à 
 6: Processo de Negócio;
 
 !!! note "NOTAS"
-   Estes itens só estarão disponíveis quando a aplicação Neuro estiver habilitada em sua instância;
+   Estes itens só estarão disponíveis quando a aplicação Builder estiver habilitada em sua instância;
 
 Caso já tenha esse acesso, basta clicar e seleciona a opção de **Desenho de fluxo** para que seja possível visualizar a tela de gerenciamento.
 
@@ -84,7 +84,7 @@ Dados do Fluxo é uma aba para identificação do fluxo, onde é possível estru
 
 5: **Permitir reabertura** – Opção para permitir que as atividades que estão vinculadas a esse fluxo tenham a possibilidade de serem reabertas independentemente das configurações de grupo;
 
-6: **Criar/atualizar dados dos objetos de negócio na criação do ticket** – Opção que permite que seja criado ou atualizado os dados de objetos de negócio configurados na nossa linguagem Neuro no momento de criação de um ticket;
+6: **Criar/atualizar dados dos objetos de negócio na criação do ticket** – Opção que permite que seja criado ou atualizado os dados de objetos de negócio configurados na nossa linguagem Builder no momento de criação de um ticket;
 
 7: **Atualizar dados dos objetos de negócio após execução das tarefas de usuário** – Opção que permite atualizar os objetos de negócio criado durante a execução das tarefas de usuário.
 

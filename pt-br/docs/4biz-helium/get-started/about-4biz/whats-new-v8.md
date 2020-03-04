@@ -58,7 +58,7 @@ Cada Centro de Experiência possui páginas dinâmicas com a opção de widgets 
 *   Requisições
 *   Aprovações
 *   Centro de Conhecimento
-*   Aplicações Neuro
+*   Aplicações Builder
 *   Workspaces
 *   Notícias
 *   Notificações

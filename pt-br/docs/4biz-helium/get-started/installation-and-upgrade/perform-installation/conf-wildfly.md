@@ -19,8 +19,8 @@ Entre no jboss-cli e execute os comandos abaixo:
 /subsystem=undertow/server=default-server/host=default-host/setting=access-log:write-attribute(name=pattern, value="%h %l %u [%t] \\"%r\\" %s %b \\"%{i,Referer}\\" \\"%{i,User-Agent}\\"")
 /subsystem=messaging-activemq/server=default/jms-queue=filaDocumentoQueue:add(entries=["queue/filaDocumento","java:jboss/exported/jms/queue/filaDocumento"])
 /subsystem=messaging-activemq/server=default/jms-topic=filaDocumentoTopic:add(entries=["topic/filaDocumento","java:jboss/exported/jms/topic/filaDocumento"])
-/subsystem=messaging-activemq/server=default/jms-queue=neuroInputQueue:add(entries=["queue/neuroInputQueue","java:jboss/exported/jms/queue/queue/neuroInputQueue"])
-/subsystem=messaging-activemq/server=default/jms-queue=neuroOutputQueue:add(entries=["queue/neuroOutputQueue","java:jboss/exported/jms/queue/queue/neuroOutputQueue"])
+/subsystem=messaging-activemq/server=default/jms-queue=builderInputQueue:add(entries=["queue/builderInputQueue","java:jboss/exported/jms/queue/queue/builderInputQueue"])
+/subsystem=messaging-activemq/server=default/jms-queue=builderOutputQueue:add(entries=["queue/builderOutputQueue","java:jboss/exported/jms/queue/queue/builderOutputQueue"])
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 

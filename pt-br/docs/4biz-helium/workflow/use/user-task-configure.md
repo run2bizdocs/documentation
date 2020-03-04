@@ -25,7 +25,7 @@ Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
 
     * **Nome** – da tarefa de usuário;
     * **Descrição** – para detalhar a tarefa do usuário;
-    * **Identificador** – é uma sigla única para tarefa, serve para codificar Rhino e para formulário do neuro;
+    * **Identificador** – é uma sigla única para tarefa, serve para codificar Rhino e para formulário do builder;
     * **Contabilizar SLA** – definir se “sim” ou “não” (o status “SLA Suspensa” aparecerá na interface de gestão de ticket);
 
     * **Percentual de execução** – campo informativo da quantidade que essa tarefa do fluxo tem em todo o fluxo;
@@ -70,7 +70,7 @@ Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
 
       * **Formulário padrão** – do sistema;
 
-      * **Formulário Neuro** - possui um identificador para chamar o fluxo disparado por este formulário;
+      * **Formulário Builder** - possui um identificador para chamar o fluxo disparado por este formulário;
 
       * **Base de conhecimento**
 

@@ -1,8 +1,8 @@
-title: Usando aplicativos Neuro em Tickets
-Description: Usando aplicativos Neuro em Tickets
-# Usando aplicativos Neuro em Tickets
+title: Usando aplicativos Builder em Tickets
+Description: Usando aplicativos Builder em Tickets
+# Usando aplicativos Builder em Tickets
 
-Existem duas formas de interface Neuro com um Ticket:
+Existem duas formas de interface Builder com um Ticket:
 
 1.  Você pode criar um **formulário que será uma fonte de informação para o processo de uma solicitação**, assim você poderá:
 
@@ -10,19 +10,19 @@ Existem duas formas de interface Neuro com um Ticket:
 
   b)  Criar um template SM;
     
-   ![create](images/neuro-sm-1.jpg)
+   ![create](images/builder-sm-1.jpg)
 
    Figura 1 - Criar template SM
     
   c)  Vincular o template para a requisição/incidente;
     
-   ![create](images/neuro-sm-2.jpg)
+   ![create](images/builder-sm-2.jpg)
 
    Figura 2 - Vincular template
     
   d)  Usar o template na requisição/incidente.
     
-   ![create](images/neuro-sm-3.jpg)
+   ![create](images/builder-sm-3.jpg)
 
    Figura 3 - Template use
     
@@ -31,14 +31,14 @@ Existem duas formas de interface Neuro com um Ticket:
 
   a)  Selecionar usuário de tarefa
     
-   ![create](images/neuro-sm-4.png)
+   ![create](images/builder-sm-4.png)
 
    Figura 4 - Vincular template
     
 
   b)  Vincular o formulário a uma etapa do Fluxo SM na guia "Interface" de uma tarefa de usuário
     
-   ![create](images/neuro-sm-13.png)
+   ![create](images/builder-sm-13.png)
 
    Figura 5 - Interface
     

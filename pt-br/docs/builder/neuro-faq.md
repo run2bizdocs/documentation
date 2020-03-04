@@ -1,7 +1,7 @@
-Title: FAQ (Neuro)
+Title: FAQ (Builder)
 Description: 4biz - FAQ
 
-# FAQ (Neuro)
+# FAQ (Builder)
 
 !!! Question "Qual a diferença entre criar um formulário através do menu Formulário e através do menu Objeto de negócio?"
 
@@ -41,15 +41,15 @@ Description: 4biz - FAQ
 
 	É possível criar seus próprios componentes para serem utilizados no formulário. Para um tutorial completo, vide a documentação técnica.
 
-!!! Question "Por onde devo começar a construção de uma aplicação utilizando o Neuro?"
+!!! Question "Por onde devo começar a construção de uma aplicação utilizando o Builder?"
 
-	Recomenda-se que o primeiro passo a ser executado no Neuro seja o cadastro da aplicação ou o cadastro de uma conexão de banco de dados, de acordo com a necessidade da aplicação.  
+	Recomenda-se que o primeiro passo a ser executado no Builder seja o cadastro da aplicação ou o cadastro de uma conexão de banco de dados, de acordo com a necessidade da aplicação.  
 
-!!! Question "Como funciona a injeção de dependências próprias dentro de um formulário no Neuro? Quais passos devem ser executados?"
+!!! Question "Como funciona a injeção de dependências próprias dentro de um formulário no Builder? Quais passos devem ser executados?"
 
-	Para injetar uma dependência própria, é necessário cadastrá-la antes. As dependências que podem ser injetadas dentro de um formulário Neuro são somente do tipo CSS e Javascript.
+	Para injetar uma dependência própria, é necessário cadastrá-la antes. As dependências que podem ser injetadas dentro de um formulário Builder são somente do tipo CSS e Javascript.
 
-	Criar um cadastro novo de acordo com o tipo da sua dependência através do menu "Neuro > Recursos" e fazer o upload da dependência.
+	Criar um cadastro novo de acordo com o tipo da sua dependência através do menu "Builder > Recursos" e fazer o upload da dependência.
 
 	Para importá-la no formulário, selecionar a aba do tipo da página que deseja importar e escolher a aba "Dependências". 
 

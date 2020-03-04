@@ -14,7 +14,7 @@ Caso já tenha um servidor de banco relacional em seu ambiente, você pode fazer
 
 !!! Warning "ATENÇÃO"
 
-    Qualquer que seja o caso, esses serão os  valores mínimos recomendados. Lembre-se que a plataforma do 4biz é composta por outros aplicativos, como o Neuro por exemplo, que permite integrações com a s mais diversas finalidades. Essas integrações podem levar a consumos e cargas de processamento diferentes das normais, portanto os valores dos requisitos de sistema podem variar de ambiente para ambiente.   
+    Qualquer que seja o caso, esses serão os  valores mínimos recomendados. Lembre-se que a plataforma do 4biz é composta por outros aplicativos, como o Builder por exemplo, que permite integrações com a s mais diversas finalidades. Essas integrações podem levar a consumos e cargas de processamento diferentes das normais, portanto os valores dos requisitos de sistema podem variar de ambiente para ambiente.   
 
 # Versões recomendadas dos pacotes
 

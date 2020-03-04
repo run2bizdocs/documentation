@@ -21,7 +21,7 @@ Procedimento
 
 2.  Preencher os campos disponibilizados;
 
-3.  No campo  **Tipo de Template**, a cada opção escolhida (JSP, Questionário ou Neuro) os campos para preenchimento serão alterados:
+3.  No campo  **Tipo de Template**, a cada opção escolhida (JSP, Questionário ou Builder) os campos para preenchimento serão alterados:
 
     ![figura1](images/template-1.jpg)
 
@@ -35,7 +35,7 @@ Procedimento
 
     ![figura1](images/template-3.jpg)
 
-    Figura 3 - Template Neuro
+    Figura 3 - Template Builder
 
 4.  Clicar em "Gravar".
 

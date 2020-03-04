@@ -2,12 +2,12 @@ title: Domínio
 Description: Domínio
 # Domínio
 
-Neuro permite definir domínios que serão utilizados por todas as aplicações da instituição. O identificador (Key) agrupa os itens do Domínio.
+Builder permite definir domínios que serão utilizados por todas as aplicações da instituição. O identificador (Key) agrupa os itens do Domínio.
 
 Procedimento
 -----------
 
-1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Configuração \> Domínio;
+1.  Acessar a funcionalidade pelo menu de navegação Builder \> Configuração \> Domínio;
 
 2.  Clicar em “Cadastrar”;
 
@@ -22,12 +22,12 @@ Procedimento
 1.  Clicar em “Salvar”.
 
 
-![search](images/neuro-7.png)
+![search](images/builder-7.png)
 
 Figura 1 - Pesquisar domínio
 
 
-![search](images/neuro-8.png)
+![search](images/builder-8.png)
 
 Figura 2 - Cadastrar domínio
 

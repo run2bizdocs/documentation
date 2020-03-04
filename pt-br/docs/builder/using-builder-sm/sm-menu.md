@@ -1,6 +1,6 @@
-title: Criar item de menu via Neuro
-Description: Criar item de menu via Neuro
-# Criar item de menu via Neuro
+title: Criar item de menu via Builder
+Description: Criar item de menu via Builder
+# Criar item de menu via Builder
 
 
 1.  Criar um formulário para o objeto de negócio;
@@ -13,11 +13,11 @@ Description: Criar item de menu via Neuro
 
     3.  O sistema irá gerar um Link automaticamente para o nosso formulário.
 
-![create](images/neuro-sm-11.jpg)
+![create](images/builder-sm-11.jpg)
 
 Figura 1 - Criar menu SM
 
-![create](images/neuro-sm-12.jpg)
+![create](images/builder-sm-12.jpg)
 
 Figura 2 - Criar menu SM (continuação)
 

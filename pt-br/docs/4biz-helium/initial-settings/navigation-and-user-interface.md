@@ -11,12 +11,12 @@ Figura 1 – Tela inicial da plataforma 4biz
 -   **1 - Banner frame**: na área interna do sistema a barra de tarefas contém
     itens de navegação e ferramentas. Como o menu principal, com todas as
     funcionalidades 4biz, botões com integração VoIP, a assistente virtual
-    Anuva e informações sobre o login de usuário, versão do ambiente e também
+    Helper e informações sobre o login de usuário, versão do ambiente e também
     sua mudança de idioma;
 
 -   **2 - Navegação em aplicativos**: acesso aos 13 processos certificados da
     4biz, funcionalidades de cadastros básicos, criação e emissão de
-    relatórios, parâmetros, acesso ao 4biz Neuro (engine de aplicativos),
+    relatórios, parâmetros, acesso ao 4biz Builder (engine de aplicativos),
     além de funcionalidades de gerenciamento da plataforma;
 
 -   **3 - Painel do usuário**: determina o layout de apresentação do painel do
@@ -89,7 +89,7 @@ funcionalidades que o 4biz disponibiliza.
 
 -   **10**: funcionalidades para administrar a Plataforma 4biz;
 
--   **11**: acesso ao 4biz Neuro (engine de aplicativos).
+-   **11**: acesso ao 4biz Builder (engine de aplicativos).
 
 ### Painel do Usuário (Smart Decision)
 

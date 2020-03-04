@@ -30,7 +30,7 @@ Procedimento
 !!! Abstract "IMPORTANTE"
 
     A abertura e atendimento de tickets pelo Twitter só é possível se o sistema seguir um formulário (workflow) 
-    Neuro criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
+    Builder criado especificamente com o intuito de atender este tipo de solicitação e este fluxo para ser executado,
     necessitará de um processo de negócio agendado por expressão Cron.  
 
 !!! tip "About"

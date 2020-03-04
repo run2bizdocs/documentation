@@ -245,7 +245,7 @@ ou compra. Prepare-se para este futuro.
 -   ROI aprimorado no investimento em soluções corporativas ITSM, pois ele pode ser usado para
     ESM
 
--   Alta capacidade de adaptação aos negócios do cliente (devido ao Neuro e ao Fluxo de
+-   Alta capacidade de adaptação aos negócios do cliente (devido ao Builder e ao Fluxo de
     Trabalho) - Personalização online e codeless
 
 -   All-In-One e, ao mesmo tempo, simples de usar, integrando-se facilmente às

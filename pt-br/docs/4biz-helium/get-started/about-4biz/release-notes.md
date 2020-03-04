@@ -19,8 +19,8 @@ Bem-vindos ao Citsmart Versão 8.0.6. Esta versão apresenta os seguintes itens:
 |6400|Melhoria|CMDB|Vincular Visualização de Mapa de CMDB na Mudança|
 |6436|Corretiva|Gerenciamento de Mudança|Erro em Requisição de Mudança ao gerar um "Relatório Registro de Execução"|
 |6439|Corretiva|Sistema|Ao limpar parâmetros do tipo número o valor não está sendo persistido no BD|
-|6609|Melhoria|Omnichannel|Upload de arquivos no ticket via no SmartChat para Anuva|
-|6612|Melhoria|Omnichannel|Apresentação de menu carrossel no Smartchat para Anuva|
+|6609|Melhoria|Omnichannel|Upload de arquivos no ticket via no SmartChat para Helper|
+|6612|Melhoria|Omnichannel|Apresentação de menu carrossel no Smartchat para Helper|
 |6614|Melhoria|WebServices|Validação de Webservices 4biz implementados para assistente virtual|
 |6622|Melhoria|CMDB|Paginar a listagem de IC's na tela inicial do CMDB|
 |6649|Corretiva|Gerenciamento de Mudança|Erro de tradução na tela de Análise de Risco e Impacto em Requisição de Mudança|
@@ -50,11 +50,11 @@ Bem-vindos ao Citsmart Versão 8.0.6. Esta versão apresenta os seguintes itens:
 
 **Pacote(s) liberado(s) nesta versão:**
 * [x] 4biz Enterprise 8.0.6
-* [x] 4biz Neuro 1.3.4.0
+* [x] 4biz Builder 1.3.4.0
 
 **Orientações para atualização:**
 - Será necessário ativar a execução do processamento batch “Process Working Hours Calendar”, após a atualização para usufruir da    melhoria “5594 - Adicionar visão de conflitos de jornada de ICs e Serviços em RDM's”
-- É necessário atualizar o Neuro para o 1.3.4 para manter compatibilidade com a versão 8.0.6
+- É necessário atualizar o Builder para o 1.3.4 para manter compatibilidade com a versão 8.0.6
 
 ## Versão 8.0.5.4 (2020/02/28)
 Bem-vindos ao Citsmart Versão 8.0.5.4. Esta versão apresenta as seguintes melhorias:
@@ -80,11 +80,11 @@ Bem-vindos ao Citsmart Versão 8.0.5.2. Esta versão apresenta as seguintes melh
 |--------|---------|---------|---------|
 |Ticket 3505|Corretiva|Tickets|Correção de elementos de fluxo|
 |Ticket 3350|Melhoria|Tickets|Otimização de desempenho das telas de ticket, usuário e grupo de usuários.|
-|Ticket 3505|Corretiva|Neuro|Correção de componentes Neuro|
+|Ticket 3505|Corretiva|Builder|Correção de componentes Builder|
 
 Pacote(s) liberado(s) nesta versão:
 
-- [X] 4biz Neuro 1.3.3.3
+- [X] 4biz Builder 1.3.3.3
 
 ## Versão 8.0.5.1 (2020/02/10)
 Bem-vindos ao Citsmart Versão 8.0.5.1. Esta versão apresenta as seguintes melhorias:
@@ -212,7 +212,7 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
 
 |Melhoria	| Funcionalidade	| Descrição |
 |--------|---------|---------|
-|5959  | Anuva | Implementado funcionalidade de mandar mensagem para o Anuva |
+|5959  | Helper | Implementado funcionalidade de mandar mensagem para o Helper |
 |3902  | Instalação do CitSmart |	Realizado corretiva na internacionalização das cargas em uma base zerada, as cargas iniciais da tela 'Causa' e 'Solução' deverá subir com o idioma selecionado na instalação. |
 
 - **Correção**
@@ -223,8 +223,8 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
 | 6258 | SmartChat | Realizado corretiva pois não estava exibindo o nome do atendente na janela de conversa mesmo o atendente capturando o ticket |
 | 6213 | Gerência de Portifólio e Catálogo | Feito correção para carregamento do serviço de apoio no mapa de serviço | 
 | 5947 | Modelo de E-mail | Ajuste nos idiomas dos templates de e-mail, as cargas iniciais da tela deverão subir com o idioma selecionado na instalação. Caso for com o idioma em inglês então independentemente do idioma que for selecionada na aplicação os dados da tela ficarão em inglês | 
-| 5970 | Neuro | Corrigido na sessão de formulário Neuro na tela de ticket. | 
-| 6069 | Neuro/Fluxo | Corrigido a função de Edição de campos em um Fluxo e no Neuro | 
+| 5970 | Builder | Corrigido na sessão de formulário Builder na tela de ticket. | 
+| 6069 | Builder/Fluxo | Corrigido a função de Edição de campos em um Fluxo e no Builder | 
 | 5939| Notificações | Corrigido o número de Notificações Vistas | 
 | 6261 | Serviço de Aprovação via Token | Corrigido bugs na Aprovação via Token | 
 | 6141 | SLA | Feito ajustes no Tempo de atendimento dos  SLAs de serviços | 
@@ -254,7 +254,7 @@ Bem-vindos ao Citsmart Versão 8.0.4.0. Esta versão apresenta as seguintes corr
 **Pacote(s) liberado(s) nesta versão:**
 
 * [x] 4biz Enterprise 8.0.4.0
-* [x] 4biz Neuro 1.3.3.0
+* [x] 4biz Builder 1.3.3.0
 * [x] 4biz Inventory 2.0.0.4
 
 !!! success "DOWNLOAD"
@@ -286,11 +286,11 @@ Bem-vindos ao 4biz Versão 8.0.3.0. Esta versão apresenta as seguintes correç�
 |5890|[4785] Não esta notificando o atendente solicitado quando existe troca de mensagens entre atendentes|
 |5910|Correção na chave internacionalizada|
 |5919|Quando chega mensagem nova está sendo notificado todos os chats minimizados|
-|5920|Não carrega o formulário Neuro correto quando há alteração da configuração de portfólio. Correção da obtenção do template de acompanhamento|
+|5920|Não carrega o formulário Builder correto quando há alteração da configuração de portfólio. Correção da obtenção do template de acompanhamento|
 |5925|Correção de erro na tela de Requisição de Mudança|
 |5926|Inserindo mensagem de alerta ao clicar na opção de criar mudança|
 |5958|Correção de erro no SLA que não está sendo possível vincular em um Serviço no portfólio - "Erro ao executar o localizar...."|
-|5959|Criar possibilidade de envio das mensagens para anuva|
+|5959|Criar possibilidade de envio das mensagens para helper|
 |5962|Correções da integração com Twitter|
 |5969|Erro ao tentar criar um ticket quando a mensagem de falback contem aspas ''.|
 |5981|Permitindo registrar solicitações de serviço sem localidade.|
@@ -330,7 +330,7 @@ Bem-vindos ao 4biz Versão 8.0.2.0. Esta versão apresenta as seguintes correç�
 |2612|[Sistema]  - Ajustar os campos Impacto e Urgência conforme parâmetro 104.|
 |5272|[Sistema] - Criar regras de segurança na API/Back-end para a tela de execução de comandos de banco de dados.|
 |1273|[CMDB] - Permitir remover os grupos padrão.|
-|4309|[Ticket ] - Ticket com formulário Neuro ultrapassa o tamanho padrão da tela ao visualizar Variáveis de fluxo.|
+|4309|[Ticket ] - Ticket com formulário Builder ultrapassa o tamanho padrão da tela ao visualizar Variáveis de fluxo.|
 |3423|[Problema] - Sistema está permitindo salvar erro conhecido sem informar nenhuma pasta no portfólio de problema.|
 |2125|[Ticket ] - Evitar que a Solicitação de serviço seja fechada e possua datafim null.|
 |4847|[Ticket ] - Erro no comportamento de pesquisa de sub solicitação.|
@@ -351,7 +351,7 @@ Bem-vindos ao 4biz Versão 8.0.2.0. Esta versão apresenta as seguintes correç�
 |4764|[Conhecimento] - Visualização do Portal de Conhecimento ultrapassa o layout da página.|
 |4874|[Ticket] – [Exibir motivo aprovar e rejeitar na ocorrência] Alterar a forma que está sendo exibido o motivo da aprovação ou rejeição na ocorrência.|
 |5878|[ITSM 2002] - Erro nos vínculos de CE não fica gravado as configurações de dentro de outro CE.|
-|5763|[ITSM 1829] - Erro em Neuro.|
+|5763|[ITSM 1829] - Erro em Builder.|
 |5781|[ITSM1846]: Verificar que ao delegar um ticket a ocorrência do histórico em pesquisa avançada está vindo desconfigurada.|
 |5568|[ITSM 1313]: Navegador Edge não salva no campo de "Descrição" em um Ticket.|
 |5883|[ITSM 1971] - Verificar null pointer na tela de ticket quando o parâmetro 231 está ativo.|
@@ -433,7 +433,7 @@ Bem-vindos ao 4biz Versão 8.0.1.4. Esta versão apresenta as seguintes correç�
 |4599|Instalação - Erros de script ao subir o 4biz em base zerada.|
 |5001|Gerência de Problema - [My 1168] - Verificar que não está sendo possível visualizar os anexos na tela de visualização de problema.|
 |3192|Gerência de Continuidade - Erro de permissão de acesso quando o usuário possui permissão.|
-|4825|Neuro - Não é possível alterar parâmetros em banco Oracle.|
+|4825|Builder - Não é possível alterar parâmetros em banco Oracle.|
 |3612|Gerência de ticket - Retirar a informação 'Data limite' quando o SLA for 'A COMBINAR' no momento de executar.|
 |4966|Smart Decision - [My 1120] - Verificar comportamento inadequado ao vincular 2 widgets específicos de Smart Decision.|
 |4934|Gerência de Problema - Falha ao retornar registro de encerramento de problema proativo|
@@ -489,7 +489,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes corr
 |4543|[Chat - Ticket] - Verificar a possibilidade de conseguir abrir a tela de execução de Ticket através da janela de conversa do chat.|
 |4315|Verificar a possibilidade de retirar das janelas de chat a informação “Como posso de ajudar” no momento que o atendimento já se iniciou.|
 |4572|Ao mover um item de uma Sprint para outra no Simple, este é movido para uma lista arquivada.|
-|4533|[Chat] - Problemas ao interagir com a Anuva.|
+|4533|[Chat] - Problemas ao interagir com a Helper.|
 |4535|[Chat] - Alterar a label “Solicitação” para “Ticket” que apresentada dentro do chat.|
 |4532|Trocar frases apresentada na pop-up do chat.|
 |4587|Erro no Simple ao cadastrar uma nova Sprint - com usuários.|
@@ -497,7 +497,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes corr
 |4595|[Portfólio]: Erro ao tentar salvar o cadastro de um novo serviço.|
 |4529|[Tempo Atendimento]: Tempo de atendimento do tipo “cliente” não apresentando o valor do SLA correto.|
 |852|Não exibir na tela de parâmetros os itens que já são exibidos em telas de configuração.|
-|4536|Alteração do widget da “Anuva” na configuração do Centro de Experiência.|
+|4536|Alteração do widget da “Helper” na configuração do Centro de Experiência.|
 |3660|No cadastro de usuário, ao pesquisar o colaborador pelo CPF - com as máscaras corretas contendo pontos e hífen - não é apresentado resultado.|
 |4570|Erro ao acessar a tela de ticket em uma base de instalação.|
 |4546|[Chat]: Trocar o hint do ícone de mensagem que fica dentro da tela de ticket.|
@@ -516,7 +516,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.2. Esta versão apresenta as seguintes corr
 
 |Problema|Descricão|
 |--------|---------|
-|4730|Erro ao criar um ticket pelo Smart Portal quando o mesmo não possui Neuro ou Questionário|
+|4730|Erro ao criar um ticket pelo Smart Portal quando o mesmo não possui Builder ou Questionário|
 |4537|Erro na sincronização do LDAP|
 |4733|Lentidão no Smart Portal quando existe conhecimentos relacionados|
 
@@ -588,7 +588,7 @@ Bem-vindos ao 4biz Versão 8.0.0.9. Esta versão apresenta algumas correções e
 |Problema|Descrição|
 |--------|---------|
 |3670|Validação do campo e-mail na tela de User Profile|
-|3702|Correção em Scripts Neuro|
+|3702|Correção em Scripts Builder|
 |3793|Otimização de SQL na lista de solicitações para reduzir o tempo de resposta|
 |3879|Correção no Kanbam por atendente para visualizar a informação da tarefa|
 |3895|Problemas na execução do cron do CMDB|
@@ -606,20 +606,20 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 2869       | Analise e correção de Streams abertas                                                                                                                                                                                                                           | Corretiva |
 | 3466       | Problemas de internacionalização                                                                                                                                                                                                                                | Corretiva |
 | 3701       | [ITSM 9819] - Na Ger. Liberação sistema carregando outro usuário como responsável                                                                                                                                                                               | Corretiva |
-| 3155       | Alterar nomes de Labels e ajustar Menus Neuro                                                                                                                                                                                                                   | Melhoria  |
+| 3155       | Alterar nomes de Labels e ajustar Menus Builder                                                                                                                                                                                                                   | Melhoria  |
 | 2389       | Ajustes de arquitetura GRP                                                                                                                                                                                                                                      | Corretiva |
 | 3884       | [ITSM 9845] - Falha ao carregar anexos em ambiente instável e lento                                                                                                                                                                                             | Corretiva |
 | 3707       | Datepicker não funcional ao tentar selecionar a data no relatório de Problema. O mesmo permite preencher, porém, não permite selecionar data específica.                                                                                                        | Corretiva |
 | 3264       | [ITSM-9480] - Verificar que o sistema não responde ao componente de e-mail desenhado no fluxo                                                                                                                                                                   | Corretiva |
 | 3790       | [ITSM 9816] - Alteração do contexto dinâmico das telas que faltam do 4biz \#3698                                                                                                                                                                            | Corretiva |
 | 3870       | Verificar mensagem de erro ao clicar em "questionário"                                                                                                                                                                                                          | Corretiva |
-| 3698       | [ITSM 9816] - Algumas URL's do citsmart não estão respeitando a configuração do jboss-web.xml. Ou seja , quando o contexto é alterado de "citsmart" para "anac", ou algo do tipo. Telas como formulário neuro e manutenção de fluxo deixam de funcionar. \#3790 | Corretiva |
+| 3698       | [ITSM 9816] - Algumas URL's do citsmart não estão respeitando a configuração do jboss-web.xml. Ou seja , quando o contexto é alterado de "citsmart" para "anac", ou algo do tipo. Telas como formulário builder e manutenção de fluxo deixam de funcionar. \#3790 | Corretiva |
 | 3877       | Verificar comportamento do sistema ao tentar acessar a aplicação com consultor em uma base zerada                                                                                                                                                               | Corretiva |
 | 3214       | [ITSM-9609] - Erro ao anexar um arquivo com caractere numeral                                                                                                                                                                                                   | Corretiva |
 | 3471       | Somente exibir abas se houver conteúdo                                                                                                                                                                                                                          | Melhoria  |
 | 3791       | [ITSM 9793] - Verificar que ao tentarmos alterar os dados do formulário de uma solicitação, ao se clicar em "Gravar" estas informações, não são persistidas.                                                                                                    | Corretiva |
-| 3664       | [ITSM 9793] - Verificar que ao tentar reclassificar uma solicitação trocando a atividade, a aplicação não está carregando o formulário neuro dessa atividade.                                                                                                   | Corretiva |
-| 2870       | [Neuro] Otimização da carga de internacionalização                                                                                                                                                                                                              | Corretiva |
+| 3664       | [ITSM 9793] - Verificar que ao tentar reclassificar uma solicitação trocando a atividade, a aplicação não está carregando o formulário builder dessa atividade.                                                                                                   | Corretiva |
+| 2870       | [Builder] Otimização da carga de internacionalização                                                                                                                                                                                                              | Corretiva |
 | 3616       | Verificar problema de lentidão ao CADASTRAR UMA MUDANÇA com uma grande quantidade de anexos (anexos extensos).                                                                                                                                                  | Corretiva |
 | 3649       | Alguns componentes do fluxo não são exibidos no browser Chrome                                                                                                                                                                                                  | Corretiva |
 | 3610       | Ao acessar determinada tela pelo link não é carregado a lista de menu                                                                                                                                                                                           | Corretiva |
@@ -641,9 +641,9 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 3241       | Verificar que a informação do campo 'Caixa de Saída de E-mail' está multiplicando cada vez que grava um contrato.                                                                                                                                               | Corretiva |
 | 3621       | Não está sendo possível remover os anexos da Liberação                                                                                                                                                                                                          | Corretiva |
 | 3669       | Não está sendo possível criar um ticket pelo portal quando a atividade está configurada para não exibir o campo descrição                                                                                                                                       | Corretiva |
-| 3607       | [ITSM-9097] - Tratar a gravação dos dados de formulário Neuro na Reclassificação                                                                                                                                                                                | Corretiva |
+| 3607       | [ITSM-9097] - Tratar a gravação dos dados de formulário Builder na Reclassificação                                                                                                                                                                                | Corretiva |
 | 3512       | Lentidão ao carregar uma Mudança/Liberação/Problema com anexos                                                                                                                                                                                                  | Corretiva |
-| 3506       | Neuro não instala automaticamente na migração do ITSM versão 7 para a 8                                                                                                                                                                                         | Corretiva |
+| 3506       | Builder não instala automaticamente na migração do ITSM versão 7 para a 8                                                                                                                                                                                         | Corretiva |
 | 3605       | [ITSM 9722] - Erro de tradução no Relatorio                                                                                                                                                                                                                     | Corretiva |
 | 3602       | [ITSM 9773, 9824] Verificar que não está sendo possível publicar e nem versionar um conhecimento                                                                                                                                                                | Corretiva |
 | 1602       | Acrescentar contandor no icone de anexo e mensagem e troca icones de lugares                                                                                                                                                                                    | Corretiva |
@@ -661,7 +661,7 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 3281       | [ITSM-9629] - Modal para visualização de IC aberta por Ger de Eventos está muito pequena e precisa de ajustes                                                                                                                                                   | Corretiva |
 | 3368       | A palavra "Solicitación" precisa ser substituída por "Solicitud".                                                                                                                                                                                               | Corretiva |
 | 3186       | Mensagem de crítica (em pop-up) quanto obrigatoriedade de campo "Contrato" na Avaliação do Contrato apresentado com erro ortográfico                                                                                                                            |           |
-| 3424       | Validar parâmetros do Neuro antes da gravação                                                                                                                                                                                                                   | Corretiva |
+| 3424       | Validar parâmetros do Builder antes da gravação                                                                                                                                                                                                                   | Corretiva |
 | 3166       | [ITSM-9562] - Verificar cadastro de ticket com espaço vazio                                                                                                                                                                                                     | Corretiva |
 | 3201       | Correção de nomes em Impacto e Urgency na tela de tempo de atendimento                                                                                                                                                                                          | Corretiva |
 | 3093       | Verificar comportamento do sistema quando o usuário clica na opção 'Sobre o 4biz'                                                                                                                                                                           | Corretiva |
@@ -682,7 +682,7 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 
 **Outros produtos liberados:**
 
-Neuro: 1.2.4.10
+Builder: 1.2.4.10
 
 Audit: 0.4.0
 
@@ -744,7 +744,7 @@ Se atentem para o cenário descrito:
 
 **Outros produtos liberados**
 
-Neuro: 1.2.4.8
+Builder: 1.2.4.8
 
 Inventory: 2.0.0.3
 
@@ -767,7 +767,7 @@ Audit: 0.2.0
 | 2573     | Erro conhecido na versão 8.0.0.0 ao responder a pesquisa de satisfação pelo Widget do Centro de Experiência. A versão 8.0.0.3 fornece uma solução definitiva para o erro ao gravar uma pesquisa de satisfação.     |
 | 2122     | Falha no webservice de criação de solicitação de serviço. A versão 8.0.0.3 fornece solução definitiva para a falha apresentada ao tentar cadastrar uma solicitação de serviço via webservice.                      |
 | 2917     | Falha ao realizar upload de anexos pela funcionalidade de solicitação de serviço. A versão 8.0.0.3 fornece solução para realizar upload dos anexos pela funcionalidade de solicitação de serviço.                  |
-| 2777     | Falha intermitente no método que retorna o timezone para gravar registro de data e hora. No componente Neuro. A versão 8.0.0.3 fornece solução definitiva no componente Neuro para gravar registro de data e hora. |
+| 2777     | Falha intermitente no método que retorna o timezone para gravar registro de data e hora. No componente Builder. A versão 8.0.0.3 fornece solução definitiva no componente Builder para gravar registro de data e hora. |
 
 ## Versão 8.0.0.2 (2019/03/20)
 
@@ -811,7 +811,7 @@ Audit: 0.2.0
 |Novo|Auditoria|Reformulamos a auditoria do sistema para aumentar a agilidade e confiabilidade do recurso de pesquisa de auditoria. Para mais informações, veja [Auditoria do Sistema][18]|
 |Novo|Administração da plataforma|Aprimoramos o quesito de segurança da informação, implantado formas de segurança de senhas para usuários internos. Para mais informações, veja [Política de Segurança de Senha][19]|
 |Novo|Mobile|Entregamos um novo aplicativo que de forma robusta permitirá o atendimento a campo de técnicos que momentaneamente estão sem conexão à internet. A experiência de mobilidade vai além com os recursos de assinatura e notas. Para mais informações, veja [Manual de utilização do aplicativo 4biz GO][20]. Ainda no contexto de mobilidade e não menos robusta, aprimoramos o aplicativo Mobile SM, que possui dentre outros usos a capacidade de assinatura, aprovação e notas. Para mais informações, veja [Manual de utilização do aplicativo mobile 4biz Experience][21]|
-|Novo|Neuro|A partir da versão 1.2.3.0 do Neuro é possível criar automaticamente um questionário do 4biz a partir do cadastro de objeto de negócio do Neuro. A ideia dessa inovação é facilitar a extração de respostas de questionários do 4biz e formar relatórios de forma simples com o auxílio do Smart Report.|
+|Novo|Builder|A partir da versão 1.2.3.0 do Builder é possível criar automaticamente um questionário do 4biz a partir do cadastro de objeto de negócio do Builder. A ideia dessa inovação é facilitar a extração de respostas de questionários do 4biz e formar relatórios de forma simples com o auxílio do Smart Report.|
 |Novo|Fluxo|O pacote de fluxos entregues para os processos de Problema, Mudança e Liberação foram simplificados, os produtos foram remodelados para estarem aderentes às possibilidades que o fluxo oferece. __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 continuará funcionando perfeitamente.__ |
 
 

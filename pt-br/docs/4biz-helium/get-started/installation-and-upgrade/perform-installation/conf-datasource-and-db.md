@@ -89,7 +89,7 @@ host citsmart_db citsmartdbuser WILDFLY_IP_ADDRESS/32 md5
 
 ## Configurando o datasource para o citsmart
 
-Existem oito entradas de datasource para o citsmart_db, sendo que quatro são para o 4biz e quatro para o 4biz Neuro. O usuário e senha é citsmartdbuser e SUA_SENHA criados no passo anterior. Caso tenha criado usuário, senha e banco de nomes diferentes, altere nos comandos abaixo.
+Existem oito entradas de datasource para o citsmart_db, sendo que quatro são para o 4biz e quatro para o 4biz Builder. O usuário e senha é citsmartdbuser e SUA_SENHA criados no passo anterior. Caso tenha criado usuário, senha e banco de nomes diferentes, altere nos comandos abaixo.
 
 Conecte no jboss-cli e execute os seguintes comandos:
 
@@ -141,47 +141,47 @@ Conecte no jboss-cli e execute os seguintes comandos:
 /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=idle-timeout-minutes,value=5
 ```
 
-### Datasource citsmart-neuro
+### Datasource citsmart-builder
 
 ```sh
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro":add(jndi-name="java:/env/jdbc/citsmart-neuro",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)#
+/subsystem=datasources/data-source="/env/jdbc/citsmart-builder":add(jndi-name="java:/env/jdbc/citsmart-builder",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)#
 ```
 
-### Datasource citsmart-neuro-app1
+### Datasource citsmart-builder-app1
 
 ```sh
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app1":add(jndi-name="java:/env/jdbc/citsmart-neuro-app1",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/env/jdbc/citsmart-builder-app1":add(jndi-name="java:/env/jdbc/citsmart-builder-app1",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
-### Datasource citsmart-neuro-app2
+### Datasource citsmart-builder-app2
 
 ```sh
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app2":add(jndi-name="java:/env/jdbc/citsmart-neuro-app2",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/env/jdbc/citsmart-builder-app2":add(jndi-name="java:/env/jdbc/citsmart-builder-app2",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
-### Datasource citsmart-neuro-app3
+### Datasource citsmart-builder-app3
 
 ```sh
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app3":add(jndi-name="java:/env/jdbc/citsmart-neuro-app3",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/env/jdbc/citsmart-builder-app3":add(jndi-name="java:/env/jdbc/citsmart-builder-app3",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/citsmart-builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ```
 
 Antes de sair do jboss-cli, execute o comando reload para aplicar as alterações e faça um teste de conexão com a base de dados:
@@ -196,10 +196,10 @@ E faça um teste de conexão com todos os bancos com os comandos abaixo. Lembran
 /subsystem=datasources/data-source="/jdbc/citsmartFluxo":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmart_reports":test-connection-in-pool
 /subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app1":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app2":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app3":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/citsmart-builder":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/citsmart-builder-app1":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/citsmart-builder-app2":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/citsmart-builder-app3":test-connection-in-pool
 ```
 
 ## Próximo passo

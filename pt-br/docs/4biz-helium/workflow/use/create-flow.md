@@ -41,7 +41,7 @@ Procedimento
     !!! Abstract "ATENÇÃO"
 
         A aba “Interface” possibilita escolher qual o modo de interação (formulário
-        padrão, questionário ou formulário neuro) que será aplicado ao serviço.
+        padrão, questionário ou formulário builder) que será aplicado ao serviço.
         Porém, caso não ocorra a vinculação de nenhum template de
         solicitação de serviço nesta aba, o sistema subentenderá e aplicará as
         configurações de um formulário padrão, habilitado a vinculação de item de

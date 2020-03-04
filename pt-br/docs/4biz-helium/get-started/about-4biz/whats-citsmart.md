@@ -57,18 +57,18 @@ A principal mudança introduzida no ano passado foi o foco nos processos de
 negócios para além da TI, ou seja, Corporate Service Management, prova disso é a
 adaptação da declaração de serviço que se tornou Conexão de processos.
 Entregando experiências. Esta decisão foi baseada na capacidade do nosso
-Workflow de se adaptar às várias necessidades do negócio, e no Neuro, permitindo
+Workflow de se adaptar às várias necessidades do negócio, e no Builder, permitindo
 a construção de novas entradas de dados e possibilidades de integração. Também
 criamos no ano de 2018 os produtos CE - Centro de Experiências. Este produto é
 uma iniciativa para criar um construtor de espaço de trabalho digital.
 
-Anuva
+Helper
 -----
 
 A ANUVA também foi iniciada e representa a Inteligência Artificial do 4biz,
 onde promove integração e aprendizado de máquina com conhecimento.
 
-Neuro
+Builder
 -----
 
 O NEURO é um produto 100% pronto e adequado no 4biz, este produto é muito

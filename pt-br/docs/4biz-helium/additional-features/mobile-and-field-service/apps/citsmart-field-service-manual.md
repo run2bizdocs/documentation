@@ -42,7 +42,7 @@ Procedimento
 
     !!! warning "ATENÇÃO"
 
-        Apenas componentes simples do Neuro, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no 4biz                     Experience.
+        Apenas componentes simples do Builder, como os formulários, poderão ser renderizados no Mobile GO. Estes formulários não poderão ter nenhuma lógica de JavaScript vinculada a eles, devem ser similares ao questionário existente no 4biz                     Experience.
 
 
     !!! Abstract "REGRA"
