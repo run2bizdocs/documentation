@@ -37,7 +37,7 @@ Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtua
 
 A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenários diferentes:
 
-## Acesso ao Smart Chat sem configuração de ANUVA - Criação de ticket
+## Acesso ao Smart Chat sem configuração de Helper - Criação de ticket
 
 1. Acesse a tela de Smart Portal ou Centro de Experiência;
 2. Clique no ícone "Falar" no canto inferior da tela para iniciar a conversa;
@@ -51,7 +51,7 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenári
 8. Ambos estando online é possível manter a conversa;
 9. Se um dos interlocutores não estiver online e o parâmetro 447 - estiver configurado, então o sistema envia mensagem informando.
 
-## Acesso ao Smart Chat sem configuração de ANUVA - Criação de ticket por meio de Pesquisa de Atividades
+## Acesso ao Smart Chat sem configuração de Helper - Criação de ticket por meio de Pesquisa de Atividades
 
 1. Acesse a tela de Smart Portal ou Centro de Experiência;
 2. Clique no ícone "Falar" no canto inferior da tela para iniciar a conversa;

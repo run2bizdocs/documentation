@@ -10,8 +10,8 @@ A Helper já se integra nativamente ao 4biz, então é muito fácil adicioná-la
 3. Altere o valor do parâmetro “441 Helper Assistant - Conversation API” para http://[nome-servidor][sigla-idioma].helperassistant.com/webhooks/rest/webhook e clique em “Salvar”
 4. Altere o valor do parâmetro “442 Helper Assistant - Parameters API” para http://[nome-servidor][sigla-idioma].helperassistant.com/conversations/
 5. Configurar o parâmetro 453 "Mensagem default de Fallback da Helper Assistant", com uma mensagem que a Helper irá responder sempre que não possuir resposta para aquela pergunta
-6. Habilitar parâmetro 423 "Habilitar Helper Assistant na área interna do sistema", parâmetro que permite que os analistas tenham iteração com a ANUVA
-7. Habilitar parâmetro 450 "Habilitar Helper Assistant na área externa", parâmetro que permite que os usuários finais tenham iteração com ANUVA.    
+6. Habilitar parâmetro 423 "Habilitar Helper Assistant na área interna do sistema", parâmetro que permite que os analistas tenham iteração com o Helper
+7. Habilitar parâmetro 450 "Habilitar Helper Assistant na área externa", parâmetro que permite que os usuários finais tenham iteração com o Helper.    
 
 
 !!! note "NOTA"

@@ -164,7 +164,7 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 |Meus serviços | Solicitações| Permite abrir um ticket pelo Centro de Experiência|
 |Meus tickets | Solicitações| Permite visualizar a listagem de tickets abertos pelo usuário logado|
 ||||
-|Simple | Simple-Gestão Ágil | Permite visualizar worksplaces da funcionalidade Simple |
+|Tasker | Tasker-Gestão Ágil | Permite visualizar worksplaces da funcionalidade |
 ||||
 |Smart Chat | Comunicação | Permite inserir logo para este submenu |
 |Ligue | Comunicação | Permite inserir logo para este submenu |

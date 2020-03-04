@@ -34,7 +34,7 @@ Exemplo:
     ```
     
 
-!!! success "USUÁRIO NEURO"
+!!! success "USUÁRIO Builder"
     Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Builder contenha no campo login o atributo de identificação do domínio, ou seja, "citsmart.local" (ex. O usuário "Builder" deverá ter no campo login a seguinte informação  "citsmart.local\builder.user").
 
 

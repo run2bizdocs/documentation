@@ -29,7 +29,7 @@ Uma pesquisa das **interfaces desejadas** e, se o Builder for a opção de usar 
 
 Depois de Desenhar a Aplicação reunindo as informações referentes às entidades de dados de sua Aplicação Builder, você irá:
 
-1.  Criar sua BASE DE DADOS DE CONEXÃO e sua entrada APLICAÇÃO NEURO;
+1.  Criar sua BASE DE DADOS DE CONEXÃO e sua entrada APLICAÇÃO Builder;
 
 2.  Verificar se você vai usar qualquer DOMÍNIO comum para sua instalação e criar um se necessário;
 

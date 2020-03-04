@@ -2,7 +2,7 @@ Title: Comparativo de versões
 
 # Comparativo de versões
 
-| Suporte, Gestão de Processos, Recursos, Integrações e Segurança    |    4biz Platform 7    |    4biz Helium    |
+| Suporte, Gestão de Processos, Recursos, Integrações e Segurança    |    4biz Platform      |    4biz Helium    |
 |---------------------------------------------------|--------------------|--------------------|
 |    Aplicação Web                                |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    iPhone app                                     |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -28,7 +28,7 @@ Title: Comparativo de versões
 |    Gerenciamento de Capacidade                           |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Gerenciamento de Demanda                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    **Recursos**                                       |    **4biz Platform 7**    |    **4biz Helium**    |
-|    [Simple - Agile Project Management][6]          |:no_entry_sign:|:new:           |
+|    [Tasker - Agile Project Management][6]          |:no_entry_sign:|:new:           |
 |    Gerenciamento de Tarefas com Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Centro de Experiência][7]               |:no_entry_sign:|:new:           |
 |    [Alertas/Escalonamento][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
@@ -86,8 +86,8 @@ O Gerenciamento de Ativos e Configuração, no que tange ao CMDB houve uma refor
 ### Gerenciamento de Ticket
 Nesta nova atualização o Gerenciamento de Ticket, além das tarefas já realizáveis na versão anterior, adquiriu um novo layout no cadastro de um serviço, com novos grupos de funcionalidades, trazendo para o usuário maior agilidade.
 
-### Gestão de Projeto Ágil - Simple
-A nova ferramenta orientadora de tarefas do 4biz traz uma ideia de simplificar em um só lugar todo o ciclo de vida de uma tarefa/atendimento. Como o próprio nome diz, o Simple busca agilizar mais ainda o cotidiano de uma organização, com maior e melhor visualização de um processo e controle dos envolvidos.
+### Gestão de Projeto Ágil - Tasker
+A nova ferramenta orientadora de tarefas do 4biz traz uma ideia de simplificar em um só lugar todo o ciclo de vida de uma tarefa/atendimento. Busca agilizar mais ainda o cotidiano de uma organização, com maior e melhor visualização de um processo e controle dos envolvidos.
 
 ### Centro de Experiência com o Usuário
 Nesta versão, a 4biz inova ao disponibilizar ao usuário a possibilidade de personalizar, com as características próprias de sua organização, um portal com as informações necessárias ao bom funcionamento da empresa. Isto é feito de forma simples e acessível, permitindo ao cliente uma maior autonomia dentro do sistema.

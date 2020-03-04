@@ -116,10 +116,10 @@ O aprimoramento do cadastro de ocorrência permite que o solicitante ou técnico
 
 Para mais informações, veja [Cadastrar ocorrência em Ticket][14]
 
-### Simple - Gestão Ágil e a vista
+### Tasker - Gestão Ágil e a vista
 
-O Simple foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta.
-De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Simple permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista.
+O Tasker foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta.
+De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Tasker permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista.
 
 Para mais informações, veja [Simple][15]
 
