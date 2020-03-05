@@ -23,8 +23,8 @@ Relacionado
 
 [Armazenar imagens na galeria](/pt-br/4biz-helium/processes/knowledge/configuration/store-images-gallery.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
-
+<!-- <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)
+-->
 !!! tip "About"
     <b>Product/Verssion:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/16/2019 – Anna Martins 

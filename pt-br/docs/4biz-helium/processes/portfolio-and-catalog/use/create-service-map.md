@@ -25,7 +25,7 @@ Relacionado
 
 [Cadastrar um Serviço](https://docs.run2biz.com/pt-br/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
+  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 

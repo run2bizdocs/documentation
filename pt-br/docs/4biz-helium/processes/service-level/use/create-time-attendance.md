@@ -74,8 +74,8 @@ Relacionado
 [Criar regra de escalonamento](/pt-br/4biz-helium/processes/tickets/use/create-escalation-rule.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROiBpoLlvJGu-Lsyzs6OYm-)'
-
+<!-- <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROiBpoLlvJGu-Lsyzs6OYm-)'
+-->
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
