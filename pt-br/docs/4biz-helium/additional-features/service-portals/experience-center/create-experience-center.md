@@ -183,8 +183,8 @@ Esta estrutura permite a criação de um centro de experiência utilizando somen
 [Criar conhecimento](/pt-br/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)
-
+<!-- <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwkqhQwYU_EpvvGd29tSTA)
+-->
 About
 Product/Version: CTISmart | 8.0.2.0 Updated: 25/09/2019 – Brunno Roosevelt Sturm Dias
 

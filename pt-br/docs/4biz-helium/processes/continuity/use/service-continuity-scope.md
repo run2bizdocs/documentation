@@ -65,8 +65,8 @@ Relacionados
 
 [Cadastrar ação automática de incidentes/requisições/procedimentos](/pt-br/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
-
+<!-- <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPHLLyCQ9CqOeIt08azAa6k)'
+-->
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;

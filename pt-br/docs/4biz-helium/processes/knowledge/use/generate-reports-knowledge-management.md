@@ -58,8 +58,8 @@ cadastro e/ou alterações de conhecimentos na base de conhecimentos.
 2.  Definir os filtros conforme a necessidade.
 
 
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
-
+<!-- <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMbaWr-pRsc9bsaVnc_xTzd)'
+-->
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
