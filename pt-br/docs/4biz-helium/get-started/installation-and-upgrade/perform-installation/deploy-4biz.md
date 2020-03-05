@@ -4,11 +4,11 @@ Title: Realizando o deploy do 4biz
 
 Faça o download do pacote WAR do 4biz e do Builder no portal do parceiro. Envie para o servidor utilizando scp para pasta /tmp. A instalação do 4biz consiste nos seguintes passsos:
 
-1. Fazer o deploy do pacote 4biz Workflow
+1. Fazer o deploy do pacote 4biz Tracker
 2. Fazer o deploy do pacote Builder
-3. Realizar a configuração inicial do 4biz Workflow
+3. Realizar a configuração inicial do 4biz Tracker
 
-Descomprima o pacote do 4biz Workflow caso esrteja no formato .zip:
+Descomprima o pacote do 4biz Tracker caso esrteja no formato .zip:
 
 ``` shell
 [root@server /tmp]# unzip CitsmartITSM-Enterprise-8.0.2.0.war.zip

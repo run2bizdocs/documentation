@@ -4,7 +4,7 @@ Os Gateways são elementos responsáveis por controlar iterações do fluxo cria
 
 ## O que preciso para começar?
 
-Para começar a utilizar os Gateways é necessário saber qual tipo de gateway você precisa usar, para saber melhor sobre os gateways é possível visualizar em – [Conceitos Básicos](https://docs.citsmart.com/pt-br/4biz-helium/workflow/basic-concepts.html)
+Para começar a utilizar os Gateways é necessário saber qual tipo de gateway você precisa usar, para saber melhor sobre os gateways é possível visualizar em – [Conceitos Básicos](https://docs.citsmart.com/pt-br/4biz-helium/tracke/basic-concepts.html)
 
 Após escolhido qual o melhor gateway para utilizar em seu fluxo aprenda a seguir como complementar seu fluxo com os Gateways;
 
@@ -27,4 +27,4 @@ Caso seu fluxo esteja sendo feito siga os passos, mas se estiver precisando edit
 Para ter um contato maior com o usuário que abriu o chamado ou até mesmo manter informado outros grupos ou usuário, utilize notificações (e-mail) para intensificar essa interação do fluxo com o usuário.
 
 ## Relacionado
-[Adicionar Notificação](https://docs.citsmart.com/pt-br/4biz-helium/workflow/add-notification.html)
+[Adicionar Notificação](https://docs.citsmart.com/pt-br/4biz-helium/tracke/add-notification.html)

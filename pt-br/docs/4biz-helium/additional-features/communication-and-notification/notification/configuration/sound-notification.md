@@ -21,7 +21,7 @@ Este recurso permitir a configuração de um alarme sonoro para sinalizar ao ate
 
 ### Inserir o elemento "Notificação" no fluxo
 
-1. Acessar o menu principal Workflow > Desenho de Fluxo;
+1. Acessar o menu principal Tracker > Desenho de Fluxo;
 2. Selecionar e editar o fluxo desejado;
 3. Na aba "Diagrama", clicar no item "Extensões", clicar e segurar o item "Notificação" e arrastar para a área de Desenho;
 4. Clicar duas vezes sobre o ícone "Notificação", e logo após na aba "Configuração";
@@ -49,4 +49,4 @@ Pronto, a partir de agora será possível identificar novos atendimentos pela no
 
 [1]:/pt-br/4biz-helium/additional-features/communication-and-notification/notification/configuration/template-create.html
 
-[2]:/pt-br/4biz-helium/workflow/use/create-flow.html
+[2]:/pt-br/4biz-helium/tracker/use/create-flow.html

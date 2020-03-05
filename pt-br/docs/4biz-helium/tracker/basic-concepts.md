@@ -82,7 +82,7 @@ A aba de **Fluxo de Integração** dentro do fluxo padrão tem como funcionalida
 Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Vejo nossa documentação, ela vai te ajudar nessa jornada.
 
 ## Relacionado
-[Organizar Fluxo com Pool e Swimlanes](https://docs.citsmart.com/pt-br/4biz-helium/workflow/use/pool-swimlanes.html)
+[Organizar Fluxo com Pool e Swimlanes](https://docs.citsmart.com/pt-br/4biz-helium/tracke/use/pool-swimlanes.html)
 
 [1]:images/1.png
 [2]:images/2.png
