@@ -41,7 +41,7 @@ Procedimento
     os itens listado.
     
    
-![APP NEURO](images/builder-4.png)
+![APP Builder](images/builder-4.png)
 
 Figura 1 - Aplicação Builder
 

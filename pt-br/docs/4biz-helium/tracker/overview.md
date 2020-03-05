@@ -107,7 +107,7 @@ Na aba Documentação você poderá gerar um documento com todas as informaçõe
 Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negócio e nos atores envolvidos. Vejo nossa documentação, ela vai te ajudar nessa jornada.
 
 ## Relacionado
-[Conceitos básicos](https://docs.citsmart.com/pt-br/4biz-helium/workflow/basic-concepts.html)
+[Conceitos básicos][7]
 
 [1]:images/workflow-menu-citsmart.png
 [2]:images/workflow-management-citsmart.png
@@ -115,3 +115,4 @@ Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negóci
 [4]:images/second-button-citsmart.png
 [5]:images/flow-data-citsmart.png
 [6]:images/diagram-citsmart.png
+[7]:/pt-br/4biz-helium/workflow/basic-concepts.html

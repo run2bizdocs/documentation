@@ -1,18 +1,18 @@
-Title: Gerenciamento ágil Simple
+Title: Gerenciamento ágil Tasker
 
-# Gerenciamento ágil Simple
+# Gerenciamento ágil Tasker
 
 
-O 4biz Simple é uma funcionalidade da plataforma 4biz que permite o
+O 4biz Tasker é uma funcionalidade da plataforma 4biz que permite o
 gerenciamento fácil e ágil de atividades. Foi criado para gerenciar os projetos
 da maneira mais simples, com recursos para organizar, monitorar e delegar as
 atividades entre os membros de sua equipe ou individualmente.
 
-O Simple é baseado na metodologia Kanban, onde os mesmos são organizados
+O Tasker é baseado na metodologia Kanban, onde os mesmos são organizados
 visualmente em um quadro disposto de cartões que sinalizam o andamento do fluxo.
 
-Na área de trabalho do Simple as atividades são inseridas e agrupadas por
-projetos (no Simple chamados de Workspaces), painel de tarefas (no Simple
+Na área de trabalho do Tasker as atividades são inseridas e agrupadas por
+projetos (no Simple chamados de Workspaces), painel de tarefas (no Tasker
 chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
 
@@ -27,11 +27,11 @@ Procedimento
 ### Criar um Workspace
 
 1.  Acessar a funcionalidade através do menu principal Gestão Integrada \>
-    Simple – Gestão Ágil;
+    Tasker – Gestão Ágil;
 
 2.  Clicar no botão “Workspace” e colocar nome para criar um novo;
 
-    ![tela workspace](images/figure-01-simple.png) 
+    ![tela workspace](images/figure-01-tasker.png) 
    
      Figura 1 - Tela Workspace
     
@@ -178,9 +178,9 @@ Procedimento
     Para movimentar uma **tarefa** de uma lista para outra, clicar e arrastar a
     mesma para a lista desejada.
 
-### Preencher cartão Simple
+### Preencher cartão
 
-O cartão Simple contém campos e botões para descrever uma tarefa/ação com
+O cartão contém campos e botões para descrever uma tarefa/ação com
 planejamento e controle de datas, horários, checklist e diversos outros
 dispositivos de controle e gestão.
 

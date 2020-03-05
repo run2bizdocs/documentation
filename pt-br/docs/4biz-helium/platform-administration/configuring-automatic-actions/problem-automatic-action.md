@@ -42,7 +42,7 @@ Relacionado
 
 [Cadastrar uma unidade](/pt-br/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Criar um fluxo de trabalho](/pt-br/4biz-helium/workflow/use/create-flow.html)
+[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracker/use/create-flow.html)
 
 !!! tip "About"
 

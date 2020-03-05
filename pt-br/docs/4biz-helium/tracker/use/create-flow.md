@@ -8,7 +8,7 @@ Description: É possível criar fluxos de trabalho que melhor se adequam a reali
 Procedimento
 ------------
 
-1.  Acessar o menu principal Workflow > Desenho de fluxo;
+1.  Acessar o menu principal Tracker > Desenho de fluxo;
 
 2.  Clicar no botão “Novo";
 
@@ -67,4 +67,4 @@ Relacionado
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[2]:/pt-br/4biz-helium/workflow/configuration/expressions-creator.html
+[2]:/pt-br/4biz-helium/tracke/configuration/expressions-creator.html

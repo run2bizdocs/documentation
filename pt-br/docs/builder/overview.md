@@ -1,6 +1,6 @@
 title: Visão geral  
 
-description: conecta dados, soluções e pessoas, capacitando departamentos e empresas. é uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O NEURO também é CODELESS!  
+description: conecta dados, soluções e pessoas, capacitando departamentos e empresas. é uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O Builder também é CODELESS!  
 
 # Builder
 
@@ -11,7 +11,7 @@ Builder é um produto 100% pronto e adequado no 4biz, este produto é muito pode
 Entendemos que os conceitos de Service Management são muito poderosos e podem ir além da TI, permitindo ganhos interessantes para as unidades de negócio. 
 Builder é executado com o conceito de Dynamic Application & Hot Deploy, onde não há necessidade de reiniciar o servidor ou sistema em qualquer implantação.
  
-O 4biz Builder conecta dados, soluções e pessoas, capacitando departamentos e empresas. É uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O NEURO também é CODELESS!
+O 4biz Builder conecta dados, soluções e pessoas, capacitando departamentos e empresas. É uma plataforma de automação de processos de negócios ágil e descomplicada. Ele permite personalização e integração rápida com outros aplicativos, sejam eles legados ou desenvolvidos internamente. O Builder também é CODELESS!
 
 Com o Builder, podemos criar fluxos de trabalho automatizados em minutos, eliminando erros devido a entradas manuais durante a operação em um ambiente seguro.  
 

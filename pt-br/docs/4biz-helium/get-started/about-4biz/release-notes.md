@@ -19,8 +19,8 @@ Bem-vindos ao Citsmart Versão 8.0.6. Esta versão apresenta os seguintes itens:
 |6400|Melhoria|CMDB|Vincular Visualização de Mapa de CMDB na Mudança|
 |6436|Corretiva|Gerenciamento de Mudança|Erro em Requisição de Mudança ao gerar um "Relatório Registro de Execução"|
 |6439|Corretiva|Sistema|Ao limpar parâmetros do tipo número o valor não está sendo persistido no BD|
-|6609|Melhoria|Omnichannel|Upload de arquivos no ticket via no SmartChat para Helper|
-|6612|Melhoria|Omnichannel|Apresentação de menu carrossel no Smartchat para Helper|
+|6609|Melhoria|Omnichannel|Upload de arquivos no ticket via no SmartChat para o Helper|
+|6612|Melhoria|Omnichannel|Apresentação de menu carrossel no Smartchat para o Helper|
 |6614|Melhoria|WebServices|Validação de Webservices 4biz implementados para assistente virtual|
 |6622|Melhoria|CMDB|Paginar a listagem de IC's na tela inicial do CMDB|
 |6649|Corretiva|Gerenciamento de Mudança|Erro de tradução na tela de Análise de Risco e Impacto em Requisição de Mudança|
@@ -62,7 +62,7 @@ Bem-vindos ao Citsmart Versão 8.0.5.4. Esta versão apresenta as seguintes melh
 |Corretiva|Corretiva/Melhoria/Nova|Funcionalidade|Descrição|
 |--------|---------|---------|---------|
 |Ticket 3599|Corretiva|Gerência de Ticket|Ao reabrir um Ticket via Smart Portal poderá adicionar Nota no mesmo.|
-|Ticket 3551|Melhoria|Gerência de Ticket/Workflow|Criado chave de e-mail para enviar data e hora da última execução no fluxo.|
+|Ticket 3551|Melhoria|Gerência de Ticket/Tracker|Criado chave de e-mail para enviar data e hora da última execução no fluxo.|
 
 ## Versão 8.0.5.3 (2020/02/27)
 Bem-vindos ao Citsmart Versão 8.0.5.3. Esta versão apresenta as seguintes melhorias:
@@ -274,7 +274,7 @@ Bem-vindos ao 4biz Versão 8.0.3.0. Esta versão apresenta as seguintes correç�
 |5305|A ferramenta deverá permitir a associação ou a definição, de forma automática, do SLA apropriado, baseando-se em métodos pré-definidos.|
 |5309|Deverá permitir o gerenciamento de múltiplas mudanças encadeadas|
 |5326|Remoção da funcionalidade de Template de Mudança|
-|5373|Criar webservices nativos no CITSMART WORKFLOW|
+|5373|Criar webservices nativos no Run2biz TRACKER|
 |5544|Integração do Facebook Messenger com Smartchat|
 |5557|Implementando portfolio de conhecimento|
 |5592|Adicionando as informações de titulo, descrição, efeito de não implementação, comite consultivo e das abas de 'planejamento' e 'plano de reversão' no Modelo de Mudança|
@@ -290,13 +290,13 @@ Bem-vindos ao 4biz Versão 8.0.3.0. Esta versão apresenta as seguintes correç�
 |5925|Correção de erro na tela de Requisição de Mudança|
 |5926|Inserindo mensagem de alerta ao clicar na opção de criar mudança|
 |5958|Correção de erro no SLA que não está sendo possível vincular em um Serviço no portfólio - "Erro ao executar o localizar...."|
-|5959|Criar possibilidade de envio das mensagens para helper|
+|5959|Criar possibilidade de envio das mensagens para o Helper|
 |5962|Correções da integração com Twitter|
 |5969|Erro ao tentar criar um ticket quando a mensagem de falback contem aspas ''.|
 |5981|Permitindo registrar solicitações de serviço sem localidade.|
 |5982|[2466] - Erro ao Inativar um questionário com vínculo ref. a apresentação da popup|
 |5983|Retirar do menu principal do sistema o acesso à nova funcionalidade de configuração de omnichannel|
-|6042|Retirar do menu principal do sistema o acesso à nova funcionalidade de Portfólio de Conhecimento [Simple 5557]|
+|6042|Retirar do menu principal do sistema o acesso à nova funcionalidade de Portfólio de Conhecimento [card 5557]|
 |6049|Campo grupo obrigatório na delegação de liberação|
 |6051|Erro tela de cadastro de Ações Automáticas de Mudança|
 |6053|Falha ao iniciar uma conversa pelo chat, o mesmo não esta sendo possível realizar troca de mensagens ou seja as mensagens nao esta sendo entregues!|
@@ -319,7 +319,7 @@ Bem-vindos ao 4biz Versão 8.0.2.0. Esta versão apresenta as seguintes correç�
 |5408|Integração de "Widget de Serviços" com "Conhecimentos" no Centro de Experiência.|
 |5409|Tela de tickets do usuário final no Centro de Experiência.|
 |5492|Área de configuração do "Widget Meus Tickets".|
-|5569|[ITSM 1652] – Falha no Simple de Problema, Mudança e Liberação quando se cria uma Workspace, as Sprints se sobrescrevem.|
+|5569|[ITSM 1652] – Falha no Tasker de Problema, Mudança e Liberação quando se cria uma Workspace, as Sprints se sobrescrevem.|
 |5487|[Ticket] -  Ticket está sendo duplicado ao reabrir solicitação na visualização do filtro de tickets fechados.|
 |5362|[Ticket] - Histórico do ticket apresentando comentário desconfigurado.|
 |5493|[Mudança] - Correções de tradução de texto no processo de Mudança.|
@@ -380,7 +380,7 @@ Bem-vindos ao 4biz Versão 8.0.1.7. Esta versão apresenta as seguintes correç�
 
 |Item|Descricão|
 |--------|---------|
-|5569|[ITSM 1652] – Falha no Simple de Problema, Mudança e Liberação quando se cria uma Workspace, as Sprints se sobrescrevem.|
+|5569|[ITSM 1652] – Falha no Tasker de Problema, Mudança e Liberação quando se cria uma Workspace, as Sprints se sobrescrevem.|
 
 ## Versão 8.0.1.6 (2019/09/11)
 
@@ -466,9 +466,9 @@ Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes corr
 |4748 |Correção na internacionalização de relatórios.|
 |4742 |Correção na instalação de desenhos de fluxos.|
 |3637 |[ITSM 9752] - Sistema não carrega gráficos em Gerência de Disponibilidade.|
-|4729 |[MY-804] - Falha ao acessar o Simple no aplicativo Mobile 4biz Experience.|
+|4729 |[MY-804] - Falha ao acessar o Tasker no aplicativo Mobile 4biz Experience.|
 |4836 |Erro nas expressões ao importar fluxo.|
-|4674 |Verificar o checklist do Simple que não contabiliza os completos|
+|4674 |Verificar o checklist do Tasker que não contabiliza os completos|
 |4585|[Perfil Acesso - Oracle] [Base Limpa]: Erro ao clicar no botão salvar no cadastro de Perfil de Acesso.|
 |4523|Parametrizar a página de redirecionamento após salvar o Ticket no Centro de Experiência.|
 |4756|Corrigir comportamento de redirecionamento da tela de criação de conhecimento.|
@@ -489,10 +489,10 @@ Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes corr
 |4543|[Chat - Ticket] - Verificar a possibilidade de conseguir abrir a tela de execução de Ticket através da janela de conversa do chat.|
 |4315|Verificar a possibilidade de retirar das janelas de chat a informação “Como posso de ajudar” no momento que o atendimento já se iniciou.|
 |4572|Ao mover um item de uma Sprint para outra no Simple, este é movido para uma lista arquivada.|
-|4533|[Chat] - Problemas ao interagir com a Helper.|
+|4533|[Chat] - Problemas ao interagir com o Helper.|
 |4535|[Chat] - Alterar a label “Solicitação” para “Ticket” que apresentada dentro do chat.|
 |4532|Trocar frases apresentada na pop-up do chat.|
-|4587|Erro no Simple ao cadastrar uma nova Sprint - com usuários.|
+|4587|Erro no Tasker ao cadastrar uma nova Sprint - com usuários.|
 |3868|Verificar quebra de layout com “problema” com título extenso.|
 |4595|[Portfólio]: Erro ao tentar salvar o cadastro de um novo serviço.|
 |4529|[Tempo Atendimento]: Tempo de atendimento do tipo “cliente” não apresentando o valor do SLA correto.|
@@ -525,7 +525,7 @@ A partir da versão 8.0.1.2 foi inserido o parâmetro “454 - Exibir a aba de c
 
 ## Versão 8.0.1.1 (2019/07/15)
 
-Bem-vindos ao Citsmart Versão 8.0.1.1. Esta versão apresenta as seguintes correções.
+Bem-vindos ao 4biz - Helium Versão 8.0.1.1. Esta versão apresenta as seguintes correções.
 
 |Problema|Descricão|
 |--------|---------|
@@ -544,7 +544,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.0. A versão 8.0.1.0 do Citsmart apresenta 
 
 |Melhoria|Descricão|
 |--------|---------|
-|3717|Otimização de Chat, ANUVA e Troca de Mensagens – Todo o sistema de troca de mensagens foi integrado ao Chat, logo canais como Mensageria a partir dessa versão, promove um diálogo mais iterativo entre solicitante e atendente.|
+|3717|Otimização de Chat, Helper e Troca de Mensagens – Todo o sistema de troca de mensagens foi integrado ao Chat, logo canais como Mensageria a partir dessa versão, promove um diálogo mais iterativo entre solicitante e atendente.|
 |3467|Melhoria na interface de atendimento de ticket - 1. A partir dessa versão o usuário poderá dimensionar a interface de atendimento visualmente de forma que melhor o atenda. 2. A interface ficou maior dando visibilidade às informações do ticket, os menus estão em uma aba que se torna visível somente quando o atendente necessita de outros recursos. 3. Os comentários ganharam uma sessão própria onde se permite Pesquisa de Conteúdo, Edição, Exclusão e Resposta entre atendente e solicitante e entre atendentes, pois, foi mantida a função de conversas públicas e privadas.|
 |3127|Centro de Experiência - Widget de Simple. Os recursos dessa importante ferramenta de gestão a partir dessa versão estará disponível no Centro de Experiência, facilitando o trabalho das equipes que tratam suas atividades por meio dela.|
 |1516|Incluiu-se a possibilidade de filtrar por período de estimativa de uma Workspace e Sprint.|
@@ -552,20 +552,20 @@ Bem-vindos ao Citsmart Versão 8.0.1.0. A versão 8.0.1.0 do Citsmart apresenta 
 |3491|Nas notificações de um ticket incluímos a possibilidade de possuir um alarme sonoro que alerte o atendente da chegada de um novo ticket à fila de atendimento.|
 |3875|A opção de reclassificar passa a ser parametrizada através de cadastro de grupos, dessa forma a funcionalidade contida em ticket poderá ou não estar disponível conforme permissão em grupo.|
 |4211|Na tela de ticket o campo e-mail recebeu um auto complete para facilitar a busca de e-mails de usuários.|
-|2584|Simple - O administrador das sprints poderá atribuir à um usuário específico acessos de gerenciador de uma Sprint.|
-|2134|Simple - Restrição para editar o perfil de acesso de Administrador.|
+|2584|Tasker - O administrador das sprints poderá atribuir à um usuário específico acessos de gerenciador de uma Sprint.|
+|2134|Tasker - Restrição para editar o perfil de acesso de Administrador.|
 |837|Simple –  Apresentação do quantitativo de tarefas por lista na Sprint|
 |1265|Parâmetro para ativar/desativar envio de anexos em notificações de e-mail|
 |3718|Ticket – Incremento da opção de filtragem por Data da última Atualização nos itens de pesquisa.|
-|2588|Simple – Pesquisa por parte dos títulos das workspaces, sprints e tarefas.|
+|2588|Tasker – Pesquisa por parte dos títulos das workspaces, sprints e tarefas.|
 |2711|Apresentação das notificações não lidas em primeiro plano.|
 |474|Cadastro de Contrato - Permitir múltipla seleção de Unidades.|
-|2585|Simple - Opção de ordenar Workspace e Sprint.|
+|2585|Tasker - Opção de ordenar Workspace e Sprint.|
 |3462|Integração do Citsmart com OKTA|
-|1498|Simple -  Apresentação do número da tarefa na edição de uma atividade.|
-|3070|Simple – Filtro por nome de colaboradores e nome de TAG.|
+|1498|Tasker -  Apresentação do número da tarefa na edição de uma atividade.|
+|3070|Tasker – Filtro por nome de colaboradores e nome de TAG.|
 |3911|Smart Portal - Após registro de ticket direcionar o usuário para "My Requests".|
-|2615|Simple – Busca por itens não selecionados.|
+|2615|Tasker – Busca por itens não selecionados.|
 
 ## Versão 8.0.0.10 (2019/06/07)
 
@@ -630,7 +630,7 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 3500       | Padronizar ícones e adicionar hints                                                                                                                                                                                                                             | Melhoria  |
 | 1557       | Verificar que não está sendo possível selecionar um modelo de mudança na tela de template                                                                                                                                                                       | Corretiva |
 | 3689       | Verificar que não está sendo possivel acessar o simple                                                                                                                                                                                                          | Corretiva |
-| 3517       | Ajustes de internacionalização no 4biz Workflow                                                                                                                                                                                                             | Corretiva |
+| 3517       | Ajustes de internacionalização no 4biz Tracker                                                                                                                                                                                                             | Corretiva |
 | 3611       | Após instalação do sistema não esta sendo possível acessar o toolbarHeader                                                                                                                                                                                      | Corretiva |
 | 3668       | Não estão sendo exibidos as aplicações do Acesso rápido nas telas antigas                                                                                                                                                                                       | Corretiva |
 | 3624       | [ITSM 9623] - Ao reclassificar um ticket o mesmo esta apresentando a seguinte mensagem: Key must not be null or empty.                                                                                                                                          | Corretiva |
@@ -653,7 +653,7 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 3479       | Erro ao logar no sistema                                                                                                                                                                                                                                        | Corretiva |
 | 3596       | Sistema não esta exibindo iframe. Spring boot : X-Frame-Options set to deny                                                                                                                                                                                     | Corretiva |
 | 3463       | Alterar a label "Start" no breadcrumb para "Portal"                                                                                                                                                                                                             | Melhoria  |
-| 3559       | Corretivas na última versão do Simple                                                                                                                                                                                                                           | Corretiva |
+| 3559       | Corretivas na última versão do Tasker                                                                                                                                                                                                                           | Corretiva |
 | 3378       | A função initialize não está retornando.                                                                                                                                                                                                                        | Corretiva |
 | 3447       | Na tela de pesquisa avançada não exibe mensagem de sessão expirada                                                                                                                                                                                              | Corretiva |
 | 3473       | Adicionar autocomplete no campo "email do contato"                                                                                                                                                                                                              | Corretiva |
@@ -734,7 +734,7 @@ Se atentem para o cenário descrito:
     2.  Uma vez tentado gravar o erro conhecido, o sistema não identifica a
         pasta e emite a mensagem;
 
-    3.  Nesses casos, procure o Suporte Citsmart para realizar a adequação desse
+    3.  Nesses casos, procure o Suporte  para realizar a adequação desse
         cadastro;
 
     4.  Faça a configuração da pasta para gravação de erro conhecido na tela de
@@ -805,7 +805,7 @@ Audit: 0.2.0
 |Melhoria|Gerência de Ticket|Na versão 8.0.0.0 do 4biz incluímos a aprovação de tickets através de novo ícone direto na lista de atendimento, não será necessário abrir o ticket para realizar o atendimento, apresentamos as informações disponíveis e as opções configuradas para aceite ou recusa do chamado. Essa funcionalidade está disponível no Mobile SM e no Portal de Serviços. Para mais informações, veja [Aprovar um ticket][12]|
 |Melhoria|Gerência de Ticket|Permitimos que a função de atualização automática da lista de ticket seja habilitada para atualizar a lista automaticamente de tempos em tempos. Para mais informações, veja [Atualização Automática da Lista de Ticket][13]|
 |Melhoria|Gerência de Ticket|O aprimoramento do cadastro de ocorrência permite que o solicitante ou técnico seja notificado via e-mail. Além da permissão de incluir tempo de execução da atividade e manter o sigilo da informação cadastrada, para que somente os técnicos permitidos a vejam. Para mais informações, veja [Cadastrar ocorrência em Ticket][14]|
-|Novo|Gestão Integrada|O Simple foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta. De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Simple permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista. Para mais informações, veja [Simple][15]|
+|Novo|Gestão Integrada|O Tasker foi criado com o intuito de trazer o conceito de gestão ágil à ferramenta. De forma independente ou aglutinada em uma das soluções de Problema, Mudança e Liberação, o Tasker permite reutilização de Sprints, compartilhamento de recursos, envio de atividades à outras Sprints e gestão à vista. Para mais informações, veja [Simple][15]|
 |Novo|Centro de Experiência|Proporcionamos uma área específica para melhorar a experiência de uso. Nessa área será permitido a apresentação de serviços, informações, relatórios que mais se aproximam com o uso do dia a dia do cliente. Para mais informações, veja [Centro de Experiência][16]|
 |Novo|Smart analytics|A partir da versão 8.0.0.0 disponibilizamos alguns relatórios quantitativos dos principais processos contidos no 4biz através de nossa nova plataforma BI. Para mais informações, veja [Business Intelligence][17]|
 |Novo|Auditoria|Reformulamos a auditoria do sistema para aumentar a agilidade e confiabilidade do recurso de pesquisa de auditoria. Para mais informações, veja [Auditoria do Sistema][18]|
@@ -835,5 +835,5 @@ Audit: 0.2.0
 [17]:/pt-br/4biz-helium/additional-features/smart-analytics/use-bi-solution.html
 [18]:/pt-br/4biz-helium/platform-administration/logs-and-auditing/system-audit.html
 [19]:/pt-br/4biz-helium/platform-administration/security/implement-password-security-rules.html
-[20]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
+[20]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
 [21]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html

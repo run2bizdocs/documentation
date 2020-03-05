@@ -55,7 +55,7 @@ Relacionado
 
 [Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Criar um fluxo de trabalho](/pt-br/4biz-helium/workflow/use/create-flow.html)
+[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracke/use/create-flow.html)
 
 [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 

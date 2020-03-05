@@ -1,7 +1,7 @@
-Title: Monitorar interações da Helper
-# Monitorar interações da Helper
+Title: Monitorar interações do Helper
+# Monitorar interações do Helper
 
-Uma vez treinada, é preciso monitorar as interações da Helper com os usuários para garantir que ela está sendo efetiva no atendimento 
+Uma vez treinada, é preciso monitorar as interações do Helper com os usuários para garantir que ela está sendo efetiva no atendimento 
 às solicitações.
 
 Essas interações podem ser visualizadas no Menu Analytics. Além de exibir os diálogos de Helper com os usuários, neste menu é possível 
@@ -19,7 +19,7 @@ Procedimento
 
 !!! Abstract "NOTA"
 
-    Ao acessar a listagem de conversas, clicar sobre cada frase do diálogo para visualizar a % de acurácia com que a Helper
+    Ao acessar a listagem de conversas, clicar sobre cada frase do diálogo para visualizar a % de acurácia com que o Helper
     entendeu o interesse do usuário. Acurácias inferiores a 20% fazem com que Helper utilize a habilidade de fallback.
     
     

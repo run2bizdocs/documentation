@@ -71,7 +71,7 @@ onde promove integração e aprendizado de máquina com conhecimento.
 Builder
 -----
 
-O NEURO é um produto 100% pronto e adequado no 4biz, este produto é muito
+O Builder é um produto 100% pronto e adequado no 4biz, este produto é muito
 poderoso e permite construir novas funcionalidades, aplicações e integrações. É
 muito próximo dos produtos RPA (automação de processos de robótica), mas traz
 diferentes possibilidades, como a integração natural com a estrutura de Service

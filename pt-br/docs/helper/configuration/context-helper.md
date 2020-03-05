@@ -1,9 +1,9 @@
-Title: Criar contextos para Helper
-# Criar contextos para Helper
+Title: Criar contextos para o Helper
+# Criar contextos para o Helper
 
 Os diálogos estão imersos em contextos. Palavras iguais podem ter significados distintos a depender do contexto no qual estão inseridas.
 Para aumentar a acurácia em situações de homônimos e evitar a repetição de frases por conta de sinônimos, é possível cadastrar uma base
-de contexto para que a Helper faça a distinção de homônimos e a correlação entre sinônimos.
+de contexto para que o Helper faça a distinção de homônimos e a correlação entre sinônimos.
 
 Procedimento
 -----------

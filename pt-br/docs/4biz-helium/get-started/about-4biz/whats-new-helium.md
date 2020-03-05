@@ -1,5 +1,5 @@
-Title: O que há de novo no 4biz Helium.0?
-Description: Descreve O que há de novo no 4biz Helium.0
+Title: O que há de novo no 4biz Helium 
+Description: Descreve O que há de novo no 4biz Helium
 
 # O que há de novo no 4biz?
 
@@ -23,7 +23,7 @@ Description: Descreve O que há de novo no 4biz Helium.0
 
 - Melhorias de UI/UX na Tela de tickets e opções internas para capturar, delegar, reclassificar, suspender etc;
 
-### WORKFLOW
+### TRACKER
 
 - Componentes dinâmicos no desenho de fluxo;
 
@@ -160,16 +160,16 @@ Agora, assim que uma nova Solução de Contorno é criada, automaticamente é di
 
 ![c-Detalhamento da Solução de Contorno](images/workaround-details.png)
 
-Simple - Gestão Ágil
+Tasker - Gestão Ágil
 --------------------
 
-O Simple, que trouxe o poder da gestão ágil para a plataforma 4biz, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
+O Tasker, que trouxe o poder da gestão ágil para a plataforma 4biz, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
 
-![a-Simple](images/simple.png)
+![a-Tasker](images/simple.png)
 
-![b-Simple-Sprints](images/simple-sprints.png)
+![b-Tasker-Sprints](images/tasker-sprints.png)
 
-![c-Simple-Kanbans](images/simple-kanban.png)
+![c-Tasker-Kanbans](images/tasker-kanban.png)
 
 
 Cada tarefa pode ter um ou mais membro. É possível adicionar:
@@ -184,7 +184,7 @@ Cada tarefa pode ter um ou mais membro. É possível adicionar:
 
 ![Detalhamento da Tarefa](images/task-detail.png)
 
-Saiba mais sobre o [Simple][2]
+Saiba mais sobre o [Tasker][2]
 
 Gerenciamento de Problemas
 --------------------------
@@ -226,7 +226,7 @@ Uma nova área de diagnóstico foi criada e permite que através do Simple, mais
 
 ![b-Registro de solução de contorno e causa raiz](images/workaround-root-cause-registration.png)
 
-Também há uma nova área de Solução com vínculo direto ao Simple e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a.)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b.)**.
+Também há uma nova área de Solução com vínculo direto ao Tasker e aos registros de mudança, permitindo que o desenho, desenvolvimento e implantação da solução seja mais ágil e colaborativo, atingindo melhores resultados **(a.)**, a guia de Revisão e Fechamento permite informar se o problema foi resolvido com sucesso ou não. Também é possível registrar lições aprendidas, notas etc. e abrir sprints para problemas cuja revisão envolva mais pessoas ou equipes **(b.)**.
 
 ![a-Registro de solução](images/solution-registration.png)
 
