@@ -165,7 +165,7 @@ Tasker - Gestão Ágil
 
 O Tasker, que trouxe o poder da gestão ágil para a plataforma 4biz, desenvolvido para ajudar as equipes a serem mais colaborativas e participativas, aumentando a produtividade e dando mais autonomia e visibilidade aos membros de uma forma mais simples e prática **(a.)**. Cada time pode ter um ou mais workspace **(b.)** e criar sprints com kanbans e fases, de acordo com cada necessidade **(c.)**.
 
-![a-Tasker](images/simple.png)
+![a-Tasker](images/tasker.png)
 
 ![b-Tasker-Sprints](images/tasker-sprints.png)
 
