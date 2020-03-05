@@ -74,7 +74,7 @@ Relacionado
 
 [Cadastrar usuário](/pt-br/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Fluxo de trabalho](/pt-br/4biz-helium/tracke/overview.html)
+[Fluxo de trabalho](/pt-br/4biz-helium/tracker/overview.html)
 
 [Configurar parametrização - email](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-email.html)
 

@@ -90,4 +90,4 @@ Com um clique duplo em cima da atividade abrirá as seguintes propriedades:
 
 ## E agora, o que devo fazer?
 
-Agora é necessário definir se será necessário o uso dos Gateways para a construção do seu fluxo, para saber melhor como utiliza-los acesse o documento – [Controlar sequência com Gateway](https://docs.run2biz.com/pt-br/4biz-helium/tracke/use/control-with-gateway.html)
+Agora é necessário definir se será necessário o uso dos Gateways para a construção do seu fluxo, para saber melhor como utiliza-los acesse o documento – [Controlar sequência com Gateway](https://docs.run2biz.com/pt-br/4biz-helium/tracker/use/control-with-gateway.html)

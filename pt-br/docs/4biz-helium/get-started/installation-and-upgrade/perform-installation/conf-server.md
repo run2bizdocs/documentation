@@ -95,7 +95,7 @@ E edite o arquivo stantalone-full.xml e inclua a configuração XML do 4biz logo
      <property name="mongodb.user" value="admin"/>
      <property name="mongodb.password" value="admin"/>
      <property name="4biz.protocol" value="http"/>
-     <property name="4biz.host" value="my.4bizcloud.com"/>
+     <property name="4biz.host" value="my.cloud4biz.com"/>
      <property name="4biz.port" value="8080"/>
      <property name="4biz.context" value="4biz"/>
      <property name="4biz.login" value="4biz.local\\\consultor"/>

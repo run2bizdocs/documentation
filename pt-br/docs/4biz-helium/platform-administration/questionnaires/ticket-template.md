@@ -71,7 +71,7 @@ Procedimento
 Relacionado
 -----------
 
-[Criar um fluxo do trabalho](/pt-br/4biz-helium/tracke/use/create-flow.html)
+[Criar um fluxo do trabalho](/pt-br/4biz-helium/tracker/use/create-flow.html)
 
 [Cadastrar questionário](/pt-br/4biz-helium/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 

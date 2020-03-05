@@ -74,6 +74,6 @@ alcançados com o uso da metodologia.
 
 !!! Abstract "ATENÇÃO"
 
-    Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do [MY.4biz](https://my.citsmartcloud.com)
+    Os Artefatos e a Fast Deployment Methodology (FDM) estão disponíveis para nossos parceiros através do [MY.4biz](https://my.cloud4biz.com)
 
 

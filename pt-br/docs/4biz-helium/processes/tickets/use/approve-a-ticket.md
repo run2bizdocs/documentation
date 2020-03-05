@@ -59,7 +59,7 @@ Relacionado
 
 [Configurar permissão de acesso do gerenciamento de requisições/incidentes](/pt-br/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 
-[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracke/use/create-flow.html)
+[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracker/use/create-flow.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROn4Xs6UdH84Ujzta2iJ6Ei)'
 

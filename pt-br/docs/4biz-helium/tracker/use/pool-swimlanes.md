@@ -61,4 +61,4 @@ Configure as atividades de usuário que deseja utilizar e adicione outros elemen
 
 ## Relacionado
 
-[Configurar Tarefa de Usuário](https://docs.run2biz.com/pt-br/4biz-helium/tracke/use/user-task-configure.html)
+[Configurar Tarefa de Usuário](https://docs.run2biz.com/pt-br/4biz-helium/tracker/use/user-task-configure.html)

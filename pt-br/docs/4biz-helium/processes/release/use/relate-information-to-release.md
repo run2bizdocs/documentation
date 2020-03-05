@@ -66,7 +66,7 @@ Relacionado
 
 [Cadastrar um grupo](/pt-br/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracke/use/create-flow.html)
+[Criar um fluxo de trabalho](/pt-br/4biz-helium/tracker/use/create-flow.html)
 
 [Criar calendário](/pt-br/4biz-helium/platform-administration/time/create-calendar.html)
 

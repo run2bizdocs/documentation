@@ -4,7 +4,7 @@ Os Gateways são elementos responsáveis por controlar iterações do fluxo cria
 
 ## O que preciso para começar?
 
-Para começar a utilizar os Gateways é necessário saber qual tipo de gateway você precisa usar, para saber melhor sobre os gateways é possível visualizar em – [Conceitos Básicos](https://docs.run2biz.com/pt-br/4biz-helium/tracke/basic-concepts.html)
+Para começar a utilizar os Gateways é necessário saber qual tipo de gateway você precisa usar, para saber melhor sobre os gateways é possível visualizar em – [Conceitos Básicos](https://docs.run2biz.com/pt-br/4biz-helium/tracker/basic-concepts.html)
 
 Após escolhido qual o melhor gateway para utilizar em seu fluxo aprenda a seguir como complementar seu fluxo com os Gateways;
 

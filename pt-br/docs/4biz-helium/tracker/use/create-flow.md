@@ -67,4 +67,4 @@ Relacionado
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[2]:/pt-br/4biz-helium/tracke/configuration/expressions-creator.html
+[2]:/pt-br/4biz-helium/tracker/configuration/expressions-creator.html
