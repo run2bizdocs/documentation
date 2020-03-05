@@ -65,9 +65,9 @@ Related
 
 [Configure parametrization - Smart Portal](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-smart-portal.html)
 
-<!-- <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Libraryxx](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
+<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Libraryxx](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
 
---> !!! tip "About"
+!!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço
