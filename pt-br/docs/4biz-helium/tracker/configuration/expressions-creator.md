@@ -11,7 +11,7 @@ excluir expressões.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através do menu principal Workflow \> Expressões;
+1.  Acessar a funcionalidade através do menu principal Tracker \> Expressões;
 
 2.  Para importar expressões de outros sistemas, clicar no botão "Importar";
 

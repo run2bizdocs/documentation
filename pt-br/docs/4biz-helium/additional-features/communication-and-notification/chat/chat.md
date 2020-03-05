@@ -29,7 +29,7 @@ Para que o chat esteja disponível é preciso configurar os parâmetros de ativa
 
 •	Uso Manual: 299, 315, 316, 317, 447 e 423.
 
-•	Integração com a Helper: 423
+•	Integração com o Helper: 423
 
 Ao habilitar o parâmetro 423 o chat será aberto integrado ao assistente virtual Helper.
 
@@ -70,7 +70,7 @@ A seguir apresentamos alguns exemplos de como utilizar o Chat do 4biz em cenári
 
 ## Acesso ao Assistente Virtual - Criação de Ticket
 
-1. Clique no sinalizador no topo da tela chamado "Virtual Assistant" para falar com a Helper;
+1. Clique no sinalizador no topo da tela chamado "Virtual Assistant" para falar com o Helper;
 2. Digite sua pesquisa ou assunto;
 3. O assistente virtual poderá identificar conhecimentos ou atividades a serem abertas;
 4. Quando o assistente virtual der a mensagem de fallback, imediatamente será apresentada as opções "Falar com Atendente" ou "Retomar Atendimento";

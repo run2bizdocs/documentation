@@ -19,8 +19,8 @@ Bem-vindos ao Citsmart Versão 8.0.6. Esta versão apresenta os seguintes itens:
 |6400|Melhoria|CMDB|Vincular Visualização de Mapa de CMDB na Mudança|
 |6436|Corretiva|Gerenciamento de Mudança|Erro em Requisição de Mudança ao gerar um "Relatório Registro de Execução"|
 |6439|Corretiva|Sistema|Ao limpar parâmetros do tipo número o valor não está sendo persistido no BD|
-|6609|Melhoria|Omnichannel|Upload de arquivos no ticket via no SmartChat para Helper|
-|6612|Melhoria|Omnichannel|Apresentação de menu carrossel no Smartchat para Helper|
+|6609|Melhoria|Omnichannel|Upload de arquivos no ticket via no SmartChat para o Helper|
+|6612|Melhoria|Omnichannel|Apresentação de menu carrossel no Smartchat para o Helper|
 |6614|Melhoria|WebServices|Validação de Webservices 4biz implementados para assistente virtual|
 |6622|Melhoria|CMDB|Paginar a listagem de IC's na tela inicial do CMDB|
 |6649|Corretiva|Gerenciamento de Mudança|Erro de tradução na tela de Análise de Risco e Impacto em Requisição de Mudança|
@@ -62,7 +62,7 @@ Bem-vindos ao Citsmart Versão 8.0.5.4. Esta versão apresenta as seguintes melh
 |Corretiva|Corretiva/Melhoria/Nova|Funcionalidade|Descrição|
 |--------|---------|---------|---------|
 |Ticket 3599|Corretiva|Gerência de Ticket|Ao reabrir um Ticket via Smart Portal poderá adicionar Nota no mesmo.|
-|Ticket 3551|Melhoria|Gerência de Ticket/Workflow|Criado chave de e-mail para enviar data e hora da última execução no fluxo.|
+|Ticket 3551|Melhoria|Gerência de Ticket/Tracker|Criado chave de e-mail para enviar data e hora da última execução no fluxo.|
 
 ## Versão 8.0.5.3 (2020/02/27)
 Bem-vindos ao Citsmart Versão 8.0.5.3. Esta versão apresenta as seguintes melhorias:
@@ -274,7 +274,7 @@ Bem-vindos ao 4biz Versão 8.0.3.0. Esta versão apresenta as seguintes correç�
 |5305|A ferramenta deverá permitir a associação ou a definição, de forma automática, do SLA apropriado, baseando-se em métodos pré-definidos.|
 |5309|Deverá permitir o gerenciamento de múltiplas mudanças encadeadas|
 |5326|Remoção da funcionalidade de Template de Mudança|
-|5373|Criar webservices nativos no CITSMART WORKFLOW|
+|5373|Criar webservices nativos no Run2biz TRACKER|
 |5544|Integração do Facebook Messenger com Smartchat|
 |5557|Implementando portfolio de conhecimento|
 |5592|Adicionando as informações de titulo, descrição, efeito de não implementação, comite consultivo e das abas de 'planejamento' e 'plano de reversão' no Modelo de Mudança|
@@ -290,7 +290,7 @@ Bem-vindos ao 4biz Versão 8.0.3.0. Esta versão apresenta as seguintes correç�
 |5925|Correção de erro na tela de Requisição de Mudança|
 |5926|Inserindo mensagem de alerta ao clicar na opção de criar mudança|
 |5958|Correção de erro no SLA que não está sendo possível vincular em um Serviço no portfólio - "Erro ao executar o localizar...."|
-|5959|Criar possibilidade de envio das mensagens para helper|
+|5959|Criar possibilidade de envio das mensagens para o Helper|
 |5962|Correções da integração com Twitter|
 |5969|Erro ao tentar criar um ticket quando a mensagem de falback contem aspas ''.|
 |5981|Permitindo registrar solicitações de serviço sem localidade.|
@@ -489,7 +489,7 @@ Bem-vindos ao Citsmart Versão 8.0.1.3. Esta versão apresenta as seguintes corr
 |4543|[Chat - Ticket] - Verificar a possibilidade de conseguir abrir a tela de execução de Ticket através da janela de conversa do chat.|
 |4315|Verificar a possibilidade de retirar das janelas de chat a informação “Como posso de ajudar” no momento que o atendimento já se iniciou.|
 |4572|Ao mover um item de uma Sprint para outra no Simple, este é movido para uma lista arquivada.|
-|4533|[Chat] - Problemas ao interagir com a Helper.|
+|4533|[Chat] - Problemas ao interagir com o Helper.|
 |4535|[Chat] - Alterar a label “Solicitação” para “Ticket” que apresentada dentro do chat.|
 |4532|Trocar frases apresentada na pop-up do chat.|
 |4587|Erro no Tasker ao cadastrar uma nova Sprint - com usuários.|
@@ -630,7 +630,7 @@ Com otimizações de desempenho, melhorias de usabilidade, ajustes e correções
 | 3500       | Padronizar ícones e adicionar hints                                                                                                                                                                                                                             | Melhoria  |
 | 1557       | Verificar que não está sendo possível selecionar um modelo de mudança na tela de template                                                                                                                                                                       | Corretiva |
 | 3689       | Verificar que não está sendo possivel acessar o simple                                                                                                                                                                                                          | Corretiva |
-| 3517       | Ajustes de internacionalização no 4biz Workflow                                                                                                                                                                                                             | Corretiva |
+| 3517       | Ajustes de internacionalização no 4biz Tracker                                                                                                                                                                                                             | Corretiva |
 | 3611       | Após instalação do sistema não esta sendo possível acessar o toolbarHeader                                                                                                                                                                                      | Corretiva |
 | 3668       | Não estão sendo exibidos as aplicações do Acesso rápido nas telas antigas                                                                                                                                                                                       | Corretiva |
 | 3624       | [ITSM 9623] - Ao reclassificar um ticket o mesmo esta apresentando a seguinte mensagem: Key must not be null or empty.                                                                                                                                          | Corretiva |

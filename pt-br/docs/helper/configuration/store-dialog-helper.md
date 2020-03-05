@@ -1,11 +1,11 @@
 Title: Armazenar informações nos diálogos
 # Armazenar informações nos diálogos
 
-Muitas vezes o usuário durante um diálogo, fornece informações que serão utilizadas em outro momento para melhor entendimento do seu interesse. A Helper reconhece estas informações como Atributos.
+Muitas vezes o usuário durante um diálogo, fornece informações que serão utilizadas em outro momento para melhor entendimento do seu interesse. o Helper reconhece estas informações como Atributos.
 Numa conversa, por exemplo, em que o usuário pede que a assistente virtual informe quais os restaurantes italianos existentem a menos de 10 km de distância, percebe-se três atributos: tipo de estabelecimento, categoria, distância.
 Neste caso, são criados Atributos que sejam capazes de armazenar esta informação para responder de forma mais precisa ao usuário.
 
-Os tipos de atributos definem o formato da informação que poderá ser salva no mesmo. A Helper trabalha com os seguintes tipos:
+Os tipos de atributos definem o formato da informação que poderá ser salva no mesmo. o Helper trabalha com os seguintes tipos:
 
  - Text slot: em que é possível adicionar valores do tipo texto;
 

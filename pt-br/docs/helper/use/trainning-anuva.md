@@ -31,7 +31,7 @@ Procedimento
 Relacionado
 -----------
 
-[Como ensinar a Helper](/pt-br/helper/use/teach-helper.html)
+[Como ensinar o Helper](/pt-br/helper/use/teach-helper.html)
 
 [Monitorar e gerar relatórios - Helper](/pt-br/helper/use/monitoring-helper.html)
 
