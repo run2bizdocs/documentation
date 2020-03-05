@@ -1,5 +1,5 @@
 title: Visão Geral
-Description: The purpose of Knowledge Management is to manage the information, as it's an important asset of the company 
+Description: A premissa do Gerenciamento do Conhecimento é administrar as informações, sendo este um importante ativo da empresa 
 # Visão Geral
 
 ## Apresentação

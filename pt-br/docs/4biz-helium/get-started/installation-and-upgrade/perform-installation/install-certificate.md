@@ -13,29 +13,29 @@ A instalação de um certificado SSL é obrigatória para funcionamento da ferra
 A forma como você acessa o 4biz altera a maneira de geração do certificado SSL. Existem duas possibilidades de acessar o URL do sistema:
 
 * Através de endereçamento IP no formato https://ENDERECO_IP
-* Através de DNS no formato https://citsmart.exemplo.com
+* Através de DNS no formato https://run2biz.exemplo.com
 
 A geração do certificado em ambos casos é ligeiramente diferente. Abaixo o procedimento válido par ambos os casos.
 
 
 ### Criando um certificado para uma entrada de DNS
 
-Abaixo o comando para se gerar um certificado SSL para uma entrada de DNS chamada `citsmart.example.com`. Lembre-se de alterar os seguintes parâmetros abaixo:
+Abaixo o comando para se gerar um certificado SSL para uma entrada de DNS chamada `run2biz.example.com`. Lembre-se de alterar os seguintes parâmetros abaixo:
 
 * **KEY_NAME:** Um nome para chave/arquivo. Exemplo 4bizV1.
-* **citsmart.example.com:** Altere para entrada de DNS que você criou para sua aplicação.
+* **run2biz.example.com:** Altere para entrada de DNS que você criou para sua aplicação.
 * **validity 365:** Tempo de validade da chave em dias. Dependendo do requisito de segurança interno de sua instituição, defina esse valor. Após atingido o limite de tempo, o certificado irá se expirar e será necessário gerar outro. Definia o tempo que achar melhor apropriado. No exemplo o certificado vale por 1 ano 365 dias).
 * **PASSWORD:** Uma senha para o certificado. Exemplo password123456
 
 ``` shell
-/opt/jdk/bin/keytool -genkey -alias KEY_NAME -keyalg RSA -keystore /opt/wildfly/standalone/configuration/KEY_NAME.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass PASSWORD
+/opt/jdk/bin/keytool -genkey -alias KEY_NAME -keyalg RSA -keystore /opt/wildfly/standalone/configuration/KEY_NAME.keystore -ext san=dns:run2biz.example.com -validity 365 -storepass PASSWORD
 ```
 
 Quando o comando for executado, será realizada uma série de perguntas, no qual poderá ser respondidas ou não (o preenchimento é opcional). Caso não queira preencher as informações, digite [enter] para todas, com exceção da última que precisará ser respondido `yes.
 
 ``` shell
 
-[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias 4bizV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass password123456
+[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias 4bizV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -ext san=dns:run2biz.example.com -validity 365 -storepass password123456
 What is your first and last name?
   [Unknown]:
 What is the name of your organizational unit?
@@ -140,7 +140,7 @@ Extensions:
 
 #1: ObjectId: 2.5.29.17 Criticality=false
 SubjectAlternativeName [
-  DNSName: citsmart.example.com
+  DNSName: run2biz.example.com
 ]
 
 #2: ObjectId: 2.5.29.14 Criticality=false
@@ -187,8 +187,8 @@ Acesse o wildfly no modo CLI e dê os comandos abaixo substituindo os valores pe
 ```shell
 /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
 /subsystem=elytron/key-store=citsmartKeyStore:add(path="4bizV1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="password123456"},type=JKS)
-/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="password123456"})
-/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+/subsystem=elytron/key-manager=4bizKeyManager:add(key-store=4bizKeyStore,credential-reference={clear-text="password123456"})
+/subsystem=elytron/server-ssl-context=4bizSSLContext:add(key-manager=4bizKeyManager,protocols=["TLSv1.2"])
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="4bizV1.keystore", keystore-password-credential-reference={clear-text="password123456"}, keystore-relative-to="jboss.server.config.dir",alias="4bizV1")
 ```

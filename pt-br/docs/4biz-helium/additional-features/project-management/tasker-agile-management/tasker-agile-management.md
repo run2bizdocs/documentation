@@ -12,7 +12,7 @@ O Tasker é baseado na metodologia Kanban, onde os mesmos são organizados
 visualmente em um quadro disposto de cartões que sinalizam o andamento do fluxo.
 
 Na área de trabalho do Tasker as atividades são inseridas e agrupadas por
-projetos (no Simple chamados de Workspaces), painel de tarefas (no Tasker
+projetos (chamados de Workspaces), painel de tarefas (no Tasker
 chamados de Sprint) e por fim as tarefas, que podem estar em grupos de cartões.
 
 
@@ -139,7 +139,7 @@ Procedimento
 
 2.  Para criar nova lista, clicar no botão “+Lista”, nomear e “Salvar”.
 
-    ![tela lista](images/figure-2-simple.png)
+    ![tela lista](images/figure-2-tasker.png)
     
     Figura 2 - Tela lista
 
@@ -162,7 +162,7 @@ Procedimento
 
 ### Criar tarefas
 
-   ![tela tarefa](images/figure-3-simple.png)
+   ![tela tarefa](images/figure-3-tasker.png)
     
    Figura 3 - Tela tarefa
 
@@ -186,7 +186,7 @@ dispositivos de controle e gestão.
 
 1.  Cada cartão possui dispositivos de controle e informações:
 
-     ![tela cartão](images/figure-4-simple.png)
+     ![tela cartão](images/figure-4-tasker.png)
     
       Figura 4 - Tela cartão
 

@@ -15,7 +15,7 @@ Figure 2 - Objeto de negócios
 
 !!! Abstract "ATENÇÃO"
 
-    Os passos podem ser encontrados na documentação 4biz (docs.citsmart.com).
+    Os passos podem ser encontrados na documentação 4biz (docs.run2biz.com).
 
 ## Desenhar App
 

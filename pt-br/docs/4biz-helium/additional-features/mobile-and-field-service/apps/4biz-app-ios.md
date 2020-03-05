@@ -1,5 +1,5 @@
-Title: Manual de utilização do aplicativo mobile 4biz Experience - Android
-# Manual de utilização do aplicativo mobile 4biz Experience - Android
+Title: Manual de utilização do aplicativo mobile 4biz Experience - IOS
+# Manual de utilização do aplicativo mobile 4biz Experience - IOS
 
 Este documento tem o propósito de fornecer orientações necessárias para instalar, configurar e utilizar o aplicativo mobile 4biz Experience, disponível nas plataformas Android e iOS.
 O aplicativo Experience oferece a facilidade no atendimento, direcionamento de onde a solicitação está localizada, filtragem das solicitações pessoais e por grupo de trabalho, visualização dos detalhes de uma solicitação de serviço, entre diversas outras funcionalidades possíveis devido a renderização das páginas e leiaute responsivo
@@ -28,7 +28,7 @@ Procedimento
 
     *	Domínio\Usuário:  informar o domínio (local/ldap) e seu usuário;
 
-    Ex.: citsmart.local\nome.sobrenome
+    Ex.: 4biz.local\nome.sobrenome
     
     *	Senha: credencial de acesso ao sistema;
 

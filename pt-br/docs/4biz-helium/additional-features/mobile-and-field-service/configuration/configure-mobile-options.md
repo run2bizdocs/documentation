@@ -33,7 +33,7 @@ Procedimento
 Relacionado
 -----------
 
-[Manual de utilização do aplicativo mobile 4biz Experience](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Manual de utilização do aplicativo mobile 4biz Experience](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
 [Obter assinatura em atendimento de campo](/pt-br/4biz-helium/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 

@@ -112,7 +112,7 @@ user: "admin",
 pwd: "yourpassword",
 roles:[
 { role: "root", db: "admin" },
-{ role: "dbOwner", db: "citsmart" }
+{ role: "dbOwner", db: "4biz" }
 ]
 })
 Successfully added user: {
@@ -124,7 +124,7 @@ Successfully added user: {
                 },
                 {
                         "role" : "dbOwner",
-                        "db" : "citsmart"
+                        "db" : "4biz"
                 }
         ]
 }
@@ -135,4 +135,4 @@ Successfully added user: {
 
 [Realizando o deploy do 4biz][1]
 
-[1]:/pt-br/4biz-helium/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html
+[1]:/pt-br/4biz-helium/get-started/installation-and-upgrade/perform-installation/deploy-4biz.html

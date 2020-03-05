@@ -49,7 +49,7 @@ Criar usuário AD
 6.  Clicar no botão direito do mouse e selecionar a opção Propriedades.
     Logo após, procurar o **servicePrincipalName** (sigla de SPN);
 
-7.  Adicionar HTTP/hom-itsm.centralit.com.br, clicar em "OK" para efetuar a
+7.  Adicionar HTTP/hom-itsm.4biz.com.br, clicar em "OK" para efetuar a
     operação, conforme a figura abaixo:
 
     ![CRIAR USUÁRIO](images/sso-6.jpg)
@@ -60,10 +60,10 @@ Criar usuário AD
     Lembrar que o primeiro seta o **SPN** e o segundo gera o Keytab (o que
     será utilizado no Wildfly):
 
-    -   setspn -s HTTP/hom-itsm.centralit.com.br citsmart2
+    -   setspn -s HTTP/hom-itsm.run2biz.com.br 4biz2
 
-    -   ktpass / princ HTTP/hom-itsm.centralit.com.br /mapuser citsmart2  /pass
-        central\@123 /ptype KRB5_NT_Principal/outcitsmart2.keytab /crypto ALL
+    -   ktpass / princ HTTP/hom-itsm.centralit.com.br /mapuser 4biz2  /pass
+        central\@123 /ptype KRB5_NT_Principal/out4biz2.keytab /crypto ALL
 
 9.  Realizado os passos acima, o **AD** estará configurado. 
 
@@ -86,13 +86,13 @@ Configurar o servidor Wildfly
     
     ```sh
     citgosrv004.cit.local  = {
-    kdc = citsmartsrv.citsmartsrv.bigdata-team.com
-    default_domain = citsmartsrv.citsmartsrv.bigdata-team.com }     
+    kdc = 4bizsrv.run2bizsrv.bigdata-team.com
+    default_domain = 4bizsrv.run2bizsrv.bigdata-team.com }     
     ```
     
     ```sh
     [domain_realm]
-    .citsmartsrv.citsmartsrv.bigdata-team.com = citsmartsrv.citsmartsrv.bigdata-team.com
+    .4bizsrv.run2bizsrv.bigdata-team.com = run2bizsrv.run2bizsrv.bigdata-team.com
     ```
 
 1.  Copiar o arquivo login.conf (validar as informações de acordo com o AD) para a pasta standalone/configuration (wildfly):
@@ -103,7 +103,7 @@ Configurar o servidor Wildfly
     storeKey=true
     useKeyTab=true
     keyTab="file:///opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"
-    principal=HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM;
+    principal=HTTP/light-desenvolvimento.cloud4biz.com\@4bizSRV.BIGDATA-TEAM.COM;
     };
     ```
 
@@ -116,12 +116,12 @@ Configurar o servidor Wildfly
     
     ```java
     \<property name="sun.security.krb5.debug" value="true"/\>
-    \<property name="java.security.krb5.kdc" value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
-    \<property name="java.security.krb5.realm"value="CITSMARTSRV.BIGDATA-TEAM.COM"/\>
+    \<property name="java.security.krb5.kdc" value="4bizSRV.BIGDATA-TEAM.COM"/\>
+    \<property name="java.security.krb5.realm"value="4bizSRV.BIGDATA-TEAM.COM"/\>
     \<property name="java.security.krb5.conf"value="/opt/wildfly-12.0.0.Final/standalone/configuration/krb5.conf"/\>
     \<property name="java.security.auth.login.config"value="/opt/wildfly-12.0.0.Final/standalone/configuration/login.conf"/\>
     \<property name="krb.keyTab"value="/opt/wildfly-12.0.0.Final/standalone/configuration/lightkeytab.keytab"/\>
-    \<property name="krb.principal"value="HTTP/light-desenvolvimento.citsmartcloud.com\@CITSMARTSRV.BIGDATA-TEAM.COM"/\>
+    \<property name="krb.principal"value="HTTP/light-desenvolvimento.cloud4biz.com\@4bizSRV.BIGDATA-TEAM.COM"/\>
     ```
     
     Em **\<security-domains\>**
@@ -158,8 +158,7 @@ Configurar o servidor Wildfly
 
 !!! Abstract "ATENÇÃO"
 
-    O DN Alias deve ser igual ao domínio da rede (exemplo: CIT\\usuario), logo
-    o DN Alias = CIT, conforme a figura abaixo:
+    O DN Alias deve ser igual ao domínio da rede, logo
 
 ![CRIAR USUÁRIO](images/sso-7.jpg)
 

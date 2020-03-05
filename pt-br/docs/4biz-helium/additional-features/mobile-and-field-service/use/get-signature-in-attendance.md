@@ -56,13 +56,13 @@ Procedimento
 Relacionado
 ----------
 
-[Manual de utilização do aplicativo mobile 4biz Experience](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Manual de utilização do aplicativo mobile 4biz Experience](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
 [Configurar as opções de menu no mobile](/pt-br/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 [Configurar parametrização - ticket](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Manual de utilização do aplicativo 4biz GO](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo 4biz GO](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 
 !!! tip "About"

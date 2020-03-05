@@ -27,7 +27,7 @@ referentes a regras de parametrização de e-mail.
 Procedimento
 ----------------
 
-1.  Acessar a funcionalidade através da navegação no menu principal Worflow \>
+1.  Acessar a funcionalidade através da navegação no menu principal Tasker \>
     Desenho de fluxo;
 
 2.  Selecionar o fluxo de aprovação de solicitação e clicar em "Editar";

@@ -23,7 +23,7 @@ disponibilidade e segurança física projetada para grandes escalas.
 Isso significa que herdamos automaticamente a conformidade com vários requisitos
 e padrões de infraestrutura.
 
-Além dos recursos oferecidos pela nuvem, o Citsmart busca manter a segurança e a
+Além dos recursos oferecidos pela nuvem, o 4biz busca manter a segurança e a
 privacidade dos dados de seus clientes por meio de políticas internas e adoção
 de padrões para garantir a conformidade com os requisitos regulamentares
 internacionais.
@@ -35,15 +35,15 @@ internacionais.
 Uma visão geral básica de como funciona a nuvem do 4biz pode ser vista no
 diagrama abaixo:
 
-![Screenshot](images/citsmart-cloud-plataform.png)
+![Screenshot](images/4biz-cloud-plataform.png)
 
 ### On-premises
 
-![Screenshot](images/citsmart-on-premises.jpg)
+![Screenshot](images/4biz-on-premises.jpg)
 
 ### INV/EVM
 
-![Screenshot](images/citsmart-inv-evm.jpg)
+![Screenshot](images/4biz-inv-evm.jpg)
 
 4biz Cloud Security
 -----------------------

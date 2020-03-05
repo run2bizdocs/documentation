@@ -13,14 +13,14 @@ Após o deploy do 4biz, você deverá seguir os passos para finalizar a instala�
     |Campo|Descrição|Exemplo|
     |-----|---------|-------|
     |Connection Driver|Tipo de SGBD utilizado na instalação |PostgreSQL |
-    |System access URL|URL para acesso ao 4biz | https://citsmart.exemplo.com|
+    |System access URL|URL para acesso ao 4biz | https://run2biz.exemplo.com|
     |Enable loggin on system|Habilitar logs do sistema |True |
-    |Name of log file|Nome do arquivo de log | log_citsmart |
+    |Name of log file|Nome do arquivo de log | log_4biz |
     |Path of the folder that will be the LOG file) |Nome da pasta onde os logs serão salvos |/var/tmp |
     |Types: "CIT_LOG" (log file), "DB_LOG" (save in the database) |Tipo de salvamento de logs, em arquivo (CIT_LOG) ou no banco de dados (DB_LOG) | CIT_LOG|
     |Extension of log file|Extensão do arquivo de log (apenas para o tipo CIT_LOG), que será acrescentado ao que você informou em "Nome do arquivo de log" | log |
-    |Upload Directory of the repository path|Caminho do ditetório de Upload | /opt/citsmart/upload |
-    |GED Directory |Caminho do diretório para GED (Base de conhecimento)| /opt/citsmart/ged|
+    |Upload Directory of the repository path|Caminho do ditetório de Upload | /opt/4biz/upload |
+    |GED Directory |Caminho do diretório para GED (Base de conhecimento)| /opt/4biz/ged|
 
 4. Clicar no item "Finalizar" para efetivar a instalação;
 

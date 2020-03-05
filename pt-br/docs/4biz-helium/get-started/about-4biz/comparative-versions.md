@@ -141,7 +141,7 @@ Integração do Saiku com o 4biz Analytics.
 [8]:#alertas-escalonamento
 [9]:#chat
 [10]:#portal-do-conhecimento
-[11]:#aplicacao-citsmart-builder
+[11]:#aplicacao-4biz-builder
 [12]:#mobile-e-field-service
 [13]:#gestao-de-fluxo-de-trabalho
 [14]:#surveys-e-feedback

@@ -27,7 +27,7 @@ A configuração dos Web services são fundamentais para o acesso a todas as
 funcionalidades do aplicativo. Seguir os passos para melhor configurá-lo:
 
 1.  No 4biz Experience (Web), acessar a funcionalidade de Web Services
-    referente ao mobile (Sistema > Configurações > Web Services Citsmart
+    referente ao mobile (Sistema > Configurações > Web Services 4biz
     Mobile);
 
 2.  Clicar na aba “Vincular Grupos” e vincular o grupo executor de atividades aos
@@ -65,8 +65,7 @@ Certificado Digital) é necessário a instalação do mesmo:
     Figura 2 - Instalação do certificado no Windows
 
 3.  Depois de instalado, alterar o endereço do aplicativo para suas
-    necessidades (exemplo:
-    “[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
+    necessidades.
 
 ### Instalação do app Android/iOS
 
@@ -197,7 +196,7 @@ Relacionado
 
 [Configurar parametrização - sistema](/pt-br/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual de utilização do aplicativo mobile 4biz Experience](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Manual de utilização do aplicativo mobile 4biz Experience](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
 [Configurar as opções de menu no mobile](/pt-br/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 

@@ -43,7 +43,7 @@ Uso da Logomarca e Login
 
 O uso da imagem 4biz foi otimizada para melhorar o uso de dados, bem como a aplicação dentro da solução, tornando mais simples, leve e adequada para os novos direcionamentos do produto.
 
-![Novo acesso do 4biz](images/citsmart-login.png)
+![Novo acesso do 4biz](images/4biz-login.png)
 
 Centro de Experiência
 ---------------------
@@ -111,7 +111,7 @@ Menus
 
 Internamente os menus sofreram reorganização e agora estão dispostos à esquerda, com possibilidade de consulta e ocultação, melhorando o espaço de trabalho na plataforma.
 
-![Menu de Opções do 4biz](images/citsmart-options-menu-pt.png)
+![Menu de Opções do 4biz](images/4biz-options-menu-pt.png)
 
 Smart Decisions
 ---------------
@@ -386,8 +386,8 @@ Saiba mais sobre [Mobile 4biz Experience][8]
 [4]:/pt-br/4biz-helium/processes/configuration/overview.html
 [5]:/pt-br/4biz-helium/processes/change/overview.html
 [6]:/pt-br/4biz-helium/platform-administration/logs-and-auditing/system-audit.html
-[7]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[8]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html
+[7]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[8]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html
 
 
 !!! tip "About"

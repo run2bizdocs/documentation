@@ -23,8 +23,8 @@ Para visualizar o status de inventário de ICs é necessário ter definido um pr
     |-------|-----------|
     |Endereço IP| Número IP do Item de Configuração|
     |Identificação|Nome do IC|
-    |Status|**Inventariada** (O sistema de inventário conseguiu realizar a coleta dos dados da máquina), **Ignorada** (O usuário informou na tela EVM - Conexão e Configuração 4biz Inventory que máquinas inventariadas poderiam ser ignoradas de novo inventário), **Inacessível** (O sistema de inventário localizou o IP, porém, não existe nenhuma máquina a inventariar ou a máquina está desligada), **Em execução** (O sistema de inventário não terminou a execução do inventário da máquina) ou **Não inventariada** (O sistema de inventário não conseguiu via SNMP ou agCitsmart.Net - Agente Citsmart - capturar qualquer informação sobre essa máquina, ou seja, essa máquina não possui o Agente Citsmart instalado ou uma configuração para coleta de dados via MIB|
-    |Origem|agCITSMART.NET, SNMP ou OCS Inventory|
+    |Status|**Inventariada** (O sistema de inventário conseguiu realizar a coleta dos dados da máquina), **Ignorada** (O usuário informou na tela EVM - Conexão e Configuração 4biz Inventory que máquinas inventariadas poderiam ser ignoradas de novo inventário), **Inacessível** (O sistema de inventário localizou o IP, porém, não existe nenhuma máquina a inventariar ou a máquina está desligada), **Em execução** (O sistema de inventário não terminou a execução do inventário da máquina) ou **Não inventariada** (O sistema de inventário não conseguiu via SNMP ou ag4biz.Net - Agente 4biz - capturar qualquer informação sobre essa máquina, ou seja, essa máquina não possui o Agente 4biz instalado ou uma configuração para coleta de dados via MIB|
+    |Origem|ag4biz.NET, SNMP ou OCS Inventory|
     |Conexão 4biz Inventory|Nome da conexão cadastrada em Processos > Gerência de Eventos > Conexões|
 
 4. Clicar em "Pesquisar" para realizar a busca.

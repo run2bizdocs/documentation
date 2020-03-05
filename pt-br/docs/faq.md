@@ -14,7 +14,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
 !!! Question "É possível categorizar a Requisição/Incidente (Ticket)?"
     
-    Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.citsmart.com/pt-br/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço](https://docs.citsmart.com/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html).
+    Tanto uma Requisição quanto um Incidente podem ser categorizados na etapa de [cadastro das atividades em um serviço](https://docs.run2biz.com/pt-br/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html), as categorias podem ser criadas na mesma tela de registro, na hora da vinculação da categoria ou na funcionalidades específica para  [Criar categoria de serviço](https://docs.run2biz.com/pt-br/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html).
 
 !!! Question "Como acessar a solicitação de serviço a partir da notificação de e-mail?"
     
@@ -31,7 +31,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     1. Acessar a funcionalidade de Cadastro de Grupo através da navegação no menu principal Acesso e Permissão > Grupo. Será apresentada a tela de cadastro de grupo, exibindo os contratos;
     2. Realizar o cadastro do grupo de 1º nível, caso não esteja cadastrado, e proceder com o preenchimento dos campos;
     3. Caso o grupo de 1º nível já esteja cadastrado no sistema, realizar a pesquisa do grupo e obter o seu número de identificação (ID);
-    4. Após obter o ID do grupo de 1º nível, acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal. Parametrização > Parâmetros Citsmart;
+    4. Após obter o ID do grupo de 1º nível, acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal. Parametrização > Parâmetros 4biz;
     5. Será apresentada a tela Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     6. Realizar a pesquisa do parâmetro "9 - ID Grupo Nível 1";
     7. Selecionar o mesmo;
@@ -95,9 +95,9 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     A regra de escalonamento de solicitação de serviço é habilitada na tela de Parâmetro do 4biz. Para habilitar essa regra, proceder conforme orientações abaixo:
 
-    1- No arquivo citsmart.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
+    1- No arquivo 4biz.cfg colocar a rotina START_MONITORA_INCIDENTES=TRUE
     
-    2- Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Sistema > Parâmetros Citsmart;
+    2- Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Sistema > Parâmetros 4biz;
     
     3- Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     
@@ -264,7 +264,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Para habilitar essa regra, proceder conforme orientações abaixo:
     
-    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart;
+    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz;
     2. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     3. Será apresenta a tela para pesquisa de parâmetros, realizar a pesquisa do parâmetro "194 - Habilita o escalonamento de problema definido nas regras de escalonamento? (Ex: S ou N - Default 'N')" e selecionar o mesmo;
     4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informar o valor "S" para ativar escalonamento de problemas;
@@ -314,7 +314,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Para habilitar essa regra, proceder conforme orientações abaixo:
 
-    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart;
+    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz;
     2. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     3. Será apresenta a tela para pesquisa de parâmetros, realizar a pesquisa do parâmetro "193 - Habilita o escalonamento de mudanças definido nas regras de escalonamento? (Ex: S ou N - Padrão 'N')" e selecionar o mesmo;
     4. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informar o valor "S" para ativar escalonamento de mudanças;
@@ -357,9 +357,9 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
    
     4- Após configuração dos parâmetros referente ao nome das fases do ciclo de vida do IC, será exibido na tela de Gerenciamento de Itens de Configuração a descrição das fases do ciclo de vida do IC, conforme especificado no valor do parâmetro.
     
-	CONFIGURAÇÃO A PARTIR DA TELA DE PARÂMETROS DO CITSMART
+	CONFIGURAÇÃO A PARTIR DA TELA DE PARÂMETROS DO 4biz
     
-    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart.
+    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz.
     2. Após isso, será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz. Será apresentada a tela para pesquisa de parâmetros;
     3. Realizar a pesquisa do parâmetro "92 - Nome do Grupo de ICs que estão na Fase de Desenvolvimento (Ex: ICs em Desenvolvimento)"
     4. Selecionar o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
@@ -392,8 +392,8 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Para definir o destinatário, proceder conforme orientações abaixo:
     
-    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart;
-    2. Será apresentada a tela de Parâmetros do Citsmart, clicar na aba Pesquisa de Parâmetros do 4biz;
+    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz;
+    2. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     3. Será apresenta a tela para pesquisa de parâmetros;
     4. Realizar a pesquisa do parâmetro "90 - Envio de e-mails de Notificação de ICs (1-Grupo, 2-Proprietário, 3-Todos)";
     5. Selecionar o mesmo;
@@ -405,7 +405,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     - Inventariado: o inventário conseguiu ler as informações do IC e se encerrou com sucesso;
     
-    - Ignorado: na tela de citsmart/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load tem uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
+    - Ignorado: na tela de 4biz/pages/evmInventoryConfiguracao/evmInventoryConfiguracao.load tem uma opção para ignorar as máquinas já inventariadas, essa marcação aparece quando isso ocorre;
     
     - Inacessível: quando o servidor encontra o IC, mas não consegue trazer as informações;
     
@@ -422,7 +422,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     É possível conectar o componente EVM com qualquer software, mesmo um diferente daqueles que o módulo de Gerenciamento de Eventos normalmente se integra (Nagios, Zabbix e Inventory), desde que os dados enviados (via webservice) seguem um padrão pré-estabelecido.
     
-    Uma vez que os dados são enviados para o Citsmart Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
+    Uma vez que os dados são enviados para o 4biz Event Monitor, podem ser criadas regras (por exemplo, com o EPL do Esper) para que determinados eventos sejam disparados de acordo com alguma condição observada nos dados. 
     
     Exemplo "Folha de Pagamentos": 
     
@@ -446,8 +446,8 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     AuthName "LDAP Authentication"
     AuthType Basic
     AuthBasicProvider ldap
-    AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
-    Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
+    AuthLDAPURL ldap://auth01.clou4biz.com/dc=4biz,dc=com?uid?sub?(objectClass=*)
+    Require ldap-group ou=people,o=4bizco,dc=4biz,dc=com
     Require valid-user
     </Location>
 
@@ -496,13 +496,13 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Para que essa rotina de leitura de e-mails funcione perfeitamente, é necessário realizar os seguintes procedimentos:
     
     1. Instalar a versão do java 7, caso tenha versão inferior a rotina não funcionará;
-    2. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart;
+    2. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz;
     3. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     4. Será apresenta a tela para pesquisa de parâmetros, realizar a pesquisa do parâmetro "23 - SMTP LEITURA - Servidor de entrada de e-mails do Service Desk" e selecionar o mesmo;
     5. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informar o servidor de entrada de e-mail (ex.: orion.egrupo.com.br);
     6. Clicar no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     7. Realizar a pesquisa do parâmetro "24 - SMTP LEITURA - Caixa de entrada de e-mails do Service Desk" e selecionar o mesmo;
-    8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informar o e-mail ou login da conta de e-mail (ex.: suporte.citsmart);
+    8. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, informar o e-mail ou login da conta de e-mail (ex.: suporte.run2biz);
     9. Clicar no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     10. Realizar a pesquisa do parâmetro "25 - SMTP LEITURA - Senha da Caixa de entrada de e-mails do Service Desk" e selecionar o mesmo;
     11. Será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado, no campo valor, a senha da conta de e-mail;
@@ -523,8 +523,8 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     Para que os usuários tenham acesso ao Portal ou ao Portal Smart, deve-se habilitar o mesmo da seguinte forma:
     
-    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz. Feito isso, será apresenta a tela para pesquisa de parâmetros;
-    2. Realizar a pesquisa do parâmetro "46 - Habilitar Portal como tela inicial do Citsmart?" e selecionar o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
+    1. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz. Feito isso, será apresenta a tela para pesquisa de parâmetros;
+    2. Realizar a pesquisa do parâmetro "46 - Habilitar Portal como tela inicial do 4biz?" e selecionar o mesmo. Após isso, será apresentada a tela de registro do parâmetro com o conteúdo referente ao registro selecionado;
     3. No campo valor, informar o valor "S" para habilitar o portal como tela inicial. Feito isso, clicar no botão "Gravar" para efetuar a operação, neste caso a data, hora e usuário serão armazenados automaticamente para uma futura auditoria;
     4. Após configurar o parâmetro, ao logar no sistema, será exibido como tela inicial o Portal.
 
@@ -535,7 +535,7 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     Para habilitar essa pesquisa de satisfação, proceder conforme orientações abaixo:
     
     1. Criar o modelo de e-mail (o modelo de e-mail deve conter a seguinte palavra-chave: ${LINKPESQUISASATISFACAO})
-    2. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros Citsmart;
+    2. Acessar a funcionalidade de Parâmetros do 4biz através da navegação no menu principal Parametrização > Parâmetros 4biz;
     3. Será apresentada a tela de Parâmetros do 4biz, clicar na aba Pesquisa de Parâmetros do 4biz;
     4. Realizar a pesquisa do parâmetro "31 - Envia e-mail na execução dos fluxos de solicitações/incidentes";
     5. Selecionar o mesmo;
@@ -548,9 +548,9 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     O desempenho do sistema é definido como o tempo que o software demora para realizar uma determinada tarefa, visto que esse desempenho é um forte atributo de qualidade percebido pelos usuários do software.
     
-    Existe a capacidade de o sistema funcionar com mais de uma instância, para isso, será necessário utilizar o arquivo de configuração (citsmart.cfg), onde é possível ativar ou inativar rotinas.
+    Existe a capacidade de o sistema funcionar com mais de uma instância, para isso, será necessário utilizar o arquivo de configuração (4biz.cfg), onde é possível ativar ou inativar rotinas.
     
-    Para utilizar essa capacidade, deverá existir o arquivo citsmart.cfg no diretório:
+    Para utilizar essa capacidade, deverá existir o arquivo 4biz.cfg no diretório:
     ```sh
     \jboss\standalone\configuration\ (quando o Jboss sobe como uma única instância)
     \jboss\domain\configuration\ (quando é utilizado cluster, tem domains e hosts)
@@ -574,15 +574,15 @@ Description: Aqui você tem as respostas das pergundas mais comuns quando se fal
     
     8- O uso dos parâmetros abaixo é opcional. Os mesmos fazem a separação do pool de conexão principal com o pool de execução do fluxo, inventário e relatório;
     
-       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do fluxo. Informar o nome do datasource, ex. java:/jdbc/citsmartFluxo).
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do fluxo. Informar o nome do datasource, ex. java:/jdbc/4bizFluxo).
        
-       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do inventário. Informar o nome do datasource, ex.: java:/jdbc/citsmart_inventory).
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource do inventário. Informar o nome do datasource, ex.: java:/jdbc/4biz_inventory).
        
-       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource dos relatórios. Informar o nome do datasource, ex.: java:/jdbc/citsmart_reports).
+       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource dos relatórios. Informar o nome do datasource, ex.: java:/jdbc/4biz_reports).
        
     9- O parâmetro abaixo separa o processamento da rotina de eventos BPM em um pool de thread separado do pool de thread principal do sistema, para aliviar no uso de recursos do banco de dados e do servidor.
     
-       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informar o nome do datasource, ex. java: / jdbc / citsmartBpmEvents).
+       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (Este parâmetro define o nome do datasource de eventos BPM. Informar o nome do datasource, ex. java: / jdbc / 4bizBpmEvents).
 
 !!! Question "Como integrar o AD da empresa do cliente no 4biz Enterprise ITSM que está na cloud ofertada pela 4biz Corporation?"
     

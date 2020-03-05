@@ -1,9 +1,9 @@
-Title: Introdução ao Workflow do 4biz
-Description: Visão geral de como criar e gerenciar um fluxo de trabalho no citsmart.
+Title: Introdução ao Tasker do 4biz
+Description: Visão geral de como criar e gerenciar um fluxo de trabalho no 4biz .
 
-# Introdução ao Workflow do 4biz
+# Introdução ao Tasker do 4biz
 
-Fluxos são representações visuais de algo que se move continuamente. Assim, fluxos podem ser usados para representar graficamente um processo ou qualquer ação. Eles podem ser materializados em um papel (documento físico) ou em uma ferramenta eletrônica. No 4biz, a funcionalidade de Workflow tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do 4biz.
+Fluxos são representações visuais de algo que se move continuamente. Assim, fluxos podem ser usados para representar graficamente um processo ou qualquer ação. Eles podem ser materializados em um papel (documento físico) ou em uma ferramenta eletrônica. No 4biz, a funcionalidade de tasker tem a finalidade de modelar seus objetivos de negócio, descrevendo os passos que precisam ser executados para atingir esses objetivos através de um fluxo digital inteligente. É possível criar fluxos de trabalho para auxiliar na gestão de serviços, problemas, mudanças, liberações, ações de continuidade, requisições de viagens e compras. Sendo assim, o fluxo de trabalho possui interação com os principais processos do 4biz.
 
 Os fluxos de trabalho automatizados dão vida às atividades do sistema, proporcionando que as atividades da sua organização sejam digitalizadas e automatizadas. Assim, você pode criar fluxos com controle de tarefas, adicionar notificações, subprocessos e estabelecer comunicação direta com outras aplicações, como é o caso do Builder – que é um framework para a geração de aplicações.
 
@@ -14,10 +14,10 @@ Você vai perceber que tarefas do dia a dia, como realizar um pedido, registrar 
 
 Antes de qualquer coisa você precisa se familiarizar com os conceitos básicos, regras de negócio e interface de utilização. A visualização da funcionalidade do menu do 4biz depende de permissões atribuídas a um perfil de acesso, verifique se você tem essa permissão. Caso não tenha esse acesso liberado um administrador pode conceder esse acesso.
 
-Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à esquerda da tela, e verifique se a primeira opção de acesso é o Menu principal **Workflow**;
+Para saber se seu perfil tem essa permissão, acesso o menu lateral superior à esquerda da tela, e verifique se a primeira opção de acesso é o Menu principal **Tasker**;
 
 
-![workflow menu 4biz][1]
+![Tasker menu 4biz][1]
 
 **Padrão do sistema**
 
@@ -44,7 +44,7 @@ Caso já tenha esse acesso, basta clicar e seleciona a opção de **Desenho de f
 
 Na tela de gerenciamento de fluxo você poderá: Criar um novo Fluxo, Editar, exportar e excluir
 
-![workflow management 4biz][2]
+![Tasker management 4biz][2]
 
 1: **Novo** - clicar para iniciar um novo projeto de fluxo;
 
@@ -109,10 +109,10 @@ Agora você pode criar um fluxo de trabalho, pense em uma necessidade de negóci
 ## Relacionado
 [Conceitos básicos][7]
 
-[1]:images/workflow-menu-citsmart.png
-[2]:images/workflow-management-citsmart.png
-[3]:images/fist-button-citsmart.jpg
-[4]:images/second-button-citsmart.png
-[5]:images/flow-data-citsmart.png
-[6]:images/diagram-citsmart.png
-[7]:/pt-br/4biz-helium/workflow/basic-concepts.html
+[1]:images/tasker-menu-4biz .png
+[2]:images/tasker-management-4biz .png
+[3]:images/fist-button-4biz .jpg
+[4]:images/second-button-4biz .png
+[5]:images/flow-data-4biz .png
+[6]:images/diagram-4biz .png
+[7]:/pt-br/4biz-helium/tasker/basic-concepts.html

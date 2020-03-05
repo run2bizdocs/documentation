@@ -190,5 +190,5 @@ __Caso o cliente não queira utilizar os novos fluxos, a última versão 7.1.0 c
 [17]:/pt-br/4biz-helium/additional-features/smart-analytics/use-bi-solution.html
 [18]:/pt-br/4biz-helium/platform-administration/logs-and-auditing/system-audit.html
 [19]:/pt-br/4biz-helium/platform-administration/security/implement-password-security-rules.html
-[20]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[21]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html
+[20]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[21]:/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html

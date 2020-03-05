@@ -73,7 +73,7 @@ do ambiente. Verificar os tickets e realizar atendimento.
 Relacionado
 -----------
 
-[Manual de utilização do aplicativo 4biz GO](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[Manual de utilização do aplicativo 4biz GO](/pt-br/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 !!! tip "About"
 

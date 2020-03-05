@@ -121,7 +121,7 @@ O início efetivo do atendimento ocorre a partir da captura do ticket para final
 
 **7: Gravar e enviar** - Salva e avança para o próximo estado – do fluxo;
 
-[1]:images/menu-bar-ticket-citsmart.png
+[1]:images/menu-bar-ticket-4biz.png
 [2]:images/tickets-option-ticket.png
 [3]:images/attendance-ticket-comment.png
 [4]:images/attendance-ticket-history.png

@@ -41,7 +41,7 @@ Procedimento
 
     *	Domínio\Usuário:  informar o domínio (local/ldap) e seu usuário;
 
-    Ex.: citsmart.local\nome.sobrenome
+    Ex.: 4biz.local\nome.sobrenome
     
     *	Senha: credencial de acesso ao sistema;
 

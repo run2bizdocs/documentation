@@ -12,7 +12,7 @@ Algumas configurações podem ser tomadas para alterar a exibição padrão dos 
 2. Alterar o valor, indicando o caminho da pasta com a imagem;
 
 	```sh
-    /citsmart/images/logo/logo-header.png
+    /4biz/images/logo/logo-header.png
     ```
 	
 3. Salvar.

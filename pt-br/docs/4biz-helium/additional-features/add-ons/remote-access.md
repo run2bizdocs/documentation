@@ -32,7 +32,7 @@ instalar o guacamole-client, uma vez que o 4biz utiliza apenas a daemon do Guaca
 5. Realizar a configuração substituindo as variáveis pelas informações de seu servidor;
     
     ```java
-    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
+    java -Durl=${4biz_PROTOCOL}://${4biz_URL}/4biz -DcontainerIdentifier=${4bizGUACD_ID} -DuserName=4biz.local\\${4biz_LOGIN} -Dpassword=${4biz_PASSWORD} -jar /4biz-guacd-encoder.jar &
     ```
     
 6. Definir o diretório para gravação dos vídeos (ex. /mp4);
@@ -65,5 +65,5 @@ Com o serviço do GuaCD ativo e comunicável, o próximo passo é acessar remota
 [3]:https://www.tightvnc.com/
 [4]:/pt-br/4biz-helium/processes/configuration/configuration/configure-remote-access.html
 [5]:/pt-br/4biz-helium/processes/configuration/overview.html
-[6]:https://docs.citsmart.com/pt-br/4biz-helium/additional-features/add-ons/inventory.html
+[6]:https://docs.run2biz.com/pt-br/4biz-helium/additional-features/add-ons/inventory.html
 
