@@ -10,7 +10,7 @@ This feature is a good alternative for creating workflows in the standard BPMN (
 
 ## Procedure
 
-1. Access the main menu Workflow /> Process modeling;
+1. Access the main menu Tracker /> Process modeling;
 
 2. Click on "New";
 

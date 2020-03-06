@@ -117,7 +117,7 @@ When creating a knowledge, 4biz will always establish version "1.0" and, when ch
 !!! warning "ATTENTION"
     Pay attention when using “Public” privacy, as there is a risk of making documents inappropriately available. This scenario disregards the access profile configuration and releases document access for all users.
 
-!!! note "Approval Workflow"
+!!! note "Approval Tracker"
     The end user can propose new Documents/Knowledge on the floating button of the Knowledge Portal, the Document is saved in the folder indicated by Parameter 313 of the system. The knowledge Manager searches for unpublished documents or in the indicated folder and, as the approval progresses, the document will gain other statuses.
 
 ### Related

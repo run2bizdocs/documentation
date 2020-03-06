@@ -22,7 +22,7 @@ parameterization rules.
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Workflow \> Flow Design;
+1.  Access the functionality through the main menu Tracker \> Flow Design;
 
 2.  Select the request approval flow and click on "Edit";
 
@@ -67,7 +67,7 @@ Related
 
 [Register user](/en-us/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Workflow](/en-us/4biz-helium/workflow/overview.html)
+[Tracker](/en-us/4biz-helium/tracker/overview.html)
 
 [Configure parametrization – email](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-email.html)
 

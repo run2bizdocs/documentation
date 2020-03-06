@@ -55,7 +55,7 @@ Related
 
 [Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Create workflow](/en-us/4biz-helium/workflow/use/create-flow.html)
+[Create tracker](/en-us/4biz-helium/tracker/use/create-flow.html)
 
 [Configure access permission of request/incident management](/en-us/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 

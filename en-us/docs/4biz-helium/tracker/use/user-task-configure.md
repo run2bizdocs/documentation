@@ -18,7 +18,7 @@ To use the "User Activity" element, it's necessary to have, at least, a register
 Procedure
 ------------
 
-1.	Access the main menu Workflow > Flow Design;
+1.	Access the main menu Tracker > Flow Design;
 2.	Click on "New”;
 3.	Click on the Diagram tab and then on Activity;
 4.	Click on the User Task element and drag it to the workflow creation panel;

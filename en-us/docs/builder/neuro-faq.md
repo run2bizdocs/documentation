@@ -29,7 +29,7 @@ Description: 4biz - FAQ
 
 !!! Question "I would like to know if every workflow must have a business process?"
 
-	Not every workflow must have or needs a business process. Every Main Workflow needs a business process, however the sub-processes don't require other business processes.
+	Not every workflow must have or needs a business process. Every Main Tracker needs a business process, however the sub-processes don't require other business processes.
 
 	In addition, this this rule only applies to process integration flows. The service integration flows do not require a related business process.
 

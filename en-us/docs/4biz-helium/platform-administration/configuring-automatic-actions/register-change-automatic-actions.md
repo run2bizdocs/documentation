@@ -39,7 +39,7 @@ Related
 
 [Register unit](/en-us/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Create workflow](/en-us/4biz-helium/workflow/use/create-flow.html)
+[Create tracker](/en-us/4biz-helium/tracker/use/create-flow.html)
 
 [Configure parametrization - change](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-change.html)
 

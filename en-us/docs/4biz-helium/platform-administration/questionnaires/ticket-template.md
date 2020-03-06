@@ -61,7 +61,7 @@ Procedure
 Related
 -----------
 
-[Create workflow](/en-us/4biz-helium/workflow/use/create-flow.html)
+[Create tracker](/en-us/4biz-helium/tracker/use/create-flow.html)
 
 [Register questionnaire](/en-us/4biz-helium/platform-administration/questionnaires/questionaires-management/register-questionnaire.html)
 

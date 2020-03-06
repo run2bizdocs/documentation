@@ -8,7 +8,7 @@ Description: It's possible to create workflows that best fit to the users' reali
 Procedure
 ------------
 
-1.  Access the main menu Workflow \> Flow Design;
+1.  Access the main menu Tracker \> Flow Design;
 
 2.  Click on "New";
 

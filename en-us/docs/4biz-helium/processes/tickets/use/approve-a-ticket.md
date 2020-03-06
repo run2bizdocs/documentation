@@ -1,5 +1,5 @@
 title: Approve a ticket
-Description: In some cases, the tickes of type "Request" will pass through an approval phase to its execution. This will depend on the ticket workflow, which is linked to the service request activity 
+Description: In some cases, the tickes of type "Request" will pass through an approval phase to its execution. This will depend on the ticket tracker, which is linked to the service request activity 
 # Approve a ticket  
 
 When a ticket has an approval activity, you can confirm or 
@@ -56,7 +56,7 @@ Related
 
 [Configure access permission of request/incident management](/en-us/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 
-[Create workflow](/en-us/4biz-helium/workflow/use/create-flow.html)
+[Create tracker](/en-us/4biz-helium/tracker/use/create-flow.html)
 
     
    <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'

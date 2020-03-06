@@ -1,9 +1,9 @@
-Title: Introduction to 4biz Workflow
+Title: Introduction to 4biz Tracker
 Description: Overview about the creation and management of a 4biz workflow.
 
-# Introduction to 4biz Workflow
+# Introduction to 4biz Tracker
 
-Flows are visual representations of something that moves continuously. Therefore, flows can be used to graphically represent a process or any action. They can be materialized on paper (physical document) or an electronic tool. At 4biz, the Workflow functionality is designed to model your business goals by outlining the steps you need to take to achieve those goals through a smart digital flow. It's possible to create workflows to assist with the management of services, problems, changes, releases, continuity actions, travel requests, and purchasing. Moreover, the workflow has interaction with the main 4biz processes.
+Flows are visual representations of something that moves continuously. Therefore, flows can be used to graphically represent a process or any action. They can be materialized on paper (physical document) or an electronic tool. At 4biz, the Tracker functionality is designed to model your business goals by outlining the steps you need to take to achieve those goals through a smart digital flow. It's possible to create workflows to assist with the management of services, problems, changes, releases, continuity actions, travel requests, and purchasing. Moreover, the workflow has interaction with the main 4biz processes.
 
 Automated workflows bring system activities to life, enabling your organization's activities to be digitized and automated. Furthermore, you can create task-controlled flows, add notifications, subprocesses and establish direct communication with other applications, such as Builder - which is a framework for the creation of application.
 
@@ -14,14 +14,14 @@ You will find that everyday tasks such as ordering something, registering a tick
 
 First of all you need to familiarize yourself with the basics concepts, business rules and user interface. The visualization of this functionality in the 4biz menu depends on permissions assigned to an access profile, make sure you have this permission. If you don't have this access, a manager can grant this access for you.
 
-To find out if your profile has this permission, access the menu on the left side of the screen, and make sure the first access option is the main menu **Workflow**;
+To find out if your profile has this permission, access the menu on the left side of the screen, and make sure the first access option is the main menu **Tracker**;
 
 
-![4biz workflow menu][1]
+![4biz tracker menu][1]
 
 **System standard**
 
-1: Creating a Workflow;
+1: Creating a Tracker;
 
 2: Building Expressions;
 
@@ -44,7 +44,7 @@ If you already have this access, click and select the option **Flow Design** to 
 
 In the flow management screen you can: create, edit, export and delet a Flow.
 
-![workflow management 4biz][2]
+![tracker management 4biz][2]
 
 1: **New** - click on it to star a new flow project;
 
@@ -107,10 +107,10 @@ In the Documentation tab you will be able to generate a document with all the in
 Now you can create a workflow, think about a business need and the actors involved on it. Take a look at our documentation, it will help you on this journey.
 
 ## Related
-[Basic concepts](https://docs.run2biz.com/en-us/4biz-helium/workflow/basic-concepts.html)
+[Basic concepts](https://docs.run2biz.com/en-us/4biz-helium/tracker/basic-concepts.html)
 
-[1]:images/workflow-menu-citsmart.png
-[2]:images/workflow-management-citsmart.png
+[1]:images/tracker-menu-citsmart.png
+[2]:images/tracker-management-citsmart.png
 [3]:images/fist-button-citsmart.jpg
 [4]:images/second-button-citsmart.jpg
 [5]:images/flow-data-citsmart.png

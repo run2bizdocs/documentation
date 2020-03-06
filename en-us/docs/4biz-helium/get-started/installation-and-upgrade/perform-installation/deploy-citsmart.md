@@ -4,9 +4,9 @@ Title: Deploying 4biz
 
 Download the 4biz and Builder WAR package from the partner portal. Send to server using scp to the folder /tmp. 4biz installation consists of the following steps:
 
-1. Deploy 4biz Workflow package
+1. Deploy 4biz Tracker package
 2. Deploy Builder package
-3. Perform initial setup of 4biz Workflow
+3. Perform initial setup of 4biz Tracker
 
 Unzip the 4biz Workflow package if it's in .zip format:
 

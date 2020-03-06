@@ -21,7 +21,7 @@ This feature allows the configuration of an audible alarm to signal to the atten
 
 ### Put the "Notification" element in the flow
 
-1. Access the main menu Workflow > Flow Design;
+1. Access the main menu Tracker > Flow Design;
 2. Select and edit the flow;
 3. In the "Diagram" tab, click on the item "Extensions" click and hold the item "Notification" and drag to the Design area;
 4. Double click on the "Notification" icon, and then on "Configuration";
