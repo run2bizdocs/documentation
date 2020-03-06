@@ -17,4 +17,4 @@ Conforme já informado anteriormente, as etapas de instalação em ambientes loc
 
 [Download e Instalação do JDK][1]
 
-[1]:/pt-br/4biz-helium/get-started/installation-and-upgrade/perform-installation/install-jdk.html
+[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/install-jdk.html
