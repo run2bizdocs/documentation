@@ -1,5 +1,5 @@
-Title: Builder AddOns
-Description: AddOns del Builder para 4biz.
+Title: Neuro AddOns
+Description: AddOns del Neuro para CITSmart.
 
 # AddOns
 
@@ -11,24 +11,24 @@ Description: AddOns del Builder para 4biz.
 ??? example "Por medio de esta funcionalidad, es posible personalizar la pantalla de inclusión de instancias creando un timesheet del ticket.  En la nueva pantalla, los campos Fecha y hora se reemplazaron por "Fecha y hora de inicio" y "Fecha y hora final". (Haga clic aquí para más detalles)"
 
     ```tab="Configuración"
-    Conexión y Paquete del Builder AddOn Ticket History
-    -   Crear una conexión de base de datos "itsm" en Builder / Configuration / Database connection
+    Conexión y Paquete del Neuro AddOn Ticket History
+    -   Crear una conexión de base de datos "itsm" en Neuro / Configuration / Database connection
     -   Copiar y guardar el JSON adjunto a un archivo ".json" 
-    -   Importar el archivo creado en Builder / Management / Package:
+    -   Importar el archivo creado en Neuro / Management / Package:
         1.  Hacer clic en “Import”
         2.  Seleccionar o arrastrar el paquete a la modal, marcar la opción "Execute DDL" y hacer clic en "Import"
         3.  Esperar el mensaje de importación del paquete
 
     Personalizar la pantalla de creación de ocurrencias de los tickets
-    -   Crear la plantilla de visualización asociada al formulario Builder "ticketOccurrenceNotes". La página del template es del tipo default
+    -   Crear la plantilla de visualización asociada al formulario Neuro "ticketOccurrenceNotes". La página del template es del tipo default
     -   Asociar la plantilla de visualización o plantilla de seguimiento en el portafolio
 
-    IMPORTANTE : Para versiones Builder anteriores a 1.3.0.0, ejecute las secuencias de comandos de base de datos:
+    IMPORTANTE : Para versiones Neuro anteriores a 1.3.0.0, ejecute las secuencias de comandos de base de datos:
     alter table ocorrenciasolicitacao add starttime timestamp;
     alter table ocorrenciasolicitacao add endtime timestamp;
 
     Agregar el formulario Ticket History a la pantalla de tickets
-    -  Crear la plantilla de visualización asociada al formulario Builder "ticketHistory" (La página del template es del tipo CRUD)
+    -  Crear la plantilla de visualización asociada al formulario Neuro "ticketHistory" (La página del template es del tipo CRUD)
     -  Asociar la plantilla de visualización en el portafolio
     ```
 
@@ -40,7 +40,7 @@ Description: AddOns del Builder para 4biz.
 
 !!! tip "About"
 
-    <b>Produto/Versão:</b> 4biz | Helium</font> &nbsp; &nbsp;
+    <b>Produto/Versão:</b> CITSmart | 8.00</font> &nbsp; &nbsp;
     <b>Atualização:</b> 09/05/2019 - André L. Fernandes
 
 

@@ -1,5 +1,5 @@
 Title: Glossário
-Description: Glossário 4biz
+Description: Glossário CITsmart
 
 # Glossário
 
@@ -223,9 +223,7 @@ Uma pessoa que usa o Serviço de TI no dia-a-dia. Usuários são diferentes de c
 Uma Versão é usada para identificar uma Baseline de um Item de Configuração. Versões tipicamente usam uma convenção de nomes que permite identificar a sequência ou data de cada Linha de Base. Por exemplo: o aplicativo folha de pagamentos versão 3 contém funcionalidades melhoradas em relação à versão 2.
 
 
-
 !!! tip "About"
 
-
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - Anna Martins

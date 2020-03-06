@@ -1,13 +1,13 @@
 Title: Store information in dialogues
 # Store information in dialogues
 
-Many times, the user during a dialogue, provides us information that will be used at another time for a better understanding of the user's interest. Helper recognizes this information as Attributes.
+Many times, the user during a dialogue, provides us information that will be used at another time for a better understanding of the user's interest. Anuva recognizes this information as Attributes.
 
-In a conversation, for example, in which the user requests that Helper inform which Italian restaurants exist within 10 km distance, we can have three attributes: type of establishment, category and distance.
+In a conversation, for example, in which the user requests that Anuva inform which Italian restaurants exist within 10 km distance, we can have three attributes: type of establishment, category and distance.
 
 In this case, we create Attributes that are able to store this information to respond more accurately to the user.
 
-Attribute types define the format of the information that can be saved in it. Helper works with the following types:
+Attribute types define the format of the information that can be saved in it. Anuva works with the following types:
 
  - Text slot: where you can add text-type values;
 

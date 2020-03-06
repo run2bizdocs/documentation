@@ -2,9 +2,9 @@ title: Builder Application
 Description: Builder Application
 # Builder Application
 
-Builder Application is a composition of elements that interact with each other in order to compose a set of functionalities integrated with Citsmart and legacy systems. 
+Builder Application is a composition of elements that interact with each other in order to compose a set of functionalities integrated with 4biz and legacy systems. 
 
-The main elements of the Citsmart Builder are Business object, Business Rules, Forms, Flows and Business Processes
+The main elements of the 4biz Builder are Business object, Business Rules, Forms, Flows and Business Processes
 
 Before getting started
 ----------------------
@@ -34,7 +34,7 @@ Procedure
     All the fields in the Items list will be used as filter to restrict the items listed.
 
 
-![APP NEURO](images/builder-4.png)
+![APP Builder](images/builder-4.png)
 
 Figure 1 - Builder application
 

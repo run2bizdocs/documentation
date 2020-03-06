@@ -8,7 +8,7 @@ Este campo se selecciona cuando se crea un nuevo atributo de un objeto de negoci
 
 ## Cómo acceder 
 
-1- Acceda a la funcionalidad a través de la navegación en el menú Builder > Configuración > Tipo de dato.    
+1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Configuración > Tipo de dato.    
 
 ## Condiciones previas 
 

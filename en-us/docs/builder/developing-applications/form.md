@@ -34,7 +34,7 @@ resources.
 
    -  **Task page**
 
-       * Run through a created Workflow/ESI Design, rendering a builder form on the
+       * Run through a created Workflow/ESI Design, rendering a Builder form on the
          ticket screen.
 
    -  **Report page**

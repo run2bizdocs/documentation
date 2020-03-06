@@ -1,13 +1,13 @@
 Title: Banco de dados  
-Description:Através dessa tela é realizado o cadastro dos bancos de dados que são utilizados pelo Builder.  
+Description:Através dessa tela é realizado o cadastro dos bancos de dados que são utilizados pelo Neuro.  
 
 # Database  
 
-Através dessa tela é realizado o cadastro dos bancos de dados que são utilizados pelo Builder.    
+Através dessa tela é realizado o cadastro dos bancos de dados que são utilizados pelo Neuro.    
 
 ##Como acessar    
 
-1. Acesse a funcionalidade através da navegação no menu Builder > Configuração > Banco de dados.    
+1. Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Banco de dados.    
 
 ##Pré-condições  
 

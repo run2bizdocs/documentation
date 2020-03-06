@@ -1,12 +1,12 @@
-Title: Guía de contribución del 4biz Docs
+Title: Guía de contribución del CITSmart Docs
 
-# Guía de contribución del 4biz Docs
+# Guía de contribución del CITSmart Docs
 
-4biz Docs es un trabajo incesante de documentación de nuestros productos. Entendemos que la experiencia de nuestra comunidad en el uso de la plataforma es la parte más enriquecedora. Por eso, aquí explicamos cómo usted puede contribuir con nuestras documentaciones de forma transparente y abierta.
+CITSmart Docs es un trabajo incesante de documentación de nuestros productos. Entendemos que la experiencia de nuestra comunidad en el uso de la plataforma es la parte más enriquecedora. Por eso, aquí explicamos cómo usted puede contribuir con nuestras documentaciones de forma transparente y abierta.
 
-Las documentaciones de 4biz están disponibles públicamente en [GitHub](https://github.com/citsmartdocs/). Es a través de él que usted podrá editar los documentos existentes, crear nuevos documentos o incluso sugerir mejoras para nuestro portal.
+Las documentaciones de CITSmart están disponibles públicamente en [GitHub](https://github.com/citsmartdocs/). Es a través de él que usted podrá editar los documentos existentes, crear nuevos documentos o incluso sugerir mejoras para nuestro portal.
 
-Gracias por acceder a la página de contribución de 4biz Docs.
+Gracias por acceder a la página de contribución de CITSmart Docs.
 
 ## Editando documentos existentes
 
@@ -18,7 +18,7 @@ Para empezar:
 
  
 
-1) Acceda al repositorio de documentos de 4biz en GitHub: https://gitbub.com/citsmartdocs.
+1) Acceda al repositorio de documentos de CITSmart en GitHub: https://gitbub.com/citsmartdocs.
 
 2) Haga clic en "Sign In" en la parte superior de la página y entre con un usuario y una contraseña.
 
@@ -64,7 +64,7 @@ La creación de un usuario en la plataforma Github es gratuita.
 
 El markdown permite que los usuarios sin conocimientos en lenguaje de programación puedan escribir documentos en formato HTML. Es un lenguaje simple para usuarios finales.
 
-Siga nuestro [guía de escrita en Markdown](https://docs.run2biz.com/es-es/markdown.html) para descubrir cómo escribir nuestros documentos.
+Siga nuestro [guía de escrita en Markdown](https://docs.citsmart.com/es-es/markdown.html) para descubrir cómo escribir nuestros documentos.
 
  
 

@@ -8,7 +8,7 @@ Los flujos de integración de servicios, como el propio nombre dice, involucra w
 
 ## Cómo acceder    
 
-1- Acceda a la funcionalidad a través del menú Builder > Administración > Flujo de integración.     
+1- Acceda a la funcionalidad a través del menú Neuro > Administración > Flujo de integración.     
 
 ## Condiciones previas    
 
@@ -48,7 +48,7 @@ Figura 3 - Pantalla de registro
 
 Figura 4 - Pantalla de registro/edición del workflow, pestaña de Datos del Flujo    
 
-4- Introduzca un nombre para el flujo, una descripción, que formulario comenzará el flujo (en su caso), y si persiste o no la ejecución del flujo. Si el campo "Persiste la ejecución del flujo" se marca, el Builder persistirá en la base de datos de toda instancia de la ejecución de este flujo.    
+4- Introduzca un nombre para el flujo, una descripción, que formulario comenzará el flujo (en su caso), y si persiste o no la ejecución del flujo. Si el campo "Persiste la ejecución del flujo" se marca, el Neuro persistirá en la base de datos de toda instancia de la ejecución de este flujo.    
 
 5- El campo de versión se incrementa automáticamente por el sistema cada vez que se crea una nueva versión del workflow.    
 
@@ -71,12 +71,12 @@ Figura 5 - Pantalla de registro/edición del workflow, pestaña de Variables
 
 - Se almacenará en la base de datos;  
 
-     * Esta opción almacenará el valor de la variable internamente dentro del modelo de datos de Builder, por lo que conservará el valor
+     * Esta opción almacenará el valor de la variable internamente dentro del modelo de datos de Neuro, por lo que conservará el valor
      durante la ejecución de las tareas  
 
 - Si es una variable de retorno;  
 
-     * Esta opción hará que Builder devuelve la variable al final de la ejecución del flujo.  
+     * Esta opción hará que Neuro devuelve la variable al final de la ejecución del flujo.  
 
 - Si es una lista de valores;
 
@@ -144,7 +144,7 @@ Para un proceso de negocio, poseemos más las secciones de componentes:
 - Conectores: componentes utilizados para la ejecución de operaciones relacionadas con la base de datos.  
 - Componentes: componentes variados para la ejecución de diversas tareas.  
 - Transformadores: componentes para la conversión de tipos de variables.  
-- 4biz ITSM: componentes utilizados para la integración con un sistema 4biz ITSM externo.   
+- CITSmart ITSM: componentes utilizados para la integración con un sistema CITSmart ITSM externo.   
 
 Los demás componentes presentes en la paleta se asemejan a los componentes de un "Flujo de proceso". Más información sobre la funcionalidad y el uso de cada uno de los componentes se pueden encontrar en el desarrollo de aplicaciones.    
 

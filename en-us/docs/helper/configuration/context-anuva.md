@@ -1,7 +1,7 @@
-Title: Creating contexts to Helper
-# Creating contexts to Helper
+Title: Creating contexts to Anuva
+# Creating contexts to Anuva
 
-The dialogues are immersed in contexts. Equal words can have different meanings depending on the context. In order to increase accuracy in homonyms situations and avoid repetition of sentences because of synonyms, it is possible to register a context basis for Helper to distinguish homonyms and the correlation between synonyms.
+The dialogues are immersed in contexts. Equal words can have different meanings depending on the context. In order to increase accuracy in homonyms situations and avoid repetition of sentences because of synonyms, it is possible to register a context basis for Anuva to distinguish homonyms and the correlation between synonyms.
 
 Procedure
 -----------
@@ -17,7 +17,7 @@ Procedure
 !!! Abstract "NOTE"
 
     It is necessary to link the contexts to the sentences of Interest within the Dialogue, 
-    so that the information is processed by Helper
+    so that the information is processed by Anuva
     
     
 !!! tip "About"

@@ -1,7 +1,7 @@
-title: How to train Helper
-# How to train Helper
+title: How to train Anuva
+# How to train Anuva
 
-In the Training screen, it is possible to schedule updates so that your Helper can interact with the user 
+In the Training screen, it is possible to schedule updates so that your Anuva can interact with the user 
 considering the last added knowledge. This functionality allows scheduling the training according to your 
 need and can even define recurrence.
 
@@ -24,8 +24,8 @@ Procedure
 !!! Abstract "NOTE"
     
     The duration of the training will depend on the volume of dialogues registered, but do not worry, 
-    once the training is completed, Helper will be updated automatically. At any time, you can start a 
-    conversation with Helper to check the effectiveness of its interactions by clicking on the floating 
+    once the training is completed, Anuva will be updated automatically. At any time, you can start a 
+    conversation with Anuva to check the effectiveness of its interactions by clicking on the floating 
     icon located in the lower right corner of the screen. Remembering that it will reflect the knowledge 
     added until the last training.
 
@@ -33,9 +33,9 @@ Procedure
 Related
 -----------
 
-[How to teach Helper](/en-us/helper/use/teach-helper.html)
+[How to teach Anuva](/en-us/anuva/use/teach-anuva.html)
 
-[Monitor Helper interactions](/en-us/helper/use/monitoring-helper.html)
+[Monitor Anuva interactions](/en-us/anuva/use/monitoring-anuva.html)
 
 !!! tip "About"
 

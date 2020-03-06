@@ -2,9 +2,9 @@ Title: Enable Builder
 
 # Enable Builder
 
-For 4biz/Builder integration to work:
+For 4bizbuilder integration to work:
 
-- The 4biz version is 8.0.0.0 or higher
+- The 4biz version is Helium or higher
 - 4biz configured for HTTPS access: //
 - The integration parameters are configured in the 4biz 
 
@@ -25,7 +25,7 @@ For 4biz/Builder integration to work:
 - **Parameter 311:**
 
     ```sh
-    citsmart.local\builder.user
+    4biz.local\Builder.user
     ```
 
-[1]:images/builder-conection.png
+[1]:imagesbuilder-conection.png

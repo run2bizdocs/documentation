@@ -2,12 +2,12 @@ title: Dominio
 Description: Dominio
 # Dominio
 
-Builder permite definir dominios que serán utilizados por todas las aplicaciones de la institución. El identificador (clave) agrupa los elementos del Dominio.
+Neuro permite definir dominios que serán utilizados por todas las aplicaciones de la institución. El identificador (clave) agrupa los elementos del Dominio.
 
 Procedimiento
 -----------
 
-1.  Acceder al menú de navegación Builder > Configuración > Dominio;
+1.  Acceder al menú de navegación Neuro > Configuración > Dominio;
 
 2.  Hacer clic en “Registro”;
 
@@ -20,16 +20,16 @@ Procedimiento
 1.  Hacer clic en “Guardar”.
 
 
-![search](images/builder-7.png)
+![search](images/neuro-7.png)
 
 Figura 1 - Búsqueda de dominio
 
 
-![search](images/builder-8.png)
+![search](images/neuro-8.png)
 
 Figura 2 -Registro de dominio
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

@@ -1,7 +1,7 @@
-Title: Cómo interactuar Helper con otras interfaces
-# Cómo interactuar Helper con otras interfaces
+Title: Cómo interactuar Anuva con otras interfaces
+# Cómo interactuar Anuva con otras interfaces
 
-Para que Helper interactúe con otros sistemas, es necesario agregar en el diálogo una habilidad personalizada.
+Para que Anuva interactúe con otros sistemas, es necesario agregar en el diálogo una habilidad personalizada.
 
 La consulta se realiza a través de una API Rest, la cual necesita ser puesta a disposición por el sistema que detenta la información de interés del usuario. Ej.: buscar información sobre el estado de un ticket, creación de tickets, generación de boletos en el sistema.
 
@@ -27,13 +27,13 @@ Procedimiento
   
 !!! Abstract "NOTA"
 
-    La integración necesita ser homologada por la 4biz, siendo así que después de 
+    La integración necesita ser homologada por la CITSmart, siendo así que después de 
     configurar esta habilidad es necesario abrir un ticket para que la hagamos la 
     homologación de la integración.
     
     
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
    

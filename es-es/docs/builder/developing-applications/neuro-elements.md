@@ -1,8 +1,8 @@
-Title: Elementos Builder
+Title: Elementos Neuro
 
-# Elementos Builder
+# Elementos Neuro
 
-![Builder Elements][1]
+![Neuro Elements][1]
 
 De una manera sencilla, podemos definir la interacción entre elementos como:
 
@@ -10,4 +10,4 @@ De una manera sencilla, podemos definir la interacción entre elementos como:
 2. Formularios son el camino de la interfaz e interactúan con el Objeto de Negocio, además de que los recursos pueden enriquecer la interfaz con UX o lógica y programación;
 3. Formularios se conectarán con Flujos SM y Flujo ESI, haciendo interfaz con sistemas y bases de datos.
 
-[1]:images/builder-elements.png
+[1]:images/neuro-elements.png

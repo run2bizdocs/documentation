@@ -1,14 +1,14 @@
-Title: Enable Builder
+Title: Enable Neuro
 
-# Enable Builder
+# Enable Neuro
 
-For 4biz/Builder integration to work:
+For CITSmart/Neuro integration to work:
 
-- The 4biz version is 8.0.0.0 or higher
-- 4biz configured for HTTPS access: //
-- The integration parameters are configured in the 4biz
+- The CITSmart version is 8.0.0.0 or higher
+- CITSmart configured for HTTPS access: //
+- The integration parameters are configured in the CITSmart
 
-![Builder Conection][1]
+![Neuro Conection][1]
 
 - **Parameter 309:**
 
@@ -25,7 +25,7 @@ For 4biz/Builder integration to work:
 - **Parameter 311:**
 
     ```sh
-    citsmart.local\builder.user
+    citsmart.local\neuro.user
     ```
 
-[1]:images/builder-conection.png
+[1]:images/neuro-conection.png

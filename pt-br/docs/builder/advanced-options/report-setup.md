@@ -7,7 +7,7 @@ Essas informações são preenchidas automaticamente a partir do cadastro do arq
 
 ## Como acessar 
 
-1. Acesse a funcionalidade através do menu Builder > Gerenciamento > Relatório.
+1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Relatório.
 
 ## Pré-condições
 

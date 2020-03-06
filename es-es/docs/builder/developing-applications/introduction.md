@@ -1,33 +1,33 @@
-title: Pasos para implementar la Solución Builder
-Description: Pasos para implementar la Soluión Builder
-# Pasos para implementar la Soluión Builder
+title: Pasos para implementar la Solución Neuro
+Description: Pasos para implementar la Soluión Neuro
+# Pasos para implementar la Soluión Neuro
 
 
-![create builder app](images/builder-1.png)
+![create neuro app](images/neuro-1.png)
 
-Figura 1 - Crear aplicación Builder
+Figura 1 - Crear aplicación Neuro
 
 
-![business](images/builder-2.png)
+![business](images/neuro-2.png)
 
 Figure 2 - Objeto de negocios
 
 
 !!! Abstract "ATENCIÓN"
 
-    Los pasos se pueden encontrar en la documentación 4biz (docs.run2biz.com).
+    Los pasos se pueden encontrar en la documentación CITSmart (docs.citsmart.com).
 
 ## Diseñar App
 
 
-Para un mejor desarrollo de las aplicaciones Builder, es necesario el **diseño anterior de las necesidades, requerimientos que la aplicación atenderá**, además de incluir el modelo de entidades de los datos que recorrerán la aplicación.
+Para un mejor desarrollo de las aplicaciones Neuro, es necesario el **diseño anterior de las necesidades, requerimientos que la aplicación atenderá**, además de incluir el modelo de entidades de los datos que recorrerán la aplicación.
 
-Una búsqueda de las **interfaces deseadas** y, si Builder es la opción de usar datos para servicios, el **diseño de los servicios** que serán automatizados.
+Una búsqueda de las **interfaces deseadas** y, si Neuro es la opción de usar datos para servicios, el **diseño de los servicios** que serán automatizados.
 
-## Configuración Builder
+## Configuración Neuro
 
 
-Después de Dibujar la Aplicación reuniendo la información referente a las entidades de datos de su Aplicación Builder, usted irá:
+Después de Dibujar la Aplicación reuniendo la información referente a las entidades de datos de su Aplicación Neuro, usted irá:
 
 1.  Crear su BASE DE DATOS DE CONEXIÓN y su entrada APLICACIÓN NEURO;
 
@@ -37,7 +37,7 @@ Después de Dibujar la Aplicación reuniendo la información referente a las ent
 
 4.  Si tiene formularios que utilizarán varios idiomas, creará las CLAVES DE INTERNACIONALIZACIÓN, labels que se utilizarán para todos los campos en sus formularios.
 
-## Desarrollo Builder
+## Desarrollo Neuro
 
 
 El paso de configuración nos preparará para desarrollar la aplicación:
@@ -46,18 +46,18 @@ El paso de configuración nos preparará para desarrollar la aplicación:
 
 2.  Crear FORMULARIOS relacionados a su Negocio.
 
-## Conexión 4biz Experience
+## Conexión CITSmart Experience
 
 
 Después de haber creado sus Objetos de Negocio y Formularios, usted podrá:
 
 1.  VINCULAR EL FORMULARIO A UN SERVICIO como necesario, o
 
-2.  VINCULAR EL FORMULARIO AL MENÚ 4biz Experience O A UN CENTRO DE EXPERIENCIA, esto hará que pueda mantener tablas y datos adicionales que no se utilizarán en la apertura de un ticket
+2.  VINCULAR EL FORMULARIO AL MENÚ CITSmart Experience O A UN CENTRO DE EXPERIENCIA, esto hará que pueda mantener tablas y datos adicionales que no se utilizarán en la apertura de un ticket
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  

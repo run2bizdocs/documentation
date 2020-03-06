@@ -3,7 +3,7 @@ Description: Steps to Implement Builder Solution
 # Steps to Implement Builder Solution
 
 
-![create builder app](images/builder-1.png)
+![create Builder app](images/builder-1.png)
 
 Figure 1 - Create Builder Application
 
@@ -15,7 +15,7 @@ Figure 2 - Business Objects
 
 !!! Abstract "ATTENTION"
 
-    The steps can be found in the 4biz documentation (docs.run2biz.com).
+    The steps can be found in the 4biz documentation (docs.4biz.com).
 
 ## Design App
 
@@ -34,7 +34,7 @@ use data for services, the **design of the services** that will be automated.
 After Designs the Application gathering the information regarding the data
 entities of your Builder Application you will:
 
-1.  Create your *DATABASE CONNECTION* and your *NEURO APPLICATION* entry;
+1.  Create your *DATABASE CONNECTION* and your *Builder APPLICATION* entry;
 
 2.  Verify if you will be going to use any common *DOMAIN* for your installation
     and create if it´s necessary;

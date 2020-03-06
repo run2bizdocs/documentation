@@ -2,17 +2,17 @@ title: Internacionalización
 Description: Internacionalización
 # Internacionalización
 
-Builder utiliza labels (claves) para hacer la internacionalización de los formularios. Cada campo asignado en el formulario puede utilizar una label y estas labels se adjuntan a una clave de internacionalización, las claves se conectan a la aplicación Builder.
+Neuro utiliza labels (claves) para hacer la internacionalización de los formularios. Cada campo asignado en el formulario puede utilizar una label y estas labels se adjuntan a una clave de internacionalización, las claves se conectan a la aplicación Neuro.
 
 Antes de empezar
 --------------
 
-Es necesario tener creado la Aplicación Builder.
+Es necesario tener creado la Aplicación Neuro.
 
 Procedimiento
 ------------
 
-1.  Acceder al menú de navegación Builder > Configuración > Internacionalización;
+1.  Acceder al menú de navegación Neuro > Configuración > Internacionalización;
 
 2.  Hacer clic en “Registro";
 
@@ -28,17 +28,17 @@ Procedimiento
     Crear una clave para cada idioma.
 
 
-![internationalization](images/builder-5.png)
+![internationalization](images/neuro-5.png)
 
 Figura 1 - Internacionalización
 
 
-![internationalization](images/builder-6.png)
+![internationalization](images/neuro-6.png)
 
 Figura 2 - Datos del internacionalización
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

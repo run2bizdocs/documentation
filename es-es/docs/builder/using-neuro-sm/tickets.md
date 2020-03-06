@@ -1,8 +1,8 @@
-title: Uso de aplicaciones Builder en Tickets
-Description: Uso de aplicaciones Builder en Tickets
-# Uso de aplicaciones Builder en Tickets
+title: Uso de aplicaciones Neuro en Tickets
+Description: Uso de aplicaciones Neuro en Tickets
+# Uso de aplicaciones Neuro en Tickets
 
-Hay dos formas de interfaz Builder con un Ticket:
+Hay dos formas de interfaz Neuro con un Ticket:
 
 1.  Puede crear un **formulario que será una fuente de información para el proceso** de una solicitud, por lo que podrá:
 
@@ -10,19 +10,19 @@ Hay dos formas de interfaz Builder con un Ticket:
 
   b)  Crear una plantilla SM;
     
-   ![create](images/builder-sm-1.jpg)
+   ![create](images/neuro-sm-1.jpg)
 
    Figura 1 - Crear plantilla SM
     
   c)  Vincular la plantilla para solicitud/incidente;
     
-   ![create](images/builder-sm-2.jpg)
+   ![create](images/neuro-sm-2.jpg)
 
    Figura 2 - Vincular plantilla
     
   d)  Utilizar la plantilla en la solicitud/incidente.
     
-   ![create](images/builder-sm-3.jpg)
+   ![create](images/neuro-sm-3.jpg)
 
    Figura 3 - Utilizar la plantilla
     
@@ -31,21 +31,21 @@ Hay dos formas de interfaz Builder con un Ticket:
 
   a)  Seleccionar usuario de tarea
     
-   ![create](images/builder-sm-4.png)
+   ![create](images/neuro-sm-4.png)
 
    Figura 4 - Vincular plantilla
     
 
   b)  Vincular el formulario a un paso de Flujo SM en la guía "Interfaz" de una tarea de usuario
     
-   ![create](images/builder-sm-13.png)
+   ![create](images/neuro-sm-13.png)
 
    Figura 5 - Interface
     
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins
 
 
