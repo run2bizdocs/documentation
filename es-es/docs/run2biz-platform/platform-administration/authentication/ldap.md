@@ -5,13 +5,13 @@ Description: Permite administrar los directorios, es decir, acceder a bases de d
 
 El LDAP (Lightweight Directory Access Protocol - Protocolo Ligero/Simplificado de Acceso a Directorios) es un protocolo estándar que permite administrar directorios, es decir, acceder a bancos de información sobre los usuarios de una red a través de protocolos TCP/IP.
 
-Se puede configurar 4biz para consultar las bases de usuarios disponibles en un servicio de directorio (Microsoft Active Directory o LDAP abierto), permitiendo así que estos usuarios se autentiquen en 4biz usando sus credenciales sin tener que inscribirlos manualmente (en 4biz).
+Se puede configurar CITSmart para consultar las bases de usuarios disponibles en un servicio de directorio (Microsoft Active Directory o LDAP abierto), permitiendo así que estos usuarios se autentiquen en CITSmart usando sus credenciales sin tener que inscribirlos manualmente (en CITSmart).
 
-Actualmente, la lectura de datos de un servidor AD/LDAP se reduce al objeto "usuario". De esa manera, se puede usar filtros para llevarlos a 4biz. Además, se puede usar la opción "Mapeo de campos" para cargar información de atributos (por ejemplo: correo electrónico, teléfono, ubicación y más).
+Actualmente, la lectura de datos de un servidor AD/LDAP se reduce al objeto "usuario". De esa manera, se puede usar filtros para llevarlos a CITSmart. Además, se puede usar la opción "Mapeo de campos" para cargar información de atributos (por ejemplo: correo electrónico, teléfono, ubicación y más).
 
-A continuación se muestra un modelo de autenticación para clientes de 4biz Cloud que desean utilizar su base de directorio local (on-premises).
+A continuación se muestra un modelo de autenticación para clientes de CITSmart Cloud que desean utilizar su base de directorio local (on-premises).
 
-![Autenticación 4biz LDAP](images/cloud-arch-authentication.png)
+![Autenticación CITSmart LDAP](images/cloud-arch-authentication.png)
 
 ## Antes de empezar
 
@@ -48,7 +48,7 @@ Si desea configurar la sincronización automática de usuarios, se debe crear un
 
 ### Configurar Grupo DN y Apuntamientos
 
-Después de configurar con éxito una conexión, debe agregar preferencias para la sincronización de usuarios, en cuyo caso debe ingresar Grupos LDAP y Mapeo de campos. Para los "Grupos LDAP", tiene la capacidad de crear personalizaciones donde ciertos usuarios heredarán automáticamente los permisos en 4biz a través del enlace con el Perfil de Acceso o Grupo. Para el elemento "Mapeo de campos", se puede configurar la aplicación para que lea la información del atributo AD/LDAP y la incorpore al registro del empleado (por ejemplo: leer el atributo "mail" y alimente el campo "e-mail" del empleado).
+Después de configurar con éxito una conexión, debe agregar preferencias para la sincronización de usuarios, en cuyo caso debe ingresar Grupos LDAP y Mapeo de campos. Para los "Grupos LDAP", tiene la capacidad de crear personalizaciones donde ciertos usuarios heredarán automáticamente los permisos en CITSmart a través del enlace con el Perfil de Acceso o Grupo. Para el elemento "Mapeo de campos", se puede configurar la aplicación para que lea la información del atributo AD/LDAP y la incorpore al registro del empleado (por ejemplo: leer el atributo "mail" y alimente el campo "e-mail" del empleado).
 
 1.  Para vincular nuevos grupos, hacer clic en "Agregar" en el área **Grupos LDAP** e ingresar los datos:
 
@@ -63,7 +63,7 @@ Después de configurar con éxito una conexión, debe agregar preferencias para 
     | Programador | Período en que se ejecutará la sincronización automática | [Todos los dias]* |
 
 
-2.  Para vincular atributos a los campos, haga clic en "Agregar" en el área **Mapeo de campos**, ingrese el nombre del campo LDAP y seleccione el campo correspondiente en 4biz;
+2.  Para vincular atributos a los campos, haga clic en "Agregar" en el área **Mapeo de campos**, ingrese el nombre del campo LDAP y seleccione el campo correspondiente en CITSmart;
 
     | Campo no LDAP | Campo en el sistema |
     |-------|-----------|
@@ -83,11 +83,11 @@ Después de configurar con éxito una conexión, debe agregar preferencias para 
 
 ### Para usar el protocolo LDAP
 
-El uso del protocolo LDAP en 4biz requiere el certificado público del servidor AD/LDAP en el almacén de certificados CA del JAVA (en su servidor Wildfly). Por lo tanto, debe exportarlo desde el servidor AD/LDAP e importarlo a su instancia. Si tiene preguntas sobre la importación de certificados en el servidor de aplicaciones, consulte el [documento de instalación][1].
+El uso del protocolo LDAP en CITSmart requiere el certificado público del servidor AD/LDAP en el almacén de certificados CA del JAVA (en su servidor Wildfly). Por lo tanto, debe exportarlo desde el servidor AD/LDAP e importarlo a su instancia. Si tiene preguntas sobre la importación de certificados en el servidor de aplicaciones, consulte el [documento de instalación][1].
 
 ## Lo que hacer después
 
-Para usar la autenticación AD/LDAP de manera efectiva, después de registrar la conexión, cambie el parámetro 22 e ingrese un valor igual a "2", es decir, indique que el método de autenticación predeterminado en 4biz es AD/LDAP. Sin embargo, la autenticación manual continuará funcionando normalmente.
+Para usar la autenticación AD/LDAP de manera efectiva, después de registrar la conexión, cambie el parámetro 22 e ingrese un valor igual a "2", es decir, indique que el método de autenticación predeterminado en CITSmart es AD/LDAP. Sin embargo, la autenticación manual continuará funcionando normalmente.
 
 
 ## Relacionado
@@ -95,5 +95,5 @@ Para usar la autenticación AD/LDAP de manera efectiva, después de registrar la
 [Registrar horario][2]
 
 
-[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/install-certificate.html
-[2]:/es-es/4biz-helium/processes/event/configuration/register-time.html
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-certificate.html
+[2]:/es-es/citsmart-platform-8/processes/event/configuration/register-time.html

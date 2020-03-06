@@ -30,11 +30,11 @@ Procedimiento
 Relacionado 
 ------------
 
-[Registrar plantilla de cambio](/es-es/4biz-helium/processes/change/configuration/change-template.html)
+[Registrar plantilla de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-template.html)
 
-[Crear portafolio de cambio](/es-es/4biz-helium/processes/change/configuration/change-portfolio.html)
+[Crear portafolio de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

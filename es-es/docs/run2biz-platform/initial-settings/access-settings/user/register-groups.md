@@ -46,7 +46,7 @@ y empleado.
     |Grupo de Service Desk|[Sí/No] - Si el grupo hace atención (= SÍ), de lo contrario, el grupo no aparecerá en la lista de grupos para la dirección/delegación de tickets|
     |Solicitante del Chat|[Sí/No] - Si los miembros del grupo pueden abrir tickets a través del chat|
     |Comité Asesor del Cambio|[Sí/No] - Si el grupo es parte de un Comité (Gestión de Cambios)|
-    |Suspensión/Reactivación |Parámetro para permitir la suspensión/reactivación de tickets independientemente de los permisos del tracker (reactivar/suspender)|
+    |Suspensión/Reactivación |Parámetro para permitir la suspensión/reactivación de tickets independientemente de los permisos del workflow (reactivar/suspender)|
     |Notificaciones de e-mail obligatorias (Abierto, En progreso y Cerrado)|Si está habilitado, hace que el envío de correo electrónico, proveniente de las diversas acciones de los flujos, sea obligatorio (no configurable por el asistente). Cuando se deja deshabilitado, el asistente puede configurar las opciones de envío de correo electrónico.|
     |Descripción |Detalles para ayudar a identificar el grupo.|
 
@@ -69,7 +69,7 @@ y empleado.
     ```*```Seleccionar solo los permisos específicos para el contexto de acción.
 
     - **Colaboradores (usuarios del sistema):** miembros del grupo.
-    - **E-mail:** Direcciones de correo electrónico que recibirán notificaciones procedentes de un tracker. Esta opción es muy útil cuando es necesario que una persona esté "informada" de las interacciones del grupo sin participar en el grupo..
+    - **E-mail:** Direcciones de correo electrónico que recibirán notificaciones procedentes de un workflow. Esta opción es muy útil cuando es necesario que una persona esté "informada" de las interacciones del grupo sin participar en el grupo..
 
 4.  Definir las configuraciones necesarias;
 5.  Hacer clic en "Guardar".
@@ -84,12 +84,12 @@ y empleado.
 Relacionado
 -----------
 
-[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
-[Crear perfil de acceso](/es-es/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

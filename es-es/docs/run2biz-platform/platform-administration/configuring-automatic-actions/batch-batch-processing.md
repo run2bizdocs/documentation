@@ -15,7 +15,7 @@ Rutinas como:
 
 ## Antes de empezar
 
-El procesamiento Batch de 4biz utiliza Quartz para la programación y el procesamiento de rutinas de sistema. Por lo tanto, antes de utilizar cualquier rutina batch es necesario [configurar el Quartz][3].
+El procesamiento Batch de CITSmart utiliza Quartz para la programación y el procesamiento de rutinas de sistema. Por lo tanto, antes de utilizar cualquier rutina batch es necesario [configurar el Quartz][3].
 
 Procedimiento
 -------------
@@ -57,10 +57,10 @@ Rutinas Batch
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço
 
 
-[1]:/es-es/4biz-helium/platform-administration/configuring-automatic-actions/images/verify-email.txt
-[2]:/es-es/4biz-helium/platform-administration/configuring-automatic-actions/images/server-time.txt
-[3]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz
+[1]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
+[2]:/es-es/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
+[3]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz

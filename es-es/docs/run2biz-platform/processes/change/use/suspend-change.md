@@ -25,11 +25,11 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar cambio](/es-es/4biz-helium/processes/change/use/register-change.html)
+[Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
-[Registrar justificación del cambio](/es-es/4biz-helium/processes/change/configuration/change-justification.html)
+[Registrar justificación del cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-justification.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço

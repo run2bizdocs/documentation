@@ -1,18 +1,18 @@
 title: Crear ticket por Twitter
-Description: 4biz, con el propósito de ampliar las modalidades de atención, posibilita que los usuarios puedan registrar sus tickets directamente por la interfaz de la red social Twitter.
+Description: CITSmart, con el propósito de ampliar las modalidades de atención, posibilita que los usuarios puedan registrar sus tickets directamente por la interfaz de la red social Twitter.
 
 # Crear ticket por Twitter
-4biz, con el propósito de ampliar las modalidades de atención, posibilita que los usuarios puedan registrar sus tickets directamente por la interfaz de la red social Twitter.
+CITSmart, con el propósito de ampliar las modalidades de atención, posibilita que los usuarios puedan registrar sus tickets directamente por la interfaz de la red social Twitter.
 
 Antes de empezar
 ----------------
 
-Es necesario tener la funcionalidad de integración con Twitter configurada en la instancia 4biz y tener la funcionalidad de machine learning (ambiente con Python). Además, es necesario definir el servicio que atenderá a esta modalidad de atención, así como contratos y permisos en flujos de trabajo. 
+Es necesario tener la funcionalidad de integración con Twitter configurada en la instancia CITSmart y tener la funcionalidad de machine learning (ambiente con Python). Además, es necesario definir el servicio que atenderá a esta modalidad de atención, así como contratos y permisos en flujos de trabajo. 
 
 Procedimiento 
 -------------
 
-1.  Es necesario seguir la página de 4biz en Twitter;
+1.  Es necesario seguir la página de CITSmart en Twitter;
 
 2.  Hacer clic en el icono "Mesaje" en la página de Twitter;
 
@@ -29,11 +29,11 @@ Procedimiento
 
 !!! Abstract "IMPORTANTE"
 
-    La apertura y atención de tickets por Twitter sólo es posible si el sistema sigue un formulario (tracker) Builder creado
+    La apertura y atención de tickets por Twitter sólo es posible si el sistema sigue un formulario (workflow) Neuro creado
     específicamente con el propósito de atender este tipo de solicitud. Además, es necesario para ejecutar el flujo, un 
     proceso de negocio programado por expresión Cron.  
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>04/29/2019 – Larissa Lourenço

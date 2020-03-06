@@ -1,32 +1,32 @@
-Title: Introducción al tracker de 4biz
-Description: Visión general de la creación y gestión de un flujo de trabajo en 4biz.
+Title: Introducción al Workflow de CITSmart
+Description: Visión general de la creación y gestión de un flujo de trabajo en CITSmart.
 
-# Introducción al tracker de 4biz
+# Introducción al Workflow de CITSmart
 
-Flujos son representaciones visuales de algo que se mueve continuamente.Por lo tanto, se puede usar los flujos para representar gráficamente un proceso o cualquier acción. Ellos pueden materializarse en papel (documento físico) o una herramienta electrónica.En 4biz, la funcionalidad de tracker está diseñada para modelar sus objetivos de negocio al describir los pasos que debe seguir para alcanzar esos objetivos a través de un flujo digital inteligente. Es posible crear flujos de trabajo para ayudar en la gestión de servicio, problema, cambio, liberación, acciones de continuidad, solicitudes de viaje y compras. Como tal, el tracker tiene interacción con procesos clave de 4biz.
+Flujos son representaciones visuales de algo que se mueve continuamente.Por lo tanto, se puede usar los flujos para representar gráficamente un proceso o cualquier acción. Ellos pueden materializarse en papel (documento físico) o una herramienta electrónica.En CITSmart, la funcionalidad de Workflow está diseñada para modelar sus objetivos de negocio al describir los pasos que debe seguir para alcanzar esos objetivos a través de un flujo digital inteligente. Es posible crear flujos de trabajo para ayudar en la gestión de servicio, problema, cambio, liberación, acciones de continuidad, solicitudes de viaje y compras. Como tal, el workflow tiene interacción con procesos clave de CITSmart.
 
-Los flujos de trabajo automatizados dan vida a las actividades del sistema, permitiendo que las actividades de su organización sean digitalizadas y automatizadas. Por lo tanto, se puede crear flujos controlados por tareas, agregar notificaciones, subprocesos y establecer comunicación directa con otras aplicaciones, como Builder - que es un framework para la generación de aplicaciones.
+Los flujos de trabajo automatizados dan vida a las actividades del sistema, permitiendo que las actividades de su organización sean digitalizadas y automatizadas. Por lo tanto, se puede crear flujos controlados por tareas, agregar notificaciones, subprocesos y establecer comunicación directa con otras aplicaciones, como Neuro - que es un framework para la generación de aplicaciones.
 
-Descubrirá que las tareas cotidianas, como hacere un pedido, registrar un ticket, aprobar una solicitud, se pueden realizar de forma rápida e inteligente, evitando la pérdida de tiempo. Los flujos de 4biz lo ayudan a materializar sus procesos comerciales en una vista sistémica en la que tiene un control completo de lo que sucede.
+Descubrirá que las tareas cotidianas, como hacere un pedido, registrar un ticket, aprobar una solicitud, se pueden realizar de forma rápida e inteligente, evitando la pérdida de tiempo. Los flujos de CITSmart lo ayudan a materializar sus procesos comerciales en una vista sistémica en la que tiene un control completo de lo que sucede.
 
 ## Conocer la funcionalidad del flujo
 
-En primer lugar, debe familiarizarse con los conceptos básicos, las reglas comerciales y la interfaz de usuario. La visualización la funcionalidad del menú 4biz depende de los permisos asignados a un perfil de acceso, asegúrese de tener este permiso. Si no tiene este acceso, un gestor puede otorgarle este acceso.
+En primer lugar, debe familiarizarse con los conceptos básicos, las reglas comerciales y la interfaz de usuario. La visualización la funcionalidad del menú CITSmart depende de los permisos asignados a un perfil de acceso, asegúrese de tener este permiso. Si no tiene este acceso, un gestor puede otorgarle este acceso.
 
-Para saber si su perfil tiene este permiso, acceda al menú superior izquierdo de la pantalla y asegúrese de que la primera opción de acceso sea el Menú principal **tracker**;
+Para saber si su perfil tiene este permiso, acceda al menú superior izquierdo de la pantalla y asegúrese de que la primera opción de acceso sea el Menú principal **Workflow**;
 
 
-![tracker menu 4biz][1]
+![workflow menu CITSmart][1]
 
 **Estándar del sistema**
 
-1: Crear un tracker;
+1: Crear un Workflow;
 
 2: Construir Expresiones;
 
 3: Modelado de procesos;
 
-**Integración Builder**
+**Integración Neuro**
 
 4: Flujo de Integración;
 
@@ -35,15 +35,15 @@ Para saber si su perfil tiene este permiso, acceda al menú superior izquierdo d
 6: Proceso de Negocio;
 
 !!! note "NOTAS"
-   Estos elementos solo estarán disponibles cuando la aplicación Builder esté habilitada en su instancia;
+   Estos elementos solo estarán disponibles cuando la aplicación Neuro esté habilitada en su instancia;
 
-Si ya tiene este acceso, Taskermente haga clic y seleccione la opción **Diseño de flujo** para ver la pantalla de administración.
+Si ya tiene este acceso, simplemente haga clic y seleccione la opción **Diseño de flujo** para ver la pantalla de administración.
 
 ## Pantalla de Gestión del Flujo
 
 En la pantalla de gestión de flujo se puede: Crear un nuevo Flujo, Editar, exportar y borrar.
 
-![tracker management 4biz][2]
+![workflow management CITSmart][2]
 
 1: **Nuevo** - hacer clic para comenzar un nuevo proyecto de flujo;
 
@@ -61,21 +61,21 @@ Al hacer clic en el botón **Nuevo** o **Editar** se accede a la interfaz de cre
 
 En un nuevo flujo, encontrará cuatro botones con las funciones **importar**, **grabar**, **limpiar** y **volver**, además, se puede importar un flujo (exportando previamente en formato JSON).
 
-![fist button 4biz][3]
+![fist button CITSmart][3]
 
 Si edita un flujo ya existente, los botones se cambian agregando la opción de **Generar Documentación** y cambiando **Importar** por **Grabar**.
 
-![second button 4biz][4]
+![second button CITSmart][4]
 
 ### Pestaña Datas del Flujo  
 
 Datos del Flujo es una pestaña para la identificación del flujo, donde puede estructurar nombres para una mejor experiencia:
 
-![flow data 4biz][5]
+![flow data CITSmart][5]
 
 1: **Nombre** – Asignar un nombre a la ID del flujo para que pueda identificarlo en caso de vinculación o asignación;
 
-2: **Proceso** – Asignar al flojo un proceso entre todos aquellos en 4biz para que esté mejor definido e identificado;
+2: **Proceso** – Asignar al flojo un proceso entre todos aquellos en CITSmart para que esté mejor definido e identificado;
 
 3: **Versión** – Visor de la versión actual del flujo abierto;
 
@@ -83,7 +83,7 @@ Datos del Flujo es una pestaña para la identificación del flujo, donde puede e
 
 5: **Permitir la reapertura** – Opción para permitir que las actividades vinculadas a este flujo se vuelvan a abrir independientemente de la configuración del grupo;
 
-6: **Grabar datos de objetos de negocio en la creación del ticket** – Opción que le permite crear o actualizar datos de objetos de negocio configurados en nuestro idioma Builder al crear un ticket;
+6: **Grabar datos de objetos de negocio en la creación del ticket** – Opción que le permite crear o actualizar datos de objetos de negocio configurados en nuestro idioma Neuro al crear un ticket;
 
 7: **Actualizar datos de objetos de negocio después de realizar las tareas de usuario** – Opción que permite actualizar los objetos de negocio creados durante la ejecución de las tareas del usuario.
 
@@ -91,7 +91,7 @@ Datos del Flujo es una pestaña para la identificación del flujo, donde puede e
 
 En la pestaña **diagrama** encontramos varios Elementos para la construcción del flujo agrupados en **Eventos**, **Actividades**, **Extensiones**, **Gateways**, **Swimlanes** y **Artefactos**, son varios componentes para una mejor construcción e interacción del flujo de trabajo. A continuación se muestra un ejemplo de un flujo que en la creación.
 
-![diagram 4biz][6]
+![diagram CITSmart][6]
 
 1: **Elementos** – Estos son conjuntos de elementos/herramientas para usar en el diseño del flujo, como se explica en el elemento de Conceptos Básico;
 
@@ -106,11 +106,11 @@ En la pestaña Documentación se puede generar un documento con toda la informac
 Ahora puede crear un flujo de trabajo, piense en una necesidad de negocio y los actores involucrados. Vea nuestra documentación, ella te ayudará en esta jornada.
 
 ## Relacionado
-[Conceptos básicos](https://docs.4biz.com/pt-br/4biz-helium/tracker/basic-concepts.html)
+[Conceptos básicos](https://docs.citsmart.com/pt-br/citsmart-platform-8/workflow/basic-concepts.html)
 
-[1]:images/tracker-menu-4biz.png
-[2]:images/tracker-management-4biz.png
-[3]:images/fist-button-4biz.jpg
-[4]:images/second-button-4biz.png
-[5]:images/flow-data-4biz.png
-[6]:images/diagram-4biz.png
+[1]:images/workflow-menu-citsmart.png
+[2]:images/workflow-management-citsmart.png
+[3]:images/fist-button-citsmart.jpg
+[4]:images/second-button-citsmart.png
+[5]:images/flow-data-citsmart.png
+[6]:images/diagram-citsmart.png

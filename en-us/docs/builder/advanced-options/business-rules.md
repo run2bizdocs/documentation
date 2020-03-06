@@ -4,11 +4,11 @@ Description: Business rules define how your business works, and can cover a vari
 # Business rules
 
 Business rules define how your business works, and can cover a variety of issues such as your policies, interests, objectives, ethical and social commitments, contractual obligations, strategic decisions, laws and regulations, among others.  
-In Neuro, business rules can be built through the Drools language, by drawing a flow, or through a Script.    
+In Builder, business rules can be built through the Drools language, by drawing a flow, or through a Script.    
 
 ##How to access 
 
-1.	Access the functionality through navigation in the main menu Neuro > Management > Business Rule.    
+1.	Access the functionality through navigation in the main menu Builder > Management > Business Rule.    
 
 ##Preconditions
 
@@ -44,8 +44,8 @@ Figure 2 - Business rules listing screen
 ##Create business rules using Drools type
 
 1. Drools is a set of tools that allow us to separate and reason about the logic and data found within business processes. The two       important keywords we have to realize are Logic and Data. Go to https://www.drools.org/ for more information;  
-2. To create a business rule using Drools, you must first create the DSL and DSLR through the Neuro > Configuration > Domain;  
-3. After these registrations have been made, access the menu Neuro > Management > Business rule, Click on the New button. Fill in the   fields by entering the  Name, Description, Type (fill in with Drools), and the respective Application that has been registered (Neuro   ® Management ®  Application), finally inform Drools DSLR that was registered in the previous step;  
+2. To create a business rule using Drools, you must first create the DSL and DSLR through the Builder > Configuration > Domain;  
+3. After these registrations have been made, access the menu Builder > Management > Business rule, Click on the New button. Fill in the   fields by entering the  Name, Description, Type (fill in with Drools), and the respective Application that has been registered (Builder   ® Management ®  Application), finally inform Drools DSLR that was registered in the previous step;  
 4. In addition, variables that complement business rules may be inserted.  
 
     ![Screenshot](images/business-rule-drools.png)
@@ -60,7 +60,7 @@ Figure 2 - Business rules listing screen
 
 ##Create business rules using Flow type
 
-1. To create a business rule using Flow, a diagram should be drawn using the components provided in the tool. To learn more about the components, visit the documentation for the components provided by Neuro;  
+1. To create a business rule using Flow, a diagram should be drawn using the components provided in the tool. To learn more about the components, visit the documentation for the components provided by Builder;  
 2. In the Basic Data tab, fill in all the fields (as shown in the figure below), when selecting the Flow Type, two new tabs will appear (Actions and Diagram);  
 
     ![Screenshot](images/business-rule-flow.png)
@@ -104,7 +104,7 @@ Figure 2 - Business rules listing screen
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
 

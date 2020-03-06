@@ -10,18 +10,18 @@ Nativamente, son posibles los siguientes tipos de autenticación de plataforma: 
 
 - **Sing Single On - SSO**: esta es una alternativa para iniciar sesión automáticamente en la plataforma. Sin embargo, es necesario tener una infraestructura orientada a este servicio.
 
-- **Okta**: con este método es posible utilizar una base de usuarios disponibles en el Okta y utilizarla para la autenticación en una instancia 4biz.
+- **Okta**: con este método es posible utilizar una base de usuarios disponibles en el Okta y utilizarla para la autenticación en una instancia CITSmart.
 
 ## Relacionados
 
 [Registrar conexiones LDAP][1]
 
-[4biz auto-login - SSO][2]
+[CITSmart auto-login - SSO][2]
 
-[Configurar Okta en 4biz][3]
+[Configurar Okta en CITSmart][3]
 
-[1]:/es-es/4biz-helium/platform-administration/authentication/ldap.html
+[1]:/es-es/citsmart-platform-8/platform-administration/authentication/ldap.html
 
-[2]:/es-es/4biz-helium/platform-administration/authentication/sso.html
+[2]:/es-es/citsmart-platform-8/platform-administration/authentication/sso.html
 
-[3]:/es-es/4biz-helium/platform-administration/authentication/okta.html
+[3]:/es-es/citsmart-platform-8/platform-administration/authentication/okta.html

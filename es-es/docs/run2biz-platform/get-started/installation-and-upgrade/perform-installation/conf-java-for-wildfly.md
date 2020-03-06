@@ -48,7 +48,7 @@ Las dos secciones más importantes de la línea de arriba son:
 JAVA_OPTS="$JAVA_OPTS -Xms12g"
 JAVA_OPTS="$JAVA_OPTS -Xmx12g"
 ```
-Ellos indican el límite de uso de memoria de la máquina virtual Java y deben variar de acuerdo con la cantidad de memoria del servidor que está instalando. Puede considerar 2 GB para el sistema operativo y el resto para Java si está ejecutando el servidor de aplicaciones de base de datos desmembrado. Si la base se ejecuta en el mismo servidor (que no recomendamos para la producción), debe considerar la necesidad de uso de memoria de la base, sistema operativo y, finalmente, configurar el uso de Java. Los valores de (xmx) y (xms) pueden ser los mismos para mejorar el rendimiento de 4biz.
+Ellos indican el límite de uso de memoria de la máquina virtual Java y deben variar de acuerdo con la cantidad de memoria del servidor que está instalando. Puede considerar 2 GB para el sistema operativo y el resto para Java si está ejecutando el servidor de aplicaciones de base de datos desmembrado. Si la base se ejecuta en el mismo servidor (que no recomendamos para la producción), debe considerar la necesidad de uso de memoria de la base, sistema operativo y, finalmente, configurar el uso de Java. Los valores de (xmx) y (xms) pueden ser los mismos para mejorar el rendimiento de CITSmart.
 
 Y finalmente, descomenta la línea de abajo:
 
@@ -66,4 +66,4 @@ Y configúralo de la manera correcta:
 
 [Incluyendo WildFly en el systemd][1]
 
-[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html

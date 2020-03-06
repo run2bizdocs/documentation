@@ -36,12 +36,12 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

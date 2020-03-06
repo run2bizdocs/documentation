@@ -23,9 +23,9 @@ Procedimiento
 Relacionados
 ----------------
 
-[Registrar grupo de elemento de configuración](/es-es/4biz-helium/processes/configuration/configuration/register-configuration-item-group.html)
+[Registrar grupo de elemento de configuración](/es-es/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/21/2019 – Larissa Lourenço

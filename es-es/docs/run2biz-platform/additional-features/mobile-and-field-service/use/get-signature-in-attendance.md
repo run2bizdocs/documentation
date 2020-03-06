@@ -2,14 +2,14 @@ title: Obtener signatura en atención de campo
 Description:Este documento tiene como objetivo explicar la configuración de CITSmat mobile para recibir la firma digital en el servicio de campo.
 # Obtener signatura en atención de campo
 
-Este documento tiene por objetivo explicar sobre la configuración del 4biz (GO y Experience)
+Este documento tiene por objetivo explicar sobre la configuración del CITSmart (GO y Experience)
 mobile para que el técnico reciba la firma digital de un validador en atención
 de campo.
 
 Antes de empezar
 ----------------
 
-Es necesario instalar previamente la aplicación 4biz mobile en el
+Es necesario instalar previamente la aplicación CITSmart mobile en el
 dispositivo móvil. Para que el técnico en campo, pueda ver tickets sólo
 asignados a él/ella en su lista de solicitudes, el asistente/administrador
 deberá establecer el parámetro 435 para la opción "Sí".
@@ -17,7 +17,7 @@ deberá establecer el parámetro 435 para la opción "Sí".
 Procedimiento
 -------------
 
-***En 4biz***
+***En CITSmart***
 
 1.  Acceder al menú principal Procesos \> Gestión de Portafolio y Catálogo \>
     Portafolio;
@@ -56,16 +56,16 @@ Procedimiento
 Relacionado
 ----------
 
-[Manual de uso de la aplicación móvil 4biz Experience](/es-es/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
+[Manual de uso de la aplicación móvil CITSmart Experience](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
-[Configurar las opciones del móvil](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar las opciones del móvil](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
-[Configurar parametrización - ticket](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configurar parametrización - ticket](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Manual de uso de la aplicación 4biz GO](/es-es/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
+[Manual de uso de la aplicación CITSmart GO](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/20/2019 – Anna Martins

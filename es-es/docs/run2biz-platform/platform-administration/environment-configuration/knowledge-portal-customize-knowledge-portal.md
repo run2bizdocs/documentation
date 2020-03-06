@@ -23,9 +23,9 @@ Procedimiento
 Relacionado
 ------------
 
-[Configurar parametrización - conocimiento](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+[Configurar parametrización - conocimiento](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Larissa Lourenço

@@ -2,7 +2,7 @@ Title: Instalando certificado SSL
 
 # Instalando certificado SSL
 
-Se requiere la instalación de un certificado SSL para que funcione la herramienta 4biz. Hay dos formas de configurar un certificado SSL en nuestros escenarios:
+Se requiere la instalación de un certificado SSL para que funcione la herramienta CITSmart. Hay dos formas de configurar un certificado SSL en nuestros escenarios:
 
 * Generando y usando autofirmado.
 * Usando un certificado válido con una cadena de certificados válida.
@@ -10,32 +10,32 @@ Se requiere la instalación de un certificado SSL para que funcione la herramien
 
 ## Generando y usando un certificado autofirmado por Java
 
-La forma en que accede a 4biz cambia la forma en que se genera el certificado SSL. Hay dos formas de acceder a la URL del sistema:
+La forma en que accede a CITSmart cambia la forma en que se genera el certificado SSL. Hay dos formas de acceder a la URL del sistema:
 
 * A través del direccionamiento IP en el formato https://ENDERECO_IP
-* A través del DNS en el formato https://4biz.exemplo.com
+* A través del DNS en el formato https://citsmart.exemplo.com
 
 La generación de certificados en ambos casos es ligeramente diferente. A continuación hay el procedimiento válido para ambos casos.
 
 
 ### Creando un certificado para una entrada de DNS
 
-A continuación se muestra el comando para generar un certificado SSL para una entrada DNS llamada `4biz.example.com`. Recuerde de cambiar los siguientes parámetros:
+A continuación se muestra el comando para generar un certificado SSL para una entrada DNS llamada `citsmart.example.com`. Recuerde de cambiar los siguientes parámetros:
 
-* **KEY_NAME:** Un nombre para la clave/archivo. Ejemplo: 4bizV1.
-* **4biz.example.com:** Cambie a la entrada de DNS que ha creado para su aplicación.
+* **KEY_NAME:** Un nombre para la clave/archivo. Ejemplo: CITSmartV1.
+* **citsmart.example.com:** Cambie a la entrada de DNS que ha creado para su aplicación.
 * **validity 365:** Tiempo de vencimiento de la clave en días. Según el requisito de seguridad interna de su institución, establezca este valor. Después de que el límite de tiempo haya expirado, el certificado expirará y deberá generar otro. Defina el tiempo que creas apropiado. En el ejemplo, el certificado es válido por 1 año (365 días).
 * **PASSWORD:** Una contraseña para el certificado. Ejemplo: password123456
 
 ``` shell
-/opt/jdk/bin/keytool -genkey -alias KEY_NAME -keyalg RSA -keystore /opt/wildfly/standalone/configuration/KEY_NAME.keystore -ext san=dns:4biz.example.com -validity 365 -storepass PASSWORD
+/opt/jdk/bin/keytool -genkey -alias KEY_NAME -keyalg RSA -keystore /opt/wildfly/standalone/configuration/KEY_NAME.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass PASSWORD
 ```
 
 Cuando se ejecuta el comando, se formularán una serie de preguntas, que pueden responderse o no (es opcional). Si no desea completar la información, ingrese [enter] para todos menos el último que necesita ser respondido `yes.
 
 ``` shell
 
-[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias 4bizV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -ext san=dns:4biz.example.com -validity 365 -storepass password123456
+[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias CITSmartV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass password123456
 What is your first and last name?
   [Unknown]:
 What is the name of your organizational unit?
@@ -56,7 +56,7 @@ Enter key password for <GRPv1>
 Re-enter new password:
 
 Warning:
-The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore /opt/wildfly/standalone/configuration/4bizV1.keystore -destkeystore /opt/wildfly/standalone/configuration/4bizV1.keystore -deststoretype pkcs12".
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -destkeystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -deststoretype pkcs12".
 [root@server /tmp]#
 
 ```
@@ -65,8 +65,8 @@ The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS
 
 A continuación se muestra el comando para generar un certificado SSL para acceso directo a IP, por ejemplo `192.168.0.40`. Recuerde de cambiar los siguientes parámetros:
 
-* **KEY_NAME:** Un nombre para la clave/archivo. Ejemplo: 4bizV1.
-* **192.168.0.40:** Cambiar a la dirección IP que está respondiendo a 4biz.
+* **KEY_NAME:** Un nombre para la clave/archivo. Ejemplo: CITSmartV1.
+* **192.168.0.40:** Cambiar a la dirección IP que está respondiendo a CITSmart.
 * **validity 365:** Tiempo de vencimiento de la clave en días. Según el requisito de seguridad interna de su institución, establezca este valor. Después de que el límite de tiempo haya expirado, el certificado expirará y deberá generar otro. Establece el tiempo que creas apropiado. En el ejemplo, el certificado es válido por 1 año (365 días).
 * **PASSWORD:** Una contraseña para el certificado. Ejemplo: password123456
 
@@ -78,7 +78,7 @@ Cuando se ejecuta el comando, se formularán una serie de preguntas, que pueden 
 
 ``` shell
 
-[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias D -keyalg RSA -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -ext san=ip:192.168.0.40 -validity 365 -storepass password123456
+[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias D -keyalg RSA -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -ext san=ip:192.168.0.40 -validity 365 -storepass password123456
 What is your first and last name?
   [Unknown]:
 What is the name of your organizational unit?
@@ -99,7 +99,7 @@ Enter key password for <GRPv1>
 Re-enter new password:
 
 Warning:
-The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore /opt/wildfly/standalone/configuration/4bizV1.keystore -destkeystore /opt/wildfly/standalone/configuration/4bizV1.keystore -deststoretype pkcs12".
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -destkeystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -deststoretype pkcs12".
 [root@server /tmp]#
 
 ```
@@ -110,19 +110,19 @@ El siguiente paso es generar el archivo de certificado `.cer`. Para generar el a
 
 ```shell
 
-[root@server /tmp]# /opt/jdk/bin/keytool -export -alias 4bizV1 -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -validity 365 -file /opt/wildfly/standalone/configuration/4bizV1.cer
+[root@server /tmp]# /opt/jdk/bin/keytool -export -alias CITSmartV1 -keystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -validity 365 -file /opt/wildfly/standalone/configuration/CITSmartV1.cer
 Enter keystore password:
-Certificate stored in file </opt/wildfly/standalone/configuration/4bizV1.cer>
+Certificate stored in file </opt/wildfly/standalone/configuration/CITSmartV1.cer>
 
 Warning:
-The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore /opt/wildfly/standalone/configuration/4bizV1.keystore -destkeystore /opt/wildfly/standalone/configuration/4bizV1.keystore -deststoretype pkcs12".
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format using "keytool -importkeystore -srckeystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -destkeystore /opt/wildfly/standalone/configuration/CITSmartV1.keystore -deststoretype pkcs12".
 [root@server /tmp]#
 ```
 
 Ahora se necesita importar el archivo `.cer` para el cacerts del Java. Ejecute el siguiente comando para realizar la importación. En el momento de ejecutar el comando, se le solicitará la contraseña del cacerts (la contraseña predeterminada de la aplicación Java, si no ha cambiado, es `changeit`). Cambie el nombre de los archivos de acuerdo con lo que se generó previamente. Al final del comando, responda `[yes]` para continuar.
 
 ``` shell
-[root@server /tmp]# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias "4bizV1" -file /opt/wildfly/standalone/configuration/4bizV1.cer
+[root@server /tmp]# /opt/jdk/bin/keytool -keystore /opt/jdk/jre/lib/security/cacerts -importcert -alias "CITSmartV1" -file /opt/wildfly/standalone/configuration/CITSmartV1.cer
 Enter keystore password:
 Owner: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
 Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown
@@ -140,7 +140,7 @@ Extensions:
 
 #1: ObjectId: 2.5.29.17 Criticality=false
 SubjectAlternativeName [
-  DNSName: 4biz.example.com
+  DNSName: citsmart.example.com
 ]
 
 #2: ObjectId: 2.5.29.14 Criticality=false
@@ -160,8 +160,8 @@ Certificate was added to keystore
 Finalmente, de cualquier forma que elija, cambie el propietario del keystore para el wildfly, reemplazando el siguiente ejemplo con el nombre de su certificado si lo hay cambiado:
 
 ```shell
-[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/4bizV1.keystore
-[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/4bizV1.cer
+[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/CITSmartV1.keystore
+[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/CITSmartV1.cer
 ```
 
 ### Generando los keystore con certificado válido
@@ -186,11 +186,11 @@ Acceda a wildfly en modo CLI y asigne los siguientes comandos reemplazando los v
 
 ```shell
 /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-/subsystem=elytron/key-store=4bizKeyStore:add(path="4bizV1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="password123456"},type=JKS)
-/subsystem=elytron/key-manager=4bizKeyManager:add(key-store=4bizKeyStore,credential-reference={clear-text="password123456"})
-/subsystem=elytron/server-ssl-context=4bizSSLContext:add(key-manager=4bizKeyManager,protocols=["TLSv1.2"])
+/subsystem=elytron/key-store=citsmartKeyStore:add(path="CITSmartV1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="password123456"},type=JKS)
+/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="password123456"})
+/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
-/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="4bizV1.keystore", keystore-password-credential-reference={clear-text="password123456"}, keystore-relative-to="jboss.server.config.dir",alias="4bizV1")
+/core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="CITSmartV1.keystore", keystore-password-credential-reference={clear-text="password123456"}, keystore-relative-to="jboss.server.config.dir",alias="CITSmartV1")
 ```
 
 Vuelva a cargar y salga de la CLI:
@@ -204,4 +204,4 @@ Vuelva a cargar y salga de la CLI:
 
 [Instalando el Apache SOLR][1]
 
-[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/install-apache-solr.html
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/install-apache-solr.html

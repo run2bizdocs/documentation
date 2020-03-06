@@ -24,22 +24,22 @@ Uso
 -------
 
 
-- [Comprobar disponibilidad del elemento de configuración](/es-es/4biz-helium/processes/availability/use/configuration-item-availability.html)
+- [Comprobar disponibilidad del elemento de configuración](/es-es/citsmart-platform-8/processes/availability/use/configuration-item-availability.html)
 
-- [Comprobar disponibilidad del grupo de EC](/es-es/4biz-helium/processes/availability/use/CI-group-availability.html)
+- [Comprobar disponibilidad del grupo de EC](/es-es/citsmart-platform-8/processes/availability/use/CI-group-availability.html)
 
-- [Comprobar disponibilidad del grupo de disponibilidad](/es-es/4biz-helium/processes/availability/use/availability-group.html)
+- [Comprobar disponibilidad del grupo de disponibilidad](/es-es/citsmart-platform-8/processes/availability/use/availability-group.html)
 
-- [Comprobar a disponibilidad del servicio](/es-es/4biz-helium/processes/availability/use/service-availability.html)
+- [Comprobar a disponibilidad del servicio](/es-es/citsmart-platform-8/processes/availability/use/service-availability.html)
 
 
 Configuración
 -----------------
 
 
-- [Registrar grupo de disponibilidad](/es-es/4biz-helium/processes/availability/configuration/register-availability-group.html)
+- [Registrar grupo de disponibilidad](/es-es/citsmart-platform-8/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

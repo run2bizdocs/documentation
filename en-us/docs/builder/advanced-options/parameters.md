@@ -1,13 +1,13 @@
 Title: Parameters  
-Description: In this screen the parameters to be used in applications created through Neuro are configured.  
+Description: In this screen the parameters to be used in applications created through Builder are configured.  
 
 # Parameters  
 
-In this screen the parameters to be used in applications created through Neuro are configured. 
+In this screen the parameters to be used in applications created through Builder are configured. 
 
 ## How to access
 
-1. Access the functionality by navigating the menu Neuro > Configuration > Parameters. 
+1. Access the functionality by navigating the menu Builder > Configuration > Parameters. 
 
 ## Preconditions
 
@@ -55,5 +55,5 @@ Figure 2 - Parameter listing screen
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

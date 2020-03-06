@@ -2,9 +2,9 @@ title: Database Connection
 Description: Database Connection
 # Database Connection
 
-Neuro requires Database connections to interfaces with database.
+Builder requires Database connections to interfaces with database.
 
-It´s a good practice to create one DB Connection per Neuro Application.
+It´s a good practice to create one DB Connection per Builder Application.
 
 Before getting started
 ----------------------
@@ -14,7 +14,7 @@ Must have the Driver to Access the desired type of database.
 Procedure
 ---------
 
-1.  Access the functionality through navigation in the menu Neuro \> Configuration \> Database Connection;
+1.  Access the functionality through navigation in the menu Builder \> Configuration \> Database Connection;
 
 2.  Click on "New";
 
@@ -34,13 +34,13 @@ Procedure
     All the fields in the Items list will be used as filter to restrict the items listed.
 
 
-![app](images/neuro-3.png)    
+![app](images/builder-3.png)    
 
 Figure 1 - Application   
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  
 

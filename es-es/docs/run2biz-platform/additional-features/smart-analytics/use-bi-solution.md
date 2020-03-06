@@ -9,7 +9,7 @@ datos, productos, tecnologías y arquitectura técnicas, los cuales están enfoc
 administración y creación de conocimiento sobre el medio, a través del análisis de los datos existentes 
 en una organización o empresa".
 
-4biz Analytics es la solución de BI para el análisis de datos de 4biz.
+CITSmart Analytics es la solución de BI para el análisis de datos de CITSmart.
 Con esta funcionalidad, es posible elaborar innumerables posibilidades de
 gráficos, paneles y tablas con información de datos registrados en la instancia.
 
@@ -17,7 +17,7 @@ Antes de empezar
 ----------------
 
 Tener la aplicación de BI instalada, configurada y comunicable con su instancia
-4biz.
+CITSmart.
 
 Procedimiento
 ------------
@@ -77,5 +77,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins

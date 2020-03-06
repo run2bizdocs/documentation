@@ -11,7 +11,7 @@ Para crear las reglas de escalonamiento, es necesario configurar el parámetro
 190 con el valor "S", y registrar previamente los contratos, empleados, grupos,
 los portafolios de servicios y la acción automática del tipo escalonamiento.
 
-En el archivo **4biz.cfg**, debe configurar la propiedad
+En el archivo **citsmart.cfg**, debe configurar la propiedad
 **START_MONITORA_INCIDENTES** informando el parámetro TRUE (sólo el
 administrador del sistema operativo del servidor de la aplicación realiza este
 ajuste).
@@ -42,19 +42,19 @@ Procedimiento
 Relacionado
 -----------
 
-[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
-[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
 
-[Registrar acción automatica de escalonamiento](/es-es/4biz-helium/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
+[Registrar acción automatica de escalonamiento](/es-es/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-escation-automatic-action.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

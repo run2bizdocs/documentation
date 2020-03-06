@@ -23,10 +23,10 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

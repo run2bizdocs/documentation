@@ -5,12 +5,12 @@ Description: Permite definir quién tendrá acceso a las funcionalidades de la G
 
 ITIL recomienda que un producto ITSM sea capaz de asignar niveles de
 responsabilidad específicos a un Gerente de Portafolio u otros, sobre la base de
-esta recomendación, 4biz adopta esta forma diferenciada de control de
+esta recomendación, CITSmart adopta esta forma diferenciada de control de
 permisos, por módulo
 
 A ITIL recomenda que um produto ITSM seja capaz de atribuir níveis de
 responsabilidades específicos para um Gerente de Portfólio ou outros, com base
-nesta recomendação, o 4biz adota esta forma diferenciada de controle de
+nesta recomendação, o CITSmart adota esta forma diferenciada de controle de
 permissões, por módulo. Vale la pena resaltar que la funcionalidad 'Perfil de
 Acceso' sigue existiendo y controlando todos los tipos de accesos sin separación
 por módulos, para que el administrador del producto pueda intervenir con más
@@ -50,10 +50,10 @@ Procedimiento
 Relacionado
 -------
 
-[Crear perfil de acceso](/es-es/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
+[Crear perfil de acceso](/es-es/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

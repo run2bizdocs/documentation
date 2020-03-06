@@ -6,7 +6,7 @@ In this tab are configured the variables that will be used in the drawn flow. Va
 
 ## How to access  
 
-1. Access the functionality through the menu Neuro > Management > Integration Flow.  
+1. Access the functionality through the menu Builder > Management > Integration Flow.  
 
 ## Preconditions  
 
@@ -44,9 +44,9 @@ Figure 2 - Listing screen
     - Name of the variable;  
     - Description;  
     - Whether it will be stored in the database;  
-	    - This option will store the value of the variable internally within the **Neuro** data model, so it will retain the value     during the execution of the tasks  
+	    - This option will store the value of the variable internally within the **Builder** data model, so it will retain the value     during the execution of the tasks  
     - Whether it is a return variable;  
-	    - This option will cause **Neuro** to return the variable at the end of the flow run.  
+	    - This option will cause **Builder** to return the variable at the end of the flow run.  
     - Whether it is a list of values;  
     - If it is an input variable in the flow interface;  
 	    - This option allows the variable to be "injected" into the business process linked to this flow.  
@@ -70,7 +70,7 @@ Figure 2 - Listing screen
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
 

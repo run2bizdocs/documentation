@@ -1,7 +1,7 @@
-Title: FAQ (Builder)
-Description: 4biz - FAQ
+Title: FAQ (Neuro)
+Description: CITSmart - FAQ
 
-# FAQ (Builder)
+# FAQ (Neuro)
 
 !!! Question "¿Cuál es la diferencia entre crear un formulario a través del menú Formulario y a través del menú Objeto de negocio?"
     La creación a través del menú Formulario se produce de forma 100% manual. A través del menú de objeto de negocio, se puede generar el formulario desde el modelo de base de datos. El formulario generado se puede editar en el menú de registro de formulario.
@@ -36,13 +36,13 @@ Description: 4biz - FAQ
 !!! Question "¿Es posible crear componentes personalizados que puedan utilizarse en la creación de formularios?"
 	Puede crear sus propios componentes para su uso en el formulario. Para un tutorial completo, véase la documentación técnica.
 
-!!! Question "¿Por qué debo comenzar la construcción de una aplicación utilizando Builder?"
-	Se recomienda que el primer paso a ser ejecutado en Builder sea el registro de la aplicación o el registro de una conexión de base de datos, de acuerdo con la necesidad de la aplicación.  
+!!! Question "¿Por qué debo comenzar la construcción de una aplicación utilizando Neuro?"
+	Se recomienda que el primer paso a ser ejecutado en Neuro sea el registro de la aplicación o el registro de una conexión de base de datos, de acuerdo con la necesidad de la aplicación.  
 
-!!! Question "¿Cómo funciona la inyección de dependencias propias dentro de un formulario en Builder? ¿Qué pasos se deben realizar?"
-	Para inyectar una dependencia propia, es necesario registrarla antes. Las dependencias que se pueden inyectar dentro de un formulario Builder son solamente del tipo CSS y Javascript.
+!!! Question "¿Cómo funciona la inyección de dependencias propias dentro de un formulario en Neuro? ¿Qué pasos se deben realizar?"
+	Para inyectar una dependencia propia, es necesario registrarla antes. Las dependencias que se pueden inyectar dentro de un formulario Neuro son solamente del tipo CSS y Javascript.
 
-	Cree un nuevo registro según el tipo de su dependencia a través del menú "Builder → Recursos" y suba la dependencia.
+	Cree un nuevo registro según el tipo de su dependencia a través del menú "Neuro → Recursos" y suba la dependencia.
 
 	Para importarla en el formulario, seleccione la pestaña del tipo de página que desea importar y elija la pestaña "Dependencias". 
 

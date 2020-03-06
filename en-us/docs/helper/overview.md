@@ -3,7 +3,7 @@ Title: Overview
 
 ## What's Anuva
 
-Anuva is the CITSmart Artificial Intelligence platform. The first feature available was a virtual assistant, the Anuva Assistant, a chatbot that communicates and interacts with people through automated text messages. 
+Anuva is the 4biz Artificial Intelligence platform. The first feature available was a virtual assistant, the Anuva Assistant, a chatbot that communicates and interacts with people through automated text messages. 
 
 Anuva uses artificial intelligence to conduct dialogues with increasingly improved users on different platforms and, in addition to interacting with users, is able to integrate with other systems to get answers to questions, retrieving data through APIs.
 
@@ -17,20 +17,20 @@ Anuva uses 5 main concepts in its operation:
 
 * Code: It is possible to connect Anuva with external APIs, allowing data access necessary to deliver value to the user;
 
-* Connect: It is possible to integrate Anuva to different messaging platforms, natively, it can already be integrated with Facebook and CITSmart;
+* Connect: It is possible to integrate Anuva to different messaging platforms, natively, it can already be integrated with Facebook and 4biz;
 
 * Monitor: Once it is made available to the user, it is possible to follow the conversations made by Anuva, in order to improve the training information and gain insight into new dialogues to be taught to Anuva. 
 
 ## Accessing Anuva
 
-After the release of your Anuva environment, access the configuration environment of Anuva through the link provided by CITSmart. (http://<Your-Instance>.anuvaassistant.com).
+After the release of your Anuva environment, access the configuration environment of Anuva through the link provided by 4biz. (http://<Your-Instance>.anuvaassistant.com).
 
 In this environment, you will be able to add and review knowledge to Anuva, you can schedule trainings, follow the interactions made by Anuva and conduct interaction tests to validate if interactions are being effective.
 
 
 ## Configuration
 
-[Make Anuva available on the CITSmart interface](/en-us/anuva/configuration/anuva-citsmart.html)
+[Make Anuva available on the 4biz interface](/en-us/anuva/configuration/anuva-4biz.html)
 
 [Create contexts to Anuva](/en-us/anuva/configuration/context-anuva.html)
 
@@ -48,6 +48,6 @@ In this environment, you will be able to add and review knowledge to Anuva, you 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
 

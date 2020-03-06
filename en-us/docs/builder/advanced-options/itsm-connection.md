@@ -1,8 +1,8 @@
 Title: ITSM connection
-Description: This functionality is able to provide a configuration screen to establish conection with CITSmart.  
+Description: This functionality is able to provide a configuration screen to establish conection with 4biz.  
 # ITSM connection  
 
-This functionality is able to provide a configuration screen to establish conection with CITSmart.  
+This functionality is able to provide a configuration screen to establish conection with 4biz.  
 
 ## How to access
 
@@ -55,5 +55,5 @@ Figure 2 - Listing screen
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

@@ -20,7 +20,7 @@ Figura 1 - Smart Portal
 
 - **2**: Portal de Conocimiento - acceso directo a Portal del Conocimiento, permite al usuario realizar la búsqueda de informaciones generadas en su organización
 
-- **3**: Docs: direcciona al usuario para la documentación del producto 4biz
+- **3**: Docs: direcciona al usuario para la documentación del producto CITSmart
 
 - **4**: Acceder al sistema - permite entrar en el sistema
 
@@ -81,6 +81,6 @@ Procedimiento
 3.  Al hacer clic en el icono "Menú", se muestran accesos directos a algunas acciones. Se permite visualizar las solicitudes abiertas por el usuario al apretar el icono "Mis solicitudes", ver las aprobaciones del ticket efectuadas por el usuario, observar las noticias y campañas activas (cuestionarios) referentes a la organización como un todo.  
     
 !!! tip "About"  
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    

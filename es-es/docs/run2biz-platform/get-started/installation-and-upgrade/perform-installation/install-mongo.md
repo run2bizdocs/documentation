@@ -2,7 +2,7 @@ Title: Instalando MongoDB
 
 # Instalando MongoDB
 
-MongoDB se puede instalar a través del repositorio del yum disponible en la dirección https://repo.mongodb.org/. La versión aprobada por 4biz es la 3.4. Suponiendo que el servidor es CentOS versión 7, cree un archivo en `/etc/yum.repos.d/` llamado mongo.repo e incluya el contenido a continuación. Recuerde de cambiar el `baseurl` por la URL de acuerdo con la versión de su sistema operativo. En el siguiente ejemplo, el repositorio elegido fue para un CentOS 7:
+MongoDB se puede instalar a través del repositorio del yum disponible en la dirección https://repo.mongodb.org/. La versión aprobada por CITSmart es la 3.4. Suponiendo que el servidor es CentOS versión 7, cree un archivo en `/etc/yum.repos.d/` llamado mongo.repo e incluya el contenido a continuación. Recuerde de cambiar el `baseurl` por la URL de acuerdo con la versión de su sistema operativo. En el siguiente ejemplo, el repositorio elegido fue para un CentOS 7:
 
 ``` shell
 [mongodb-org-3.4]
@@ -93,7 +93,7 @@ Reinicie el servicio del mongo:
 ``` shell
 [root@server /tmp]# systemctl restart mongod
 ```
-Conecte no mongodb para criar o banco de dados do 4biz e configurar a senha de admin:
+Conecte no mongodb para criar o banco de dados do CITSmart e configurar a senha de admin:
 ``` shell
 [root@server /tmp]# mongo
 MongoDB shell version v3.4.23
@@ -112,7 +112,7 @@ user: "admin",
 pwd: "yourpassword",
 roles:[
 { role: "root", db: "admin" },
-{ role: "dbOwner", db: "4biz" }
+{ role: "dbOwner", db: "citsmart" }
 ]
 })
 Successfully added user: {
@@ -124,7 +124,7 @@ Successfully added user: {
                 },
                 {
                         "role" : "dbOwner",
-                        "db" : "4biz"
+                        "db" : "citsmart"
                 }
         ]
 }
@@ -133,6 +133,6 @@ Successfully added user: {
 
 ## Próximo paso
 
-[Implementar 4biz][1]
+[Implementar CITSmart][1]
 
-[1]:/es-es/4biz-helium/get-started/installation-and-upgrade/perform-installation/deploy-4biz.html
+[1]:/es-es/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html

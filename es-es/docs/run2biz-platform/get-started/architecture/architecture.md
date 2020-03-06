@@ -1,10 +1,10 @@
 Title: Cloud Architecture
 
-# 4biz Cloud Architecture
+# CITSmart Cloud Architecture
 
 
 Con foco en una expansión global y una infraestructura tecnológica que atiende a los
-los requisitos de nuestros clientes y colaboradores, 4biz optó por el modelo SaaS
+los requisitos de nuestros clientes y colaboradores, CITSmart optó por el modelo SaaS
 (Software como Servicio) para garantizar la agilidad en el suministro de soluciones para
 nuestros clientes y colaboradores, además de proporcionar una solución confiable, resistente y
 infraestructura segura. En la nube, tenemos una infraestructura computacional y una
@@ -12,7 +12,7 @@ arquitectura de red diseñada para satisfacer las más altas exigencias
 tecnológicos y de seguridad del mercado mundial.
 
 Siguiendo el ejemplo de grandes empresas que ofrecen sus servicios basados en
-soluciones basadas en nube, 4biz utiliza las características de tecnología y seguridad
+soluciones basadas en nube, CITSmart utiliza las características de tecnología y seguridad
 proporcionados por Amazon Web Services (AWS). Usando la nube de AWS, nosotros, nuestros
 colaboradores y clientes podemos disfrutar de:
 
@@ -23,7 +23,7 @@ disponibilidad y seguridad física diseñada para grandes escalas.
 Esto significa que heredamos automáticamente la conformidad de varios requisitos
 y estándares de infraestructura.
 
-Además de los recursos ofrecidos por la nube, 4biz busca mantener la seguridad y
+Además de los recursos ofrecidos por la nube, Citsmart busca mantener la seguridad y
 privacidad de los datos de sus clientes, a través de políticas internas y adopción
 de normas para garantizar el cumplimiento de los requisitos reglamentarios
 internacional.
@@ -31,25 +31,25 @@ internacional.
 Visión general de la arquitectura de nube
 -----------------------------------
 
-Una visión general básica de cómo funciona la nube del 4biz se puede ver en el
+Una visión general básica de cómo funciona la nube del CITSmart se puede ver en el
 siguiente diagrama:
 
 ### Cloud
 
-![Screenshot](images/4biz-cloud-plataform.png)
+![Screenshot](images/citsmart-cloud-plataform.png)
 
 ### On-premises
 
-![On-premisses 4biz][2]
+![On-premisses CITSmart][2]
 
 ### INV/EVM
 
-![INV/EVM 4biz][3]
+![INV/EVM CITSmart][3]
 
-4biz Cloud Security
+CITSmart Cloud Security
 -----------------------
 
-4biz tiene la conformidad de la seguridad según las siguientes áreas en las que
+CITSmart tiene la conformidad de la seguridad según las siguientes áreas en las que
 es responsable en el ambiente de nube:
 
 - Datos del cliente
@@ -70,8 +70,8 @@ Para cada una de las áreas anteriores, contamos con procesos y medidas de segur
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 - Anna Martins
 
-[2]:images/4biz-on-premises.jpg
-[3]:images/4biz-inv-evm.jpg
+[2]:images/citsmart-on-premises.jpg
+[3]:images/citsmart-inv-evm.jpg

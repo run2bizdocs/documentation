@@ -1,11 +1,11 @@
-Title: Making Anuva available on the CITSmart interface
-# Making Anuva available on the CITSmart interface
+Title: Making Anuva available on the 4biz interface
+# Making Anuva available on the 4biz interface
 
-Anuva is already natively integrated with CITSmart, so it is easy to add it to your environment.
+Anuva is already natively integrated with 4biz, so it is easy to add it to your environment.
 
 ## Procedure
 
-1. With Administrator access, access the CITSmart parameter screen;
+1. With Administrator access, access the 4biz parameter screen;
 2. Change the parameter value “402 Anuva Assistant - External URL” to http://[name-server].anuvaassistant.com    
 3. Change the parameter value “441 Anuva Assistant - Conversation API” to http://[name-server][acronym-language].anuvaassistant.com/webhooks/rest/webhook and click on “Save”   
 4. Change the parameter value “442 Anuva Assistant - Parameters API” to http://[name-server][acronym-language].anuvaassistant.com/conversations/
@@ -17,10 +17,10 @@ Anuva is already natively integrated with CITSmart, so it is easy to add it to y
 !!! note "NOTE"
     
     For the acronym of the languages, use EN (English) and PT (Portuguese-Brazil).
-    If these parameters are not available, upgrade your version of CITSmart.
+    If these parameters are not available, upgrade your version of 4biz.
    
  
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins

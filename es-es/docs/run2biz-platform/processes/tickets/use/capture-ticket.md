@@ -22,7 +22,7 @@ Para hacerse responsable del ticket, puede encontrar en la barra de menú la opc
 
 #### Elementos de la barra de herramientas
 
-![Menu bar ticket 4biz][1]
+![Menu bar ticket CITSmart][1]
 
 **1: Volver** - Volver para el area de servicio de la Service Desk;
 
@@ -52,7 +52,7 @@ Para hacerse responsable del ticket, puede encontrar en la barra de menú la opc
 
 ### Opción del ticket
 
-![tickets option ticket 4biz][2]
+![tickets option ticket CITSmart][2]
 
 En las opciones, tenemos:
 
@@ -76,7 +76,7 @@ En las opciones, tenemos:
 
 El inicio efectivo de la atención ocurre desde la captura del ticket para finalizar o direccionar el ticket a otra área. El analista puede utilizar varias funciones: comentarios, historial, notificación por correo electrónico y lanzamiento de hora.
 
-![Attendance ticket 4biz][3]
+![Attendance ticket CITSmart][3]
 
 **1: Comentarios** – área propia para hacer comentarios a las personas que accedan a este ticket, teniendo la opción de:
 
@@ -94,13 +94,13 @@ El inicio efectivo de la atención ocurre desde la captura del ticket para final
 
 **Agregar**;
 
-![Attendance ticket 4biz][4]
+![Attendance ticket CITSmart][4]
 
 **2: Histórico** – donde puede ver e interactuar con todos los comentarios realizados dentro del ticket;
 
 #### Atribuição e Situação
 
-![Assignment and Situation ticket 4biz][5]
+![Assignment and Situation ticket CITSmart][5]
 
 **3: Dirigir para grupo** – Identificador del grupo que se lo va direccionar dentro del flujo;
 
@@ -121,11 +121,11 @@ El inicio efectivo de la atención ocurre desde la captura del ticket para final
 Relacionado
 -----------
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
-[1]:images/menu-bar-ticket-4biz.png
+[1]:images/menu-bar-ticket-citsmart.png
 [2]:images/tickets-option-ticket.png
 [3]:images/attendance-ticket-comment.png
 [4]:images/attendance-ticket-history.png
@@ -133,6 +133,6 @@ Relacionado
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço
 

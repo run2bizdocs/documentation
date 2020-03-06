@@ -46,14 +46,14 @@ Procedimiento
 
 Relacionado
 ----------
-[Configurar parametrización - conocimiento](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+[Configurar parametrización - conocimiento](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
-[Crear conocimiento](/es-es/4biz-helium/processes/knowledge/use/create-knowledge.html)
+[Crear conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROzG1nEl9sfg_Y3Hy6spefP)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

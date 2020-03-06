@@ -1,0 +1,1 @@
+br.com.run2biz.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail

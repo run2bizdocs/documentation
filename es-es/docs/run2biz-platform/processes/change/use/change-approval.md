@@ -34,12 +34,12 @@ Procedimiento
 Relacionado
 -----------
 
-[Configurar parametrización – cambio](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-change.html)
+[Configurar parametrización – cambio](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-change.html)
 
-[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 

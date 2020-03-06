@@ -7,7 +7,7 @@ Esta función permite la configuración de una alarma sonora para señalar al as
 
 ## Antes de empezar
 
-* [x] Tenga al menos un flujo de trabajo definido en su entorno 4biz;
+* [x] Tenga al menos un flujo de trabajo definido en su entorno CITSmart;
 * [x] Es esencial tener las condiciones mínimas para la reproducción de audio en su ordenador;
 
 ## Procedimiento
@@ -21,7 +21,7 @@ Esta función permite la configuración de una alarma sonora para señalar al as
 
 ### Insertar elemento "Notificación" en el flujo
 
-1. Acceder al menú principal tracker > Diseño de flujo;
+1. Acceder al menú principal Workflow > Diseño de flujo;
 2. Seleccionar y editar un flujo;
 3. En la pestaña "Diagrama", haga clic en el elemento "Extensiones", haga clic y mantenga presionado el elemento "Notificación" y
 arrástrelo al área de dibujo;
@@ -44,6 +44,6 @@ Listo, de ahora en adelante será posible identificar nuevos tickets mediante la
 [Crear flujo de trabajo][2]
 
 
-[1]:/es-es/4biz-helium/additional-features/communication-and-notification/notification/configuration/template-create.html
+[1]:/es-es/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
 
-[2]:/es-es/4biz-helium/tracker/use/create-flow.html
+[2]:/es-es/citsmart-platform-8/workflow/use/create-flow.html

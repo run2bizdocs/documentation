@@ -10,7 +10,7 @@ Antes de empezar
 
 Para hacer el análisis de tendencia de eventos, es necesario registrar
 previamente un contrato, una solicitud de servicio (ticket), configurar la
-conexión del 4biz Event Monitor, además de instalar y configurar la
+conexión del CITSmart Event Monitor, además de instalar y configurar la
 herramienta de monitoreo.
 
 Procedimiento
@@ -39,17 +39,17 @@ Procedimiento
 Relacionado
 -----------
 
-[Crear ticket](/es-es/4biz-helium/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
-[Registrar contrato](/es-es/4biz-helium/additional-features/contract-management/use/register-contract.html)
+[Registrar contrato](/es-es/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
 
-[Registrar Conexión Event Monitor](/es-es/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Registrar conexión Nagios/Zabbix](/es-es/4biz-helium/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-platform-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Larissa Lourenço

@@ -1,8 +1,8 @@
 title: Configurar Audit 0.4.0
-Description: El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del 4biz tracker 8.
+Description: El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del CITSmart Workflow 8.
 # Configurar Audit 0.4.0
 
-El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del 4biz tracker 8.
+El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del CITSmart Workflow 8.
 
 Antes de empezar 
 -----------------
@@ -43,19 +43,19 @@ Procedimiento
         utilizan estas configuraciones). Es necesario que el usuario (Mongo) insertado tenga los debidos permisos para lectura y 
         escritura en el banco informado.  
  
-3. En 4biz, configure el parámetro 425 que indica la dirección URL del Audit (Ej.: http://localhost:8080/itsm-audit);
+3. En CITSmart, configure el parámetro 425 que indica la dirección URL del Audit (Ej.: http://localhost:8080/itsm-audit);
 
 4. Agregar el WAR del Audit en la carpeta de implementación (o a través de la consola del Wildfly) y empezar el Wildfly junto con 
-4biz;
+CITSmart;
 
 5. Después de estos pasos y configuraciones, la auditoría ya debe estar en ejecución.
 
 Relacionado
 -------------
 
-[Realizar auditoría en el sistema](/es-es/4biz-helium/platform-administration/logs-and-auditing/system-audit.html)
+[Realizar auditoría en el sistema](/es-es/citsmart-platform-8/platform-administration/logs-and-auditing/system-audit.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>05/31/2019 – Larissa Lourenço

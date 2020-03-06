@@ -10,31 +10,31 @@ La Gestión de Nivel de Servicio es un proceso responsable de mantener, mejorar 
 Uso
 -------
 
-- [Acuerdo de Nivel de Servicio](/es-es/4biz-helium/processes/service-level/use/service-level-agreement.html)
+- [Acuerdo de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
 
-- [Evaluación del contrato](/es-es/4biz-helium/processes/service-level/use/contract-evaluation.html)
+- [Evaluación del contrato](/es-es/citsmart-platform-8/processes/service-level/use/contract-evaluation.html)
 
-- [Evaluación del proveedor](/es-es/4biz-helium/processes/service-level/use/provider-evaluation.html)
+- [Evaluación del proveedor](/es-es/citsmart-platform-8/processes/service-level/use/provider-evaluation.html)
 
-- [Evaluación del SLA](/es-es/4biz-helium/processes/service-level/use/SLA-evaluation.html)
+- [Evaluación del SLA](/es-es/citsmart-platform-8/processes/service-level/use/SLA-evaluation.html)
 
-- [Plan de mejora](/es-es/4biz-helium/processes/service-level/use/improvement-plan.html)
+- [Plan de mejora](/es-es/citsmart-platform-8/processes/service-level/use/improvement-plan.html)
 
-- [Requerimiento de nivel de servicio](/es-es/4biz-helium/processes/service-level/use/service-level-requirement.html)
+- [Requerimiento de nivel de servicio](/es-es/citsmart-platform-8/processes/service-level/use/service-level-requirement.html)
 
 Configuración
 -----------------
 
-- [Registrar Prioridad](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-priority.html)
+- [Registrar Prioridad](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-- [Crear tiempo de servicio](/es-es/4biz-helium/processes/service-level/configuration/create-time-attendance.html)
+- [Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
 
 Informe
 ----------
 
-- [Generar informes - Gestión de Nivel de Servicio](/es-es/4biz-helium/processes/service-level/use/reports-service-level-management.html)
+- [Generar informes - Gestión de Nivel de Servicio](/es-es/citsmart-platform-8/processes/service-level/use/reports-service-level-management.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

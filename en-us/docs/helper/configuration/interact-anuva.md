@@ -28,12 +28,12 @@ Procedure
   
 !!! Abstract "NOTE"
 
-    The integration needs to be homologated by CITSmart, so after setting up this skill, you need 
+    The integration needs to be homologated by 4biz, so after setting up this skill, you need 
     to open a ticket for us to do the homologation of the integration.
     
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
    

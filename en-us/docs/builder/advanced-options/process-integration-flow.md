@@ -7,7 +7,7 @@ The process integration flows are workflows that have tasks performed by users a
 
 ## How to access
 
-1. Access the functionality through the menu Neuro > Management > Integration Flow.  
+1. Access the functionality through the menu Builder > Management > Integration Flow.  
 
 ## Preconditions
 
@@ -221,7 +221,7 @@ The workflow drawing is done in the Diagram tab. The entire business process can
 	
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 	
 	

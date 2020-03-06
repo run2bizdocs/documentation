@@ -55,19 +55,19 @@ en el portafolio.
 Relacionado
 ---------------
 
-[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
+[Definir el permiso de acceso a las funcionalidades de la Gestión de Portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
-[Crear categoría de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html)
+[Crear categoría de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-[Crear mapa de servicios](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-service-map.html)
+[Crear mapa de servicios](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNtQcs0TnUp_O20VqF2A9yL)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

@@ -48,9 +48,9 @@ Adjunto
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Anna Martins
 
 
-[1]:/es-es/4biz-helium/processes/tickets/images/fluxo-JSON.json
-[2]:/es-es/4biz-helium/processes/tickets/images/script.zip
+[1]:/es-es/citsmart-platform-8/processes/tickets/images/fluxo-JSON.json
+[2]:/es-es/citsmart-platform-8/processes/tickets/images/script.zip

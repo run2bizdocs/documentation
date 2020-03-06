@@ -28,7 +28,7 @@ Procedimiento
 
 *2° Paso: Establecer la parametrización referente al servicio de cambio de contraseña*
 
-1.  Acceder al menú principal Parametrización \> Parámetros 4biz;
+1.  Acceder al menú principal Parametrización \> Parámetros CITSmart;
 
 2.  Editar y guardar el parámetro 116 asignándole el valor numérico del ID generado para el modelo de correo electrónico recién creado.
 
@@ -46,8 +46,8 @@ Para probar el servicio de cambio de contraseña, acceder a la página de login,
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/es-es/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
-[2]:/es-es/4biz-helium/platform-administration/email-settings/configuration.html
+[1]:/es-es/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
+[2]:/es-es/citsmart-platform-8/platform-administration/email-settings/configuration.html

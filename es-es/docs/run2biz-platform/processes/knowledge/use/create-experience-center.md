@@ -21,7 +21,7 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el 
 
 2. En la pestaña Información, complete los campos disponibles;
 
-![information Experience Center 4biz][1]
+![information Experience Center CITSmart][1]
 
 **1: Cambiar** – icono del Centro de Experiencia;
 
@@ -37,7 +37,7 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el 
 
 3. En la pestaña Permisos, definir los grupos que podrán ver el Centro de Experiencia;
 
-![Permission Experience Center 4biz][2]
+![Permission Experience Center CITSmart][2]
 
 ### Construcción
 
@@ -67,7 +67,7 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar el 
 
 !!! warning "ATENCIÓN"
 
-    El botón "Restablecer estructura" es irreversible después de guardar el cambio, si no lo ha *guardado*, Taskermente presione el botón Volver y no se cambiará nada.
+    El botón "Restablecer estructura" es irreversible después de guardar el cambio, si no lo ha *guardado*, simplemente presione el botón Volver y no se cambiará nada.
 
 #### Área de Diseño
 
@@ -96,7 +96,7 @@ En el área de diseño, se puede crear el contenido que se publicará en el Cent
 
 3. Hacer clic en guardar.
 
-- Después de seleccionar el diseño deseado, puede elegir las funciones de 4biz en widgets (consulte la tabla de widgets);
+- Después de seleccionar el diseño deseado, puede elegir las funciones de CITSmart en widgets (consulte la tabla de widgets);
 
 !!! note "NOTA"
 
@@ -120,7 +120,7 @@ En el área de diseño, se puede crear el contenido que se publicará en el Cent
 
 **Cabeçalho fixo**
 
-![header Experience Center 4biz][3]
+![header Experience Center CITSmart][3]
 
  **1: Menú** – con él puedes acceder a otros Centros de experiencia para los cuales tienes permiso;
 
@@ -152,7 +152,7 @@ Esta estructura permite la creación de un centro de experiencia utilizando solo
 |Espaciador| General | Insertar espacio entre un widget y otro. |
 |Texto| General | Ingresar Texto con diversos formatos. |
 |Lista| General | Ingresar lista de enlaces. |
-|Menú| General | Permite ver el menú del 4biz. |
+|Menú| General | Permite ver el menú del CITSmart. |
 ||||
 |Centro del conocimiento| Conocimiento| Genera un botón que lo dirige al Centro de Conocimiento|
 |Conocimiento| Conocimiento| Permite ingresar documentos existentes en la base de conocimiento|
@@ -163,7 +163,7 @@ Esta estructura permite la creación de un centro de experiencia utilizando solo
 |Mis servicios | Solicitudes| Permite abrir un ticket a través del Centro de Experiencia|
 |Mis tickets | Solicitudes| Permite ver la lista de tickets abiertos por el usuario conectado|
 ||||
-|Tasker | Tasker-Gestión Ágil | Permite ver los worksplaces de la funcionalidad Tasker |
+|Simple | Simple-Gestión Ágil | Permite ver los worksplaces de la funcionalidad Simple |
 ||||
 |Smart Chat | Comunicación | Permite ingresar la logo para este submenú |
 |Llamar | Comunicación | Permite ingresar la logo para este submenú |
@@ -180,17 +180,17 @@ Esta estructura permite la creación de un centro de experiencia utilizando solo
 Relacionado
 ---------------
 
-[Crear conocimiento](/es-es/4biz-helium/processes/knowledge/use/create-knowledge.html)
+[Crear conocimiento](/es-es/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
 
-[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Registrar encuesta de satisfacción](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Registrar encuesta de satisfacción](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPgNa5jacymoUrgZpi7MgdD)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço
     
 [1]:images/creat-experience-center.png

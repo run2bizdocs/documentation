@@ -1,5 +1,5 @@
 Title: FAQ
-description: Here you have the answers for the most common parameters when talking about the CITSmart tool
+description: Here you have the answers for the most common parameters when talking about the 4biz tool
 
 # Frequently Asked Questions - FAQ
 
@@ -11,7 +11,7 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "Is it possible to categorize the Request/Incident (Ticket)?"    
 
-    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).   
+    Both a Request and an Incident can be categorized in the [register of activities in a service](https://docs.4biz.com/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html), categories can be created on the same registration screen, at the time of category linking, or on specific features for [Create service category](https://docs.4biz.com/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html).   
 
 !!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
@@ -83,13 +83,13 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "How to enable the service requests escalation rule?"
     
-    The service request scheduling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
+    The service request scheduling rule is enabled on the 4biz Parameter screen. To enable this rule, proceed as follows:
 
-    1- In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE;
+    1- In the 4biz.cfg file put the routine START_MONITORA_INCIDENTES=TRUE;
     
-    2- Access the CITSmart Parameters feature by navigating in the main menu System > CITSmart Parameters;
+    2- Access the 4biz Parameters feature by navigating in the main menu System > 4biz Parameters;
     
-    3- The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
+    3- The 4biz Parameters screen will appear, click the 4biz Parameters Search tab;
     
     4- Search and change the parameter 190 - Turns on the operation of the scheduling rules (Eg: Y or N - Default: 'N') informing the value "Y" to activate service request scheduling;
     
@@ -119,8 +119,8 @@ description: Here you have the answers for the most common parameters when talki
     1. Access the Group Registration feature by navigating in the main menu Access and Permission > Group. The group registration screen will be displayed, displaying the contracts;
     2. Make the registration of the group of 1st level, if not registered, and proceed with the completion of the fields;
     3. If the 1st level group is already registered in the system, carry out the group search and obtain their identification number (ID);
-    4. After obtaining the 1st level group ID, access the CITSmart Parameters feature by navigating through the main menu. Parameterization > Parameters CITSmart;
-    5. The CITSmart Parameters screen appears, click the CITSmart Parameters Search tab;
+    4. After obtaining the 1st level group ID, access the 4biz Parameters feature by navigating through the main menu. Parameterization > Parameters 4biz;
+    5. The 4biz Parameters screen appears, click the 4biz Parameters Search tab;
     6. Perform the search for parameter "9 - Group ID Level 1";
     7. Select the same;
     8. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number (ID) of the 1st level group;
@@ -144,7 +144,7 @@ description: Here you have the answers for the most common parameters when talki
 
     FROM THE GROUP'S REGISTRATION
 	
-    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
+    1. Access the Group Entry feature navigating through the main menu. Place the cursor on the option Access and Permissions, and click on the Group option (see [Register Group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html));
     2. The Group Entry screen will be displayed. If the group is already registered in the system, perform a group search and select it. Then, the intended group entry screen will be displayed;
     3. Click on the add icon of the Staff Member field, the staff member search screen will be displayed;
     4. Search for the intended staff member and select the entry to add them to the group. Afterwards, the staff member will be linked to the group;
@@ -152,7 +152,7 @@ description: Here you have the answers for the most common parameters when talki
     
 	FROM THE USER'S REGISTRATION
     
-	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the "User" option (see [Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html));
+	1. Access the User Entry feature navigating through the main menu. Place the cursor on the option General Registration, Staff Management and click on the "User" option (see [Register user](/en-us/4biz-helium/initial-settings/access-settings/user/users.html));
     2. The User Entry screen will be displayed. If the user is already registered in the system, perform a user search and select it;
     3. Click on the add icon of the Group field, the group search screen will be displayed;
     4. Search for the intended group and select it. Afterwards, the user will be linked to the group;
@@ -162,10 +162,10 @@ description: Here you have the answers for the most common parameters when talki
     
     To relate the group to the contract, proceed as follows:
     
-    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Access the 4biz Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters 4biz option. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the search for parameter "41 - Does the control of employees' binding to contracts (Y / N)?" And select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the "Y" value so that the contracts are displayed on the group master screen. Once this is done, click on the "Save" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
-    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge [Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
+    4. After configuring the parameter, access the Group Master feature by navigating in the main menu General Files > Personnel Management > Group. The group registration screen will be displayed, displaying the contracts (see knowledge [Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html));
     5. If the group you want to link to the contract is already registered in the system, perform the group search and select the same;
     6. Once this is done, the registration screen of the selected group will be displayed;
     7. Select the contracts to which the group will be linked. After that, click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit.
@@ -174,7 +174,7 @@ description: Here you have the answers for the most common parameters when talki
     
     To relate the unit to the contract, proceed as follows:
     
-    1. Access the CITSmart Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters CITSmart option. After that, the CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    1. Access the 4biz Parameters feature by navigating through the main menu. Position the mouse in the Parameterization option and click on the Parameters 4biz option. After that, the 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
     2. Perform the parameter search "61 - Link contracts to unit" and select the same. After that, the parameter registration screen with the contents of the selected record will be displayed;
     3. In the value field, enter the value "Y" so that the contracts are displayed on the unit master screen. Once this is done, click on the "Save" button to perform the operation;
     4. After setting the parameter, access the Unit Registration feature by navigating in the main menu General Files > Personnel Management > Unit.The unit registration screen will be displayed, displaying the contracts;
@@ -188,7 +188,7 @@ description: Here you have the answers for the most common parameters when talki
    
     The design of the assets that make up the service is done using the Service Map Design tool that provides efficient and effective drawings for managing the service during its life cycle, demonstrating the related configuration items.
     
-    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
+    To carry out this design, proceed as follows (see [Configure service attributes](/en-us/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
     1. Access the Service Map Design feature for the Business Service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service > Service Map;
     2. The screen for designing the assets that make up the business service will be presented;
@@ -259,10 +259,10 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "How to enable the scheduling rule of the problems module?"
     
-    The problem scaling rule is enabled on the CITSmart Parameter screen. To enable this rule, proceed as follows:
+    The problem scaling rule is enabled on the 4biz Parameter screen. To enable this rule, proceed as follows:
     
-    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
-    2. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab.
+    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters.
+    2. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab.
     3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
     5. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
@@ -300,10 +300,10 @@ description: Here you have the answers for the most common parameters when talki
        
 !!! Question "How to define the obligatoriness of the linking change with CI?"
     
-    The requirement of the change link to the CI is determined on the CITSmart Parameter screen. To determine this requirement, proceed as instructed below:
+    The requirement of the change link to the CI is determined on the 4biz Parameter screen. To determine this requirement, proceed as instructed below:
 
-    1. Access the CITSmart Parameter feature navigating through the main menu;
-    2. The CITSmart Parameter screen will be displayed, click on the Search tab;
+    1. Access the 4biz Parameter feature navigating through the main menu;
+    2. The 4biz Parameter screen will be displayed, click on the Search tab;
     3. The parameter search screen will be displayed. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)";
     4. Select it;
     5. Then, the parameter registry screen featuring the selected entry data will be displayed, on the value field, insert the "Y" value;
@@ -312,13 +312,13 @@ description: Here you have the answers for the most common parameters when talki
     
 !!! Question "How to enable the change module escalation rule?"
     
-    The changes escalating rule is enacted on the CITSmart Parameter screen.
+    The changes escalating rule is enacted on the 4biz Parameter screen.
     
     To enable this rule, proceed as follows:
 
-    1. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters;
-    2. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
-    3. The CITSmart Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)";
+    1. Access the 4biz Parameters feature navigating through the main menu Parametrization > 4biz Parameters;
+    2. The 4biz Parameters screen will be displayed, click on the 4biz Parameters Search tab;
+    3. The 4biz Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)";
     4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation;
     5. Click on the "Save" button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
     
@@ -344,7 +344,7 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "What is the meaning of each inventory status of CI?"
     
     -   Inventory: the inventory was able to read the CI information and ended successfully;
-    -   Ignored: in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
+    -   Ignored: in the 4biz / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
     -   Unreachable: when the server encounters the IC but can not bring the information;
     -   Not inventoried: when neither it finds the IC in the network, but knows that it already existed;
     -   Running: while reading the inventory, the IC is in this status.
@@ -353,7 +353,7 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "How to configure the Configuration Items lifecycle phases names?"
     
-    The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the CITSmart parameters screen. To perform this configuration, proceed as instructed below.
+    The configuration of the CI lifecycle phases names can be performed through the GCAS Configuration Screen and through the 4biz parameters screen. To perform this configuration, proceed as instructed below.
     
     CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
@@ -373,8 +373,8 @@ description: Here you have the answers for the most common parameters when talki
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-    1. Access the CITSmart Parameters feature (Parametrization > Citsmart Parameters);
-    2. Then, the CITSmart Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
+    1. Access the 4biz Parameters feature (Parametrization > 4biz Parameters);
+    2. Then, the 4biz Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
     3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)";
     4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     5. On the Value field, insert the name of the CI group in development;
@@ -390,10 +390,10 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "How to define the obligatoriness of linking the change with the CI?"
 
-    The obligation of the change with the CI is mandatory in the CITSmart Parameter screen. To define this requirement, proceed as follows:
+    The obligation of the change with the CI is mandatory in the 4biz Parameter screen. To define this requirement, proceed as follows:
     
-    1. Access the CITSmart Parameters feature by navigating the main menu Parameterization > Parameters CITSmart;
-    2. The CITSmart Parameters screen appears, click on the CITSmart Parameter Search tab;
+    1. Access the 4biz Parameters feature by navigating the main menu Parameterization > Parameters 4biz;
+    2. The 4biz Parameters screen appears, click on the 4biz Parameter Search tab;
     3. It will appear the screen for parameter search. Search for the parameter "85 - Check the link of change related to the  
     Configuration Item (Default: S)";
     4. Select it;
@@ -403,12 +403,12 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "To which recipient will be sent notifications of CI?"
     
-    CI notifications will be sent to the recipient defined in the Citsmart Parameter screen.
+    CI notifications will be sent to the recipient defined in the 4biz Parameter screen.
     
 	To set the recipient, proceed as follows:
     
-    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters;
-    2. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab;
+    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters;
+    2. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab;
     3. It will display the screen for parameter search;
     4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)";
     5. Select the same;
@@ -425,7 +425,7 @@ description: Here you have the answers for the most common parameters when talki
     WEBSERVICE SCHEME FOR LEGACY SYSTEMS (BUSINESS MONITORING)
     It is possible to connect the EVM component to any software, even one other than the one that the Event Management module normally integrates (Nagios, Zabbix and Inventory), since the data sent (via webservice) follow a pre-established pattern.
     
-    Once the data is sent to the Citsmart Event Monitor, rules can be created (for example with the Esper EPL) so that certain events are triggered according to some condition observed in the data.
+    Once the data is sent to the 4biz Event Monitor, rules can be created (for example with the Esper EPL) so that certain events are triggered according to some condition observed in the data.
     
     Example "Payroll">
     
@@ -448,8 +448,8 @@ description: Here you have the answers for the most common parameters when talki
     AuthName "LDAP Authentication"
     AuthType Basic
     AuthBasicProvider ldap
-    AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
-    Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
+    AuthLDAPURL ldap://auth01.4bizcloud.com/dc=4biz,dc=com?uid?sub?(objectClass=*)
+    Require ldap-group ou=people,o=4bizco,dc=4biz,dc=com
     Require valid-user
     </Location>
 
@@ -490,7 +490,7 @@ description: Here you have the answers for the most common parameters when talki
     
        - Schedule: determines when the activity will be executed, it is up to the administrator to determine the best time and recurrence ;
     
-       - Content: insert the text: br.com.centralit.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
+       - Content: insert the text: br.com.run2biz.citcorpore.quartz.job.AvaliarSolicitacoesNaoRespondidas;
      
     4- Click on the "Save" button to confirm the entry.
     
@@ -498,17 +498,17 @@ description: Here you have the answers for the most common parameters when talki
 	
 !!! Question "How to enable automatic e-mail reading routine?"
     
-    When sending an e-mail to CITSmart support, the automatic e-mail will be read, if the e-mail refers to a request, the title of the e-mail will be verified, if it contains the word 'Request' and the Number of the request, if it contains, the e-mail will be stored as an occurrence in the relevant request.
+    When sending an e-mail to 4biz support, the automatic e-mail will be read, if the e-mail refers to a request, the title of the e-mail will be verified, if it contains the word 'Request' and the Number of the request, if it contains, the e-mail will be stored as an occurrence in the relevant request.
     
     For this e-mail reading routine to work perfectly, the following procedures must be followed:
     
     1. Install the java 7 version, if it has lower version the routine will not work;
-    2. Access the CITSmart Parameters feature by navigating in CITSmart Parameters Search tab;
+    2. Access the 4biz Parameters feature by navigating in 4biz Parameters Search tab;
     4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
     5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br);
     6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
     7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select the same;
-    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.citsmart);
+    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.4biz);
     9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select the same;
     11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the e-mail account;
@@ -529,10 +529,10 @@ description: Here you have the answers for the most common parameters when talki
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
-    1. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed;
+    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    2. Perform the parameter search "46 - Enable Portal as 4biz home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed;
     3. In order for users to have access to the Portal or Smart Portal;
-    4. Access the CITSmart Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The CITSmart Parameters screen will appear, click the CITSmart Parameters Search tab. Once this is done, it will display the screen for parameter search.
+    4. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search.
     
 !!! Question "How to enable the satisfaction survey?"
     
@@ -541,8 +541,8 @@ description: Here you have the answers for the most common parameters when talki
     To enable the satisfaction survey, proceed as instructed below:
     
     1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO});
-    2. Access the CITSmart Parameters feature navigating through the main menu Parametrization > CITSmart Parameters;
-    3. The CITSmart Parameters screen will be displayed, click on the CITSmart Parameters Search tab;
+    2. Access the 4biz Parameters feature navigating through the main menu Parametrization > 4biz Parameters;
+    3. The 4biz Parameters screen will be displayed, click on the 4biz Parameters Search tab;
     4. Search for the parameter "Send e-mail when running requests/incidents flows";
     5. Select it;
     6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests;
@@ -550,13 +550,13 @@ description: Here you have the answers for the most common parameters when talki
     8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents";
     9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
    
-!!! Question "How to improve the performance of CITSmart Enterprise ITSM?"
+!!! Question "How to improve the performance of 4biz Enterprise ITSM?"
     
     System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
     
-    There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (citsmart.cfg), where you can activate or inactivate routines.
+    There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (4biz.cfg), where you can activate or inactivate routines.
     
-    To use this capability, the citsmart.cfg file must exist in the directory:
+    To use this capability, the 4biz.cfg file must exist in the directory:
     ```sh
     \jboss\standalone\configuration\ (When Jboss rises as a single instance)
     \jboss\domain\configuration\ (When using cluster, has domains and hosts)
@@ -581,24 +581,24 @@ description: Here you have the answers for the most common parameters when talki
     
     8- Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool;
     
-       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux);
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / 4bizFlux);
        
-       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory);
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / 4biz_inventory);
        
-       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
+       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / 4biz_reports).
        
     9- The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
     
-       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).    
+       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / 4bizBpmEvents).    
 
-!!! Question "How to integrate the client company AD into CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "How to integrate the client company AD into 4biz Enterprise ITSM that is in the cloud offered by 4biz Corporation?"
     
-    Regarding the LDAP compliance of CITSmart Enterprise ITSM, there are two scenarios:
+    Regarding the LDAP compliance of 4biz Enterprise ITSM, there are two scenarios:
     
     1. On-demand environments: Administrator must connect to the client's directory server;
-    2. Cloud environment (offered by CITSmart Corporation): Administrator must enable the connection to the client directory server.
+    2. Cloud environment (offered by 4biz Corporation): Administrator must enable the connection to the client directory server.
     
-!!! Question "How to replace each image of the CITSmart Enterprise ITSM logos?"
+!!! Question "How to replace each image of the 4biz Enterprise ITSM logos?"
     
     Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
     
@@ -614,7 +614,7 @@ description: Here you have the answers for the most common parameters when talki
 	
     2- Upload (can be different images).
     
-	RULE: If you do not choose a new logo, the default logo will be CITSmart logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the CITSmart ITSM.
+	RULE: If you do not choose a new logo, the default logo will be 4biz logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the 4biz ITSM.
 
     MOST PRECISE IMAGE CONFIGURATION FOR JASPER REPORTS
 	
@@ -622,11 +622,11 @@ description: Here you have the answers for the most common parameters when talki
 
     RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.   
 
-!!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the CITSmart Enterprise ITSM that is in the cloud offered by CITSmart Corporation?"
+!!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the 4biz Enterprise ITSM that is in the cloud offered by 4biz Corporation?"
    
     [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
     
-    [For validation] In this particular scenario, the MongoDB, CITSmart EVM, and CITSmart Inventory components must be installed and configured within the client's network framework because CITSmart Enterprise ITSM (Cloud) can not connect to a client's internal range.
+    [For validation] In this particular scenario, the MongoDB, 4biz EVM, and 4biz Inventory components must be installed and configured within the client's network framework because 4biz Enterprise ITSM (Cloud) can not connect to a client's internal range.
     
 !!! Question "What is the attachment upload features file size limit?"
     
@@ -737,7 +737,7 @@ description: Here you have the answers for the most common parameters when talki
         NOMEATIVIDADE
         DATAHORACARGA
     
-    This information is fed through the CITSmart batch processing routine, running the Rhino scripts as the DBMS.
+    This information is fed through the 4biz batch processing routine, running the Rhino scripts as the DBMS.
 
     **Scripts available for:**
 
@@ -815,4 +815,4 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "How can the expiration time of the application sessions be changed?"
     
-    This type of change is configured in the functionality Parametrization > CITSmart Parameters. Then, select the parameter 449 and add the value you want in minutes. After that, you need to disconnect and reconnect to the system, so the system will look for the new default for session expiration time.
+    This type of change is configured in the functionality Parametrization > 4biz Parameters. Then, select the parameter 449 and add the value you want in minutes. After that, you need to disconnect and reconnect to the system, so the system will look for the new default for session expiration time.

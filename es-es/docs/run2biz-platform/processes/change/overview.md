@@ -32,50 +32,50 @@ Normal y Cambio Emergencial.
 Uso
 -------
 
--  [Registrar cambio](/es-es/4biz-helium/processes/change/use/register-change.html)
+-  [Registrar cambio](/es-es/citsmart-platform-8/processes/change/use/register-change.html)
 
--  [Registrar cambio a través de plantilla](/es-es/4biz-helium/processes/change/use/register-change-via-template.html)
+-  [Registrar cambio a través de plantilla](/es-es/citsmart-platform-8/processes/change/use/register-change-via-template.html)
 
--  [Actividades de la fase de planificación del cambio](/es-es/4biz-helium/processes/change/use/change-planning-activities.html)
+-  [Actividades de la fase de planificación del cambio](/es-es/citsmart-platform-8/processes/change/use/change-planning-activities.html)
 
--  [Registrar plan de reversión del cambio](/es-es/4biz-helium/processes/change/use/change-reversion-plan.html)
+-  [Registrar plan de reversión del cambio](/es-es/citsmart-platform-8/processes/change/use/change-reversion-plan.html)
 
--  [Cerrar cambio](/es-es/4biz-helium/processes/change/use/execute-change.html)
+-  [Cerrar cambio](/es-es/citsmart-platform-8/processes/change/use/execute-change.html)
 
--  [Relacionar informaciones al cambio](/es-es/4biz-helium/processes/change/use/relate-information-to-change.html)
+-  [Relacionar informaciones al cambio](/es-es/citsmart-platform-8/processes/change/use/relate-information-to-change.html)
 
--  [Búsqueda avanzada de cambios cerrados](/es-es/4biz-helium/processes/change/use/advanced-search-for-change.html)
+-  [Búsqueda avanzada de cambios cerrados](/es-es/citsmart-platform-8/processes/change/use/advanced-search-for-change.html)
 
--  [Aprobar cambio](/es-es/4biz-helium/processes/change/use/change-approval.html)
+-  [Aprobar cambio](/es-es/citsmart-platform-8/processes/change/use/change-approval.html)
 
--  [Cancelar cambio](/es-es/4biz-helium/processes/change/use/cancel-change.html)
+-  [Cancelar cambio](/es-es/citsmart-platform-8/processes/change/use/cancel-change.html)
 
--  [Suspender cambio](/es-es/4biz-helium/processes/change/use/suspend-change.html)
+-  [Suspender cambio](/es-es/citsmart-platform-8/processes/change/use/suspend-change.html)
 
-- [Registrar ocurrencias del cambio](/es-es/4biz-helium/processes/change/use/change-occurrences.html)
+- [Registrar ocurrencias del cambio](/es-es/citsmart-platform-8/processes/change/use/change-occurrences.html)
 
 Configuración
 ----------------
 
--   [Crear portafolio de cambio](/es-es/4biz-helium/processes/change/configuration/change-portfolio.html)
+-   [Crear portafolio de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
 
--   [Registrar justificación del cambio](/es-es/4biz-helium/processes/change/configuration/change-justification.html)
+-   [Registrar justificación del cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-justification.html)
 
--   [Calendario de cambio](/es-es/4biz-helium/processes/change/configuration/change-schedule.html)
+-   [Calendario de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-schedule.html)
 
--   [Registrar plantilla de cambio](/es-es/4biz-helium/processes/change/configuration/change-template.html) 
+-   [Registrar plantilla de cambio](/es-es/citsmart-platform-8/processes/change/configuration/change-template.html) 
 
 Informe
 -------
 
--   [Crear informes – Gestión de cambio](/es-es/4biz-helium/processes/change/use/generate-reports-change-management.html)
+-   [Crear informes – Gestión de cambio](/es-es/citsmart-platform-8/processes/change/use/generate-reports-change-management.html)
 
--   [Generar informes por el panel de gráficos e informes - Cambios](/es-es/4biz-helium/processes/change/use/generate-reports-charts-panel-change.html)
+-   [Generar informes por el panel de gráficos e informes - Cambios](/es-es/citsmart-platform-8/processes/change/use/generate-reports-charts-panel-change.html)
 
--   [Informes adicionales del cambio](/es-es/4biz-helium/processes/change/use/change-additional-reports.html)
+-   [Informes adicionales del cambio](/es-es/citsmart-platform-8/processes/change/use/change-additional-reports.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 

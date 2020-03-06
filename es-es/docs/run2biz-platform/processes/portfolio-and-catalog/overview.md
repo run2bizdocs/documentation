@@ -12,81 +12,81 @@ La cartera es la representación de todos los servicios y su estado. Su comando 
 Uso
 -------
 
-- [Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+- [Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-- [Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
+- [Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-- [Crear Mapa de Servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-service-map.html)
+- [Crear Mapa de Servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-service-map.html)
 
-- [Configurar atributos del servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+- [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)
 
-- [Configurar atributos del contrato de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/service-contract-attributes.html)
+- [Configurar atributos del contrato de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/service-contract-attributes.html)
 
-- [Vincular acitvidades al contrato de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
+- [Vincular acitvidades al contrato de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
-- [Registrar actividad de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html)
+- [Registrar actividad de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html)
 
-- [Gestionar mis solictudes por el Smart Portal](/es-es/4biz-helium/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
+- [Gestionar mis solictudes por el Smart Portal](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
-- [Smart Portal](/es-es/4biz-helium/processes/portfolio-and-catalog/use/smart-portal.html)
+- [Smart Portal](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/smart-portal.html)
 
 Configuración
 -----------------
 
-- [Definir el permiso de acceso a las funcionalidades de la Gestión de portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
+- [Definir el permiso de acceso a las funcionalidades de la Gestión de portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/access-portfolio-management.html)
 
-- [Crear categoría de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html)
+- [Crear categoría de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
-- [Registrar contrato](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-contract.html)
+- [Registrar contrato](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-- [Crear ciclo](/es-es/4biz-helium/platform-administration/time/create-cycle.html)
+- [Crear ciclo](/es-es/citsmart-platform-8/platform-administration/time/create-cycle.html)
 
-- [Crear calendario](/es-es/4biz-helium/platform-administration/time/create-calendar.html)
+- [Crear calendario](/es-es/citsmart-platform-8/platform-administration/time/create-calendar.html)
 
-- [Registrar causa de incidentes](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
+- [Registrar causa de incidentes](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
-- [Registrar categoría de solución](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-solution-category.html)
+- [Registrar categoría de solución](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Registrar justificación de la solicitud](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+- [Registrar justificación de la solicitud](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-- [Registrar prioridad](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-priority.html)
+- [Registrar prioridad](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-- [Registrar cliente](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-client.html)
+- [Registrar cliente](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-- [Registrar proveedor](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-provider.html)
+- [Registrar proveedor](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-provider.html)
 
-- [Registrar condición de operación](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+- [Registrar condición de operación](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-- [Registrar proceso de negocio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-business-process.html)
+- [Registrar proceso de negocio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-business-process.html)
 
-- [Registrar plantilla de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-service-template.html)
+- [Registrar plantilla de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-service-template.html)
 
-- [Registrar prioridad de la solicitud de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-service-request-priority.html)
+- [Registrar prioridad de la solicitud de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-service-request-priority.html)
 
-- [Registrar habilidad/recurso](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-skill-resource.html)
+- [Registrar habilidad/recurso](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-skill-resource.html)
 
-- [Registrar tipo de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
+- [Registrar tipo de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-type-of-service.html)
 
-- [Registrar categoría de noticias](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-news-category.html)
+- [Registrar categoría de noticias](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-news-category.html)
 
-- [Registrar noticias](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-news.html)
+- [Registrar noticias](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-news.html)
 
-- [Registrar unidad](/es-es/4biz-helium/platform-administration/region-and-language/register-unit.html)
+- [Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-- [Registrar encuesta de satisfación](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+- [Registrar encuesta de satisfación](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-- [Registrar empresa](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-company.html)
+- [Registrar empresa](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-company.html)
 
-- [Implementar forma de envío de e-mail a ticket reclasificado](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html)
+- [Implementar forma de envío de e-mail a ticket reclasificado](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/send-email-reclassified-ticket.html)
 
 Informe
 ----------
 
-- [Crear informes - catálogo de servicios](/es-es/4biz-helium/processes/portfolio-and-catalog/use/reports-service-catalog.html)
+- [Crear informes - catálogo de servicios](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/reports-service-catalog.html)
 
-- [Comprobar la auditoría de servicios](/es-es/4biz-helium/processes/portfolio-and-catalog/use/service-audit.html)
+- [Comprobar la auditoría de servicios](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/service-audit.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

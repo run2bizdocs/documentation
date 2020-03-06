@@ -42,16 +42,16 @@ en el documento "Vincular las actividades al contrato de servicio".
 Relacionado
 ---------
 
-[Registrar servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
+[Registrar servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Registrar contrato](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Registrar contrato](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Vincular actividades al contrato de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
+[Vincular actividades al contrato de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/link-activity-to-service-contract.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

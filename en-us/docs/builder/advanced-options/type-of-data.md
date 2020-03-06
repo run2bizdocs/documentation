@@ -7,7 +7,7 @@ This field is selected when you create a new attribute for a business object. Mo
 
 ## How to access  
 
-1. Access the feature by navigating the menu Neuro > Configuration > Data type.    
+1. Access the feature by navigating the menu Builder > Configuration > Data type.    
 
 ## Preconditions
 
@@ -58,5 +58,5 @@ Figure 2 - Data type list screen
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  

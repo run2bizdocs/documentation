@@ -21,8 +21,8 @@ Antes de empezar
 --------------------
 
 Para registrar el gerente Nagios, es necesario registrar previamente la conexión
-del 4biz Event Monitor, horario, categoría de ocurrencia, acción automática
-y la conexión del 4biz Inventory.
+del CITSmart Event Monitor, horario, categoría de ocurrencia, acción automática
+y la conexión del CITSmart Inventory.
 
 Procedimiento
 -----------------
@@ -33,7 +33,7 @@ Procedimiento
 2.  Completar los campos disponibles en cada area;
 
 3.  En el área Ítem de Configuración Padre, es posible registrar el EC en
-    4biz, con los datos del Host seleccionado. Hacer clic en "Crear EC". Es
+    CITSmart, con los datos del Host seleccionado. Hacer clic en "Crear EC". Es
     importante recordar que este registro sólo puede ser realizado si no hay un
     EC con la misma identificación del Host:
 
@@ -48,18 +48,18 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar categoría de ocurencia](/es-es/4biz-helium/processes/event/configuration/register-occurence-category.html)
+[Registrar categoría de ocurencia](/es-es/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
 
-[Registar Conexión Event Monitor](/es-es/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
+[Registar Conexión Event Monitor](/es-es/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Registrar conexión Nagios/Zabbix](/es-es/4biz-helium/processes/event/configuration/register-nagios-zabbix-connection.html)
+[Registrar conexión Nagios/Zabbix](/es-es/citsmart-platform-8/processes/event/configuration/register-nagios-zabbix-connection.html)
 
-[Registrar horario](/es-es/4biz-helium/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-platform-8/processes/event/configuration/register-time.html)
 
-[Registrar acción automatica](/es-es/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-action.html)
+[Registrar acción automatica](/es-es/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-action.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

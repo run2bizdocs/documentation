@@ -8,7 +8,7 @@ ser tratada por el proceso de gestión de incidentes, es decir, esta
 funcionalidad tiene como objetivo realizar el registro de acciones automáticas
 del tipo incidente/solicitud/procedimiento. Este registro será asociado a las
 acciones automáticas, donde será usado en los registros de gerentes de eventos
-del 4biz Nagios, Zabbix, Inventory y Eventos Correlacionados.
+del CITSmart Nagios, Zabbix, Inventory y Eventos Correlacionados.
 
 La gestión de eventos apoya el proceso de gestión de incidentes, ya que a partir
 de él es posible detectar con antelación fallas en los servicios y actuar
@@ -42,22 +42,22 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar contrato](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-contract.html)
+[Registrar contrato](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-contract.html)
 
-[Crear portafolio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Crear portafolio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Crear tiempo de servicio](/es-es/4biz-helium/processes/service-level/configuration/create-time-attendance.html)
+[Crear tiempo de servicio](/es-es/citsmart-platform-8/processes/service-level/configuration/create-time-attendance.html)
 
-[Registrar colaborador](/es-es/4biz-helium/initial-settings/access-settings/user/register-employee.html)
+[Registrar colaborador](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
 
-[Registrar grupo de actividad periódica](/es-es/4biz-helium/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+[Registrar grupo de actividad periódica](/es-es/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-[Registrar unidad](/es-es/4biz-helium/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 - Anna Martins

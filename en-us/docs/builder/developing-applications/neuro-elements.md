@@ -1,8 +1,8 @@
-Title: Neuro Elements
+Title: Builder Elements
 
-# Neuro Elements
+# Builder Elements
 
-![Neuro Elements][1]
+![Builder Elements][1]
 
 In a simple way we can define the interaction between elements as: 
 
@@ -12,4 +12,4 @@ In a simple way we can define the interaction between elements as:
 
 3. Forms will connect with SM Flows and ESI Flow, interfacing with systems and databases
 
-[1]:images/neuro-elements.png
+[1]:imagesbuilder-elements.png

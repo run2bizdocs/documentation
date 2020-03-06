@@ -1,5 +1,5 @@
 Title:La metodología
-Description: Fast Deployment Methodology (FDM) es una metodología creada por 4biz Corporation, desarrollada para proveer la implementación de los productos 4biz 
+Description: Fast Deployment Methodology (FDM) es una metodología creada por CITSmart Corporation, desarrollada para proveer la implementación de los productos CITSmart 
 
 ![FDM](img/fmd_icone_t.png)
 
@@ -9,8 +9,8 @@ Fast Deployment Methodology (FDM)
 ¿Qué es FDM?
 ------------
 
-Fast Deployment Methodology (FDM) es una metodología creada por 4biz Corporation,
-desarrollada para proveer la implementación de los productos 4biz de manera rápida,
+Fast Deployment Methodology (FDM) es una metodología creada por CITSmart Corporation,
+desarrollada para proveer la implementación de los productos CITSmart de manera rápida,
 adecuada a las necesidades de los clientes y de acuerdo con los estándares exigidos 
 en el mercado,o sea, es alta entrega de valor primario por la simplicidad.
     
@@ -70,6 +70,6 @@ Los modelos de documentos utilizados y los artefactos generados en la aplicació
 !!! warning "ATENCIÓN"
 
     Los Artefactos y la Fast Deployment Methodology (FDM) están disponibles 
-    para nuestros socios a través del [MY.4biz](https://my.4bizcloud.com)
+    para nuestros socios a través del [MY.CITSmart](https://my.citsmartcloud.com)
 
 

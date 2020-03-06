@@ -57,38 +57,38 @@ llamada Implementación.
 Relacionado
 ----------------
 
-[Registrar amenaza](/es-es/4biz-helium/processes/continuity/configuration/register-threat.html)
+[Registrar amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
 
-[Registrar categoría de amenaza](/es-es/4biz-helium/processes/continuity/configuration/threat-category.html)
+[Registrar categoría de amenaza](/es-es/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
 
-[Registrar categoría de riesgo](/es-es/4biz-helium/processes/continuity/configuration/risk-category.html)
+[Registrar categoría de riesgo](/es-es/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
 
-[Registrar riesgo de la continuidad](/es-es/4biz-helium/processes/continuity/configuration/register-continuity-risk.html)
+[Registrar riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
 
-[Registrar continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/register-service-continuity.html)
+[Registrar continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/register-service-continuity.html)
 
-[Definir política de la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/continuity-policy.html)
+[Definir política de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/continuity-policy.html)
 
-[Registrar alcance de la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/service-continuity-scope.html)
+[Registrar alcance de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/service-continuity-scope.html)
 
-[Definir el proyecto de la continuidad del servicio](/es-es/4biz-helium/processes/continuity/use/service-continuity-project.html)
+[Definir el proyecto de la continuidad del servicio](/es-es/citsmart-platform-8/processes/continuity/use/service-continuity-project.html)
 
-[Registrar las funciones vitales de la continuidad de servicio](/es-es/4biz-helium/processes/continuity/use/continuity-vital-functions.html)
+[Registrar las funciones vitales de la continuidad de servicio](/es-es/citsmart-platform-8/processes/continuity/use/continuity-vital-functions.html)
 
-[Registrar análisis de impacto al negocio de la continuidad](/es-es/4biz-helium/processes/continuity/use/impact-analysis-continuity-business.html)
+[Registrar análisis de impacto al negocio de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/impact-analysis-continuity-business.html)
 
-[Registrar evaluación de riesgo de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-risk-evaluation.html)
+[Registrar evaluación de riesgo de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-risk-evaluation.html)
 
-[Registrar estrategia de la continuidad de servicios](/es-es/4biz-helium/processes/continuity/use/service-continuity-strategy.html)
+[Registrar estrategia de la continuidad de servicios](/es-es/citsmart-platform-8/processes/continuity/use/service-continuity-strategy.html)
 
-[Registra la planificación organizacional de la continuidad](/es-es/4biz-helium/processes/continuity/use/continuity-organizational-planning.html)
+[Registra la planificación organizacional de la continuidad](/es-es/citsmart-platform-8/processes/continuity/use/continuity-organizational-planning.html)
 
-[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Registrar acciones automaticas de incidentes/solicitudes/procedimientos](/es-es/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMHcgQuDIzcuLqoHXYfihz1)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Larissa Lourenço

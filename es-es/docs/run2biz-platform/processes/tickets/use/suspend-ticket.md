@@ -29,14 +29,14 @@ Verificar en la pagina de tickets relacionados si la situación es "suspensa"
 Relacionado
 -----------
 
-[Registrar justificatión de la solicitud](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+[Registrar justificatión de la solicitud](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
+[Configurar permiso de acceso de la gestión de solicitudes/incidentes](/es-es/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

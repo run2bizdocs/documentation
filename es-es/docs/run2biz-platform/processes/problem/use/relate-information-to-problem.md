@@ -63,7 +63,7 @@ embargo es imprescindible tener acceso a un problema.
     !!! warning "ATENCIÓN"
 
         Si no hay ningún servicio relacionado, puede vincular un nuevo
-        servicio al problema, Taskermente hacer clic en "Servicios del Problema"
+        servicio al problema, simplemente hacer clic en "Servicios del Problema"
         y depués en "Añadir servicio". Después, es necesario seleccionar el
         servicio deseado.
 
@@ -91,5 +91,5 @@ embargo es imprescindible tener acceso a un problema.
     actual", esta última opción permite no avanzar a la siguiente fase el problema.
 
 !!! tip "About"
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

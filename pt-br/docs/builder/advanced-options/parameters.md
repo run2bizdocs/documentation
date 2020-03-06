@@ -1,13 +1,13 @@
 Title: Parâmetros   
-Description: Nesta tela, os parâmetros a serem usados em aplicativos criados através do Builder são configurados.    
+Description: Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.    
 
 # Parâmetros  
 
-Nesta tela, os parâmetros a serem usados em aplicativos criados através do Builder são configurados.   
+Nesta tela, os parâmetros a serem usados em aplicativos criados através do Neuro são configurados.   
 
 ## Como acessar 
 
-1. Acesse a funcionalidade através da navegação no menu Builder > Configuração > Parâmetros.   
+1. Acesse a funcionalidade através da navegação no menu Neuro > Configuração > Parâmetros.   
 
 ## Pré-condições  
 

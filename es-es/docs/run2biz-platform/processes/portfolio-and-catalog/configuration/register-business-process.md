@@ -40,18 +40,18 @@ Procedimiento
 Relacionado
 -------
 
-[Registrar cliente](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/register-client.html)
+[Registrar cliente](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
 
-[Registrar unidad](/es-es/4biz-helium/platform-administration/region-and-language/register-unit.html)
+[Registrar unidad](/es-es/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
 
-[Crear flujo de trabajo](/es-es/4biz-helium/tracker/use/create-flow.html)
+[Crear flujo de trabajo](/es-es/citsmart-platform-8/workflow/use/create-flow.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROUXdrTeH-_n6tXmG4oPtoz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

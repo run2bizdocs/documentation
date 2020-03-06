@@ -30,7 +30,7 @@
 importNames.importPackage(Packages.java.util);
 importNames.importPackage(Packages.java.lang);
 importNames.importPackage(Packages.br.com.citframework.util);
-importNames.importPackage(Packages.br.com.centralit.4biz.rest.v3.util);
+importNames.importPackage(Packages.br.com.centralit.citsmart.rest.v3.util);
 importNames.importPackage(Packages.br.com.centralit.citcorpore.ajaxForms);
 
 var pDataInicio = importNames.UtilDatas.getTimeStampInicioPeriodo(hashParametros.get("PARAM.dataInicial"));

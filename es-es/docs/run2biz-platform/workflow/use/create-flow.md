@@ -8,7 +8,7 @@ Description: Es posible crear flujos de trabajo que mejor se adecuan a la realid
 Procedimiento
 ------------
 
-1.  Acceder al menú principal tracker \> Diseño de Flujo;
+1.  Acceder al menú principal Workflow \> Diseño de Flujo;
 
 2.  Hacer clic en "Nuevo";
 
@@ -27,7 +27,7 @@ Procedimiento
 
     !!! Abstract "ATENCIÓN"
 
-        La pestaña "Interfaz" permite elegir el modo de interacción (formulario estándar, cuestionario o formulario Builder) que             se aplicará al servicio. Sin embargo, si no ocurre la vinculación de ninguna plantilla de solicitud de servicio en esta pestaña, el sistema subentendirá y aplicará las configuraciones de un formulario estándar, habilitado para vincular el elemento de configuración, cambio, problema y solicitud relacionada con el ticket en la pantalla de gestión de tickets. Podemos citar también otra regla referente a esta pestaña: las normativas aquí configuradas tendrán prioridad en relación a las marcas del template de solicitud de servicio, ya que es un complemento del flujo.  
+        La pestaña "Interfaz" permite elegir el modo de interacción (formulario estándar, cuestionario o formulario neuro) que             se aplicará al servicio. Sin embargo, si no ocurre la vinculación de ninguna plantilla de solicitud de servicio en esta pestaña, el sistema subentendirá y aplicará las configuraciones de un formulario estándar, habilitado para vincular el elemento de configuración, cambio, problema y solicitud relacionada con el ticket en la pantalla de gestión de tickets. Podemos citar también otra regla referente a esta pestaña: las normativas aquí configuradas tendrán prioridad en relación a las marcas del template de solicitud de servicio, ya que es un complemento del flujo.  
 
 6.  Además, la funcionalidad admite importar flujos al hacer clic en el botón "Importar". Puede importar en el formato "JSON" o "XML".
 
@@ -36,12 +36,12 @@ Procedimiento
 Relacionado
 ------------
 
-[Registrar plantilla de ticket](/es-es/4biz-helium/platform-administration/questionnaires/ticket-template.html)
+[Registrar plantilla de ticket](/es-es/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[2]:/es-es/4biz-helium/tracker/configuration/expressions-creator.html
+[2]:/es-es/citsmart-platform-8/workflow/configuration/expressions-creator.html

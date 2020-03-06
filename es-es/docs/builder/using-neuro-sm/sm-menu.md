@@ -1,6 +1,6 @@
-title: Crear elemento de menú vía Builder
-Description: Criar elemento de menú vía Builder
-# Crear elemento de menú vía Builder
+title: Crear elemento de menú vía Neuro
+Description: Criar elemento de menú vía Neuro
+# Crear elemento de menú vía Neuro
 
 
 1.  Crear un formulario para el objeto de negocio;
@@ -13,16 +13,16 @@ Description: Criar elemento de menú vía Builder
 
     3.  El sistema generará un enlace automáticamente a nuestro formulario.
 
-![create](images/Builder-sm-11.jpg)
+![create](images/neuro-sm-11.jpg)
 
 Figura 1 - Crear menu SM
 
-![create](images/Builder-sm-12.jpg)
+![create](images/neuro-sm-12.jpg)
 
 Figura 2 - Crear menu SM (continuación)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 – Anna Martins

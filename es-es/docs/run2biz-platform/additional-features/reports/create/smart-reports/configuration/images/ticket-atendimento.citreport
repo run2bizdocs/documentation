@@ -30,7 +30,7 @@ importNames.importPackage(Packages.br.com.citframework.comparacao);
 importNames.importPackage(Packages.br.com.citframework.integracao);
 importNames.importPackage(Packages.com.google.gson);
 importNames.importPackage(Packages.java.text);
-importNames.importPackage(Packages.br.com.centralit.4biz.rest.v3.util);
+importNames.importPackage(Packages.br.com.centralit.citsmart.rest.v3.util);
 var print = java.lang.System.out;
 
 var pRequestId = hashParametros.get("PARAM.requestId")=="" ? -1 : importNames.Integer.parseInt(hashParametros.get("PARAM.requestId"));

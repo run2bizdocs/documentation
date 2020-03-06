@@ -1,11 +1,11 @@
 title: Configurar conexión Inventory
-Description: Objetivo registrar todas las propiedades referentes a la conexión del 4biz Inventory, de acuerdo con el IP y el puerto donde está instalado el Jboss del 4biz Inventory.
+Description: Objetivo registrar todas las propiedades referentes a la conexión del CITSmart Inventory, de acuerdo con el IP y el puerto donde está instalado el Jboss del CITSmart Inventory.
 # Configurar conexión Inventory
 
 
 Esta funcionalidad tiene como objetivo registrar todas las propiedades
-referentes a la conexión del 4biz Inventory, de acuerdo con el IP y el
-puerto donde está instalado el Jboss del 4biz Inventory.
+referentes a la conexión del CITSmart Inventory, de acuerdo con el IP y el
+puerto donde está instalado el Jboss del CITSmart Inventory.
 
 Antes de empezar
 --------------------
@@ -31,7 +31,7 @@ Procedimiento
 
     ![inventory integración](images/conexao-inventory.jpg)
 
-     Figura 1 -Integración 4biz inventory
+     Figura 1 -Integración CITSmart inventory
 
 
 4. Si el tipo de conexión elegido es el *OCS Inventory*, se mostrará su campo de configuración para que se informe el repositorio XML, como se muestra a continuación. Además, hay algunos **requisitos previos** muy relevantes que se deben observar:
@@ -39,7 +39,7 @@ Procedimiento
 
     ![ocs](images/conexao-inventory-2.jpg)
    
-    Figura 2 -Integración 4biz inventory - OCS inventory
+    Figura 2 -Integración CITSmart inventory - OCS inventory
 
     +   Después de instalar el OCS Inventory, no viene como estándar cualquier tipo de integración con otro sistema, para ello, en el            menú Inventory files, debe asignar GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML y especificar la ruta donde se guardarán los          archivos XML en OCS_FILES_PATH
 
@@ -59,18 +59,18 @@ Procedimiento
                +   el inventario debe tener permiso (compartir) en el servidor OCS
                    Inventory.
 
-5. La aplicación de inventario realiza la captura de los datos a través del puerto del agente SNMP (161) y/o del agente de captura (puerto 7103 desarrollado por 4biz Corporation, en .Net). Inicialmente, Inventory realiza un comando "ping" para comprobar si la máquina está activa. Si consigue realizar el comando, intenta acceder al puerto SNMP del elemento de configuración. Si el acceso al puerto no se obtiene con éxito, Inventory intenta realizar el acceso a través del agente de captura haciendo clic en el botón "Probar Conexión";
+5. La aplicación de inventario realiza la captura de los datos a través del puerto del agente SNMP (161) y/o del agente de captura (puerto 7103 desarrollado por CITSmart Corporation, en .Net). Inicialmente, Inventory realiza un comando "ping" para comprobar si la máquina está activa. Si consigue realizar el comando, intenta acceder al puerto SNMP del elemento de configuración. Si el acceso al puerto no se obtiene con éxito, Inventory intenta realizar el acceso a través del agente de captura haciendo clic en el botón "Probar Conexión";
 
 6. Hacer clic en "Guardar y Aplicar Configuraciones".
 
 Relacionado
 -------
 
-[Registrar gerente Inventory](/es-es/4biz-helium/processes/event/configuration/register-inventory-manager.html)
+[Registrar gerente Inventory](/es-es/citsmart-platform-8/processes/event/configuration/register-inventory-manager.html)
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 - Anna Martins

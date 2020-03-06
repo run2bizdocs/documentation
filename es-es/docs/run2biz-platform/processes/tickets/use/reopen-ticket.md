@@ -26,13 +26,13 @@ Procedimiento
 Relacionado
 -----------
 
-[La área de trabajo del service desk](/es-es/4biz-helium/processes/tickets/use/desktop-of-service-desk.html)
+[La área de trabajo del service desk](/es-es/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
 
-[Crear ticket](/es-es/4biz-helium/processes/tickets/use/create-ticket.html)
+[Crear ticket](/es-es/citsmart-platform-8/processes/tickets/use/create-ticket.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROfIFL9F-3s-gomHNzudBEy)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/25/2019 – Larissa Lourenço

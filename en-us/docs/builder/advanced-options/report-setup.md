@@ -6,7 +6,7 @@ The information is automatically populated from the report file. The **name, des
 
 ## How to access 
 
-Access the functionality through the menu Neuro > Management > Report. 
+Access the functionality through the menu Builder > Management > Report. 
 
 ## Preconditions 
 
@@ -88,7 +88,7 @@ Figure 6 - Register/edit report configuration, Form tab
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
 

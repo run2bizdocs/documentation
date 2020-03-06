@@ -1,5 +1,5 @@
 Title: FAQ
-description: Aquí tienes las respuestas de las preguntas más comunes cuando se habla de la herramienta 4biz.
+description: Aquí tienes las respuestas de las preguntas más comunes cuando se habla de la herramienta CITSmart.
 
 # Preguntas frecuentes - FAQ
 
@@ -14,7 +14,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Es posible clasificar la Solicitud/Incidente (Ticket)?"
 
-    Tanto una Solicitud como un Incidente pueden ser categorizados en la etapa de [registro de las actividades en un servicio](https://docs.4biz.com/es-es/4biz-helium/processes/portfolio-and-catalog/use/register-service-activity.html), las categorías se pueden crear en la misma pantalla de registro, en la hora del enlace de la categoría o en las funcionalidades específicas para [Crear categoría de servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html).    
+    Tanto una Solicitud como un Incidente pueden ser categorizados en la etapa de [registro de las actividades en un servicio](https://docs.citsmart.com/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/register-service-activity.html), las categorías se pueden crear en la misma pantalla de registro, en la hora del enlace de la categoría o en las funcionalidades específicas para [Crear categoría de servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/configuration/create-service-category.html).    
 
 !!! Question "¿Cómo acceder a la solicitud de servicio a partir de la notificación de correo electrónico?"
     
@@ -22,7 +22,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
    
     1. Asegúrese de que está conectado al sistema;
     2. Abra la notificación de correo electrónico referente a la solicitud de servicio;
-    3. La notificación tendrá el número de solicitud con un hipervínculo, Taskermente haga clic en el número, que luego será redirigido a la pantalla de Gestión de servicios presentando la información de la solicitud.
+    3. La notificación tendrá el número de solicitud con un hipervínculo, simplemente haga clic en el número, que luego será redirigido a la pantalla de Gestión de servicios presentando la información de la solicitud.
     
 !!! Question "¿Cómo definir un grupo padrón para el atendimiento del primer nivel de la solicitud de servicio?"
    
@@ -31,8 +31,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     1. Acceda a la funcionalidad de registro de grupo mediante la navegación en el menú principal Acceso y Permiso > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos;
     2. Realizar el registro del grupo de 1º nivel, si no está registrado, y proceder con el llenado de los campos;
     3. Si el grupo de primer nivel ya está registrado en el sistema, realice la búsqueda del grupo y obtenga su número de identificación (ID);
-    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal. Parametrización > Parámetros 4biz;
-    5. Se mostrará la pantalla Parámetros de 4biz, haga clic en la pestaña Búsqueda de parámetros de 4biz;
+    4. Después de obtener el ID del grupo de primer nivel, acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Parametrización > Parámetros CITSmart;
+    5. Se mostrará la pantalla Parámetros de CITSmart, haga clic en la pestaña Búsqueda de parámetros de CITSmart;
     6. Realice la búsqueda del parámetro "9 - ID Grupo Nível 1";
     7. Seleccione el mismo;
     8. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, introduzca el número de identificación (ID) del grupo de primer nivel;
@@ -74,13 +74,13 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cómo habilitar la regla de escalabilidad de las solicitudes de servicio?"
     
-    La regla de escalado de solicitud de servicio está habilitada en la pantalla de Parámetro de 4biz. Para habilitar esta regla, proceda de la siguiente manera:
+    La regla de escalado de solicitud de servicio está habilitada en la pantalla de Parámetro de CITSmart. Para habilitar esta regla, proceda de la siguiente manera:
 
-    1- En el archivo 4biz.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
+    1- En el archivo citsmart.cfg colocar la rutina START_MONITORA_INCIDENTES = TRUE ;
     
-    2- Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Sistema > Parámetros 4biz;
+    2- Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Sistema > Parámetros CITSmart;
     
-    3- Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de Búsqueda de Parámetros de 4biz;
+    3- Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     
     4- Busque y cambie el parámetro 190 - ¿ Activa el funcionamiento de las reglas de programación? (Ej.: S o N - Default: 'N') que indica el valor "S" para habilitar escalado de solicitud de servicio;
     
@@ -134,7 +134,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
    
     Se hace el diseño de activos que componen el servicio utilizando la herramienta de Diseño de Mapa de Servicio que proporciona diseños eficientes y eficaces para la gestión del servicio durante su ciclo de vida, demostrando los ítems de configuración relacionados.
 
-    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
+    Para realizar este diseño, proceda de acuerdo con las siguientes instrucciones (ver conocimiento [Configurar atributos del servicio](/es-es/citsmart-platform-8/processes/portfolio-and-catalog/use/configure-services-attributes.html)):
     
     1. Acceda a la funcionalidad de diseño de mapa del servicio referente al servicio de negocio Gerência de Portafolio y Catálogo > Gestión de Portafolio y Catálogo > Menu Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio > Mapa de Servicios;
     2. Se presentará la pantalla para el diseño de los activos que componen el servicio de negocio;
@@ -146,7 +146,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     A PARTIR DEL REGISTRO DE GRUPO
 	
-    1. Acceda a la funcionalidad de Registro de Grupo a través de la navegación en el menú principal. Posicione el puntero en la opción Acceso y Permiso y haga clic en la opción Grupo (ver [Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html));
+    1. Acceda a la funcionalidad de Registro de Grupo a través de la navegación en el menú principal. Posicione el puntero en la opción Acceso y Permiso y haga clic en la opción Grupo (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     2. Se mostrará la pantalla de Registro de Grupo. Si el grupo ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
     3. Haga clic en el icono de agregar del campo Colaboradores, se mostrará la pantalla para búsqueda de colaboradores;
     4. Realice la búsqueda del colaborador que desea vincular al grupo y seleccione el mismo. Después de eso, el colaborador será vinculado al grupo;
@@ -154,7 +154,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     A PARTIR DO CADASTRO DE USUARIO
     
-    1. Acceda a la funcionalidad de Registro de Usuario a través de la navegación en el menú principal. Sitúe el puntero en la opción Registros Generales, Administración de Personal y haga clic en la opción Usuario (ver [Registrar usuario](/es-es/4biz-helium/initial-settings/access-settings/user/users.html));
+    1. Acceda a la funcionalidad de Registro de Usuario a través de la navegación en el menú principal. Sitúe el puntero en la opción Registros Generales, Administración de Personal y haga clic en la opción Usuario (ver [Registrar usuario](/es-es/citsmart-platform-8/initial-settings/access-settings/user/users.html));
     2. Se mostrará la pantalla de Registro de Usuario. Si el usuario ya está registrado en el sistema, realice la búsqueda del usuario y seleccione el mismo. Hecho esto, se mostrará la pantalla de registro del usuario determinado;
     3. Haga clic en el icono "Agregar" del campo Grupo. Se mostrará la pantalla para la búsqueda de grupos;
     4. Realice la búsqueda del grupo deseado y seleccione la misma. Después de eso, el usuario será vinculado al grupo;
@@ -164,10 +164,10 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     Para relacionar grupo al contrato, proceda conforme a las orientaciones abajo:
     
-    1. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal. Coloque el puntero en la opción Parametrización y haga clic en la opción Parámetros 4biz. Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de consulta de parámetros de 4biz. Hecho esto, se mostrará la pantalla para la búsqueda de parámetros;
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal. Coloque el puntero en la opción Parametrización y haga clic en la opción Parámetros CITSmart. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de consulta de parámetros de CITSmart. Hecho esto, se mostrará la pantalla para la búsqueda de parámetros;
     2. Realiza la búsqueda del parámetro "41 - ¿Hace que el control de vínculo de colaboradores a los contratos (S/N)?" y seleccione. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de grupo. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
-    4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/4biz-helium/initial-settings/access-settings/user/register-groups.html));
+    4. Después de configurar el parámetro, acceda a la funcionalidad de registro de grupo a través de la navegación en el menú principal Registros generales > Gestión de Personal > Grupo. Se mostrará la pantalla de registro de grupo, mostrando los contratos (ver [Registrar grupo](/es-es/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html));
     5. Si el grupo que desea vincular al contrato ya está registrado en el sistema, realice la búsqueda del grupo y seleccione el mismo;
     6. Hecho esto, se mostrará la pantalla de registro del determinado grupo;
     7. Seleccione los contratos a los que se vinculará el grupo. Después de eso, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
@@ -176,7 +176,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
     Para relacionar unidad al contrato, proceda de acuerdo con las siguientes directrices:
 
-    1. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz. Después de eso, aparecerá la pantalla de Parámetros de 4biz, haga clic en la pestaña de búsqueda de "parámetros de 4biz";
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de "parámetros de CITSmart";
     2. Realice la búsqueda del parámetro "61 - Vincula contratos a unidad" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     3. En el campo valor, introduzca el valor "S" para que se muestren los contratos en la pantalla de registro de unidad. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación;
     4. Después de configurar el parámetro, acceda a la funcionalidad de registro de unidad a través de la navegación en el menú principal Registros Generales > Gestión de personal > Unidad. Se mostrará la pantalla de registro de unidad, mostrando los contratos;
@@ -245,8 +245,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     Para habilitar esta regla, proceda de la siguiente manera:
     
-    1. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    2. Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de Búsqueda de Parámetros de 4biz;
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro "194 - ¿Habilitar el escalonamiento de problema definido en las reglas de escalonamiento?". (Ej.: S o N - Default 'N')" y seleccione el mismo;
     4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
     5. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
@@ -279,10 +279,10 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cómo definir la obligatoriedad del vinculo del cambio de EC?"
     
-    La obligatoriedad del vínculo del cambio con el IC se define en la pantalla de Parámetro del 4biz. Para definir esta obligatoriedad, proceda conforme a las siguientes directrices:
+    La obligatoriedad del vínculo del cambio con el IC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda conforme a las siguientes directrices:
 
-    1. Acceda a la funcionalidad de Parámetros del 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    2. Se mostrará la pantalla de Parámetros del 4biz, haga clic en la pestaña de búsqueda de parámetros del 4biz;
+    1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros del CITSmart, haga clic en la pestaña de búsqueda de parámetros del CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros. Realiza la búsqueda del parámetro "85 - ¿Verificar enlace del Cambio relacionado al IC?";
     4. Seleccione el mismo;
     5. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S";
@@ -291,12 +291,12 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cómo habilitar la regla de escalabilidad del módulo de cambios?"
     
-    La regla de escalado de cambios está habilitada en la pantalla de Parámetro de 4biz.
+    La regla de escalado de cambios está habilitada en la pantalla de Parámetro de CITSmart.
 
     Para habilitar esta regla, proceda de la siguiente manera:
 
-    1. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    2. Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de Búsqueda de Parámetros de 4biz;
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda del parámetro"193 - ¿Permite programar los cambios en las reglas de escalamiento definidos? (Ej: S o N - Default 'N')" y seleccione el mismo;
     4. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para activar escalonamiento de cambios;
     5. Haga clic en el botón "Grabar" para realizar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría.
@@ -325,7 +325,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
 !!! Question "¿Cómo configurar el nombre de las fases del ciclo de vida de los EC (Elementos de configuración)?"
     
-    La configuración de los nombres de las fases del ciclo de vida del IC se puede realizar desde la pantalla de Configuración del GCAS y desde la pantalla de Parámetros del 4biz. Para realizar esta configuración, proceda de la siguiente manera:
+    La configuración de los nombres de las fases del ciclo de vida del IC se puede realizar desde la pantalla de Configuración del GCAS y desde la pantalla de Parámetros del CITSmart. Para realizar esta configuración, proceda de la siguiente manera:
   
     CONFIGURACIÓN A PARTIR DE LA PANTALLA DE CONFIGURACIÓN DEL GCA
     
@@ -343,10 +343,10 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     4- Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
     
-	CONFIGURACIÓN A PARTIR DE LA PANTALLA DE PARÁMETROS DEL 4biz
+	CONFIGURACIÓN A PARTIR DE LA PANTALLA DE PARÁMETROS DEL CITSMART
     
-    1. Acceda a la funcionalidad de Parámetros del 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    2. Después de eso, aparecerá la pantalla de Parámetros de 4biz, haga clic en la pestaña de búsqueda de parámetros de 4biz. Se mostrará la pantalla para la búsqueda de parámetros;
+    1. Acceda a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Después de eso, aparecerá la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart. Se mostrará la pantalla para la búsqueda de parámetros;
     3. Realiza la búsqueda del parámetro "92 - Nombre del Grupo de ICs en la fase Desarrollo (Ej: ICs en Desarrollo)";
     4. Seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     5. En el campo valor, introduzca el nombre del grupo de IC de la fase de desarrollo;
@@ -363,10 +363,10 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
 !!! Question "¿Cómo definir la obligatoriedad del vínculo del cambio con EC?"
 
-    La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del 4biz. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
+    La obligatoriedad del vínculo del cambio con el EC se define en la pantalla de Parámetro del CITSmart. Para definir esta obligatoriedad, proceda de acuerdo con las siguientes directrices:
     
-    1. Acceder a la funcionalidad de Parámetros del 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    2. Se mostrará la pantalla de Parámetros del 4biz, haga clic en la pestaña Búsqueda de parámetros del 4biz;
+    1. Acceder a la funcionalidad de Parámetros del CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros del CITSmart, haga clic en la pestaña Búsqueda de parámetros del CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros. Busque por el parámetro "85 - Comprobación del vínculo de cambio 
     relacionado al elemento de configuración (Default: S)";
     4. Seleccionélo;
@@ -376,12 +376,12 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Para cuál destinatario se hará el envío de notificaciones de EC?"
     
-    Las notificaciones de IC se enviarán al destinatario definido en la pantalla de Parámetro de 4biz.
+    Las notificaciones de IC se enviarán al destinatario definido en la pantalla de Parámetro de CITSmart.
 
     Para definir el destinatario, proceda de la siguiente manera:
     
-    1. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    2. Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de búsqueda de parámetros de 4biz;
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    2. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de búsqueda de parámetros de CITSmart;
     3. Se mostrará la pantalla para la búsqueda de parámetros;
     4. Realiza la búsqueda del parámetro "90 - Envío de correos electrónicos de notificación IC (1-Grupo, 2-Propietario, 3-Todos)";
     5. Seleccione el mismo;
@@ -392,7 +392,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 !!! Question "¿Cuál es el significado de cada estado del inventario de EC?"
     
     - Inventariado: el inventario logró leer la información del IC y se cerró con éxito;
-    - Ignorado: en la pantalla de 4biz / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
+    - Ignorado: en la pantalla de citsmart / pages / evmInventoryConfiguración / evmInventoryConfiguracao.load tenemos una opción para ignorar las máquinas a inventariadas, esta marcación aparece cuando esto ocurre;
     - Inaccesible: cuando el servidor encuentra el IC, pero no puede traer la información;
     - No inventariado: cuando no encuentra el IC en la red, pero tiene conocimiento de que ya existió;
     - En ejecución: durante la lectura del inventario, el IC queda en ese estado.
@@ -404,7 +404,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     ESQUEMA DE WEBSERVICE PARA SISTEMAS LEGADOS (MONITOREO DE NEGOCIOS)
     Es posible conectar el componente EVM con cualquier software, incluso un diferente de los que el módulo de Gestión de eventos normalmente se integra (Nagios, Zabbix e Inventory), siempre y cuando los datos enviados (vía webservice) sigan un padrón preestablecido.
 
-    Una vez que los datos se envían al 4biz Event Monitor, se pueden crear reglas (por ejemplo, con el EPL de espera) para que determinados eventos se disparen de acuerdo con alguna condición observada en los datos.
+    Una vez que los datos se envían al CITSmart Event Monitor, se pueden crear reglas (por ejemplo, con el EPL de espera) para que determinados eventos se disparen de acuerdo con alguna condición observada en los datos.
 
     Ejemplo "Hoja/Nómina de pago":
     
@@ -426,8 +426,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
         AuthName "LDAP Authentication"
         AuthType Basic
         AuthBasicProvider ldap
-        AuthLDAPURL ldap://auth01.4bizcloud.com/dc=4biz,dc=com?uid?sub?(objectClass=*)
-        Require ldap-group ou=people,o=4bizco,dc=4biz,dc=com
+        AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
+        Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
         Require valid-user
     
     2. Ejecutar:
@@ -476,17 +476,17 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
 !!! Question "¿Cómo habilitar la rutina de lectura automática de mensajes de correo electrónico"
 
-    Al enviar un e-mail al soporte del 4biz se lee la lectura del correo electrónico automático, si el e-mail es referente a una solicitud, se verificará el título del e-mail, si contiene la palabra 'Solicitud' y el "el número de la solicitud, en caso de contener, se almacenará el correo electrónico como ocurrencia en la solicitud referente.
+    Al enviar un e-mail al soporte del CITSmart se lee la lectura del correo electrónico automático, si el e-mail es referente a una solicitud, se verificará el título del e-mail, si contiene la palabra 'Solicitud' y el "el número de la solicitud, en caso de contener, se almacenará el correo electrónico como ocurrencia en la solicitud referente.
 
     Para que esta rutina de lectura de correos electrónicos funcione perfectamente, es necesario realizar los siguientes procedimientos:
     
      1.  Instalar la versión de java 7, si tiene versión inferior la rutina no
         funcionará;
-     2.  Acceda a la funcionalidad de Parámetros de 4biz a través de la
+     2.  Acceda a la funcionalidad de Parámetros de CITSmart a través de la
     navegación en el menú principal Parametrización > Parámetros
-    4biz;
-    3.  Se mostrará la pantalla de Parámetros de 4biz, haga clic en la
-    pestaña de Búsqueda de Parámetros de 4biz;
+    Citsmart;
+    3.  Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la
+    pestaña de Búsqueda de Parámetros de CITSmart;
      4.  Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda
     del parámetro "23 - SMTP LECTURA - Servidor de entrada de e-mails del
     Service Desk" y seleccionelo;
@@ -500,7 +500,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     entrada de mensajes de Service Desk" y seleccionelo;
     8.  Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, informe el correo electrónico o
-    login de la cuenta de correo electrónico (por ejemplo, soporte.4biz);
+    login de la cuenta de correo electrónico (por ejemplo, soporte.citsmart);
     9.  Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría;
@@ -552,8 +552,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     Para que los usuarios tengan acceso al Portal o al Portal Smart, se debe habilitar el mismo de la siguiente forma:
     
-    1. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz; Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de Búsqueda de Parámetros de 4biz;
-    2. Realiza la búsqueda del parámetro "46 - ¿Habilitar Portal como Pantalla de inicio de 4biz?" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
+    1. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart; Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
+    2. Realiza la búsqueda del parámetro "46 - ¿Habilitar Portal como Pantalla de inicio de CITSmart?" y seleccione el mismo. Después de eso, aparecerá la pantalla de registro del parámetro con el contenido referente al registro seleccionado;
     3. En el campo valor, introduzca el valor "S" para habilitar el portal como pantalla de inicio. Hecho esto, haga clic en el botón "Grabar" para efectuar la operación, en este caso la fecha, hora y usuario serán almacenados automáticamente para una futura auditoría;
     4. Después de configurar el parámetro, al iniciar sesión en el sistema, se mostrará como pantalla inicial el Portal.
     
@@ -564,8 +564,8 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     Para habilitar esta encuesta de satisfacción, proceda conforme a las siguientes directrices:
     
     1. Cree la plantilla de correo electrónico (la plantilla de correo debe contener la siguiente palabra clave: $ {LINKPESQUISASATISFACAO});
-    2. Acceda a la funcionalidad de Parámetros de 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
-    3. Se mostrará la pantalla de Parámetros de 4biz, haga clic en la pestaña de Búsqueda de Parámetros de 4biz;
+    2. Acceda a la funcionalidad de Parámetros de CITSmart a través de la navegación en el menú principal Parametrización > Parámetros CITSmart;
+    3. Se mostrará la pantalla de Parámetros de CITSmart, haga clic en la pestaña de Búsqueda de Parámetros de CITSmart;
     4. Realiza la búsqueda del parámetro "31 - Enviar e-mail flujos de ejecución de solicitudes/incidentes";
     5. Seleccione el mismo;
     6. Se mostrará la pantalla de registro del parámetro con el contenido referente al registro seleccionado, en el campo valor, informe el valor "S" para que sea habilitado el envío de e-mail referente a las solicitudes de servicio;
@@ -573,13 +573,13 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     8. Acceda a los servicios de solicitud, incidente y procedimiento del contrato referente al servicio de negocio Gestión de Portafolio y Catálogo > Gestión de Portafolio > Menú Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio e servicio tecnico Gestión de Portafolio y Catálogo > Gestión de Portafolio > Menú Apoyo > Avanzar Portafolio > Catálogo de Servicios > Avanzar Servicio y asegúrese de que el modelo de correo electrónico que se creó está informado en el campo "Modelo de correo electrónico en la finalización de solicitudes / incidentes";
     9. Al recibir una notificación por correo electrónico de la solicitud de servicio que ha sido atendida, se mostrará un enlace para realizar la evaluación de la atención. Al hacer clic en el enlace se abrirá una pantalla para la evaluación de la atención.    
 	
-!!! Question "¿Cómo mejorar el rendimiento de 4biz Enterprise ITSM?"
+!!! Question "¿Cómo mejorar el rendimiento de CITSmart Enterprise ITSM?"
     
     El rendimiento del sistema se define como el tiempo que el software tarda en realizar una tarea determinada, ya que este rendimiento es un fuerte atributo de calidad percibido por los usuarios del software.
 
-    Existe la capacidad del sistema para funcionar con más de una instancia, para ello, será necesario utilizar el archivo de configuración (4biz.cfg), donde es posible activar o inactivar rutinas.
+    Existe la capacidad del sistema para funcionar con más de una instancia, para ello, será necesario utilizar el archivo de configuración (citsmart.cfg), donde es posible activar o inactivar rutinas.
 
-    Para utilizar esta capacidad, debe existir el archivo 4biz.cfg en el directorio:
+    Para utilizar esta capacidad, debe existir el archivo citsmart.cfg en el directorio:
     ```sh
     \jboss\standalone\configuration\ (quando o Jboss sobe como uma única instância)
     \jboss\domain\configuration\ (quando é utilizado cluster, tem domains e hosts)
@@ -603,26 +603,26 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     8- El uso de los parámetros a continuación es opcional. Los mismos hacen la separación del pool de conexión principal con el pool de ejecución del flujo, inventario e informe;
     
-       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/4bizFluxo).
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del flujo. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartFluxo).
        
-       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del inventario. Introduzca el nombre del datasource, ej.: java:/jdbc/4biz_inventory).
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource del inventario. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_inventory).
        
-       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource de los informes. Introduzca el nombre del datasource, ej.: java:/jdbc/4biz_reports).
+       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (Este parámetro define el nombre del datasource de los informes. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmart_reports).
        
     9- El parámetro siguiente separa el procesamiento de la rutina de eventos BPM en un grupo de subprocesos independientes del grupo de subprocesos principal del sistema para aliviar el uso de recursos de base de datos y servidor.
    
-      - JDBC_ALIAS_BPM_EVENTOS=java:/jdbc/${valor} (Este parámetro define el nombre del datasource de eventos BPM. Introduzca el nombre del datasource, ej.: java:/jdbc/4bizBpmEventos).
+      - JDBC_ALIAS_BPM_EVENTOS=java:/jdbc/${valor} (Este parámetro define el nombre del datasource de eventos BPM. Introduzca el nombre del datasource, ej.: java:/jdbc/citsmartBpmEventos).
     
-!!! Question "¿Cómo integrar el AD de la empresa del cliente en el 4biz Enteprise ITSM que está en cloud ofrecida por 4biz Corporation?"
+!!! Question "¿Cómo integrar el AD de la empresa del cliente en el CITSmart Enteprise ITSM que está en cloud ofrecida por CITSmart Corporation?"
     
-    Con respecto de LDAP compliance de 4biz Enterprise ITSM, hay dos escenarios:
+    Con respecto de LDAP compliance de CITSmart Enterprise ITSM, hay dos escenarios:
     
     1. Entornos on-demand: el administrador debe conectarse al servidor de directorio del cliente;
-    2. Entorno en la cloud (ofrecido por 4biz Corporation): el administrador debe habilitar la conexión con el servidor del directorio del cliente.
+    2. Entorno en la cloud (ofrecido por CITSmart Corporation): el administrador debe habilitar la conexión con el servidor del directorio del cliente.
 
-!!! Question "¿Cómo reemplazar cada imagen de los logotipos de 4biz Enterprise ITSM?"
+!!! Question "¿Cómo reemplazar cada imagen de los logotipos de CITSmart Enterprise ITSM?"
    
-    Siempre que sea necesario personalizar correctamente los logotipos de 4biz Enterprise ITSM, se debe realizar el siguiente procedimiento:
+    Siempre que sea necesario personalizar correctamente los logotipos de CITSmart Enterprise ITSM, se debe realizar el siguiente procedimiento:
     
     1. Acceder al camino: Sistema > Configuración > Configuración de ambiente; aparecerá tres espacios para subir imágenes:
     
@@ -636,7 +636,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 	
     2. Realizar upload (pueden ser imágenes diferentes).
     
-    REGLA: si el usuario no elige una nueva insignia, el logo predeterminado será el del 4biz. Por motivos de derechos de autor, este cambio de logo sólo se permite en la versión Enterprise del producto 4biz ITSM.
+    REGLA: si el usuario no elige una nueva insignia, el logo predeterminado será el del CITSmart. Por motivos de derechos de autor, este cambio de logo sólo se permite en la versión Enterprise del producto CITSmart ITSM.
 
     CONFIGURACIÓN MÁS PRECISA DE LA IMAGEN PARA INFORMES JASPER
 	
@@ -644,11 +644,11 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
 
 	REGLA: si la imagen personalizada por el usuario no está configurada correctamente en los informes, debe rediseñarse con las proporciones más adecuadas.     
 
-!!! Question "¿Qué es necesario para configurar un EC que está físicamente en la red de la empresa del cliente para ser inventariado por el 4biz Enterprise ITSM que está en la cloud ofrecida por 4biz Corporation?"
+!!! Question "¿Qué es necesario para configurar un EC que está físicamente en la red de la empresa del cliente para ser inventariado por el CITSmart Enterprise ITSM que está en la cloud ofrecida por CITSmart Corporation?"
     
     [Original] En la nube, el mongodb y evm / inv quedan en la estructura del cliente, debido a que no es posible conectarse a un rango interno con origen de la nube.
     
-    [Para validación] En este escenario específico, los componentes MongoDB, 4biz EVM y 4biz Inventory deben instalarse y configurarse dentro de la estructura de red del cliente, ya que no es posible que el 4biz (Cloud) se conecte a un rango interno de un cliente.    
+    [Para validación] En este escenario específico, los componentes MongoDB, CITSmart EVM y CITSmart Inventory deben instalarse y configurarse dentro de la estructura de red del cliente, ya que no es posible que el CITSmart (Cloud) se conecte a un rango interno de un cliente.    
 
 !!! Question "¿Cuál es el límite de tamaño de archivo para Upload en las funcionalidades con estas característica?"
     
@@ -759,7 +759,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
         NOMEATIVIDADE
         DATAHORACARGA
     
-    Estas informações são alimentadas através da rotina de processamento batch do 4biz, rodando os scripts Rhino Conforme o Banco
+    Estas informações são alimentadas através da rotina de processamento batch do CITSmart, rodando os scripts Rhino Conforme o Banco
    
     **Scripts disponibles para:**
     
@@ -835,4 +835,4 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
       
 !!! Question "¿Cómo se puede cambiar el tiempo de caducidad de las sesiones de la aplicación?"
     
-    Este tipo de cambio se configura en la característica Parametrización > Parámetros 4biz. Seleccione el parámetro 449 e incluya el valor deseado en minutos. Además, es necesario desconectar y conectar nuevamente al sistema, de esta forma, el sistema buscará el nuevo estándar para el tiempo de expiración de sesiones.
+    Este tipo de cambio se configura en la característica Parametrización > Parámetros CITSmart. Seleccione el parámetro 449 e incluya el valor deseado en minutos. Además, es necesario desconectar y conectar nuevamente al sistema, de esta forma, el sistema buscará el nuevo estándar para el tiempo de expiración de sesiones.

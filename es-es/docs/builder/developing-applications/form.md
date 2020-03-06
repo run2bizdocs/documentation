@@ -23,11 +23,11 @@ Permite la construcción de interfaces de usuario a través de la combinación d
 
    -  **Página de proceso**
 
-       *   Página para procesos del sistema SM asociados a procesos de negocio, utilizados para iniciar un Proceso de Negocio Builder
+       *   Página para procesos del sistema SM asociados a procesos de negocio, utilizados para iniciar un Proceso de Negocio Neuro
 
    -  **Página de tarea**
 
-       *   Ejecución de un proyecto de flujo de trabajo/Diseño ESI, renderizando un formulario Builder en la pantalla del ticket.
+       *   Ejecución de un proyecto de flujo de trabajo/Diseño ESI, renderizando un formulario Neuro en la pantalla del ticket.
 
    -  **Página de informe**
 
@@ -35,17 +35,17 @@ Permite la construcción de interfaces de usuario a través de la combinación d
 
 ## Antes de empezar
 
-Es necesario tener creado la Aplicación Builder.
+Es necesario tener creado la Aplicación Neuro.
 
 ## Procedimiento
 
-1. Acceder al menú de navegación	Builder > Administración > Formulario;
+1. Acceder al menú de navegación	Neuro > Administración > Formulario;
 
 2. Hacer clic en “Registro;
 
 3. Completar los campos disponibles en "Datos Básicos". En esta pestaña, el usuario debe informar los datos básicos de los formularios, como la **Aplicación** a la que pertenece el formulario, el **Nombre**, **Descripción** y **Reglas de Negocio** (para Validación y para SM, si hay) y la **Carpeta**, que es una agrupación de formularios en el servidor con fines de organización, y marca si el **Formulario se Muestra como un widget de SM**;
     
-    ![form](images/Builder-18.jpg)
+    ![form](images/neuro-18.jpg)
 
     Figura 1 - Formulario
 
@@ -55,7 +55,7 @@ Es necesario tener creado la Aplicación Builder.
 
 4. Agregar página
 
-    ![form](images/Builder-19.jpg)
+    ![form](images/neuro-19.jpg)
 
     Figura 2 - Agregar página
     
@@ -64,28 +64,28 @@ Es necesario tener creado la Aplicación Builder.
 
     * Propriedades: datos gerais
 
-    ![form](images/Builder-20.jpg)
+    ![form](images/neuro-20.jpg)
 
     Figura 3 - Datos generales
     
 
     * HTML: estructura de la página HTML
 
-    ![form](images/Builder-21.jpg)
+    ![form](images/neuro-21.jpg)
 
     Figura 4 - HTML
     
 
     * Controlador: código do controlador para el formulario
 
-    ![form](images/Builder-22.jpg)
+    ![form](images/neuro-22.jpg)
 
     Figura 5 - Controlador
     
 
     •	Dependencias: las dependencias de la aplicación se reportan. El nombre de la dependencia y la ruta en la que se encuentra se deben insertar. El usuario también debe informar si se inyecta en el controlador.
 
-    ![form](images/Builder-23.jpg)
+    ![form](images/neuro-23.jpg)
 
     Figura 6 - Dependencias
 
@@ -96,7 +96,7 @@ Es necesario tener creado la Aplicación Builder.
 
     *   También puede crear guías en los formularios. Para ello, vaya al menú de guías y elija las guías horizontalmente o                   verticalmente. Las guías se añadirán a la pantalla y puede crear la pantalla con los componentes de cada guía.
 
-    ![form](images/Builder-24.jpg)
+    ![form](images/neuro-24.jpg)
 
      Figura 7 - Design
 
@@ -109,6 +109,6 @@ Es necesario tener creado la Aplicación Builder.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>03/20/2019 - Anna Martins  
 

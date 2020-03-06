@@ -1,8 +1,8 @@
 Title: Conexão de ITSM  
-Description: Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o 4biz.    
+Description: Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o CITSmart.    
 # Conexão de ITSM    
 
-Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o 4biz.    
+Esta funcionalidade tem como objetivo configurar a conexão para realizar integração com o CITSmart.    
 
 ## Como acessar
 

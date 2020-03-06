@@ -37,8 +37,8 @@ Procedimiento
         "JSP". Al optar por este tipo, deberá informar los parámetros y el
         script "JSP";
 
-       +  **Builder**: crea un informe del tipo "Builder", basta enlazar un formulario
-        "Builder" previamente registrado.
+       +  **Neuro**: crea un informe del tipo "Neuro", basta enlazar un formulario
+        "Neuro" previamente registrado.
 
     !!! Abstract "NOTA"
 
@@ -76,10 +76,10 @@ Procedimiento
 Relacionado
 -------
 
-[Emitir informe utilizando Smart Report](/es-es/4biz-helium/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Emitir informe utilizando Smart Report](/es-es/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 – Anna Martins

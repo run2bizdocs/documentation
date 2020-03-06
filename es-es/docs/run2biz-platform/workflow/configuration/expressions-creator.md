@@ -8,7 +8,7 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar exp
 Procedimiento
 -------------
 
-1.  Acceder al menú principal tracker \> Expresiones;
+1.  Acceder al menú principal Workflow \> Expresiones;
 
 2.  Para importar expresiones de otros sistemas, hacer clic en "Importar";
 
@@ -22,5 +22,5 @@ Procedimiento
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Larissa Lourenço

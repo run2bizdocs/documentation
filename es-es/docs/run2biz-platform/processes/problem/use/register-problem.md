@@ -24,7 +24,7 @@ Procedimiento
 
 3.  Completar todos los campos disponibles para identificar el solicitante;
 
-4.  Para registra un nuevo incidente relacionado al problema que se va crear, Taskermente
+4.  Para registra un nuevo incidente relacionado al problema que se va crear, simplemente
     hacer clic en "Registrar”, disponible en el área de "Incidentes”, y completar
     los campos necesarios. Para relacionar un incidente ya registrado al problema, sólo
     es necesario hacer clic en "Agregar" y vincular el incidente que quiera;
@@ -37,7 +37,7 @@ Procedimiento
     
     !!! Abstract "ATENCIÓN"
         Es necesario definir si el problema que se va registrar es un problema de naturaleza
-        reactiva a un revés encontrado o es una Tasker práctica proactiva para gestionar
+        reactiva a un revés encontrado o es una simple práctica proactiva para gestionar
         el sistema.
 
 6.  Seleccionar, si necesario, cuando se va enviar las notificaciones sobre el problema;
@@ -47,11 +47,11 @@ Procedimiento
 Relacionado
 ------------
 
-[Crear portafolio de problema](/es-es/4biz-helium/processes/problem/configuration/problem-portfolio.html) 
+[Crear portafolio de problema](/es-es/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html) 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço
 
 

@@ -1,7 +1,7 @@
-Title: Neuro FAQ
-Description: CITSmart - FAQ
+Title: Builder FAQ
+Description: 4biz - FAQ
 
-# Neuro Frequently Asked Questions (FAQ)
+# Builder Frequently Asked Questions (FAQ)
 
 !!! Question "What is the difference between creating a form using the Form menu and via the Business Object?"
 
@@ -41,15 +41,15 @@ Description: CITSmart - FAQ
 
 	You can create your own components that will be used in the form. For a complete tutorial, please check the technical documentation.
 
-!!! Question "Where should I start building an application using the Neuro?"
+!!! Question "Where should I start building an application using the Builder?"
 
-	It is recommended that the first step to be executed on the Neuro, is to register the application or register a connection to the DB (database), according to the needs of the application.
+	It is recommended that the first step to be executed on the Builder, is to register the application or register a connection to the DB (database), according to the needs of the application.
 
-!!! Question "How does it work the dependency injection in a Neuro form? Which steps must be performed?"
+!!! Question "How does it work the dependency injection in a Builder form? Which steps must be performed?"
 
-	To inject a dependency , you must register it before. Only CSS and Javascript dependencies types can be injected in a Neuro form.
+	To inject a dependency , you must register it before. Only CSS and Javascript dependencies types can be injected in a Builder form.
 
-	Create a new register according to the dependency type. It can be done via menu "Neuro > resources" and upload the dependency.
+	Create a new register according to the dependency type. It can be done via menu "Builder > resources" and upload the dependency.
 
 	To import it on the form, select the tab “page type” that you would like to import and choose the tab "Dependencies".
 

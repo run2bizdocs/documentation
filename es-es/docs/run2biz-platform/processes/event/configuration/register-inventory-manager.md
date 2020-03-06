@@ -1,10 +1,10 @@
 title: Registrar gerente Inventory
-Description: Registrar y mantener a los gerentes que serán responsables de las ocurrencias de eventos capturados a partir del 4biz Inventory.
+Description: Registrar y mantener a los gerentes que serán responsables de las ocurrencias de eventos capturados a partir del CITSmart Inventory.
 # Registrar gerente Inventory
 
 El objetivo de esta funcionalidad es registrar y mantener a los gerentes que
 serán responsables de las ocurrencias de eventos capturados a partir del
-4biz Inventory. Permite al usuario informar de cuánto tiempo se procesará el
+CITSmart Inventory. Permite al usuario informar de cuánto tiempo se procesará el
 Gerente, qué elementos de configuración va a administrar, los controles que se
 aplicarán y las acciones que se tomarán automáticamente.
 
@@ -15,8 +15,8 @@ Antes de empezar
 --------------------
 
 Para registrar el gerente Inventory, es necesario registrar previamente la
-conexión del 4biz Event Monitor, horario, categoría de ocurrencia, acción
-automática y la conexión del 4biz Inventory.
+conexión del CITSmart Event Monitor, horario, categoría de ocurrencia, acción
+automática y la conexión del CITSmart Inventory.
 
 Procedimiento
 -----------------
@@ -44,16 +44,16 @@ Procedimiento
 Relacionado
 -----------
 
-[Registrar categoria de ocurrencia](/es-es/4biz-helium/processes/event/configuration/register-occurence-category.html)
+[Registrar categoria de ocurrencia](/es-es/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
 
-[Registrar Conexión Event Monitor](/es-es/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
+[Registrar Conexión Event Monitor](/es-es/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
 
-[Registrar horario](/es-es/4biz-helium/processes/event/configuration/register-time.html)
+[Registrar horario](/es-es/citsmart-platform-8/processes/event/configuration/register-time.html)
 
-[Registrar conexión Inventory](/es-es/4biz-helium/processes/event/configuration/set-inventory-connection.html)
+[Registrar conexión Inventory](/es-es/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/24/2019 – Anna Martins

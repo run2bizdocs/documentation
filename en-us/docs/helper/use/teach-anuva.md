@@ -12,7 +12,7 @@ Procedure
 
 1.	Access the menu “Dialogues”;
 
-2.	Click on "New" and select one of the options: Simple (only an Interest-Ability interaction) or Complex (when joining multiple simple dialogues);
+2.	Click on "New" and select one of the options: Tasker (only an Interest-Ability interaction) or Complex (when joining multiple simple dialogues);
 
 3.	Inform the Theme related to the Dialogue, this will help you to categorize them, later. A new theme can be registered in the "Theme" menu;
 
@@ -54,6 +54,6 @@ Related
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/07/2019 - Anna Martins
     

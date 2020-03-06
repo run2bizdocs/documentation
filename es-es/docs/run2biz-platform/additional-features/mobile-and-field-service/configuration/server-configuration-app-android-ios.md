@@ -1,17 +1,17 @@
-title: Configurar instancia 4biz para acceso vía móvil
-Description: Proporcionar orientaciones necesarias para configurar el servidor para el uso adecuado de 4biz ITSM Experience en la plataforma iOS y Android.
-# Configurar instancia 4biz para acceso vía móvil
+title: Configurar instancia CITSmart para acceso vía móvil
+Description: Proporcionar orientaciones necesarias para configurar el servidor para el uso adecuado de CITSmart ITSM Experience en la plataforma iOS y Android.
+# Configurar instancia CITSmart para acceso vía móvil
 
 
 
 Este documento tiene el propósito de proporcionar orientaciones necesarias para
-configurar el servidor para el uso adecuado de 4biz Experience en la
+configurar el servidor para el uso adecuado de CITSmart Experience en la
 plataforma iOS y Android.
 
 Antes de empezar
 -----------
 
-Es necesario Instalar la versión 7.2.2.0 (o superior) de 4biz 
+Es necesario Instalar la versión 7.2.2.0 (o superior) de CITSmart 
 Experience, Configurar los parámetros 257 e 272
 
 -   Valores: "S" o "N" Default: "N";
@@ -31,17 +31,17 @@ Configuración de los web services
 La configuración de los web services es fundamental para el acceso a todas las
 características de la aplicación. Siga los pasos para configurarlo:
 
-1.  En el 4biz Experience (Web), acceda a la funcionalidad de los web
-    services para el móvil (Sistema > Configuración > Web Service 4biz
+1.  En el CITSmart Experience (Web), acceda a la funcionalidad de los web
+    services para el móvil (Sistema > Configuración > Web Service Citsmart
     Mobile);
 
 2.  Haga clic en la pestaña "Vincular grupos" y vincule el grupo ejecutor de
-    actividades a los web services de 4biz Experience Mobile.
+    actividades a los web services de CITSmart Experience Mobile.
 
 !!! Abstract "REGLA"
 
     En el momento en que se selecciona el grupo, se vinculará a todos los web
-    services de 4biz Experience de forma automatizada.
+    services de CITSmart Experience de forma automatizada.
 
 Instalación del certificado intermediario Globalsign
 --------------------------------------------------
@@ -67,18 +67,18 @@ Para reconocer el certificado intermedio de GlobalSign (Emisor del Certificado D
 
     Figura 2 - Instalación del certificado en Windows
 
-3.  Después de instalar, Taskermente cambie la dirección de la aplicación a sus
+3.  Después de instalar, simplemente cambie la dirección de la aplicación a sus
     necesidades (por
-    ejemplo:“[https://4biz.empresa.com.br/4biz](https://4biz.centralit.com.br/4biz)”).
+    ejemplo:“[https://citsmart.empresa.com.br/citsmart](https://citsmart.centralit.com.br/citsmart)”).
 
 
 ### Instalación del App Android y iOS
 
 
-1.  Accede a store (Play Store o App Store) para bajar la aplicación 4biz
+1.  Accede a store (Play Store o App Store) para bajar la aplicación CITSmart
     Experience mobile;
 
-2.  Busque 4biz Experience y después de la búsqueda, seleccione la
+2.  Busque CITSmart Experience y después de la búsqueda, seleccione la
     aplicación;
 
 3.  Presione el botón *Instalar* para descargar la aplicación.
@@ -206,17 +206,17 @@ Para activar una API para su uso, siga estos pasos:
 Relacionado
 -----------
 
-[Configurar parametrización - móvil](/es-es/4biz-helium/platform-administration/parameters-list/configuration-parametrization-mobile.html)
+[Configurar parametrización - móvil](/es-es/citsmart-platform-8/platform-administration/parameters-list/configuration-parametrization-mobile.html)
 
-[Configurar parametrización - sistema](/es-es/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configurar parametrización - sistema](/es-es/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Manual de uso de la aplicación móvil 4biz Experience](/es-es/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
+[Manual de uso de la aplicación móvil CITSmart Experience](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
 
-[Configurar las opciones del mobile](/es-es/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configurar las opciones del mobile](/es-es/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/28/2019 - Anna Martins
 
 

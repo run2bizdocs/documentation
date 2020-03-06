@@ -4,11 +4,11 @@ Description: As regras de negócio definem como o seu negócio funciona, e podem
 # Regras de negócio  
 
 As regras de negócio definem como o seu negócio funciona, e podem abranger diversos assuntos como suas políticas, interesses, objetivos, compromissos éticos e sociais, obrigações contratuais, decisões estratégicas, leis e regulamentações entre outros.    
-No Builder, as regras de negócio podem ser construídas através do desenho de um fluxo, ou através de Script.      
+No Neuro, as regras de negócio podem ser construídas através do desenho de um fluxo, ou através de Script.      
 
 ##Como acessar  
 
-1.	Acesse a funcionalidade através da navegação no menu principal Builder > Gerenciamento > Regra de Negócio.      
+1.	Acesse a funcionalidade através da navegação no menu principal Neuro > Gerenciamento > Regra de Negócio.      
 
 ##Pré-condições
 
@@ -43,8 +43,8 @@ Figura 2 - Tela de listagem de regras de negócio
 ##Criar regras de negócio usando tipo Drools
 
   1. O Drools é um conjunto de ferramentas que permite separar e raciocinar sobre a lógica e os dados encontrados nos processos de negócios. As duas palavras-chave importantes que tem que executar são lógica e dados. Vá para https://www.drools.org/ para mais informações.    
-  2. Para criar uma regra de negócios usando o Drools, deve-se primeiro criar o DSL e DSLR através do menu Builder > Configuração > Domínio;    
-  3. Após o cadastro de domínio, acesse a o menu Builder > Gerenciamento > Regra de Negócio, clique em "Cadastrar".  Preencha os campos inserindo o Nome, Descrição, Tipo (preencha com Drools), e a respectiva Aplicação que foi cadastrada (Builder > Gerenciamento > Aplicação), informe finalmente ao Drools DSLR que foi registrado na etapa anterior;    
+  2. Para criar uma regra de negócios usando o Drools, deve-se primeiro criar o DSL e DSLR através do menu Neuro > Configuração > Domínio;    
+  3. Após o cadastro de domínio, acesse a o menu Neuro > Gerenciamento > Regra de Negócio, clique em "Cadastrar".  Preencha os campos inserindo o Nome, Descrição, Tipo (preencha com Drools), e a respectiva Aplicação que foi cadastrada (Neuro > Gerenciamento > Aplicação), informe finalmente ao Drools DSLR que foi registrado na etapa anterior;    
   4. Além disso, as variáveis que complementam as regras de negócios podem ser inseridas.    
 
    ![Screenshot](images/business-rule-drools.png)
@@ -59,7 +59,7 @@ Figura 4 - Tela de cadastro/edição de regras de negócio do tipo Drools - aba 
 
 ##Criar regras de negócio usando tipo Fluxo
 
-  1. Para criar uma regra de negócio utilizando tipo Fluxo, um diagrama deverá ser desenhado utilizando os componentes previstos na ferramenta. Para conhecer mais sobre os componentes, acesse a documentação dos componentes comportados pelo Builder;    
+  1. Para criar uma regra de negócio utilizando tipo Fluxo, um diagrama deverá ser desenhado utilizando os componentes previstos na ferramenta. Para conhecer mais sobre os componentes, acesse a documentação dos componentes comportados pelo Neuro;    
   2. Na aba Dados básicos, preencha todos os campos (conforme mostrado na figura abaixo), ao selecionar o Tipo Fluxo, duas novas abas aparecerão (Ações e Diagrama);  
 
    ![Screenshot](images/business-rule-flow.png)  

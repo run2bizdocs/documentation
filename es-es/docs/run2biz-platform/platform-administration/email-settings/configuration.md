@@ -2,7 +2,7 @@ Title: Configura cuenta de correo electrónico
 
 # Configurar cuenta de correo electrónico
 
-Este documento tiene como objetivo presentar un paso a paso de la configuración de correo electrónico en el 4biz Platform, a través de la lectura (IMAP) y envío (SMTP) de mensajes.
+Este documento tiene como objetivo presentar un paso a paso de la configuración de correo electrónico en el CITSmart Platform, a través de la lectura (IMAP) y envío (SMTP) de mensajes.
 
 Antes de empezar
 --------------
@@ -43,6 +43,6 @@ Procedimiento
 	
 !!! tip "About"
 
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

@@ -7,7 +7,7 @@ En esta pestaña se configuran las variables que se utilizarán en el flujo dise
 
 ## Cómo acceder
 
-1- Acceda a la funcionalidad a través de la navegación en el menú Builder > Administración > Flujo de integración.  
+1- Acceda a la funcionalidad a través de la navegación en el menú Neuro > Administración > Flujo de integración.  
 
 ## Condiciones previas
 
@@ -38,16 +38,16 @@ Figura 2 - Pantalla de lista
 
 ![Screenshot](images/Variables-fig03.png)
 
-Figura 3- Pantalla de registro/edición del tracker, pestaña de Variables  
+Figura 3- Pantalla de registro/edición del workflow, pestaña de Variables  
 
 3- Completar los campos:    
 
 - Nombre de la variable;  
 - Descripción;  
 - Se almacenará en la base de datos;  
-	- Esta opción almacenará el valor de la variable internamente dentro del modelo de datos de Builder, por lo que conservará el valor durante la ejecución de las tareas   
+	- Esta opción almacenará el valor de la variable internamente dentro del modelo de datos de Neuro, por lo que conservará el valor durante la ejecución de las tareas   
 - Si es una variable de retorno;   
-	- Esta opción hará que Builder devuelve la variable al final de la ejecución del flujo.    
+	- Esta opción hará que Neuro devuelve la variable al final de la ejecución del flujo.    
 - Si es una lista de valores;  
 - Si es una variable de entrada en la interfaz del flujo;  
 	- Esta opción permite que la variable sea "inyectada" en el proceso de negocio vinculado a este flujo.    

@@ -2,7 +2,7 @@ Title: Usando Markdown
 
 # Usando Markdown
 
-La documentación de nuestros productos se produce utilizando el patrón de lenguaje Markdown. Markdown es un lenguaje de marcado ligero que puede utilizar para agregar elementos de formato a documentos de texto en texto Tasker. Creada por John Gruber en 2004, Markdown es ahora uno de los lenguajes de marcado más populares del mundo.
+La documentación de nuestros productos se produce utilizando el patrón de lenguaje Markdown. Markdown es un lenguaje de marcado ligero que puede utilizar para agregar elementos de formato a documentos de texto en texto simple. Creada por John Gruber en 2004, Markdown es ahora uno de los lenguajes de marcado más populares del mundo.
 
 A continuación se incluyen algunas opciones de sintaxis que se pueden utilizar para crear documentos.
 
