@@ -39,7 +39,7 @@ A través de esta pestaña, se definen las informaciones básicas del flujo que 
 ![Screenshot](images/Process-fig03.png)   
 Figura 3 - Pantalla de registro del flujo de integración de servicios    
 
-2- Se mostrará la pantalla de registro de Diseño del Workflow, precisamente en la pestaña Datos de Flujo, como se muestra en la figura siguiente:     
+2- Se mostrará la pantalla de registro de Diseño del Tracker, precisamente en la pestaña Datos de Flujo, como se muestra en la figura siguiente:     
 
 ![Screenshot](images/Process-fig04.png)   
 Figura 4 - Pantalla de registro de flujo de integración de servicios - pestaña de datos de flujo    

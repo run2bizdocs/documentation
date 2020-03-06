@@ -10,7 +10,7 @@ Esta funcionalidad es una buena alternativa para la creación de flujos de traba
 
 ## Procedimiento
 
-1. Acceder al menú pricipal Workflow /> Modelado de proceso;
+1. Acceder al menú pricipal Tracker /> Modelado de proceso;
 
 2. Hacer clic en "Nuevo";
 

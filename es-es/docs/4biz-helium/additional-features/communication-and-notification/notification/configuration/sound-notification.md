@@ -21,7 +21,7 @@ Esta función permite la configuración de una alarma sonora para señalar al as
 
 ### Insertar elemento "Notificación" en el flujo
 
-1. Acceder al menú principal Workflow > Diseño de flujo;
+1. Acceder al menú principal Tracker > Diseño de flujo;
 2. Seleccionar y editar un flujo;
 3. En la pestaña "Diagrama", haga clic en el elemento "Extensiones", haga clic y mantenga presionado el elemento "Notificación" y
 arrástrelo al área de dibujo;

@@ -48,7 +48,7 @@ Figura 3 - Registro/edición de configuración del informe, pestaña de Datos de
 - Ninguno: si el archivo no realiza una búsqueda en la base de datos.    
 - Conexión de datos: si la fuente de información es una conexión con la base de datos, también se debe indicar la conexión de banco correspondiente (catastrable en el menú Conexión de banco).   
 - Objeto de datos: si la fuente de información es un objeto de base de datos registrada en la aplicación. Informe el objeto de negocio que será el origen de datos (catastrable en el menú Objeto de negocio).    
-- Flujo ESI: si la fuente de información es un flujo ESI registrado en la aplicación. Introduzca el flujo que será el origen de datos (catastrable en el menú Diseño del Workflow).    
+- Flujo ESI: si la fuente de información es un flujo ESI registrado en la aplicación. Introduzca el flujo que será el origen de datos (catastrable en el menú Diseño del Tracker).    
 - Script: si el origen de datos es un script, codifique la secuencia de comandos utilizando el lenguaje Rhino.    
 
 ![Screenshot](images/Report-setup-fig04.png) 

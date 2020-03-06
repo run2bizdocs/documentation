@@ -8,7 +8,7 @@ Esta funcionalidad ofrece acciones diversas, como, incluir, cambiar y borrar exp
 Procedimiento
 -------------
 
-1.  Acceder al menú principal Workflow \> Expresiones;
+1.  Acceder al menú principal Tracker \> Expresiones;
 
 2.  Para importar expresiones de otros sistemas, hacer clic en "Importar";
 

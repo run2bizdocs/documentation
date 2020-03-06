@@ -19,7 +19,7 @@ Para utilizar el elemento "Actividad de Usuario" es necesario, como mínimo, ten
 Procedimiento
 ------------
 
-1.	Acceder al menú Workflow > Diseño de flujo;
+1.	Acceder al menú Tracker > Diseño de flujo;
 2.	Hacer clic en "Nuevo”;
 3.	Hacer clic en la pestaña Diagrama y después en Actividad;
 4.	Hacer clic en el elemento de tarea de usuario y arrástrelo al panel de creación de workflow;

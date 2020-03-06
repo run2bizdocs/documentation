@@ -8,7 +8,7 @@ que conecta personas y recursos digitales para optimizar el trabajo y ampliar
 los resultados del negocio.**
 
 A través de los portales de relaciones, optimizamos la experiencia de clientes y 
-colaboradores. Además, por medio del **Workflow Digital Inteligente**, y de la gestión ágil, 
+colaboradores. Además, por medio del **Tracker Digital Inteligente**, y de la gestión ágil, 
 con uso de Kanbans, conectamos equipos para una mayor colaboración centrada en el cliente, 
 generando así, mejora progresiva e interactiva, simplicidad en la ejecución, practicidad, 
 alineación y agilidad.

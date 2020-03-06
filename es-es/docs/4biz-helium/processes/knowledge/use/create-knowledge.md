@@ -117,7 +117,7 @@ En la creación del conocimiento, 4biz siempre establecerá la versión "1.0" y,
 !!! warning "ATENCIÓN"
     Se debe tener mucho cuidado al usar la privacidad "pública", ya que existe el riesgo de que los documentos estén disponibles de manera inapropiada. Este escenario ignora la configuración del perfil de acceso y permite el acceso de documentos a todos los usuarios.
 
-!!! note "Workflow de Aprobación"
+!!! note "Tracker de Aprobación"
     El usuario final puede proponer nuevos Documentos/Conocimientos en el botón flotante del Portal de Conocimiento, el Documento se guarda en la carpeta indicada por el Parámetro 313 del sistema. El Gestor del conocimiento busca documentos no publicados o en la carpeta indicada y, a medida que avanza la aprobación, el documento obtendrá otros estados.
 
 ### Relacionado

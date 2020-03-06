@@ -28,7 +28,7 @@ electrónico.
 Procedimiento
 -----------------
 
-1.  Acceder a la funcionalidad en el menú principal Workflow \> Diseño de
+1.  Acceder a la funcionalidad en el menú principal Tracker \> Diseño de
     flujo;
 
 2.  Seleccionar el flujo de apobación de solicitud y hacer clic en "Editar";

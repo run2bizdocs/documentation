@@ -1,8 +1,8 @@
 title: Configurar Audit 0.4.0
-Description: El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del 4biz Workflow 8.
+Description: El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del 4biz Tracker 8.
 # Configurar Audit 0.4.0
 
-El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del 4biz Workflow 8.
+El objetivo de este documento es proporcionar el asesoramiento técnico de instalación y configuraciones para el uso de la funcionalidad de Auditoría (Audit), versión 0.4.0 (itsm-audit-0.4.0) del 4biz Tracker 8.
 
 Antes de empezar 
 -----------------

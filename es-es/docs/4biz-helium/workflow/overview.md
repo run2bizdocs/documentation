@@ -1,9 +1,9 @@
-Title: Introducción al Workflow de 4biz
+Title: Introducción al Tracker de 4biz
 Description: Visión general de la creación y gestión de un flujo de trabajo en 4biz.
 
-# Introducción al Workflow de 4biz
+# Introducción al Tracker de 4biz
 
-Flujos son representaciones visuales de algo que se mueve continuamente.Por lo tanto, se puede usar los flujos para representar gráficamente un proceso o cualquier acción. Ellos pueden materializarse en papel (documento físico) o una herramienta electrónica.En 4biz, la funcionalidad de Workflow está diseñada para modelar sus objetivos de negocio al describir los pasos que debe seguir para alcanzar esos objetivos a través de un flujo digital inteligente. Es posible crear flujos de trabajo para ayudar en la gestión de servicio, problema, cambio, liberación, acciones de continuidad, solicitudes de viaje y compras. Como tal, el workflow tiene interacción con procesos clave de 4biz.
+Flujos son representaciones visuales de algo que se mueve continuamente.Por lo tanto, se puede usar los flujos para representar gráficamente un proceso o cualquier acción. Ellos pueden materializarse en papel (documento físico) o una herramienta electrónica.En 4biz, la funcionalidad de Tracker está diseñada para modelar sus objetivos de negocio al describir los pasos que debe seguir para alcanzar esos objetivos a través de un flujo digital inteligente. Es posible crear flujos de trabajo para ayudar en la gestión de servicio, problema, cambio, liberación, acciones de continuidad, solicitudes de viaje y compras. Como tal, el workflow tiene interacción con procesos clave de 4biz.
 
 Los flujos de trabajo automatizados dan vida a las actividades del sistema, permitiendo que las actividades de su organización sean digitalizadas y automatizadas. Por lo tanto, se puede crear flujos controlados por tareas, agregar notificaciones, subprocesos y establecer comunicación directa con otras aplicaciones, como Builder - que es un framework para la generación de aplicaciones.
 
@@ -13,14 +13,14 @@ Descubrirá que las tareas cotidianas, como hacere un pedido, registrar un ticke
 
 En primer lugar, debe familiarizarse con los conceptos básicos, las reglas comerciales y la interfaz de usuario. La visualización la funcionalidad del menú 4biz depende de los permisos asignados a un perfil de acceso, asegúrese de tener este permiso. Si no tiene este acceso, un gestor puede otorgarle este acceso.
 
-Para saber si su perfil tiene este permiso, acceda al menú superior izquierdo de la pantalla y asegúrese de que la primera opción de acceso sea el Menú principal **Workflow**;
+Para saber si su perfil tiene este permiso, acceda al menú superior izquierdo de la pantalla y asegúrese de que la primera opción de acceso sea el Menú principal **Tracker**;
 
 
 ![workflow menu 4biz][1]
 
 **Estándar del sistema**
 
-1: Crear un Workflow;
+1: Crear un Tracker;
 
 2: Construir Expresiones;
 
