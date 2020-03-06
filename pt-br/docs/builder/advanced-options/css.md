@@ -1,8 +1,8 @@
 title: CSS  
-Description: O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.   
+Description: O Builder permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.   
 # CSS
 
-O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.     
+O Builder permite que a manutenção de arquivos CSS dentro da ferramenta. Esses arquivos poderão ser usados em Formulário como dependência.     
 
 !!! Abstract "ATENÇÃO"  
 
@@ -10,7 +10,7 @@ O Neuro permite que a manutenção de arquivos CSS dentro da ferramenta. Esses a
 
 ##Como acessar    
 
-1.  Acesse a funcionalidade através da navegação no menu Neuro > Recursos > CSS.    
+1.  Acesse a funcionalidade através da navegação no menu Builder > Recursos > CSS.    
 
 ##Pré-condições    
 

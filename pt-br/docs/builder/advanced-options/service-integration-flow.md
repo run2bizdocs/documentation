@@ -8,7 +8,7 @@ Os fluxos de integração de serviços, como o próprio nome diz, envolvem workf
 
 ## Como acessar    
 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo de Integração.     
+1. Acesse a funcionalidade através do menu Builder > Gerenciamento > Fluxo de Integração.     
 
 ## Pré-condições    
 
@@ -48,7 +48,7 @@ Através dessa aba, são definidas informações básicas do fluxo que será des
     
     Figura 4 - Tela de cadastro/edição do workflow, aba de Dados do fluxo    
 
-4. Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Neuro persistirá no banco de dados de toda instância da execução deste fluxo.    
+4. Informe um nome para o fluxo, uma descrição, qual formulário dará início ao fluxo (caso se aplique), e se persiste ou não a execução do fluxo. Caso o campo “Persiste a execução do fluxo” for marcado, o Builder persistirá no banco de dados de toda instância da execução deste fluxo.    
 
 5. O campo versão é incrementado automaticamente pelo sistema sempre que uma nova versão do workflow for criada.    
 
@@ -69,11 +69,11 @@ Nesta aba são configuradas as variáveis que serão utilizadas no fluxo desenha
     * Descrição;  
     * Se será armazenada no banco de dados;  
 
-	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Neuro, assim ela irá reter o valor               durante a execução das tarefas.  
+	  * Esta opção irá armazenar o valor da variável internamente, dentro do modelo de dados do Builder, assim ela irá reter o valor               durante a execução das tarefas.  
 
     * Se é uma variável de retorno;  
 
-	  * Esta opção irá fazer que o Neuro retorne a variável no final da execução do fluxo.  
+	  * Esta opção irá fazer que o Builder retorne a variável no final da execução do fluxo.  
 
     * Se é uma lista de valores;  
     * Se é uma variável de entrada na interface do fluxo;  
@@ -137,7 +137,7 @@ Para um processo de negócio, possuímos a mais as seções de componentes:
 - Conectores: componentes utilizados para a execução de operações relacionadas à banco de dados.  
 - Componentes: componentes variados para a execução de diversas tarefas.  
 - Transformadores: componentes para a conversão de tipos de variáveis.  
-- CITSmart ITSM: componentes utilizados para integração com um sistema CITSmart ITSM externo.   
+- 4biz ITSM: componentes utilizados para integração com um sistema 4biz ITSM externo.   
 
 Os demais componentes presentes na paleta se assemelham aos componentes de um “Fluxo de Processo”. Mais informações a respeito da funcionalidade e utilização de cada um dos componentes podem ser encontradas no Desenvolvendo Aplicações.    
 

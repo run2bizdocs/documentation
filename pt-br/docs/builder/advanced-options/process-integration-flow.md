@@ -7,7 +7,7 @@ Os fluxos de integração de processos são workflows que possuem tarefas execut
 
 ## Como acessar 
 
-1. Acesse a funcionalidade através do menu Neuro > Gerenciamento > Fluxo de Integração.  
+1. Acesse a funcionalidade através do menu Builder > Gerenciamento > Fluxo de Integração.  
 
 ## Pré-condições
 

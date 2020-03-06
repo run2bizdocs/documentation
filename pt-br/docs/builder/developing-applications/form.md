@@ -26,12 +26,12 @@ Permite a construção de interfaces de usuário através da combinação de com
      -  **Página de processo**
 
        *   Página para processos do sistema SM associados a processos de negócios,
-           usados para iniciar um Processo de Negócio Neuro.
+           usados para iniciar um Processo de Negócio Builder.
 
      -  **Página de tarefa**
 
        *   Execução de um projeto de fluxo de trabalho/Desenho ESI, renderizando um
-           formulário Neuro na tela do ticket.
+           formulário Builder na tela do ticket.
 
      -  **Página de relatório**
 
@@ -40,11 +40,11 @@ Permite a construção de interfaces de usuário através da combinação de com
 
 ## Antes de começar
 
-É necessário ter criado a Aplicação Neuro.
+É necessário ter criado a Aplicação Builder.
 
 ## Procedimento
 
-1.  Acessar a funcionalidade pelo menu de navegação Neuro \> Gerenciamento \> Formulário;
+1.  Acessar a funcionalidade pelo menu de navegação Builder \> Gerenciamento \> Formulário;
 
 2.  Clicar em “Cadastrar”;
 
@@ -55,7 +55,7 @@ Permite a construção de interfaces de usuário através da combinação de com
     formulários no servidor, para fins de organização e marca se o Formulário é
     para ser **Mostrado como um widget de SM**;
     
-    ![form](images/neuro-18.jpg)
+    ![form](images/builder-18.jpg)
 
     Figura 1 - Formulário
 
@@ -65,7 +65,7 @@ Permite a construção de interfaces de usuário através da combinação de com
 
 4. Adicionar página
 
-    ![form](images/neuro-19.jpg)
+    ![form](images/builder-19.jpg)
 
     Figura 2 - Adicionar página
     
@@ -74,28 +74,28 @@ Permite a construção de interfaces de usuário através da combinação de com
 
     * Propriedades: dados gerais
 
-    ![form](images/neuro-20.jpg)
+    ![form](images/builder-20.jpg)
 
     Figura 3 - Dados gerais
     
 
     * HTML: estrutura de página HTML
 
-    ![form](images/neuro-21.jpg)
+    ![form](images/builder-21.jpg)
 
     Figura 4 - HTML
     
 
     * Controlador: código do controlador referente ao formulário
 
-    ![form](images/neuro-22.jpg)
+    ![form](images/builder-22.jpg)
 
     Figura 5 - Controlador
     
 
     •	Dependências: as dependências da aplicação são reportadas. O nome da dependência e o caminho no qual ela está localizada devem ser     inseridos. O usuário também deve informar se será injetado no controlador.
 
-    ![form](images/neuro-23.jpg)
+    ![form](images/builder-23.jpg)
 
     Figura 6 - Dependências
 
@@ -115,7 +115,7 @@ Permite a construção de interfaces de usuário através da combinação de com
     adicionadas na tela e você pode criar a tela com os componentes em cada
     guia.
 
-    ![form](images/neuro-24.jpg)
+    ![form](images/builder-24.jpg)
 
     Figura 7 - Design
 
@@ -129,6 +129,6 @@ Permite a construção de interfaces de usuário através da combinação de com
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 - Anna Martins  
 

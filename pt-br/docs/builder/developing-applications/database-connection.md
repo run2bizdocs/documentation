@@ -1,9 +1,9 @@
 Title: Conexão de banco de dados
-Description: Todas as conexões de banco de dados necessárias para os aplicativos criados por meio do Neuro estão registradas aqui.  
+Description: Todas as conexões de banco de dados necessárias para os aplicativos criados por meio do Builder estão registradas aqui.  
 # Conexão de banco de dados  
 
-Neuro requer conexões de banco de dados para interfaces com banco de dados.
-É uma boa prática criar uma Conexão BD pela Aplicação Neuro.
+Builder requer conexões de banco de dados para interfaces com banco de dados.
+É uma boa prática criar uma Conexão BD pela Aplicação Builder.
   
 Antes de começar 
 -------------
@@ -11,7 +11,7 @@ Antes de começar
 
 Procedimento
 -----------
-1.	Acessar a funcionalidade pelo menu de navegação Neuro > Configuração > Conexão de Banco de Dados;
+1.	Acessar a funcionalidade pelo menu de navegação Builder > Configuração > Conexão de Banco de Dados;
 
 2.	Clicar em “Cadastrar”;
 
@@ -30,19 +30,19 @@ Procedimento
     Todos os campos na lista de Itens serão usados como filtro para restringir os itens listados.
     
 
-![app](images/neuro-3.png)
+![app](images/builder-3.png)
 
 Figura 1 - Aplicação
     
 
 !!! info "SQL SERVER CONNECTION"
-    O Neuro utiliza o driver jtds para realizar a conexão, desse modo, a URL de conexão deve seguir o seguinte padrão: `jdbc:jtds:sqlserver://{servidor}:{porta};DatabaseName={nome do BD}`
+    O Builder utiliza o driver jtds para realizar a conexão, desse modo, a URL de conexão deve seguir o seguinte padrão: `jdbc:jtds:sqlserver://{servidor}:{porta};DatabaseName={nome do BD}`
     Além disso, o nome do driver no conector do fluxo ESI deve ser `net.sourceforge.jtds.jdbc.Driver`.
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/13/2019 - Anna Martins  
 
 
