@@ -53,7 +53,7 @@ amount of memory of the server you are installing. You can consider 2GB for the 
 and the rest for Java if you are running the dismembered database application server. If the 
 base is running on the same server (which we don't recommend for production) you need to 
 consider the needs for memory usage of the base, operating system, and finally configure java 
-usage. The (xmx) and (xms) values may be the same to improve CITSmart performance.
+usage. The (xmx) and (xms) values may be the same to improve 4biz performance.
 
 And finally, uncomment the line below:
 
@@ -71,4 +71,4 @@ And set it up the right way:
 
 [Including the WildFly in the system][1]
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation/include-wildfly-systemd.html

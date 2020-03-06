@@ -99,4 +99,4 @@ To check if the service is running, run the command below:
 
 [Configuring application server][1]
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-server.html
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation/conf-server.html

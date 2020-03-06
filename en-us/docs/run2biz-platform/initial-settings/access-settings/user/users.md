@@ -45,12 +45,12 @@ To send the Login and Password to the Employee's email:
 Related
 -----------
 
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Create profile access](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Create profile access](/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 – Larissa Lourenço
 

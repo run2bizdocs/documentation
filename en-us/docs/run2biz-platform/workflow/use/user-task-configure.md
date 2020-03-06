@@ -11,7 +11,7 @@ To use the "User Activity" element, it's necessary to have, at least, a register
 
 !!! Abstract "NOTE"
 
-    Within the *Interface* tab, choosing the "Neuro Form" Interaction Type: have 2 distinct Neuro 
+    Within the *Interface* tab, choosing the "Builder Form" Interaction Type: have 2 distinct Builder 
     forms configured for the creation form to be displayed next to the monitoring form. 
     It is also necessary to create the Ticket Template for each of the forms.
 
@@ -38,7 +38,7 @@ Procedure
     
     *	Create an instance for each user: in the assignment, if there is a semicolon in the users, a task will be created for each user;
 
-*	Identifier: it is a unique acronym for the task and it is used to code Rhino and for Neuro forms;
+*	Identifier: it is a unique acronym for the task and it is used to code Rhino and for Builder forms;
 
 *	Counts SLA: it sets "Yes" or "No" ( the "Suspend SLA" status will appear in the ticket management interface);
 
@@ -73,15 +73,15 @@ Procedure
 
 **Interface**
 
-*	Interaction type: it is the way in which a Questionnaire or a Neuro Form will be applied in the ticket management interface, in a given workflow status. The configuration of items that will be visible can be defined in the portfolio, or configured directly in the User Activity element (of the workflow):
+*	Interaction type: it is the way in which a Questionnaire or a Builder Form will be applied in the ticket management interface, in a given workflow status. The configuration of items that will be visible can be defined in the portfolio, or configured directly in the User Activity element (of the workflow):
 
     *	Defined in portfolio: it is possible for a ticket template (questionnaire or form) to appear punctually in a workflow status, using what has been configured in the service attribute "Activity" (request/incident) - fields: “CREATION Template” and “Monitoring Template”. This option is advantageous when you have generic workflows used by several services.
 
     *	Standard form: default from system 
 
-    *	Neuro Form: it has an identifier to call for the workflow triggered by this form
+    *	Builder Form: it has an identifier to call for the workflow triggered by this form
 
-*	Template (Standard/Neuro): it allows to link the ticket template.
+*	Template (Standardbuilder): it allows to link the ticket template.
 
     !!! Abstract "ATTENTION"
 
@@ -118,5 +118,5 @@ Procedure
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>04/22/2019 – Anna Martins

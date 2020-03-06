@@ -44,16 +44,16 @@ Procedure
 Related
 -------
 
-[Register operating condition](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+[Register operating condition](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-[Register a client](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
+[Register a client](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Register currency](/en-us/citsmart-platform-8/additional-features/contract-management/configuration/register-currency.html)
+[Register currency](/en-us/4biz-helium/additional-features/contract-management/configuration/register-currency.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPsG8HdkE7qEHB39yEI_T8y)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

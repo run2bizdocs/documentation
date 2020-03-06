@@ -31,7 +31,7 @@ Procedure
     !!! Abstract "NOTE"
 
         The "Interface" tab allows you to choose which interaction mode (form
-        standard, questionnaire or neuro form) that will be applied to the service. 
+        standard, questionnaire or Builder form) that will be applied to the service. 
         However, if a service request template is not linked to this tab, the system 
         will sub-understand and apply the configurations of a standard form, enabled 
         configuration item link, change, problem and request related to the ticket in
@@ -48,11 +48,11 @@ Procedure
 Related
 ------------
 
-[Register ticket template](/en-us/citsmart-platform-8/platform-administration/questionnaires/ticket-template.html)
+[Register ticket template](/en-us/4biz-helium/platform-administration/questionnaires/ticket-template.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[2]:/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[2]:/en-us/4biz-helium/workflow/configuration/expressions-creator.html

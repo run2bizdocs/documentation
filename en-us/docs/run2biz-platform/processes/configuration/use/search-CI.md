@@ -61,13 +61,13 @@ Procedure
 Related
 -----------
 
-[Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Register type of configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+[Register type of configuration item](/en-us/4biz-helium/processes/configuration/configuration/register-type-ic.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

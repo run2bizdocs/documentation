@@ -1,6 +1,6 @@
-title: Create menu item via Neuro
-Description: Create menu item via Neuro
-# Create menu item via Neuro
+title: Create menu item via Builder
+Description: Create menu item via Builder
+# Create menu item via Builder
 
 
 1.  Create a form for the business object;
@@ -14,16 +14,16 @@ Description: Create menu item via Neuro
 
     3.  The system will generate a automatically Link to our form
 
-![create](images/neuro-sm-11.jpg)
+![create](images/builder-sm-11.jpg)
 
 Figure 1 - Create SM menu
 
-![create](images/neuro-sm-12.jpg)
+![create](images/builder-sm-12.jpg)
 
 Figure 2 - Create SM menu (continuation)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 – Anna Martins

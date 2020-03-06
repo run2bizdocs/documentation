@@ -1,20 +1,20 @@
 title: Get signature in field service
-Description: This document aims to explain the configuration of CITSmart mobile to receive digital signature in field service.
+Description: This document aims to explain the configuration of 4biz mobile to receive digital signature in field service.
 # Get signature in field service
 
-This document aims to explain the configuration of CITSmart mobile (Experience and GO) so that the
+This document aims to explain the configuration of 4biz mobile (Experience and GO) so that the
 technician receives the digital signature of a validator in field service.
 
 Before getting started
 ----------------------
 
-It's necessary to previously install the CITSmart mobile. In order for the field technician to see tickets only assigned to
+It's necessary to previously install the 4biz mobile. In order for the field technician to see tickets only assigned to
 him/her in the request list, the attendant/manager must set the parameter 435 to "Yes".
 
 Procedure
 ---------
 
-***In CITSmart***
+***In 4biz***
 
 1.  Access the main menu Processes \> Portfolio and Catalog Management \>
     Portfolio;
@@ -52,15 +52,15 @@ Procedure
 Related
 ------
 
-[Mobile CITSmart Experience application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
-[Configure mobile options](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
+[Configure mobile options](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
-[Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[CITSmart GO application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[4biz GO application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/20/2019 – Anna Martins

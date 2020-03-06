@@ -15,69 +15,69 @@ Items (CI).
 Configuration
 -----------------
 
-- [Register configuration item group](/en-us/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html)
+- [Register configuration item group](/en-us/4biz-helium/processes/configuration/configuration/register-configuration-item-group.html)
 
-- [Register type of configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/register-type-ic.html)
+- [Register type of configuration item](/en-us/4biz-helium/processes/configuration/configuration/register-type-ic.html)
 
-- [Register characteristic](/en-us/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
+- [Register characteristic](/en-us/4biz-helium/processes/configuration/configuration/register-characteristics.html)
 
-- [Register definitive media](/en-us/citsmart-platform-8/processes/configuration/configuration/register-definitive-media.html)
+- [Register definitive media](/en-us/4biz-helium/processes/configuration/configuration/register-definitive-media.html)
 
-- [Register financial value of CI](/en-us/citsmart-platform-8/processes/configuration/configuration/register-financial-value-ic.html)
+- [Register financial value of CI](/en-us/4biz-helium/processes/configuration/configuration/register-financial-value-ic.html)
 
-- [Register software blacklist](/en-us/citsmart-platform-8/processes/configuration/configuration/register-software-blacklist.html)
+- [Register software blacklist](/en-us/4biz-helium/processes/configuration/configuration/register-software-blacklist.html)
 
-- [Create connection to remote access server](/en-us/citsmart-platform-8/processes/configuration/configuration/configure-remote-access.html)
+- [Create connection to remote access server](/en-us/4biz-helium/processes/configuration/configuration/configure-remote-access.html)
 
-- [Create child configuration item](/en-us/citsmart-platform-8/processes/configuration/configuration/create-configuration-item-related-ic.html)
+- [Create child configuration item](/en-us/4biz-helium/processes/configuration/configuration/create-configuration-item-related-ic.html)
 
-- [Configure parametrization - configuration](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-configuration.html)
+- [Configure parametrization - configuration](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-configuration.html)
  
 Use
 -------
 
-- [Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+- [Register configuration item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
 
-- [Search configuration item](/en-us/citsmart-platform-8/processes/configuration/use/search-CI.html)
+- [Search configuration item](/en-us/4biz-helium/processes/configuration/use/search-CI.html)
 
-- [Change group of configuration item](/en-us/citsmart-platform-8/processes/configuration/use/change-group-configuration-item.html)
+- [Change group of configuration item](/en-us/4biz-helium/processes/configuration/use/change-group-configuration-item.html)
 
-- [Delete group of configuration item](/en-us/citsmart-platform-8/processes/configuration/use/delete-group-of-IC.html)
+- [Delete group of configuration item](/en-us/4biz-helium/processes/configuration/use/delete-group-of-IC.html)
 
-- [Link calendar to group of configuration item](/en-us/citsmart-platform-8/processes/configuration/use/link-calendar-to-group-of-IC.html)
+- [Link calendar to group of configuration item](/en-us/4biz-helium/processes/configuration/use/link-calendar-to-group-of-IC.html)
 
-- [Link service level agreement to CI group](/en-us/citsmart-platform-8/processes/configuration/use/link-SLA-to-CI-group.html)
+- [Link service level agreement to CI group](/en-us/4biz-helium/processes/configuration/use/link-SLA-to-CI-group.html)
 
-- [Run script of the configuration item](/en-us/citsmart-platform-8/processes/configuration/use/run-script-of-CI.html)
+- [Run script of the configuration item](/en-us/4biz-helium/processes/configuration/use/run-script-of-CI.html)
 
-- [Register cost per hour of unavailability](/en-us/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
+- [Register cost per hour of unavailability](/en-us/4biz-helium/processes/configuration/use/cost-per-hour-unavailability.html)
 
-- [Change the configuration item data](/en-us/citsmart-platform-8/processes/configuration/use/change-IC-item-data.html)
+- [Change the configuration item data](/en-us/4biz-helium/processes/configuration/use/change-IC-item-data.html)
 
-- [Verify processes related to the configuration item](/en-us/citsmart-platform-8/processes/configuration/use/CI-processes-related.html)
+- [Verify processes related to the configuration item](/en-us/4biz-helium/processes/configuration/use/CI-processes-related.html)
 
-- [Link demand attributes to CI](/en-us/citsmart-platform-8/processes/configuration/use/link-demand-attributes-to-CI.html)
+- [Link demand attributes to CI](/en-us/4biz-helium/processes/configuration/use/link-demand-attributes-to-CI.html)
 
-- [Analyze configuration item impact](/en-us/citsmart-platform-8/processes/configuration/use/configuration-item-impact.html)
+- [Analyze configuration item impact](/en-us/4biz-helium/processes/configuration/use/configuration-item-impact.html)
 
-- [Verify configuration item history](/en-us/citsmart-platform-8/processes/configuration/use/CI-history.html)
+- [Verify configuration item history](/en-us/4biz-helium/processes/configuration/use/CI-history.html)
 
-- [Verify execution status of CI inventory](/en-us/citsmart-platform-8/processes/configuration/use/verify-status-inventory.html)
+- [Verify execution status of CI inventory](/en-us/4biz-helium/processes/configuration/use/verify-status-inventory.html)
 
-- [Verify configuration item captured by Inventory (agent)](/en-us/citsmart-platform-8/processes/configuration/use/CI-captured-by-inventory.html)
+- [Verify configuration item captured by Inventory (agent)](/en-us/4biz-helium/processes/configuration/use/CI-captured-by-inventory.html)
 
-- [Export CMDB](/en-us/citsmart-platform-8/processes/configuration/use/export-CMDB.html)
+- [Export CMDB](/en-us/4biz-helium/processes/configuration/use/export-CMDB.html)
 
 Report
 ----------
 
-- [Generate report - configuration management](/en-us/citsmart-platform-8/processes/configuration/use/generate-report-configuration-management.html)
+- [Generate report - configuration management](/en-us/4biz-helium/processes/configuration/use/generate-report-configuration-management.html)
 
-- [Generate reports through the charts and reports panel - configuration items](/en-us/citsmart-platform-8/processes/configuration/use/generate-reports-charts-panel-ic.html)
+- [Generate reports through the charts and reports panel - configuration items](/en-us/4biz-helium/processes/configuration/use/generate-reports-charts-panel-ic.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço
 
 

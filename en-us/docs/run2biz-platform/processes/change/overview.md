@@ -30,50 +30,50 @@ Change.
 Use
 -------
 
--  [Register change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
+-  [Register change](/en-us/4biz-helium/processes/change/use/register-change.html)
 
--  [Register change via template](/en-us/citsmart-platform-8/processes/change/use/register-change-via-template.html)
+-  [Register change via template](/en-us/4biz-helium/processes/change/use/register-change-via-template.html)
 
--  [Activities of the change planning phase](/en-us/citsmart-platform-8/processes/change/use/change-planning-activities.html)
+-  [Activities of the change planning phase](/en-us/4biz-helium/processes/change/use/change-planning-activities.html)
 
--  [Register reversion plan of change](/en-us/citsmart-platform-8/processes/change/use/change-reversion-plan.html)
+-  [Register reversion plan of change](/en-us/4biz-helium/processes/change/use/change-reversion-plan.html)
 
--  [Close change](/en-us/citsmart-platform-8/processes/change/use/execute-change.html)
+-  [Close change](/en-us/4biz-helium/processes/change/use/execute-change.html)
 
--  [Relate information to change](/en-us/citsmart-platform-8/processes/change/use/relate-information-to-change.html)
+-  [Relate information to change](/en-us/4biz-helium/processes/change/use/relate-information-to-change.html)
 
--  [Advanced search of changes closed](/en-us/citsmart-platform-8/processes/change/use/advanced-search-for-change.html)
+-  [Advanced search of changes closed](/en-us/4biz-helium/processes/change/use/advanced-search-for-change.html)
 
--  [Approve change](/en-us/citsmart-platform-8/processes/change/use/change-approval.html)
+-  [Approve change](/en-us/4biz-helium/processes/change/use/change-approval.html)
 
--  [Cancel change](/en-us/citsmart-platform-8/processes/change/use/cancel-change.html)
+-  [Cancel change](/en-us/4biz-helium/processes/change/use/cancel-change.html)
 
--  [Suspend change](/en-us/citsmart-platform-8/processes/change/use/suspend-change.html)
+-  [Suspend change](/en-us/4biz-helium/processes/change/use/suspend-change.html)
 
-- [Register change occurrences](/en-us/citsmart-platform-8/processes/change/use/change-occurrences.html)
+- [Register change occurrences](/en-us/4biz-helium/processes/change/use/change-occurrences.html)
 
 Configuration
 ----------------
 
--   [Create portfolio of change](/en-us/citsmart-platform-8/processes/change/configuration/change-portfolio.html)
+-   [Create portfolio of change](/en-us/4biz-helium/processes/change/configuration/change-portfolio.html)
 
--   [Register justification of change](/en-us/citsmart-platform-8/processes/change/configuration/change-justification.html)
+-   [Register justification of change](/en-us/4biz-helium/processes/change/configuration/change-justification.html)
 
--   [Calendar of change](/en-us/citsmart-platform-8/processes/change/configuration/change-schedule.html)
+-   [Calendar of change](/en-us/4biz-helium/processes/change/configuration/change-schedule.html)
 
--   [Register template of change](/en-us/citsmart-platform-8/processes/change/configuration/change-template.html) 
+-   [Register template of change](/en-us/4biz-helium/processes/change/configuration/change-template.html) 
 
 Report
 -------------
 
--   [Create report - Change management](/en-us/citsmart-platform-8/processes/change/use/generate-reports-change-management.html)
+-   [Create report - Change management](/en-us/4biz-helium/processes/change/use/generate-reports-change-management.html)
 
--   [Create reports through dashboards and reports – Changes](/en-us/citsmart-platform-8/processes/change/use/generate-reports-charts-panel-change.html)
+-   [Create reports through dashboards and reports – Changes](/en-us/4biz-helium/processes/change/use/generate-reports-charts-panel-change.html)
 
--   [Additional reports of change](/en-us/citsmart-platform-8/processes/change/use/change-additional-reports.html)
+-   [Additional reports of change](/en-us/4biz-helium/processes/change/use/change-additional-reports.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/01/2019 – Larissa Lourenço
 

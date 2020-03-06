@@ -1,1 +1,1 @@
-br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+br.com.run2biz.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail

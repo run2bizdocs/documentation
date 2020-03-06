@@ -15,7 +15,7 @@ Routines like:
    
 ## Before getting started
 
-CITSmart Batch processing uses Quartz for scheduling and processing system routines. Therefore, before using any batch routine it is necessary to [configure Quartz][3].   
+4biz Batch processing uses Quartz for scheduling and processing system routines. Therefore, before using any batch routine it is necessary to [configure Quartz][3].   
 
 Procedure
 -------------
@@ -30,7 +30,7 @@ Procedure
     
     Example of "Class Java" content:
     ```html
-    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    br.com.run2biz.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
     ```
 
 4.  Click on "Save".
@@ -51,17 +51,17 @@ Batch Routines
     -   Content:
     
     ```java
-    br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+    br.com.run2biz.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
     ```
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
 
 
 
-[1]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/verify-email.txt
-[2]:/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/images/server-time.txt
-[3]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz
+[1]:/en-us/4biz-helium/platform-administration/configuring-automatic-actions/images/verify-email.txt
+[2]:/en-us/4biz-helium/platform-administration/configuring-automatic-actions/images/server-time.txt
+[3]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation.html#configuracao-do-quartz

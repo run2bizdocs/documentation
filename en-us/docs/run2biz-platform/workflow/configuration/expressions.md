@@ -9,11 +9,11 @@ Expressions are resources used in system flows to allow the construction of seve
 [Expressions Creator][1]  
 
 
-[1]:/en-us/citsmart-platform-8/workflow/configuration/expressions-creator.html
+[1]:/en-us/4biz-helium/workflow/configuration/expressions-creator.html
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

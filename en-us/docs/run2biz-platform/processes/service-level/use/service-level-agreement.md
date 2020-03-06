@@ -30,23 +30,23 @@ Procedure
 Related
 -----------
 
-[Register priority](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-priority.html)
+[Register priority](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-priority.html)
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Create template of incident, request and procedure](/en-us/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
+[Create template of incident, request and procedure](/en-us/4biz-helium/processes/tickets/configuration/create-template-of-ticket.html)
 
-[Service level requirement](/en-us/citsmart-platform-8/processes/service-level/use/service-level-requirement.html)
+[Service level requirement](/en-us/4biz-helium/processes/service-level/use/service-level-requirement.html)
 
-[Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Register user](/en-us/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Larissa Lourenço
 

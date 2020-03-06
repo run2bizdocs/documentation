@@ -1,13 +1,13 @@
 title: Register Event Monitor Connection
-Description: Register all priorities about the CITSmart Event Monitor connection.
+Description: Register all priorities about the 4biz Event Monitor connection.
 # Register Event Monitor Connection
 
 This functionatilty has the objective of register all priorities about the
-CITSmart Event Monitor connection, according to the IP and the port where the
-Jboss of CITSmart Event Monitor (EVM) is installed.
+4biz Event Monitor connection, according to the IP and the port where the
+Jboss of 4biz Event Monitor (EVM) is installed.
 
 This feature provides a variety of actions, such as including, changing, and
-deleting all priorities about the CITSmart Event Monitor connection.
+deleting all priorities about the 4biz Event Monitor connection.
 
 Before getting started
 --------------------------
@@ -21,7 +21,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Event Management
     \> Connections \> Event Monitor Connections;
 
-2.  In the tab CITSmart Event Monitor Connection Registration, complete the
+2.  In the tab 4biz Event Monitor Connection Registration, complete the
     fields available;
 
 3.  Click on "Test Connection";
@@ -31,5 +31,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

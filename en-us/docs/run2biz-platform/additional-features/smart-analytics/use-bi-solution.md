@@ -7,7 +7,7 @@ technologies used by enterprises for the data analysis of business information.
 BI technologies provide historical, current and predictive views of business 
 operations".
 
-CITSmart Analytics is the BI solution for CITSmart data analysis.
+4biz Analytics is the BI solution for 4biz data analysis.
 With this feature you can create numerous graphs, dashboards and tables with
 data information registered in the instance.
 
@@ -15,7 +15,7 @@ Before getting started
 ----------------
 
 It's necessary to have the BI application installed, configured, and communicable 
-with your CITSmart instance.
+with your 4biz instance.
 
 Procedure
 ------------
@@ -71,5 +71,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/28/2019 – Anna Martins

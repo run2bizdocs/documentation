@@ -13,19 +13,19 @@ Enter the jboss-cli and run the commands below:
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-post-size,value="5000485760")
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-header-size,value="65535")
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-parameters,value="3000")
-/subsystem=undertow/configuration=filter/rewrite=citsmart:add(target="/citsmart")
-/subsystem=undertow/server=default-server/host=default-host/filter-ref=citsmart:add(predicate="regex('\^/?\$') and equals(/citsmart)")
+/subsystem=undertow/configuration=filter/rewrite=4biz:add(target="/4biz")
+/subsystem=undertow/server=default-server/host=default-host/filter-ref=4biz:add(predicate="regex('\^/?\$') and equals(/4biz)")
 /subsystem=undertow/server=default-server/host=default-host/setting=access-log:add
 /subsystem=undertow/server=default-server/host=default-host/setting=access-log:write-attribute(name=pattern, value="%h %l %u [%t] \\"%r\\" %s %b \\"%{i,Referer}\\" \\"%{i,User-Agent}\\"")
 /subsystem=messaging-activemq/server=default/jms-queue=filaDocumentoQueue:add(entries=["queue/filaDocumento","java:jboss/exported/jms/queue/filaDocumento"])
 /subsystem=messaging-activemq/server=default/jms-topic=filaDocumentoTopic:add(entries=["topic/filaDocumento","java:jboss/exported/jms/topic/filaDocumento"])
-/subsystem=messaging-activemq/server=default/jms-queue=neuroInputQueue:add(entries=["queue/neuroInputQueue","java:jboss/exported/jms/queue/queue/neuroInputQueue"])
-/subsystem=messaging-activemq/server=default/jms-queue=neuroOutputQueue:add(entries=["queue/neuroOutputQueue","java:jboss/exported/jms/queue/queue/neuroOutputQueue"])
+/subsystem=messaging-activemq/server=default/jms-queue=BuilderInputQueue:add(entries=["queuebuilderInputQueue","java:jboss/exported/jms/queue/queuebuilderInputQueue"])
+/subsystem=messaging-activemq/server=default/jms-queue=BuilderOutputQueue:add(entries=["queuebuilderOutputQueue","java:jboss/exported/jms/queue/queuebuilderOutputQueue"])
 /subsystem=deployment-scanner/scanner=default:write-attribute(name=deployment-timeout,value=6000000)
 ```
 
 ## Next step
 
-[CITSmart extra settings][1]
+[4biz extra settings][1]
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-extras.html
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation/conf-extras.html

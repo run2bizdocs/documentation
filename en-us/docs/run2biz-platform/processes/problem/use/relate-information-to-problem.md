@@ -87,5 +87,5 @@ necessary to have access to a Problem.
     task", this last option makes possible to no advance to the next phase of the problem.    
 
 !!! tip "About"
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/30/2019 – Larissa Lourenço

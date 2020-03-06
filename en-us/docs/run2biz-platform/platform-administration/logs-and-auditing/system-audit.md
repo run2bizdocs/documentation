@@ -96,9 +96,9 @@ system.*
 Related
 ---------
 
-[Configure Audit 0.4.0](/en-us/citsmart-platform-8/platform-administration/logs-and-auditing/audit040-configure.html)
+[Configure Audit 0.4.0](/en-us/4biz-helium/platform-administration/logs-and-auditing/audit040-configure.html)
     
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/15/2019 – Larissa Lourenço

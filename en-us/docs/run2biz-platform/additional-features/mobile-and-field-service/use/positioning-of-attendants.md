@@ -25,11 +25,11 @@ Procedure
 Related
 -------
 
-[Configure CITSmart instance for mobile access](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
+[Configure 4biz instance for mobile access](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/server-configuration-app-android-ios.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Larissa Lourenço
 

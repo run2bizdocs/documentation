@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><br.com.centralit.citcorpore.bean.SmartReportDTO><identificacao>Tickets - Tiempo gastado por tecnico</identificacao><descricao>Tickets - Tempo gasto por técnico</descricao><idCategoria>1</idCategoria><tipoConsulta>2</tipoConsulta><tipoRelatorio>7</tipoRelatorio><parametros>&lt;PARAMETERS&gt;
+<?xml version="1.0" ?><br.com.run2biz.citcorpore.bean.SmartReportDTO><identificacao>Tickets - Tiempo gastado por tecnico</identificacao><descricao>Tickets - Tempo gasto por técnico</descricao><idCategoria>1</idCategoria><tipoConsulta>2</tipoConsulta><tipoRelatorio>7</tipoRelatorio><parametros>&lt;PARAMETERS&gt;
   	&lt;PARAM name='typeDate_ticketTime2' type='java.lang.Integer' typeHTML='select' value='1' description='citcorpore.texto.periodo' fix='false' mandatory='false' reload='true' onload='true' default='1'&gt;
 	    &lt;OPTION value='0' text='expression.function.serviceRequest.getRequestTimestamp'/&gt;
 	    &lt;OPTION value='1' text='citcorpore.comum.dataEncerramento'/&gt;
@@ -17,17 +17,17 @@
 &lt;/PARAMETERS&gt;</parametros><sql></sql><script>var importNames = JavaImporter();
 importNames.importPackage(Packages.java.util);
 importNames.importPackage(Packages.java.lang);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.integracao);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.bpm.negocio);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.util);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.negocio);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.integracao);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.bean);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.bpm.negocio);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.util);
 importNames.importPackage(Packages.br.com.citframework.util);
 importNames.importPackage(Packages.br.com.citframework.comparacao);
 importNames.importPackage(Packages.br.com.citframework.integracao);
 importNames.importPackage(Packages.com.google.gson);
 importNames.importPackage(Packages.java.text);
-importNames.importPackage(Packages.br.com.centralit.citsmart.rest.v3.util);
+importNames.importPackage(Packages.br.com.run2biz.4biz.rest.v3.util);
 
 var typeDate_ticketTime2 = hashParametros.get("PARAM.typeDate_ticketTime2")=="" ? -1 : importNames.Integer.parseInt(hashParametros.get("PARAM.typeDate_ticketTime2"));
 var startDate_ticketTime2 = importNames.UtilDatas.getTimeStampInicioPeriodo(hashParametros.get("PARAM.startDate_ticketTime2"));
@@ -279,4 +279,4 @@ construirRelatorio = function () {
     return relatorio.toString();
 }
 
-HTML_RESULT.append(construirRelatorio());</script><jsp></jsp><template></template><tipoExibicao>N</tipoExibicao></br.com.centralit.citcorpore.bean.SmartReportDTO>
+HTML_RESULT.append(construirRelatorio());</script><jsp></jsp><template></template><tipoExibicao>N</tipoExibicao></br.com.run2biz.citcorpore.bean.SmartReportDTO>

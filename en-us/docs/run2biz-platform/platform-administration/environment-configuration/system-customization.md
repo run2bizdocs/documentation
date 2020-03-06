@@ -8,5 +8,5 @@ It's possible to customize several information in your environment, as well as:
 
 - [Knowledge Portal (CSS and banner logo)][2]
 
-[1]:/en-us/citsmart-platform-8/platform-administration/environment-configuration/banner-logo.html
-[2]:/en-us/citsmart-platform-8/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html
+[1]:/en-us/4biz-helium/platform-administration/environment-configuration/banner-logo.html
+[2]:/en-us/4biz-helium/platform-administration/environment-configuration/knowledge-portal-customize-knowledge-portal.html

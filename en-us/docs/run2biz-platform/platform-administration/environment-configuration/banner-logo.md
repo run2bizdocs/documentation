@@ -3,7 +3,7 @@ Title: Configure Banner logo
 # Configure Banner logo
 
 
-It's possible to change the banner in your environment so CITSmart will have the identity of your company.
+It's possible to change the banner in your environment so 4biz will have the identity of your company.
 
 Procedure
 -------
@@ -17,11 +17,11 @@ Procedure
     
     To change the loading icon, change the value of the parameter 387 to "YES".
 	
-    Path: Parametrization > CITSmart Parameters > 387.  
+    Path: Parametrization > 4biz Parameters > 387.  
 	
 	
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

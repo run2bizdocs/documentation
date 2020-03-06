@@ -1,10 +1,10 @@
 title: Set Inventory connection
-Description: Intended to register all properties about the CITSmart Inventory connection, according to the IP and port where the Jboss of the CITSmart Inventory is intalled.
+Description: Intended to register all properties about the 4biz Inventory connection, according to the IP and port where the Jboss of the 4biz Inventory is intalled.
 # Set Inventory connection
 
-This functionality is intended to register all properties about the CITSmart
+This functionality is intended to register all properties about the 4biz
 Inventory connection, according to the IP and port where the Jboss of the
-CITSmart Inventory is installed.
+4biz Inventory is installed.
 
 Before getting started
 --------------------------
@@ -29,7 +29,7 @@ Procedure
 
       ![inventory integration](images/inventory-connection-one.png)
 
-       Figure 1 -CITSmart inventory integration
+       Figure 1 -4biz inventory integration
 
 4.  If the connection type chosen is the *OCS Inventory*, the configuration
     field of the OCS Inventory will be displayed to be informed of the XML
@@ -39,7 +39,7 @@ Procedure
        ![inventory integration](images/inventory-connection-two.png)
    
 
-       Figure 2 -CITSmart inventory integration - OCS inventory
+       Figure 2 -4biz inventory integration - OCS inventory
 
        + After installing OCS Inventory, it does not default to any type of
          integration with another system, so in the Inventory files menu you need to
@@ -60,7 +60,7 @@ Procedure
                  server.
 
 5.  The Inventory application captures the data through the SNMP Agent (161)
-    port and/or the Capture Agent (port 7103 developed by CITSmart Corporation,
+    port and/or the Capture Agent (port 7103 developed by 4biz Corporation,
     in .Net). Initially, Inventory performs a "ping" command to verify that the
     machine is active. If you can perform the command, try to access the SNMP
     port of the configuration item. If access to the port is not successful,
@@ -72,11 +72,11 @@ Procedure
 Related
 -------
 
-[Register Inventory manager](/en-us/citsmart-platform-8/processes/event/configuration/register-inventory-manager.html)
+[Register Inventory manager](/en-us/4biz-helium/processes/event/configuration/register-inventory-manager.html)
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

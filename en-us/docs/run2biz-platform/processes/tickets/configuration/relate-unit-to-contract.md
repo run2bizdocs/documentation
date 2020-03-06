@@ -4,7 +4,7 @@ Description: Relate unit to the contract
 
 # How to relate unit to the contract
 
-1.  Access the functionality CITSmart Parameters through the main menu. Place the mouse in the option Parametrization > CITSmart Parameters. Next, it'll be presented the screen of **CITSmart Parameters**, click on the tab Search CITSmart Parameters;
+1.  Access the functionality 4biz Parameters through the main menu. Place the mouse in the option Parametrization > 4biz Parameters. Next, it'll be presented the screen of **4biz Parameters**, click on the tab Search 4biz Parameters;
 
 2.  Search for the parameter "61 - Link contract to unit"and select it. It'll be presented the screen to register the parameter with contend about the register selected;
 
@@ -21,14 +21,14 @@ Description: Relate unit to the contract
 Related
 -------
 
-[Register unit](/en-us/citsmart-platform-8/platform-administration/region-and-language/register-unit.html)
+[Register unit](/en-us/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
-[Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 - Anna Martins

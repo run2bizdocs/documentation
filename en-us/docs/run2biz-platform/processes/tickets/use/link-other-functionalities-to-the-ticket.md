@@ -91,23 +91,23 @@ Procedure
 Related
 -----------
 
-[Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Create knowledge](/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+[Create knowledge](/en-us/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
-[Register change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
+[Register change](/en-us/4biz-helium/processes/change/use/register-change.html)
 
-[Register release request](/en-us/citsmart-platform-8/processes/release/use/register-release-request.html)
+[Register release request](/en-us/4biz-helium/processes/release/use/register-release-request.html)
 
-[Register problem](/en-us/citsmart-platform-8/processes/problem/use/register-problem.html)
+[Register problem](/en-us/4biz-helium/processes/problem/use/register-problem.html)
 
-[Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Register project](/en-us/citsmart-platform-8/additional-features/project-management/project-management/use/register-project.html)
+[Register project](/en-us/4biz-helium/additional-features/project-management/project-management/use/register-project.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Larissa Lourenço

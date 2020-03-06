@@ -1,23 +1,23 @@
-Title: Introduction to CITSmart Workflow
-Description: Overview about the creation and management of a CITSmart workflow.
+Title: Introduction to 4biz Workflow
+Description: Overview about the creation and management of a 4biz workflow.
 
-# Introduction to CITSmart Workflow
+# Introduction to 4biz Workflow
 
-Flows are visual representations of something that moves continuously. Therefore, flows can be used to graphically represent a process or any action. They can be materialized on paper (physical document) or an electronic tool. At CITSmart, the Workflow functionality is designed to model your business goals by outlining the steps you need to take to achieve those goals through a smart digital flow. It's possible to create workflows to assist with the management of services, problems, changes, releases, continuity actions, travel requests, and purchasing. Moreover, the workflow has interaction with the main CITSmart processes.
+Flows are visual representations of something that moves continuously. Therefore, flows can be used to graphically represent a process or any action. They can be materialized on paper (physical document) or an electronic tool. At 4biz, the Workflow functionality is designed to model your business goals by outlining the steps you need to take to achieve those goals through a smart digital flow. It's possible to create workflows to assist with the management of services, problems, changes, releases, continuity actions, travel requests, and purchasing. Moreover, the workflow has interaction with the main 4biz processes.
 
-Automated workflows bring system activities to life, enabling your organization's activities to be digitized and automated. Furthermore, you can create task-controlled flows, add notifications, subprocesses and establish direct communication with other applications, such as Neuro - which is a framework for the creation of application.
+Automated workflows bring system activities to life, enabling your organization's activities to be digitized and automated. Furthermore, you can create task-controlled flows, add notifications, subprocesses and establish direct communication with other applications, such as Builder - which is a framework for the creation of application.
 
-You will find that everyday tasks such as ordering something, registering a ticket and approving a request can be done quickly and intelligently, avoiding the waste of time. CITSmart flows help you to materialize your business processes into a systemic view where you have complete control of what happens.
+You will find that everyday tasks such as ordering something, registering a ticket and approving a request can be done quickly and intelligently, avoiding the waste of time. 4biz flows help you to materialize your business processes into a systemic view where you have complete control of what happens.
 
 
 ## Meeting the workflow functionality
 
-First of all you need to familiarize yourself with the basics concepts, business rules and user interface. The visualization of this functionality in the CITSmart menu depends on permissions assigned to an access profile, make sure you have this permission. If you don't have this access, a manager can grant this access for you.
+First of all you need to familiarize yourself with the basics concepts, business rules and user interface. The visualization of this functionality in the 4biz menu depends on permissions assigned to an access profile, make sure you have this permission. If you don't have this access, a manager can grant this access for you.
 
 To find out if your profile has this permission, access the menu on the left side of the screen, and make sure the first access option is the main menu **Workflow**;
 
 
-![CITSmart workflow menu][1]
+![4biz workflow menu][1]
 
 **System standard**
 
@@ -27,7 +27,7 @@ To find out if your profile has this permission, access the menu on the left sid
 
 3: Process modeling;
 
-**Neuro Integration**
+**Builder Integration**
 
 4: Integration Flow;
 
@@ -36,7 +36,7 @@ To find out if your profile has this permission, access the menu on the left sid
 6: Business Process;
 
 !!! note "NOTES"
-   These items will only be available when the Neuro application is enabled in your instance;
+   These items will only be available when the Builder application is enabled in your instance;
 
 If you already have this access, click and select the option **Flow Design** to display the management screen.
 
@@ -44,7 +44,7 @@ If you already have this access, click and select the option **Flow Design** to 
 
 In the flow management screen you can: create, edit, export and delet a Flow.
 
-![workflow management CITSmart][2]
+![workflow management 4biz][2]
 
 1: **New** - click on it to star a new flow project;
 
@@ -62,21 +62,21 @@ By clicking on **New** or **Edit** you are taken to the Workflow creation/editin
 
 In a new flow you will find four buttons with the functions of **import**, **save**, **clear** and **back**, you can import a flow (previously exporting in JSON format).
 
-![fist button CITSmart][3]
+![fist button 4biz][3]
 
 If it is about  the edition of an existing flow, the buttons are modified by adding the option **Create Documentation** and the change of **Import** by **Save**.
 
-![second button CITSmart][4]
+![second button 4biz][4]
 
 ### Flow Data Tab  
 
 Flow Data is a tab for flow identification, where you can structure names for a better experience:
 
-![flow data CITSmart][5]
+![flow data 4biz][5]
 
 1: **Name** – Assign a name to the flow identification so you can identify it in case of linking or assignment;
 
-2: **Process** – Assign to the flow one process among all those in CITSmart so it's better defined and identified;
+2: **Process** – Assign to the flow one process among all those in 4biz so it's better defined and identified;
 
 3: **Version** – Viewer of the current version of the flow opened;
 
@@ -84,7 +84,7 @@ Flow Data is a tab for flow identification, where you can structure names for a 
 
 5: **Allows reopening** – Option to allow activities that are linked to this flow to be reopened regardless of group settings;
 
-6: **Write business object data in ticket creation** – Option that allows to create or update business object data configured in our Neuro language when creating a ticket;
+6: **Write business object data in ticket creation** – Option that allows to create or update business object data configured in our Builder language when creating a ticket;
 
 7: **Update data of business objects after executing user tasks** – Option that allows to update business objects created during the execution of user tasks.
 
@@ -92,7 +92,7 @@ Flow Data is a tab for flow identification, where you can structure names for a 
 
 In the tab **diagram** we find several Elements for the construction of the flow grouped into **Events**, **Activities**, **Extensions**, **Gateways**, **Swimlanes** and **Artifacts**.These are several components for better construction and interaction of workflow. Below there's an example of a flow being created.
 
-![diagram CITSmart][6]
+![diagram 4biz][6]
 
 1: **Elements** – These are sets of items/tools to be used in the flow designing as explained in the Basics Concepts item;
 
@@ -107,11 +107,11 @@ In the Documentation tab you will be able to generate a document with all the in
 Now you can create a workflow, think about a business need and the actors involved on it. Take a look at our documentation, it will help you on this journey.
 
 ## Related
-[Basic concepts](https://docs.citsmart.com/en-us/citsmart-platform-8/workflow/basic-concepts.html)
+[Basic concepts](https://docs.4biz.com/en-us/4biz-helium/workflow/basic-concepts.html)
 
-[1]:images/workflow-menu-citsmart.png
-[2]:images/workflow-management-citsmart.png
-[3]:images/fist-button-citsmart.jpg
-[4]:images/second-button-citsmart.jpg
-[5]:images/flow-data-citsmart.png
-[6]:images/diagram-citsmart.png
+[1]:images/workflow-menu-4biz.png
+[2]:images/workflow-management-4biz.png
+[3]:images/fist-button-4biz.jpg
+[4]:images/second-button-4biz.jpg
+[5]:images/flow-data-4biz.png
+[6]:images/diagram-4biz.png

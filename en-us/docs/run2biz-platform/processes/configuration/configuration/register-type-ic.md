@@ -33,9 +33,9 @@ Procedure
 Related
 -------
 
-[Register characteristics](/en-us/citsmart-platform-8/processes/configuration/configuration/register-characteristics.html)
+[Register characteristics](/en-us/4biz-helium/processes/configuration/configuration/register-characteristics.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

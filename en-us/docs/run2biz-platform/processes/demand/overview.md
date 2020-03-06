@@ -17,12 +17,12 @@ unexpected demand or failure of a configuration item".
 Use
 -------
 
-- [Register demand attribute](/en-us/citsmart-platform-8/processes/demand/use/register-demand-attribute.html)
+- [Register demand attribute](/en-us/4biz-helium/processes/demand/use/register-demand-attribute.html)
 
-- [Import demand attribute data](/en-us/citsmart-platform-8/processes/demand/use/import-demand-attibute-data.html)
+- [Import demand attribute data](/en-us/4biz-helium/processes/demand/use/import-demand-attibute-data.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço
 

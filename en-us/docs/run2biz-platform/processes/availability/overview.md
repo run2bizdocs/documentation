@@ -20,20 +20,20 @@ appropriate for the agreed service level targets for availability".
 Use
 -------
 
-- [Verify configuration item availability](/en-us/citsmart-platform-8/processes/availability/use/configuration-item-availability.html)
+- [Verify configuration item availability](/en-us/4biz-helium/processes/availability/use/configuration-item-availability.html)
 
-- [Verify CI group availability](/en-us/citsmart-platform-8/processes/availability/use/CI-group-availability.html)
+- [Verify CI group availability](/en-us/4biz-helium/processes/availability/use/CI-group-availability.html)
 
-- [Verify availability of availability group](/en-us/citsmart-platform-8/processes/availability/use/availability-group.html)
+- [Verify availability of availability group](/en-us/4biz-helium/processes/availability/use/availability-group.html)
 
-- [Verify service availability](/en-us/citsmart-platform-8/processes/availability/use/service-availability.html)
+- [Verify service availability](/en-us/4biz-helium/processes/availability/use/service-availability.html)
 
 Configuration
 -----------------
 
-- [Register availability group](/en-us/citsmart-platform-8/processes/availability/configuration/register-availability-group.html)
+- [Register availability group](/en-us/4biz-helium/processes/availability/configuration/register-availability-group.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

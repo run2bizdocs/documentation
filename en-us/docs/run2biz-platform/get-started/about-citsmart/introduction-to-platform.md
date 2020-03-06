@@ -74,11 +74,11 @@ What worries most companies is setting what separates a good client experience
 from a bad one. Today, in the business world, many of the needs of the company
 itself tend to overshadow client needs.
 
-CITSmart Corporation believes that the focus of the business should be on the
+4biz Corporation believes that the focus of the business should be on the
 good client experience and being one-step ahead depends on how you connect the
 services and processes.
 
-That´s the new mindset for the new Companies and our CITSmart - Enterprise
+That´s the new mindset for the new Companies and our 4biz - Enterprise
 Services Platform will help changes those corporates perspective.
 
 !!! tip "About"

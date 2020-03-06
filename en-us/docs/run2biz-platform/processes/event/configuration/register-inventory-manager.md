@@ -1,9 +1,9 @@
 title: Register Inventory manager
-Description: Register and maintain the managers who will be responsible for the occurrences of events captured from CITSmart Inventory.
+Description: Register and maintain the managers who will be responsible for the occurrences of events captured from 4biz Inventory.
 # Register Inventory manager
 
 The purpose of this functionality is to register and maintain the managers who
-will be responsible for the occurrences of events captured from CITSmart
+will be responsible for the occurrences of events captured from 4biz
 Inventory. It allows the user to indicate how much time the Manager will be
 processed, what configuration items it will manage, the checks that will be
 applied and the actions to be taken automatically.
@@ -15,8 +15,8 @@ Before getting started
 --------------------------
 
 To register the Inventory manager, it's necessary to previously register the
-CITSmart Event Monitor connection, time, occurrence category, automatic action
-and the CITSmart Inventory connection.
+4biz Event Monitor connection, time, occurrence category, automatic action
+and the 4biz Inventory connection.
 
 Procedure
 -------------
@@ -43,16 +43,16 @@ Procedure
 Related
 -------
 
-[Register occurence category](/en-us/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+[Register occurence category](/en-us/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-[Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Register time](/en-us/4biz-helium/processes/event/configuration/register-time.html)
 
-[Set Inventory connection](/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+[Set Inventory connection](/en-us/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

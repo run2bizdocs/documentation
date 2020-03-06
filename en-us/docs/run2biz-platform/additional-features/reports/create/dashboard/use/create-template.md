@@ -28,7 +28,7 @@ Procedure
 What to do next
 ---------------
 
-1.  Access the CITSmart home screen by clicking on the shortcut “Home” , click
+1.  Access the 4biz home screen by clicking on the shortcut “Home” , click
     on “Add new dashboard”;
 
 2.  Set the name and then choose the template created and an icon;
@@ -38,9 +38,9 @@ What to do next
 Related
 -------
 
-[Customize management panel (Smart Decision)](/en-us/citsmart-platform-8/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
+[Customize management panel (Smart Decision)](/en-us/4biz-helium/additional-features/reports/create/dashboard-customize-management-panel-smart-decision.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins

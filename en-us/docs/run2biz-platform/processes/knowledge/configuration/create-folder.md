@@ -3,7 +3,7 @@ Description: It provides several actions, such as adding, changing and excluding
 
 # Creating folder
 
-Folders are places used in the application for storing and organizing files. CITSmart knowledge bases are built using directory structures. In the directories are applied the permissions of reading or reading and saving, the possible actions in the knowledge management process must also be defined: review, approve, publish and archive/unarchive. In addition, it's possible to pre-configure the notifications that will occur in the several actions of the knowledge management process.
+Folders are places used in the application for storing and organizing files. 4biz knowledge bases are built using directory structures. In the directories are applied the permissions of reading or reading and saving, the possible actions in the knowledge management process must also be defined: review, approve, publish and archive/unarchive. In addition, it's possible to pre-configure the notifications that will occur in the several actions of the knowledge management process.
 
 Folder permissions are applied from two perspectives: access profile and user group. By using permission by access profile you can control the profiles that can read and write in the folder. By using the group approach, in addition to the standard permission (read and write), you can set notification preferences for different knowledge statuses.
 
@@ -54,11 +54,11 @@ Folder permissions are applied from two perspectives: access profile and user gr
 
 
 !!! tip "About"
-    <b>Product/Verssion:</b> CITSmart | 8.05 &nbsp;&nbsp;
+    <b>Product/Verssion:</b> 4biz | 8.05 &nbsp;&nbsp;
     <b>Updated:</b>12/23/2019 – Education Team
 
-[1]:/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html
-[2]:/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html
-[3]:/en-us/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html
-[4]:/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[5]:/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html
+[1]:/en-us/4biz-helium/processes/knowledge/use/create-knowledge.html
+[2]:/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html
+[3]:/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html
+[4]:/en-us/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
+[5]:/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html

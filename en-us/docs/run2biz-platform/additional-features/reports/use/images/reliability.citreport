@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><br.com.centralit.citcorpore.bean.SmartReportDTO><identificacao>Reliability</identificacao><descricao>Reliability</descricao><idCategoria>1</idCategoria><tipoConsulta>2</tipoConsulta><tipoRelatorio>5</tipoRelatorio><parametros>&lt;PARAMETERS>
+<?xml version='1.0' encoding='UTF-8'?><br.com.run2biz.citcorpore.bean.SmartReportDTO><identificacao>Reliability</identificacao><descricao>Reliability</descricao><idCategoria>1</idCategoria><tipoConsulta>2</tipoConsulta><tipoRelatorio>5</tipoRelatorio><parametros>&lt;PARAMETERS>
 
 	&lt;PARAM name='dataInicial' type='java.sql.Date' size='10' value='' description='citcorpore.comum.datainicio' fix='false' mandatory="true" default="{MONTH_AGO}"/>
 
@@ -30,8 +30,8 @@
 importNames.importPackage(Packages.java.util);
 importNames.importPackage(Packages.java.lang);
 importNames.importPackage(Packages.br.com.citframework.util);
-importNames.importPackage(Packages.br.com.centralit.citsmart.rest.v3.util);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.ajaxForms);
+importNames.importPackage(Packages.br.com.run2biz.4biz.rest.v3.util);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.ajaxForms);
 
 var pDataInicio = importNames.UtilDatas.getTimeStampInicioPeriodo(hashParametros.get("PARAM.dataInicial"));
 var pDataFim = importNames.UtilDatas.getTimeStampFimPeriodo(hashParametros.get("PARAM.dataFinal"));
@@ -51,4 +51,4 @@ function iniciar(){
 }
 
 iniciar();
-</script><jsp></jsp><template></template><tipoExibicao>N</tipoExibicao></br.com.centralit.citcorpore.bean.SmartReportDTO>
+</script><jsp></jsp><template></template><tipoExibicao>N</tipoExibicao></br.com.run2biz.citcorpore.bean.SmartReportDTO>

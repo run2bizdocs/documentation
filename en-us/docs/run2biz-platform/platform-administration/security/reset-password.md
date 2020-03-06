@@ -29,7 +29,7 @@ Procedure
 
 *2nd Step: Set the parameter about the service to change the password*
 
-1.  Access the main menu Parametrization \> CITSmart Parameters;
+1.  Access the main menu Parametrization \> 4biz Parameters;
 
 2.  Edit and save parameter 116 by assigning the numeric value of the ID generated for the newly created e-mail template;
 
@@ -46,8 +46,8 @@ To test the service to change the password, access the login page, click on "For
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[1]:/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html
-[2]:/en-us/citsmart-platform-8/platform-administration/email-settings/configuration.html
+[1]:/en-us/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html
+[2]:/en-us/4biz-helium/platform-administration/email-settings/configuration.html

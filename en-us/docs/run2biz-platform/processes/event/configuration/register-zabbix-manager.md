@@ -17,8 +17,8 @@ Before getting started
 --------------------------
 
 To register the Zabbix manager, it's necessary to previously register the
-CITSmart Event Monitor connection, time, occurrence category, automatic action
-and CITSmart Inventory connection.
+4biz Event Monitor connection, time, occurrence category, automatic action
+and 4biz Inventory connection.
 
 Procedure
 -------------
@@ -29,7 +29,7 @@ Procedure
 2.  Complete the fields available in each area;
 
 3.  In the parent configuration item area, it's possible to register the CI in
-    CITSmart, with the data of the Host selected. Click on "Create CI". Remember
+    4biz, with the data of the Host selected. Click on "Create CI". Remember
     that this registration will only be possible if there is no CI with the same
     Host identification:
 
@@ -44,16 +44,16 @@ Procedure
 Related
 -------
 
-[Register occurrence category](/en-us/citsmart-platform-8/processes/event/configuration/register-occurence-category.html)
+[Register occurrence category](/en-us/4biz-helium/processes/event/configuration/register-occurence-category.html)
 
-[Register Event Monitor Connection](/en-us/citsmart-platform-8/processes/event/configuration/register-event-monitor-connection.html)
+[Register Event Monitor Connection](/en-us/4biz-helium/processes/event/configuration/register-event-monitor-connection.html)
 
-[Register time](/en-us/citsmart-platform-8/processes/event/configuration/register-time.html)
+[Register time](/en-us/4biz-helium/processes/event/configuration/register-time.html)
 
-[Set Inventory connection](/en-us/citsmart-platform-8/processes/event/configuration/set-inventory-connection.html)
+[Set Inventory connection](/en-us/4biz-helium/processes/event/configuration/set-inventory-connection.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

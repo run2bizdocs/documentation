@@ -63,15 +63,15 @@ Procedure
 Related
 -------
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Register user](/en-us/citsmart-platform-8/initial-settings/access-settings/user/users.html)
+[Register user](/en-us/4biz-helium/initial-settings/access-settings/user/users.html)
 
-[Workflow](/en-us/citsmart-platform-8/workflow/overview.html)
+[Workflow](/en-us/4biz-helium/workflow/overview.html)
 
-[Configure parametrization – email](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-email.html)
+[Configure parametrization – email](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-email.html)
 
-[Configure parametrization - system](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-system.html)
+[Configure parametrization - system](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
 
 Attachment
@@ -83,8 +83,8 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins
 
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/images/Approval.docx
+[1]:/en-us/4biz-helium/processes/tickets/images/Approval.docx

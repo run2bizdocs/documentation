@@ -3,7 +3,7 @@ Description: Business object
 # Business Object
 
 
-Business Object are the link between Neuro and a Data Entity of the
+Business Object are the link between Builder and a Data Entity of the
 applications. In this way the Business Object will represent the data model and
 may reach one or more forms.
 
@@ -12,11 +12,11 @@ Each business object created represents a table in the database.
 Before getting started
 ----------------------
 
-Must have a DB Connection and Neuro Application created.
+Must have a DB Connection and Builder Application created.
 
 ## General data
 
-1.  Access the functionality through navigation in the menu Neuro \> Management \> Business Object;
+1.  Access the functionality through navigation in the menu Builder \> Management \> Business Object;
 
 2.  Click on "New";
 
@@ -26,7 +26,7 @@ Must have a DB Connection and Neuro Application created.
     the Business Object a Name and a Description, also inform the purpose of the
     Business Object;
 
-![business](images/neuro-9.jpg)
+![business](images/builder-9.jpg)
 
 Figure 1 - Identification
 
@@ -46,7 +46,7 @@ Figure 1 - Identification
     4.	The Name in Database of the business object.
 
 
-![business](images/neuro-10.jpg)
+![business](images/builder-10.jpg)
 
 Figure 2 - Database
 
@@ -77,11 +77,11 @@ Figure 2 - Database
     After the “Save”, you´ll be able to inform Domain key and type and assign the
     Relationship if it´s needed.
 
-![business](images/neuro-11.jpg)
+![business](images/builder-11.jpg)
 
 Figure 3 - Columns list
 
-![business](images/neuro-12.jpg)
+![business](images/builder-12.jpg)
 
 Figure 4 - Adding new columns
 
@@ -112,7 +112,7 @@ Figure 4 - Adding new columns
 
     7.  Set with Business object Colum will be part of the relationship.
     
-![business](images/neuro-13.jpg)
+![business](images/builder-13.jpg)
 
 Figure 5 - Relationship 
 
@@ -122,7 +122,7 @@ Figure 5 - Relationship
 1.	Select the Business Rule assigned for insert, change or delete action on the Business Object;
 
 
-![business](images/neuro-14.jpg)
+![business](images/builder-14.jpg)
 
 Figure 6 - Business rules
     
@@ -134,7 +134,7 @@ a)	In a task for request of enrollment in courses you can create a SQL (it will 
 
 b)	The SQL will run under an ESI Flow and will be call by the SM Flow (using the component for integration with ESI Flow).  
     
-![business](images/neuro-15.jpg)
+![business](images/builder-15.jpg)
 
 Figure 7 - SQL
 
@@ -142,12 +142,12 @@ Figure 7 - SQL
 
 1.	You can change the attribute labels through the Labels tab, and you can edit the grid fields using the Grid tab.
 
-    ![business](images/neuro-16.jpg)
+    ![business](images/builder-16.jpg)
 
     Figure 8 - Labels
 
 
-    ![business](images/neuro-17.jpg)
+    ![business](images/builder-17.jpg)
 
     Figure 9 - Grid
 
@@ -157,5 +157,5 @@ Figure 7 - SQL
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>03/12/2019 - Anna Martins  

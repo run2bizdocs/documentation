@@ -46,10 +46,10 @@ Procedure
 Related 
 ------------
 
-[Register change](/en-us/citsmart-platform-8/processes/change/use/register-change.html)
+[Register change](/en-us/4biz-helium/processes/change/use/register-change.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço
 

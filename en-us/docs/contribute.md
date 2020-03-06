@@ -1,12 +1,12 @@
-Title: CITSmart Docs Contribution Guide
+Title: 4biz Docs Contribution Guide
 
-# CITSmart Docs Contribution Guide
+# 4biz Docs Contribution Guide
 
-CITSmart Docs is an incessant work of documentation of our products. We understand that the experience of our community in using the platform is the most enriching part. So here we explain how you can contribute to our documentation in a transparent and open way.
+4biz Docs is an incessant work of documentation of our products. We understand that the experience of our community in using the platform is the most enriching part. So here we explain how you can contribute to our documentation in a transparent and open way.
 
-CITSmart documentation is publicly available on [GitHub](https://github.com/citsmartdocs/). It's through it that you will be able to edit existing documents, create new documents or even suggest improvements to our portal.
+4biz documentation is publicly available on [GitHub](https://github.com/4bizdocs/). It's through it that you will be able to edit existing documents, create new documents or even suggest improvements to our portal.
 
-Thank you for accessing the CITSmart Docs contribution page.
+Thank you for accessing the 4biz Docs contribution page.
 
 ## Editing existing documents
 
@@ -18,7 +18,7 @@ To beging with:
 
  
 
-1) Access the CITSmart document repository on GitHub: https://gitbub.com/citsmartdocs.
+1) Access the 4biz document repository on GitHub: https://gitbub.com/4bizdocs.
 
 2) Click on "Sign In" at the top of the page and enter a username and password.
 
@@ -64,7 +64,7 @@ The creation of an user on the Github platform is free.
 
 Markdown allows users without programming language knowledge to write documents in HTML format. It's a simple language made for end users.
 
-Follow our [Markdown writing guide](https://docs.citsmart.com/en-us/markdown.html) to find out how to write our documents.
+Follow our [Markdown writing guide](https://docs.4biz.com/en-us/markdown.html) to find out how to write our documents.
 
  
 

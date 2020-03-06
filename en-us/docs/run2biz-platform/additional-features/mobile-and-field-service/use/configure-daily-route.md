@@ -34,13 +34,13 @@ Procedure
         route marker, the service request information will be displayed.
 
 4.  Click on "Save". After saving, a notification will be sent to the
-    technician, where he/she can check the CITSmart Enterprise ITSM Mobile
+    technician, where he/she can check the 4biz Enterprise ITSM Mobile
     application for the requests that will be attended by him/her.
     
     <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROEeoHh3EbsZJxjr9hJSLIV)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Larissa Lourenço
 

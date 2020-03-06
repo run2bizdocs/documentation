@@ -29,6 +29,6 @@ The visualization of the relationship map is conditioned to the following scenar
 
 [Relating Configuration Item to a service][1]
 
-[1]:/en-us/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[1]:/en-us/4biz-helium/processes/configuration/use/create-ic-relationship.html
 
-[2]:/en-us/citsmart-platform-8/processes/configuration/use/create-ic-relationship.html
+[2]:/en-us/4biz-helium/processes/configuration/use/create-ic-relationship.html

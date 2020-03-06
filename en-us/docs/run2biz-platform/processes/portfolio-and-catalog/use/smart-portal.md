@@ -17,7 +17,7 @@ Figure 1 - Smart Portal
 
 - **2**: Knowledge Portal - shortcut to Knowledge Portal, allows the user to perform the search of information generated in your organization
 
-- **3**: Docs - directs the user to the CITSmart product documentation
+- **3**: Docs - directs the user to the 4biz product documentation
 
 - **4**: Access System - allows enter the system
 
@@ -92,6 +92,6 @@ Procedure
     approvals made by the user, observe news and active campaigns (questionnaires) about the organization.  
     
 !!! tip "About"  
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Larissa Lourenço  
    

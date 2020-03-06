@@ -4,10 +4,10 @@ Description:Relate group to contract
 
 # How to relate group to contract
 
-1.  Access the functionality CITSmart Parameters through the main menu.
-    Place the mouse on the option Parametrization and click on CITSmart
-    Parameters. It'll appear the screen of CITSmart Parameters, click on
-    the tab **CITSmart Parameters**, then click on the tab Search CITSmart
+1.  Access the functionality 4biz Parameters through the main menu.
+    Place the mouse on the option Parametrization and click on 4biz
+    Parameters. It'll appear the screen of 4biz Parameters, click on
+    the tab **4biz Parameters**, then click on the tab Search 4biz
     Parameters;
 
 2.  Search for the parameter "41 - Controls employee link to contracts
@@ -30,14 +30,14 @@ Description:Relate group to contract
 Related
 -------
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNemh0QXhtOXntvZ6G6o2B_)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/03/2019 – Anna Martins

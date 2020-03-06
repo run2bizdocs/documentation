@@ -21,7 +21,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 2. In the "Information" tab, complete the fields available;
 
-![information Experience Center CITSmart][1]
+![information Experience Center 4biz][1]
 
 **1: Change** – icon of Experience Center;
 
@@ -37,7 +37,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 3. On the Permissions tab, define the groups that will be able to view the Experience Center;
 
-![Permission Experience Center CITSmart][2]
+![Permission Experience Center 4biz][2]
 
 ### Construction
 
@@ -96,7 +96,7 @@ In the design area you can build the content that will be published in the Exper
 
 3. Click on save.
 
-- After selecting a layout, it's possible to choose CITSmart functions as Widgets (See Widgets table);
+- After selecting a layout, it's possible to choose 4biz functions as Widgets (See Widgets table);
 
 !!! note "NOTE"
 
@@ -120,7 +120,7 @@ In the design area you can build the content that will be published in the Exper
 
 **Cabeçalho fixo**
 
-![header Experience Center CITSmart][3]
+![header Experience Center 4biz][3]
 
  **1: Menu** – with it you can access other Experience Centers to which you have permission;
 
@@ -152,7 +152,7 @@ This structure allows the creation of an experience center using only widgets.
 |Spacer| General | Inserts space between one widget and another. |
 |Text| General | Inserts a text with several formats. |
 |List| General | Inserts the list of links. |
-|Menu| General | Allows to view the menu of CITSmart. |
+|Menu| General | Allows to view the menu of 4biz. |
 ||||
 |Knowledge center| Knowledge| Generates a button that directs to the Knowledge Center|
 |Knowledge| Knowledge| Allows to insert existing documents into the knowledge base|
@@ -163,7 +163,7 @@ This structure allows the creation of an experience center using only widgets.
 |My services | Requests| Allows to open a ticket through the Experience Center|
 |My tickets | Requests| Allows to view the list of tickets opened by the user logged|
 ||||
-|Simple | Simple Agile Management | Allows to view the workspaces of the functionality Simple |
+|Tasker | Tasker Agile Management | Allows to view the workspaces of the functionality Tasker |
 ||||
 |Smart Chat | Communication | Allows to enter a logo for this submenu |
 |Call | Communication | Allows to enter the logo for this submenu |
@@ -180,18 +180,18 @@ This structure allows the creation of an experience center using only widgets.
 
 ## Related
 
-[Register satisfaction survey](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Register satisfaction survey](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
-[Register a service](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Create knowledge](/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+[Create knowledge](/en-us/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPrJlfrg8kcSk7iorkZwCWq)'
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Larissa Lourenço
 
 [1]:images/creat-experience-center.png

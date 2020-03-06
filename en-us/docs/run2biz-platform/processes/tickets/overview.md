@@ -24,107 +24,107 @@ To deliver the service, it's necessary the orchestration of some processes:
 Use
 -------
 
-- [The desktop of Service Desk](/en-us/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
+- [The desktop of Service Desk](/en-us/4biz-helium/processes/tickets/use/desktop-of-service-desk.html)
 
-- [Create ticket](/en-us/citsmart-platform-8/processes/tickets/use/create-ticket.html)
+- [Create ticket](/en-us/4biz-helium/processes/tickets/use/create-ticket.html)
 
-- [Capture ticket](/en-us/citsmart-platform-8/processes/tickets/use/capture-ticket.html)
+- [Capture ticket](/en-us/4biz-helium/processes/tickets/use/capture-ticket.html)
 
-- [Schedule ticket activity](/en-us/citsmart-platform-8/processes/tickets/use/schedule-ticket-activity.html)
+- [Schedule ticket activity](/en-us/4biz-helium/processes/tickets/use/schedule-ticket-activity.html)
 
-- [Delegate ticket](/en-us/citsmart-platform-8/processes/tickets/use/delegate-ticket.html)
+- [Delegate ticket](/en-us/4biz-helium/processes/tickets/use/delegate-ticket.html)
 
-- [Direct the ticket](/en-us/citsmart-platform-8/processes/tickets/use/direct-the-ticket.html)
+- [Direct the ticket](/en-us/4biz-helium/processes/tickets/use/direct-the-ticket.html)
 
-- [Suspend ticket](/en-us/citsmart-platform-8/processes/tickets/use/suspend-ticket.html)
+- [Suspend ticket](/en-us/4biz-helium/processes/tickets/use/suspend-ticket.html)
 
-- [Suspend and reactivate multiple tickets](/en-us/citsmart-platform-8/processes/tickets/use/suspend-and-reactivate-tickets.html)
+- [Suspend and reactivate multiple tickets](/en-us/4biz-helium/processes/tickets/use/suspend-and-reactivate-tickets.html)
 
-- [Reactivate a ticket suspended](/en-us/citsmart-platform-8/processes/tickets/use/reactivate-a-ticket-suspended.html)
+- [Reactivate a ticket suspended](/en-us/4biz-helium/processes/tickets/use/reactivate-a-ticket-suspended.html)
 
-- [Link other functionalities to the ticket](/en-us/citsmart-platform-8/processes/tickets/use/link-other-functionalities-to-the-ticket.html)
+- [Link other functionalities to the ticket](/en-us/4biz-helium/processes/tickets/use/link-other-functionalities-to-the-ticket.html)
 
-- [Reopen ticket](/en-us/citsmart-platform-8/processes/tickets/use/reopen-ticket.html)
+- [Reopen ticket](/en-us/4biz-helium/processes/tickets/use/reopen-ticket.html)
 
-- [Cancel ticket](/en-us/citsmart-platform-8/processes/tickets/use/cancel-ticket.html)
+- [Cancel ticket](/en-us/4biz-helium/processes/tickets/use/cancel-ticket.html)
 
-- [Create and view sub-request](/en-us/citsmart-platform-8/processes/tickets/use/create-and-view-sub-request.html)
+- [Create and view sub-request](/en-us/4biz-helium/processes/tickets/use/create-and-view-sub-request.html)
 
-- [Reclassify ticket](/en-us/citsmart-platform-8/processes/tickets/use/reclassify-ticket.html)
+- [Reclassify ticket](/en-us/4biz-helium/processes/tickets/use/reclassify-ticket.html)
 
-- [Locate a ticket](/en-us/citsmart-platform-8/processes/tickets/use/locate-a-ticket.html)
+- [Locate a ticket](/en-us/4biz-helium/processes/tickets/use/locate-a-ticket.html)
 
-- [Search ticket in the advanced mode](/en-us/citsmart-platform-8/processes/tickets/use/search-ticket-in-the-advanced-mode.html)
+- [Search ticket in the advanced mode](/en-us/4biz-helium/processes/tickets/use/search-ticket-in-the-advanced-mode.html)
 
-- [Change SLA of a ticket](/en-us/citsmart-platform-8/processes/tickets/use/change-SLA-of-a-ticket.html)
+- [Change SLA of a ticket](/en-us/4biz-helium/processes/tickets/use/change-SLA-of-a-ticket.html)
 
-- [Approve a ticket](/en-us/citsmart-platform-8/processes/tickets/use/approve-a-ticket.html)
+- [Approve a ticket](/en-us/4biz-helium/processes/tickets/use/approve-a-ticket.html)
 
-- [Audit a ticket](/en-us/citsmart-platform-8/processes/tickets/use/audit-a-ticket.html)
+- [Audit a ticket](/en-us/4biz-helium/processes/tickets/use/audit-a-ticket.html)
 
-- [Validate and close the ticket](/en-us/citsmart-platform-8/processes/tickets/use/validate-ticket.html)
+- [Validate and close the ticket](/en-us/4biz-helium/processes/tickets/use/validate-ticket.html)
 
-- [Hierarchical escalation in the attendance](/en-us/citsmart-platform-8/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
+- [Hierarchical escalation in the attendance](/en-us/4biz-helium/processes/tickets/use/hierarchical-escalation-in-the-attendance.html)
 
-- [Add comments in the ticket execution](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-occurrences.html)
+- [Add comments in the ticket execution](/en-us/4biz-helium/processes/tickets/use/register-ticket-occurrences.html)
 
-- [Register ticket related](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-related.html)
+- [Register ticket related](/en-us/4biz-helium/processes/tickets/use/register-ticket-related.html)
 
-- [Register ticket via template](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-via-template.html)
+- [Register ticket via template](/en-us/4biz-helium/processes/tickets/use/register-ticket-via-template.html)
 
-- [Attend with remote support](/en-us/citsmart-platform-8/processes/tickets/use/attend-with-remote-support.html)
+- [Attend with remote support](/en-us/4biz-helium/processes/tickets/use/attend-with-remote-support.html)
 
-- [Print ticket](/en-us/citsmart-platform-8/processes/tickets/use/print-ticket.html)
+- [Print ticket](/en-us/4biz-helium/processes/tickets/use/print-ticket.html)
 
-- [Create escalation rule](/en-us/citsmart-platform-8/processes/tickets/use/create-escalation-rule.html)
+- [Create escalation rule](/en-us/4biz-helium/processes/tickets/use/create-escalation-rule.html)
 
-- [Manage team with Kanban](/en-us/citsmart-platform-8/processes/tickets/use/manage-a-ticket-with-Kanban.html)
+- [Manage team with Kanban](/en-us/4biz-helium/processes/tickets/use/manage-a-ticket-with-Kanban.html)
 
-- [Analyze event trends](/en-us/citsmart-platform-8/processes/tickets/use/analyze-event-trends.html)
+- [Analyze event trends](/en-us/4biz-helium/processes/tickets/use/analyze-event-trends.html)
 
-- [Register ticket source](/en-us/citsmart-platform-8/processes/tickets/use/register-ticket-source.html)
+- [Register ticket source](/en-us/4biz-helium/processes/tickets/use/register-ticket-source.html)
 
-- [Verify my tickets](/en-us/citsmart-platform-8/processes/tickets/use/verify-my-tickets.html)
+- [Verify my tickets](/en-us/4biz-helium/processes/tickets/use/verify-my-tickets.html)
 
 Configuration
 -----------------
 
-- [Configure approval request via email](/en-us/citsmart-platform-8/processes/tickets/configuration/approve-request-via-email.html)
+- [Configure approval request via email](/en-us/4biz-helium/processes/tickets/configuration/approve-request-via-email.html)
 
-- [Configure parametrization - ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+- [Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-- [How to relate group to contract](/en-us/citsmart-platform-8/processes/tickets/configuration/relate-group-to-contract.html)
+- [How to relate group to contract](/en-us/4biz-helium/processes/tickets/configuration/relate-group-to-contract.html)
 
-- [How to relate unit to the contract](/en-us/citsmart-platform-8/processes/tickets/configuration/relate-unit-to-contract.html)
+- [How to relate unit to the contract](/en-us/4biz-helium/processes/tickets/configuration/relate-unit-to-contract.html)
 
-- [Automatically create a ticket from the receiving of an email](/en-us/citsmart-platform-8/processes/tickets/configuration/create-ticket-receiving-email.html#automatically-create-a-ticket-from-the-receiving-of-an-email)
+- [Automatically create a ticket from the receiving of an email](/en-us/4biz-helium/processes/tickets/configuration/create-ticket-receiving-email.html#automatically-create-a-ticket-from-the-receiving-of-an-email)
 
-- [Notification through delegated email ticket](/en-us/citsmart-platform-8/processes/tickets/configuration/notification-delegated-email-ticket.html)
+- [Notification through delegated email ticket](/en-us/4biz-helium/processes/tickets/configuration/notification-delegated-email-ticket.html)
 
-- [How to create, and then, close the ticket](/en-us/citsmart-platform-8/processes/tickets/configuration/create-then-close-ticket.html)
+- [How to create, and then, close the ticket](/en-us/4biz-helium/processes/tickets/configuration/create-then-close-ticket.html)
 
-- [Register cause of incidents](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
+- [Register cause of incidents](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-cause-incidents.html)
 
-- [Register periodic activity group](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
+- [Register periodic activity group](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/periodic-activity-group.html)
 
-- [Register request justification](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-request-justification.html)
+- [Register request justification](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-request-justification.html)
 
-- [Register solution category](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-solution-category.html)
+- [Register solution category](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-solution-category.html)
 
-- [Configure access permission of request/incident management](/en-us/citsmart-platform-8/processes/tickets/configuration/access-ticket-management.html)
+- [Configure access permission of request/incident management](/en-us/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
 
-- [Create template of incident, request and procedure](/en-us/citsmart-platform-8/processes/tickets/configuration/create-template-of-ticket.html)
+- [Create template of incident, request and procedure](/en-us/4biz-helium/processes/tickets/configuration/create-template-of-ticket.html)
 
 Report
 ----------
 
-- [Analyze service request trends](/en-us/citsmart-platform-8/processes/tickets/use/analyse-service-request-trends.html)
+- [Analyze service request trends](/en-us/4biz-helium/processes/tickets/use/analyse-service-request-trends.html)
 
-- [Generate report through the panel of charts and reports - request and incident](/en-us/citsmart-platform-8/processes/tickets/use/generate-report-through-the-panel-of-charts.html)
+- [Generate report through the panel of charts and reports - request and incident](/en-us/4biz-helium/processes/tickets/use/generate-report-through-the-panel-of-charts.html)
 
-- [Generate reports -  request and incident management](/en-us/citsmart-platform-8/processes/tickets/use/generate-reports-tickets.html)
+- [Generate reports -  request and incident management](/en-us/4biz-helium/processes/tickets/use/generate-reports-tickets.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

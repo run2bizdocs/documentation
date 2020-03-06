@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?><br.com.centralit.citcorpore.bean.SmartReportDTO><identificacao>CONTABILIZACAO DE KM POR ANALISTA</identificacao><descricao>CONTABILIZAÇÃO DE KM POR ANALISTA</descricao><idCategoria>1</idCategoria><tipoConsulta>2</tipoConsulta><tipoRelatorio>7</tipoRelatorio><parametros>&lt;?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version='1.0' encoding='UTF-8'?><br.com.run2biz.citcorpore.bean.SmartReportDTO><identificacao>CONTABILIZACAO DE KM POR ANALISTA</identificacao><descricao>CONTABILIZAÇÃO DE KM POR ANALISTA</descricao><idCategoria>1</idCategoria><tipoConsulta>2</tipoConsulta><tipoRelatorio>7</tipoRelatorio><parametros>&lt;?xml version="1.0" encoding="ISO-8859-1" ?>
 &lt;PARAMETERS> 
  &lt;PARAM name='dataInicial' type='java.sql.Date' size='10' value='' description='citcorpore.comum.datainicio' fix='false' mandatory='false' />
 &lt;PARAM name='dataFinal' type='java.sql.Date' size='10'value='' description='citcorpore.comum.datafim' fix='false' mandatory='false' />
@@ -13,11 +13,11 @@
 importNames.importPackage(Packages.java.util);
 importNames.importPackage(Packages.java.lang);
 importNames.importPackage(Packages.java.lang.reflect);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.util);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.util);
 importNames.importPackage(Packages.br.com.citframework.util);
-importNames.importPackage(Packages.br.com.centralit.citajax.servlet);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.bean);
-importNames.importPackage(Packages.br.com.centralit.citcorpore.negocio);
+importNames.importPackage(Packages.br.com.run2biz.citajax.servlet);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.bean);
+importNames.importPackage(Packages.br.com.run2biz.citcorpore.negocio);
 
 var fUsers = function() {
     var sql = new importNames.StringBuilder();
@@ -152,4 +152,4 @@ html.append("&lt;/table>");
 html.append("&lt;/div>");
 
 HTML_RESULT.append(html);
-</script><jsp></jsp><template></template><tipoExibicao>N</tipoExibicao></br.com.centralit.citcorpore.bean.SmartReportDTO>
+</script><jsp></jsp><template></template><tipoExibicao>N</tipoExibicao></br.com.run2biz.citcorpore.bean.SmartReportDTO>

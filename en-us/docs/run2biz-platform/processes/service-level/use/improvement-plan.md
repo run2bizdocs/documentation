@@ -31,14 +31,14 @@ Procedure
 Related
 -----------
 
-[Register provider](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-provider.html)
+[Register provider](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-provider.html)
 
-[Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNz3E16sjg5mfdugX2Ia9jZ)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Larissa Lourenço
 

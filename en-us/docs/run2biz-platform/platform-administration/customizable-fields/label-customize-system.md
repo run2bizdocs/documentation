@@ -2,7 +2,7 @@ title: Customize Labels
 Description: Intended to change the names of labels within ITSM, allowing a greater customization of it. It's necessary that the user have knowledge about programming. 
 # Customize Labels
 
-This functionality is intended to change the names of labels within CITSmart Platform,
+This functionality is intended to change the names of labels within 4biz Platform,
 allowing a greater customization of it. It's necessary that the user have
 knowledge about programming.
 
@@ -24,6 +24,6 @@ to verification.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Anna Martins
 

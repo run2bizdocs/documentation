@@ -44,14 +44,14 @@ Procedure
 Related
 -----------
 
-[Register operating condition](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
+[Register operating condition](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-operating-condition.html)
 
-[Register a client](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/configuration/register-client.html)
+[Register a client](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-client.html)
 
-[Register currency](/en-us/citsmart-platform-8/additional-features/contract-management/configuration/register-currency.html)
+[Register currency](/en-us/4biz-helium/additional-features/contract-management/configuration/register-currency.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 

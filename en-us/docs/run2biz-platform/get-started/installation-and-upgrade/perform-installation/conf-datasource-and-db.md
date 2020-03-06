@@ -14,7 +14,7 @@ method, we recommend looking in the database manufacturer's documentation of you
 differs from our documentation.
 
 The PostgreSQL JDBC driver download can be found at https://jdbc.postgresql.org at the downloads 
-link. The driver version used by CITSmart is 4.1 build 9.3 Build 1104.
+link. The driver version used by 4biz is 4.1 build 9.3 Build 1104.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [root@server /tmp]# wget https://jdbc.postgresql.org/download/postgresql-9.3-1104.jdbc41.jar
@@ -36,11 +36,11 @@ Continue to the CLI and run the command below to add a datasource:
 [standalone@localhost:9990 /] /subsystem=datasources/jdbc-driver=postgres:add(driver-name="postgres",driver-module-name="org.postgres",driver-xa-datasource-class-name=org.postgresql.xa.PGXADataSource
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Creating the CITSmart database
+Creating the 4biz database
 ------------------------------------
 
 Regardless of the database architecture (whether installed on the same server or separately) the 
-steps below are for creating a database and user for CITSmart. In the procedure we assume that 
+steps below are for creating a database and user for 4biz. In the procedure we assume that 
 you have access to the DBMS. Access PostgreSQL with the command below:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,27 +53,27 @@ Type "help" for help.
 postgres=#
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Create a password and user to get access to the CITSmart base (replace YOUR_PASSWORD with a 
+Create a password and user to get access to the 4biz base (replace YOUR_PASSWORD with a 
 preferred password):
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-postgres=# create user citsmartdbuser with password 'YOUR_PASSWORD';
+postgres=# create user 4bizdbuser with password 'YOUR_PASSWORD';
 CREATE ROLE
 postgres=#
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Create a database to the CITSmart:
+Create a database to the 4biz:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-postgres=# create database citsmart_db with owner citsmartdbuser encoding 'UTF8' tablespace pg_default;
+postgres=# create database 4biz_db with owner 4bizdbuser encoding 'UTF8' tablespace pg_default;
 CREATE DATABASE
 postgres=#
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Give permission to the CITSmart user:
+Give permission to the 4biz user:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-postgres=# alter role citsmartdbuser superuser;
+postgres=# alter role 4bizdbuser superuser;
 ALTER ROLE
 postgres=#
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,7 +88,7 @@ exit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If the base is running on the same server, it's necessary to release the connection to the 
-CITSmart user. Edit the file
+4biz user. Edit the file
 `/var/lib/pgsql/9.6/data/pg_hba.conf` and include the following line:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,108 +108,108 @@ Wildfly. To do this, add the following line in the same pg_hba.conf file, replac
 Wildfly server IP address:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-host citsmart_db citsmartdbuser WILDFLY_IP_ADDRESS/32 md5
+host 4biz_db 4bizdbuser WILDFLY_IP_ADDRESS/32 md5
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Configuring the datasource to CITSmart
+Configuring the datasource to 4biz
 -----------------------------------------
 
-There are eight datasource entries for citsmart_db, four for CITSmart and four for CITSmart 
-Neuro. The user and password is citsmartdbuser and YOUR_PASSWORD created in the previous step. 
+There are eight datasource entries for 4biz_db, four for 4biz and four for 4biz 
+Builder. The user and password is 4bizdbuser and YOUR_PASSWORD created in the previous step. 
 If you have created a different user, password, and database, change it in the commands below.
 
 Conect in the jboss-cli and run the following commands:
 
-### Datasource citsmart
+### Datasource 4biz
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/jdbc/citsmart":add(jndi-name="java:/jdbc/citsmart",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=blocking-timeout-wait-millis,value=60000)
-/subsystem=datasources/data-source="/jdbc/citsmart":write-attribute(name=idle-timeout-minutes,value=5)
+/subsystem=datasources/data-source="/jdbc/4biz":add(jndi-name="java:/jdbc/4biz",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/jdbc/4biz":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/jdbc/4biz":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/jdbc/4biz":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/jdbc/4biz":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/jdbc/4biz":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/jdbc/4biz":write-attribute(name=idle-timeout-minutes,value=5)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasource citsmartFlow
+### Datasource 4bizFlow
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":add(jndi-name="java:/jdbc/citsmartFluxo",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=blocking-timeout-wait-millis,value=60000)
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":write-attribute(name=idle-timeout-minutes,value=5)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":add(jndi-name="java:/jdbc/4bizFluxo",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":write-attribute(name=idle-timeout-minutes,value=5)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasourece citsmart_reports
+### Datasourece 4biz_reports
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":add(jndi-name="java:/jdbc/citsmart_reports",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=blocking-timeout-wait-millis,value=60000)
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":write-attribute(name=idle-timeout-minutes,value=5)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":add(jndi-name="java:/jdbc/4biz_reports",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/jdbc/4biz_reports":write-attribute(name=idle-timeout-minutes,value=5)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasource citsmartBpmEventos
+### Datasource 4bizBpmEventos
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":add(jndi-name="java:/jdbc/citsmartBpmEventos",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=blocking-timeout-wait-millis,value=60000)
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":write-attribute(name=idle-timeout-minutes,value=5
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":add(jndi-name="java:/jdbc/4bizBpmEventos",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":write-attribute(name=idle-timeout-minutes,value=5
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasource citsmart-neuro
+### Datasource 4biz-Builder
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro":add(jndi-name="java:/env/jdbc/citsmart-neuro",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)#
+/subsystem=datasources/data-source="/env/jdbc/4biz-Builder":add(jndi-name="java:/env/jdbc/4biz-Builder",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)#
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasource citsmart-neuro-app1
+### Datasource 4biz-Builder-app1
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app1":add(jndi-name="java:/env/jdbc/citsmart-neuro-app1",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/env/jdbc/4biz-Builder-app1":add(jndi-name="java:/env/jdbc/4biz-Builder-app1",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasource citsmart-neuro-app2
+### Datasource 4biz-Builder-app2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app2":add(jndi-name="java:/env/jdbc/citsmart-neuro-app2",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/env/jdbc/4biz-Builder-app2":add(jndi-name="java:/env/jdbc/4biz-Builder-app2",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Datasource citsmart-neuro-app3
+### Datasource 4biz-Builder-app3
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/env/jdbc/citsmart-neuro-app3":add(jndi-name="java:/env/jdbc/citsmart-neuro-app3",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.citsmart.com:5432/citsmart_db",user-name="citsmartdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=min-pool-size,value=10)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=max-pool-size,value=300)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=pool-prefill,value=true)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
-/subsystem=datasources/data-source="/env\/jdbc\/citsmart-neuro":write-attribute(name=blocking-timeout-wait-millis,value=60000)
+/subsystem=datasources/data-source="/env/jdbc/4biz-Builder-app3":add(jndi-name="java:/env/jdbc/4biz-Builder-app3",driver-name="postgres",connection-url="jdbc:postgresql://pgdata.4biz.com:5432/4biz_db",user-name="4bizdbuser",password="exemplo123",driver-class="org.postgresql.Driver", enabled=true, use-java-context=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=min-pool-size,value=10)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=max-pool-size,value=300)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=pool-prefill,value=true)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=flush-strategy,value=FailingConnectionOnly)
+/subsystem=datasources/data-source="/env\/jdbc\/4biz-Builder":write-attribute(name=blocking-timeout-wait-millis,value=60000)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before leaving the jboss-cli, run the reload command to apply the changes and test the database 
@@ -223,18 +223,18 @@ And make a connection test with all bases with the commands below. Remember that
 the result has to be `"outcome" => "success"`:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/subsystem=datasources/data-source="/jdbc/citsmart":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmartFluxo":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart_reports":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmartBpmEventos":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app1":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app2":test-connection-in-pool
-/subsystem=datasources/data-source="/jdbc/citsmart-neuro-app3":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4biz":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4bizFluxo":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4biz_reports":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4bizBpmEventos":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4biz-Builder":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4biz-Builder-app1":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4biz-Builder-app2":test-connection-in-pool
+/subsystem=datasources/data-source="/jdbc/4biz-Builder-app3":test-connection-in-pool
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Next step
 -------------
 
 [Configuring the
-Wildfly](/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/conf-wildfly.html)
+Wildfly](/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation/conf-wildfly.html)

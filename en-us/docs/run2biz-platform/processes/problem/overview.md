@@ -17,35 +17,35 @@ the root cause of the problems and initiate the action that will eliminate the e
 Usage
 ----------------
 
--   [Register problem](/en-us/citsmart-platform-8/processes/problem/use/register-problem.html)
+-   [Register problem](/en-us/4biz-helium/processes/problem/use/register-problem.html)
 
--   [Register problem occurence](/en-us/citsmart-platform-8/processes/problem/use/problem-occurrences.html)
+-   [Register problem occurence](/en-us/4biz-helium/processes/problem/use/problem-occurrences.html)
 
--   [Problem advanced search](/en-us/citsmart-platform-8/processes/problem/use/advanced-search-for-problem.html)
+-   [Problem advanced search](/en-us/4biz-helium/processes/problem/use/advanced-search-for-problem.html)
 
--   [Execute problem](/en-us/citsmart-platform-8/processes/problem/use/problem-execution.html)
+-   [Execute problem](/en-us/4biz-helium/processes/problem/use/problem-execution.html)
 
--   [Relate information to the problem](/en-us/citsmart-platform-8/processes/problem/use/relate-information-to-problem.html)
+-   [Relate information to the problem](/en-us/4biz-helium/processes/problem/use/relate-information-to-problem.html)
 
--   [Schedule problems activities](/en-us/citsmart-platform-8/processes/problem/use/schedule-problem-activities.html)
+-   [Schedule problems activities](/en-us/4biz-helium/processes/problem/use/schedule-problem-activities.html)
 
--   [Suspend problem](/en-us/citsmart-platform-8/processes/problem/use/suspend-problem.html)
+-   [Suspend problem](/en-us/4biz-helium/processes/problem/use/suspend-problem.html)
 
--   [Cancel problem](/en-us/citsmart-platform-8/processes/problem/use/cancel-problem.html)
+-   [Cancel problem](/en-us/4biz-helium/processes/problem/use/cancel-problem.html)
 
 Configuration
 ----------------
 
--   [Register problem justification](/en-us/citsmart-platform-8/processes/problem/configuration/problem-justification.html)
+-   [Register problem justification](/en-us/4biz-helium/processes/problem/configuration/problem-justification.html)
 
--   [Create portfolio of problem](/en-us/citsmart-platform-8/processes/problem/configuration/problem-portfolio.html)
+-   [Create portfolio of problem](/en-us/4biz-helium/processes/problem/configuration/problem-portfolio.html)
 
 Report
 ------
 
--   [Create reports – Problem management](/en-us/citsmart-platform-8/processes/problem/use/generate-reports-problem-management.html)
+-   [Create reports – Problem management](/en-us/4biz-helium/processes/problem/use/generate-reports-problem-management.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/31/2019 – Larissa Lourenço

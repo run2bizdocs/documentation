@@ -5,7 +5,7 @@ Title: System requirements
 
 ## Application Server
 
-CITSmart runs on the Wildfly version 12 application server. The minimum system requirements required for the application server are:
+4biz runs on the Wildfly version 12 application server. The minimum system requirements required for the application server are:
 
 | Resource | Value   |
 |---------|---------|
@@ -15,7 +15,7 @@ CITSmart runs on the Wildfly version 12 application server. The minimum system r
 
 ## Relational Database Server
 
-CITSmart is compatible with PostgreSQL, Oracle, and Microsoft SQL Server databases. If you already have an enterprise database management system, it can be used to host the CITSmart database. If you do not have and you want to install a new SGDB only for the application, we recommend using PostgreSQL 9.2 or later, with the following configurations:
+4biz is compatible with PostgreSQL, Oracle, and Microsoft SQL Server databases. If you already have an enterprise database management system, it can be used to host the 4biz database. If you do not have and you want to install a new SGDB only for the application, we recommend using PostgreSQL 9.2 or later, with the following configurations:
 
 | Resource | Value   |
 |---------|---------|
@@ -44,11 +44,11 @@ For installation of Apache SOLR, we recommend the following configurations:
 | **Disk**   | 80 GB   |
 
 !!! tip
-     The **SOLR** and **MongoDB** services can be installed on the same server as the CITSmart application. We recommend for production environments that you separate the database server from the application server.
+     The **SOLR** and **MongoDB** services can be installed on the same server as the 4biz application. We recommend for production environments that you separate the database server from the application server.
 
 	 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

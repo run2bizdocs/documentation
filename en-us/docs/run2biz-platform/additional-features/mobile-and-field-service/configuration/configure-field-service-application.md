@@ -1,9 +1,9 @@
-title: Configure instance to use CITSmart GO application
+title: Configure instance to use 4biz GO application
 Description: The application makes possible make attendance in offline mode - in which the attendant does not have an internet.
-# Configure instance to use CITSmart GO application
+# Configure instance to use 4biz GO application
 
 
-The CITSmart GO application makes possible make attendance in offline mode - in
+The 4biz GO application makes possible make attendance in offline mode - in
 which the attendant does not have an internet. After the application connects to
 the internet, the application will automatically send the information to the
 production environment. Remember that the delegation of the request to an
@@ -14,9 +14,9 @@ The attendant will only see requests that have been delegated to he/she.
 Before getting started
 --------------------------
 
-1.  Install the application CITSmart GO;
+1.  Install the application 4biz GO;
 
-2.  In the environment - CITSmart instance - , configure the following
+2.  In the environment - 4biz instance - , configure the following
     functionalities:
 
     * Webservice: indicate in the item "permissions" the attendance groups that
@@ -75,16 +75,16 @@ Procedure
 What to do next
 -------------------
 
-Log the CITSmart GO application already installed, entering the URL, user and
+Log the 4biz GO application already installed, entering the URL, user and
 environment password. Verify the ticket and make the attendance.
 
 Related
 -------
 
-[CITSmart GO application manual](/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[4biz GO application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins

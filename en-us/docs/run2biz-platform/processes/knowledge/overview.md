@@ -13,45 +13,45 @@ the use and operation of the product.
 Use
 -------
 
-- [Create knowledge](/en-us/citsmart-platform-8/processes/knowledge/use/create-knowledge.html)
+- [Create knowledge](/en-us/4biz-helium/processes/knowledge/use/create-knowledge.html)
 
-- [Create experience center](/en-us/citsmart-platform-8/processes/knowledge/use/create-experience-center.html)
+- [Create experience center](/en-us/4biz-helium/processes/knowledge/use/create-experience-center.html)
 
-- [Knowledge Portal](/en-us/citsmart-platform-8/processes/knowledge/use/knowledge-portal.html)
+- [Knowledge Portal](/en-us/4biz-helium/processes/knowledge/use/knowledge-portal.html)
 
-- [Display and search for the tags in the knowledge portal](/en-us/citsmart-platform-8/processes/knowledge/use/display-tags-on-knowledge-portal.html)
+- [Display and search for the tags in the knowledge portal](/en-us/4biz-helium/processes/knowledge/use/display-tags-on-knowledge-portal.html)
 
-- [Review comments in Knowledge Portal](/en-us/citsmart-platform-8/processes/knowledge/use/review-reviews.html)
+- [Review comments in Knowledge Portal](/en-us/4biz-helium/processes/knowledge/use/review-reviews.html)
 
 Configuration
 -----------------
 
-- [Create folder](/en-us/citsmart-platform-8/processes/knowledge/configuration/create-folder.html)
+- [Create folder](/en-us/4biz-helium/processes/knowledge/configuration/create-folder.html)
 
-- [Configure external access to the knowledge portal](/en-us/citsmart-platform-8/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
+- [Configure external access to the knowledge portal](/en-us/4biz-helium/processes/knowledge/configuration/configure-external-access-knowledge-portal.html)
 
-- [Index knowledge](/en-us/citsmart-platform-8/processes/knowledge/configuration/index-knowledge.html)
+- [Index knowledge](/en-us/4biz-helium/processes/knowledge/configuration/index-knowledge.html)
 
-- [Notify responsible for the knowledge expiration](/en-us/citsmart-platform-8/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
+- [Notify responsible for the knowledge expiration](/en-us/4biz-helium/processes/knowledge/configuration/notify-responsible-knowledge-expiration.html)
 
-- [Register Image Category](/en-us/citsmart-platform-8/processes/knowledge/configuration/register-image-category.html)
+- [Register Image Category](/en-us/4biz-helium/processes/knowledge/configuration/register-image-category.html)
 
-- [Store images in the gallery](/en-us/citsmart-platform-8/processes/knowledge/configuration/store-images-gallery.html)
+- [Store images in the gallery](/en-us/4biz-helium/processes/knowledge/configuration/store-images-gallery.html)
 
-- [Refine search in Knowledge Portal](/en-us/citsmart-platform-8/processes/knowledge/configuration/refine-search-knowledge-portal.html)
+- [Refine search in Knowledge Portal](/en-us/4biz-helium/processes/knowledge/configuration/refine-search-knowledge-portal.html)
 
-- [Register synonym](/en-us/citsmart-platform-8/processes/knowledge/configuration/register-synonym.html)
+- [Register synonym](/en-us/4biz-helium/processes/knowledge/configuration/register-synonym.html)
 
-- [Register subject](/en-us/citsmart-platform-8/processes/knowledge/configuration/register-subject.html)
+- [Register subject](/en-us/4biz-helium/processes/knowledge/configuration/register-subject.html)
 
-- [Configure parametrization - knowledge](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-knowledge.html)
+- [Configure parametrization - knowledge](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-knowledge.html)
 
 Reports
 -----------
 
-- [Generate reports - knowledge management](/en-us/citsmart-platform-8/processes/knowledge/use/generate-reports-knowledge-management.html)
+- [Generate reports - knowledge management](/en-us/4biz-helium/processes/knowledge/use/generate-reports-knowledge-management.html)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/14/2019 – Larissa Lourenço

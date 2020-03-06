@@ -41,7 +41,7 @@ scheduled task.
     (see Batch Processing), of "Java Class" type with the following content:
     
 ```java
- br.com.centralit.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
+ br.com.run2biz.citcorpore.quartz.job.JobConfiguracaoAberturaAutomaticaViaEmail
 ```    
 
 
@@ -60,19 +60,19 @@ var importNames = JavaImporter(); importNames.importPackage(Packages.br.com.citf
 Related
 -------
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Register automatic actions of incident/request/procedure](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
-[Create automatic action via email](/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
+[Create automatic action via email](/en-us/4biz-helium/platform-administration/configuring-automatic-actions/email-create-automatic-action-via-email.html)
 
-[Batch Processing](/en-us/citsmart-platform-8/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
+[Batch Processing](/en-us/4biz-helium/platform-administration/configuring-automatic-actions/batch-batch-processing.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RN9wA1DbVHEot2QD2gW8_jq)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/17/2019 – Anna Martins
 
-[1]:/en-us/citsmart-platform-8/processes/tickets/images/rotina-verificar-email.docx
+[1]:/en-us/4biz-helium/processes/tickets/images/rotina-verificar-email.docx
 
-[2]:/en-us/citsmart-platform-8/processes/tickets/images/script-rhino-dados-email.rtf
+[2]:/en-us/4biz-helium/processes/tickets/images/script-rhino-dados-email.rtf

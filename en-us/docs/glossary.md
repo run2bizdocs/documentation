@@ -1,5 +1,5 @@
 Title: Glossary
-Description: Glossary CITsmart
+Description: Glossary 4biz
 
 # Glossary
 

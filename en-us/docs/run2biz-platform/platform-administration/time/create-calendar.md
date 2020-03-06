@@ -36,7 +36,7 @@ Procedure
 Related
 -----------
 
-[Creating access profile](/en-us/citsmart-platform-8/initial-settings/access-settings/profile/create-profile-access.html)
+[Creating access profile](/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html)
 
-[Registering working day](/en-us/citsmart-platform-8/platform-administration/time/create-working-day.html)
+[Registering working day](/en-us/4biz-helium/platform-administration/time/create-working-day.html)
 

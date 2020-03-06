@@ -18,14 +18,14 @@ To perform the indexing, it is necessary to first [configure your instance][1] w
 
 ## Related
 
-[Manage content indexing](/en-us/citsmart-platform-8/platform-administration/data-indexing/configuration.html)
+[Manage content indexing](/en-us/4biz-helium/platform-administration/data-indexing/configuration.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROOaL7DsS86sLx4ilNgruEc)
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>25/06/2019 – Anna Martins
 
-[1]:/en-us/citsmart-platform-8/platform-administration/data-indexing/configuration.html
+[1]:/en-us/4biz-helium/platform-administration/data-indexing/configuration.html

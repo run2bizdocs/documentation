@@ -1,8 +1,8 @@
-title: Configuring messaging within CITSmart
+title: Configuring messaging within 4biz
 Description: It provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email).
-# Configuring messaging within CITSmart
+# Configuring messaging within 4biz
 
-CITSmart provides a communication channel between the requester (Smart Portal)
+4biz provides a communication channel between the requester (Smart Portal)
 and the technician (service/ticket request area) through message (email). This
 communication aims to facilitate the resolution of a ticket. This knowledge
 gathers information pertinent to the configuration of the messaging service.
@@ -16,7 +16,7 @@ It is necessary to configure the email account (SMTP) beforehand (check related 
 Procedure
 -------------
 
-1.  In order for the messaging service to be available within CITSmart, it is
+1.  In order for the messaging service to be available within 4biz, it is
     necessary to set the parameter 417 with the ID number of the email template
     that has some variables to be sent to the messaging;
 
@@ -38,18 +38,18 @@ Procedure
 Related
 -------
 
-[Configure email account](/en-us/citsmart-platform-8/platform-administration/email-settings/configuration.html)
+[Configure email account](/en-us/4biz-helium/platform-administration/email-settings/configuration.html)
 
-[The desktop of Service Desk](/en-us/citsmart-platform-8/processes/tickets/use/desktop-of-service-desk.html)
+[The desktop of Service Desk](/en-us/4biz-helium/processes/tickets/use/desktop-of-service-desk.html)
 
-[Configure parametrization – ticket](/en-us/citsmart-platform-8/platform-administration/parameters-list/configure-parametrization-ticket.html)
+[Configure parametrization – ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[Configure email template](/en-us/citsmart-platform-8/platform-administration/email-settings/email-templates-configure-email-template.html)
+[Configure email template](/en-us/4biz-helium/platform-administration/email-settings/email-templates-configure-email-template.html)
 
-[Manage my requests through Smart Portal](/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
+[Manage my requests through Smart Portal](/en-us/4biz-helium/processes/portfolio-and-catalog/use/request-through-Smart-Portal.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

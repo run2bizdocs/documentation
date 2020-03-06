@@ -52,4 +52,4 @@ Area for the maintenance of an Experience Center.
 
     Export can be done in the Experience Center creation area or by editing an existing Experience Center.
 
-[1]:/en-us/citsmart-platform-8/additional-features/service-portals/experience-center/create-experience-center.html
+[1]:/en-us/4biz-helium/additional-features/service-portals/experience-center/create-experience-center.html

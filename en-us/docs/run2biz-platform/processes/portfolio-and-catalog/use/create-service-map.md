@@ -23,12 +23,12 @@ Procedure
 Related
 ---------------
 
-[Register Service](https://docs.citsmart.com/en-us/citsmart-platform-8/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register Service](https://docs.4biz.com/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNuLck4D45CohnoacGmsTys)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Created:</b>01/16/2019 – André L. Fernandes
 

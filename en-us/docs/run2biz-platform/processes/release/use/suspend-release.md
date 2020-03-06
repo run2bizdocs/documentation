@@ -32,16 +32,16 @@ list.
 Related
 -----------
 
-[Register group](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Register release justification](/en-us/citsmart-platform-8/processes/release/use/release-justification.html)
+[Register release justification](/en-us/4biz-helium/processes/release/use/release-justification.html)
 
-[Register release](/en-us/citsmart-platform-8/processes/release/use/register-release-request.html)
+[Register release](/en-us/4biz-helium/processes/release/use/register-release-request.html)
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RMA1W1Js4-lPEDUDUJJ_rUa)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/09/2019 – Larissa Lourenço
 

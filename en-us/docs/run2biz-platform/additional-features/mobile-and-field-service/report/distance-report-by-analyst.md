@@ -1,17 +1,17 @@
 title: Distance report by analyst
-Description: It presents the settings to view the report that demonstrates the mileage (kilometers) traveled by the attendance analyst using the CITSmart Experience app.
+Description: It presents the settings to view the report that demonstrates the mileage (kilometers) traveled by the attendance analyst using the 4biz Experience app.
 # Distance report by analyst
 
 This document is intended to present the configuration to view the report that presents
-the mileage (kilometers) traveled by the attendance analyst that is using the CITSMart Experience app.
+the mileage (kilometers) traveled by the attendance analyst that is using the 4biz Experience app.
 
 Before getting started
 ----------------
 
 To view the report, it's necessary to import the report available in the section Attachment.
 
-In the CITSmart Experience mobile app, the user will set the flag "Available"
-(APP CITSMART \> Home page \> [Connection] \> Edit \> Available ) to start
+In the 4biz Experience mobile app, the user will set the flag "Available"
+(APP 4biz \> Home page \> [Connection] \> Edit \> Available ) to start
 the km counting.
 
 At the end of the attendance, the user shoud disable the flag "Available", so the system counts
@@ -52,8 +52,8 @@ Attachment
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>1/30/2019 – Anna Martins
     
     
-  [1]:/en-us/citsmart-platform-8/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport
+  [1]:/en-us/4biz-helium/additional-features/mobile-and-field-service/report/images/km-por-analista.citreport

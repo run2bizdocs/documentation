@@ -1,18 +1,18 @@
-Title: Simple Agile Management
+Title: Tasker Agile Management
 
-# Simple Agile Management
+# Tasker Agile Management
 
 
-CITSmart Simple is a functionality of the CITSmart that allows the easy and agile
+4biz Tasker is a functionality of the 4biz that allows the easy and agile
 management of activities. It was created to manage projects in the simplest way,
 with resources to organize, monitor and delegate the activities among the members
 of your team or individually.
 
-Simple is based on the Kanban methodology, it's visually organized in a framework
+Tasker is based on the Kanban methodology, it's visually organized in a framework
 with cards that indicate the flow progress.
 
-In the Simple workspace, activities are inserted and grouped by projects
-(in Simple called Workspace), task pane (in Simple called Sprint) and finally
+In the Tasker workspace, activities are inserted and grouped by projects
+(in Tasker called Workspace), task pane (in Tasker called Sprint) and finally
 tasks, which can be in groups of cards.
     
 !!! warning "ATTENTION"
@@ -26,11 +26,11 @@ Procedure
 ### Creating Workspace
 
 1.  Access the main menu Inegrated Management \>
-    Simple – Agile Management;
+    Tasker – Agile Management;
 
 2.  Click on “Workspace” and give a name to create the new Workspace;
 
-    ![sprint screen](images/figure-01-simple.png) 
+    ![sprint screen](images/figure-01-tasker.png) 
 
     Figure 1 - Workspace Screen
 
@@ -133,7 +133,7 @@ Procedure
 
 2.  To create a new list, click on "+List”, name it and "Save”.
 
-    ![list screen](images/figure-2-simple.png)
+    ![list screen](images/figure-2-tasker.png)
     
     Figure 2 - List screen
 
@@ -156,7 +156,7 @@ Procedure
 
 ### Creating tasks
 
-   ![task screen](images/figure-3-simple.png)
+   ![task screen](images/figure-3-tasker.png)
     
    Figure 3 - Task screen
 
@@ -171,15 +171,15 @@ Procedure
 
     To move a **task** from a list to another, click and drag it to a list.
 
-### Complete Simple card
+### Complete Tasker card
 
-The Simple card has fields and buttons to describe a task/action with planning
+The Tasker card has fields and buttons to describe a task/action with planning
 and control of dates, time, checklist and several others device of control
 and management.
 
 1.  Each card has devices of control and information:
 
-     ![card screen](images/figure-4-simple.png)
+     ![card screen](images/figure-4-tasker.png)
     
       Figure 4 - Card screen
 
@@ -196,7 +196,7 @@ and management.
     -   **5**: add tags to visually identify the task card
 
     -   **6**: click to be notified of any changes in this task. This notification will be
-        done through the notification button of the CITSmart
+        done through the notification button of the 4biz
 
     -   **7**: indicate the completion of the task
 
@@ -240,6 +240,6 @@ and management.
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/13/2019 – Anna Martins
 

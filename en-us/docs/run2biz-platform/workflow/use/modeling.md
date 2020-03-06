@@ -6,7 +6,7 @@ The workflow modeling comprises the activities of understanding and designing th
 
 The flow functionality was built bringing elements, which by their very essence, are similar to BPMN notation, this facilitates the construction and understanding of the flows. In addition, you can import projects in BPMN standard.
 
-This feature is a good alternative for creating workflows in the standard BPMN ([Business Process Model and Notation][1]) directly from your CITSmart instance. In addition, it's possible to export them or even imports a flow built in another tool.
+This feature is a good alternative for creating workflows in the standard BPMN ([Business Process Model and Notation][1]) directly from your 4biz instance. In addition, it's possible to export them or even imports a flow built in another tool.
 
 ## Procedure
 
@@ -25,6 +25,6 @@ This feature is a good alternative for creating workflows in the standard BPMN (
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/22/2019 - João Pelles  
 	

@@ -7,7 +7,7 @@ This feature allows the configuration of an audible alarm to signal to the atten
 
 ## Before getting started
 
-* [x] Have at least one workflow defined in your CITSmart environment;
+* [x] Have at least one workflow defined in your 4biz environment;
 * [x] It is essential to have the minimum conditions for audio playback on your computer;
 
 ## Procedure
@@ -43,6 +43,6 @@ Done, from now on it will be possible to identify new tickets by the sound notif
 [Create workflow][2]
 
 
-[1]:/en-us/citsmart-platform-8/additional-features/communication-and-notification/notification/configuration/template-create.html
+[1]:/en-us/4biz-helium/additional-features/communication-and-notification/notification/configuration/template-create.html
 
-[2]:/en-us/citsmart-platform-8/workflow/use/create-flow.html
+[2]:/en-us/4biz-helium/workflow/use/create-flow.html

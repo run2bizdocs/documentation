@@ -2,7 +2,7 @@ Title: Installing MongoDB
 
 # Installing MongoDB
 
-MongoDB can be installed via the yum repository available at https://repo.mongodb.org/. The CITSmart approved version is 3.4. Assuming the server is CentOS version 7, create a file in `/ etc / yum.repos.d /` called mongo.repo, and include the content below. Remember to exchange `baseurl` for the URL according to your operating system version. In the example below the repository chosen was for a CentOS 7:
+MongoDB can be installed via the yum repository available at https://repo.mongodb.org/. The 4biz approved version is 3.4. Assuming the server is CentOS version 7, create a file in `/ etc / yum.repos.d /` called mongo.repo, and include the content below. Remember to exchange `baseurl` for the URL according to your operating system version. In the example below the repository chosen was for a CentOS 7:
 
 ``` shell
 [mongodb-org-3.4]
@@ -93,7 +93,7 @@ Restart the mongo services:
 ``` shell
 [root@server /tmp]# systemctl restart mongod
 ```
-Connect the to mongodb to create CITSmart database and set admin password:
+Connect the to mongodb to create 4biz database and set admin password:
 ``` shell
 [root@server /tmp]# mongo
 MongoDB shell version v3.4.23
@@ -112,7 +112,7 @@ user: "admin",
 pwd: "yourpassword",
 roles:[
 { role: "root", db: "admin" },
-{ role: "dbOwner", db: "citsmart" }
+{ role: "dbOwner", db: "4biz" }
 ]
 })
 Successfully added user: {
@@ -124,7 +124,7 @@ Successfully added user: {
                 },
                 {
                         "role" : "dbOwner",
-                        "db" : "citsmart"
+                        "db" : "4biz"
                 }
         ]
 }
@@ -133,6 +133,6 @@ Successfully added user: {
 
 ## Next step
 
-[Deploying CITSmart][1]
+[Deploying 4biz][1]
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/perform-installation/deploy-citsmart.html
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/perform-installation/deploy-4biz.html

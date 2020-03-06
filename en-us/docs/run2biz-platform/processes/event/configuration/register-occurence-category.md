@@ -5,7 +5,7 @@ Description: Provides a variety of actions, such as including, changing, and del
 This feature provides a variety of actions, such as including, changing, and
 deleting the occurrence category, that is, through it, it is possible to group
 occurrences of events of the same type. This registration will be associated
-with each item in the CITSmart Inventory, Nagios, or Zabbix event manager
+with each item in the 4biz Inventory, Nagios, or Zabbix event manager
 registry.
 
 Procedure
@@ -26,5 +26,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins

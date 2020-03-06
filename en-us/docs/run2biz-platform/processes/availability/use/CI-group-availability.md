@@ -34,22 +34,22 @@ Procedure
 Related
 -----------
 
-   [Register a contract](/en-us/citsmart-platform-8/additional-features/contract-management/use/register-contract.html)
+   [Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-   [Register configuration item](/en-us/citsmart-platform-8/processes/configuration/use/register-CI.html)
+   [Register configuration item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
 
-   [Create calendar](/en-us/citsmart-platform-8/platform-administration/time/create-calendar.html) 
+   [Create calendar](/en-us/4biz-helium/platform-administration/time/create-calendar.html) 
 
-   [Service level agreement](/en-us/citsmart-platform-8/processes/service-level/use/service-level-agreement.html)
+   [Service level agreement](/en-us/4biz-helium/processes/service-level/use/service-level-agreement.html)
 
-  [Register configuration item group](/en-us/citsmart-platform-8/processes/configuration/configuration/register-configuration-item-group.html) 
+  [Register configuration item group](/en-us/4biz-helium/processes/configuration/configuration/register-configuration-item-group.html) 
 
-   [Register cost per hour of unavailability](/en-us/citsmart-platform-8/processes/configuration/use/cost-per-hour-unavailability.html)
+   [Register cost per hour of unavailability](/en-us/4biz-helium/processes/configuration/use/cost-per-hour-unavailability.html)
 
-  [Register availability group](/en-us/citsmart-platform-8/processes/availability/configuration/register-availability-group.html) 
+  [Register availability group](/en-us/4biz-helium/processes/availability/configuration/register-availability-group.html) 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 -Larissa Lourenço
 

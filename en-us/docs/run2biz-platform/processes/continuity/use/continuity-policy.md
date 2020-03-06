@@ -48,26 +48,26 @@ Initiation phase of the complete registration of continuity.
 Related
 -----------
 
-[Register employee](/en-us/citsmart-platform-8/initial-settings/access-settings/user/register-employee.html)
+[Register employee](/en-us/4biz-helium/initial-settings/access-settings/user/register-employee.html)
 
-[Register threat](/en-us/citsmart-platform-8/processes/continuity/configuration/register-threat.html)
+[Register threat](/en-us/4biz-helium/processes/continuity/configuration/register-threat.html)
 
-[Register threat category](/en-us/citsmart-platform-8/processes/continuity/configuration/threat-category.html)
+[Register threat category](/en-us/4biz-helium/processes/continuity/configuration/threat-category.html)
 
-[Register risk category](/en-us/citsmart-platform-8/processes/continuity/configuration/risk-category.html)
+[Register risk category](/en-us/4biz-helium/processes/continuity/configuration/risk-category.html)
 
-[Register service continuity scope](/en-us/citsmart-platform-8/processes/continuity/use/service-continuity-scope.html)
+[Register service continuity scope](/en-us/4biz-helium/processes/continuity/use/service-continuity-scope.html)
 
-[Register continuity risk](/en-us/citsmart-platform-8/processes/continuity/configuration/register-continuity-risk.html)
+[Register continuity risk](/en-us/4biz-helium/processes/continuity/configuration/register-continuity-risk.html)
 
-[Register automatic actions of incident/request/procedure](/en-us/citsmart-platform-8/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
+[Register automatic actions of incident/request/procedure](/en-us/4biz-helium/additional-features/automation-of-operation/configuration/register-automatic-actions-incident-request-procedure.html)
 
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Larissa Lourenço
 
 

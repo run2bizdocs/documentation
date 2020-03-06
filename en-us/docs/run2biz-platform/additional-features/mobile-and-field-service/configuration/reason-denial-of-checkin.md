@@ -2,7 +2,7 @@ title: Register reason for denial of check in
 Description: This functionality allows to register the navigation reasons of the check in. 
 # Register reason for denial of check in
 
-This functionality allows to register the navigation reasons of the check in, which will be used when make the check in through the CITSmart Enterprise ITSM Mobile application.
+This functionality allows to register the navigation reasons of the check in, which will be used when make the check in through the 4biz Enterprise ITSM Mobile application.
 
 Procedure
 -------------
@@ -19,5 +19,5 @@ Procedure
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/08/2019 – Larissa Lourenço

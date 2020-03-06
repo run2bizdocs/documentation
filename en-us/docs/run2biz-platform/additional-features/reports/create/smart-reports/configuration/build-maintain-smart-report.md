@@ -27,7 +27,7 @@ Procedure
 
       + **JPS**: create a report with dynamic content. When opting for this type, you must inform the parameters and the "JSP" script;  
 
-      + **Neuro**: create a report of type "Neuro", simply link a previously registered "Neuro" form.  
+      + **Builder**: create a report of type "Builder", simply link a previously registered "Builder" form.  
 
 
     !!! Abstract "NOTE"
@@ -58,12 +58,12 @@ Procedure
 Related
 -------
 
-[Emit report using Smart Report](/en-us/citsmart-platform-8/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
+[Emit report using Smart Report](/en-us/4biz-helium/additional-features/reports/create/smart-reports/configuration/create-smart-report.html)
 
 
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/07/2019 – Anna Martins

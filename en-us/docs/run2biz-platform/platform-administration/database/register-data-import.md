@@ -1,9 +1,9 @@
 title: Register data import
-Description: Import the data from another database to the CITSmart database.
+Description: Import the data from another database to the 4biz database.
 # Register data import
 
 The purpose of this functionality is to import the data from another database to
-the CITSmart database.
+the 4biz database.
 
 This feature provides a variety of actions, such as including, changing, and
 deleting a data import.
@@ -30,10 +30,10 @@ Procedure
 Related
 -------
 
-[Register external connections](/en-us/citsmart-platform-8/platform-administration/database/register-external-connections.html)
+[Register external connections](/en-us/4biz-helium/platform-administration/database/register-external-connections.html)
 
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/10/2019 - Anna Martins

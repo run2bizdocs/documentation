@@ -2,7 +2,7 @@ Title: Managing content indexing
 
 # Managing Content Indexing
 
-CITSmart uses Apache SOLR to index content created in the Knowledge Management and makes it available in the Knowledge Portal search system.
+4biz uses Apache SOLR to index content created in the Knowledge Management and makes it available in the Knowledge Portal search system.
 
 ## What to do before
 
@@ -12,7 +12,7 @@ In order for Knowledge Indexing to work correctly, it is necessary:
 
 ## Parametrizing the indexing service
 
-1. Access the main menu Parametrization > CITSmart Parameters;
+1. Access the main menu Parametrization > 4biz Parameters;
 2. Configure parameter 304 by entering the URL of the SOLR component;
 
     ```sh
@@ -32,7 +32,7 @@ Knowledge Base Indexing".
 
 !!! tip "About"
 
-    <b>Product/Version:</b> CITSmart | 8.00 &nbsp;&nbsp;
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>06/25/2019
 
-[1]:/en-us/citsmart-platform-8/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1
+[1]:/en-us/4biz-helium/get-started/installation-and-upgrade/download-software.html#servidor-de-indexacao-apache-solr_1

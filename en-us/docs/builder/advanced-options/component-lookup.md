@@ -1,9 +1,9 @@
 Title: Lookup component
-Description: Neuro's lookup component allows the creation of mater-datails interfaces in item listings.
+Description: Builder's lookup component allows the creation of mater-datails interfaces in item listings.
 
 # Lookup Component
 
-The Lookup component is a feature of Neuro that allows the creation of quick lists of options, being possible to have a master-detail interface, that is, displaying a master list and the details of the selected item, for example, create fields for the user to select a country, then select a State, and then a city.
+The Lookup component is a feature of Builder that allows the creation of quick lists of options, being possible to have a master-detail interface, that is, displaying a master list and the details of the selected item, for example, create fields for the user to select a country, then select a State, and then a city.
 
 To use this feature in forms, you must:
 
@@ -13,11 +13,11 @@ To use this feature in forms, you must:
 
 ## What to do before
 
-Before creating lookup components you must create an application and optionally a Neuro database connection.
+Before creating lookup components you must create an application and optionally a Builder database connection.
 
 ## Creating Lookup components
 
-1. Access the functionality through the menu Neuro > Management > Lookup Component;
+1. Access the functionality through the menu Builder > Management > Lookup Component;
 2. Register the lookup component(s);
 3. Enter the information:
 
@@ -25,8 +25,8 @@ Before creating lookup components you must create an application and optionally 
     |-----|---------|-------|
     |Name|Identifier which doesn't allow space|country|
     |Description|Information of lookup|Country|
-    |Application|Neuro Application|My App|
-    |Base Connection|Database connection (same as used in the business objects)|Neuro DB Connection|
+    |Application|Builder Application|My App|
+    |Base Connection|Database connection (same as used in the business objects)|Builder DB Connection|
     |Column or expression for field key|ID to return key|idcountry|
     |Column or expression for description|Return of field description|namecountry|
     |FROM and WHERE|Query to FROM and Query|`FROM country`|
@@ -58,7 +58,7 @@ Description: Country
 
 Application: My App
 
-Base Connection: Neuro DB Connection 
+Base Connection: Builder DB Connection 
 
 Column or expression for field key: idcountry
 
@@ -78,7 +78,7 @@ Description: State
 
 Application: My App
 
-Base Connection: Neuro DB Connection 
+Base Connection: Builder DB Connection 
 
 Column or expression for field key: idstate
 
@@ -96,7 +96,7 @@ Description: State
 
 Application: My App
 
-Base Connection: Neuro DB Connection
+Base Connection: Builder DB Connection
 
 Column or expression for field key: idcity
 
