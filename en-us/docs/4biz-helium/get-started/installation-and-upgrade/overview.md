@@ -2,7 +2,7 @@ Title: Installation overview
 
 # Instalation overview
 
-These steps will help you install Citsmart in on-premises environments. Before starting, it is important to keep in mind the software required for the installation of the platform, as well as its functionality. The Citsmart platform is composed of the following sets of software:
+These steps will help you install 4biz in on-premises environments. Before starting, it is important to keep in mind the software required for the installation of the platform, as well as its functionality. The 4biz platform is composed of the following sets of software:
 
 * **4biz Enterprise Platform**: Platform package in java WAR (web application ARchive) format.
 * **Wildfly**: Java EE Web application server.

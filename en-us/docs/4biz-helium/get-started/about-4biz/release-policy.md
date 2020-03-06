@@ -77,7 +77,7 @@ to each one of them, follow the recommendations below:
 **SaaS Clients**
 
 Clients can schedule software updates at their convenience, submitting a new
-service request via our support website (itsm.citsmart.com). In this request,
+service request via our support website (itsm.4biz.com). In this request,
 clients define schedule to update, version and environment type (non-production
 or production). Outage times are defined to minimize disruption to clients
 business. The 4biz Support team makes all update process.

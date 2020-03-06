@@ -21,7 +21,7 @@ The home screen of ticket management  is the analyst's of attendance interface w
 
 It's possible to use the search bar to make it easier to search for a specific ticket - by entering the number - or a set of tickets with similar characteristics - using several attributes - such as:
 
-![Search Ticket Citsmart][1]
+![Search Ticket 4biz][1]
 
 **1: Number of the ticket**;
 
@@ -54,9 +54,9 @@ It's possible to use the search bar to make it easier to search for a specific t
 
 To apply a search based on the filters you set, use the “search” button. After make the search, the icon will change to identify the search status, such as:
 
- ![Search Ticket Citsmart][2] Icon without active search
+ ![Search Ticket 4biz][2] Icon without active search
 
- ![Search Ticket Citsmart][3] Icon with active search
+ ![Search Ticket 4biz][3] Icon with active search
 
 It's possible to clean all filters selected and return to default format by clicking on “clear”.
 
@@ -64,7 +64,7 @@ It's possible to clean all filters selected and return to default format by clic
 
 •	In the list we can see the tickets available in an attendance queue - based on group permissions - where we find the following columns:
 
- ![List Ticket Citsmart][4]
+ ![List Ticket 4biz][4]
 
 **1: Selecting Ticket(s)** – to delegate or suspend/reactivate them;
 
@@ -102,7 +102,7 @@ It's possible to clean all filters selected and return to default format by clic
 
 Located in the upper right side, we can see a series of icons representing, respectively:
 
-![List Ticket Citsmart][5]
+![List Ticket 4biz][5]
 
 #### Pagination:
 
@@ -148,7 +148,7 @@ Located in the upper right side, we can see a series of icons representing, resp
 
 Clicking on a ticket in your attendance queue, it'll present you the actions available:
 
-![Option Ticket Citsmart][6]
+![Option Ticket 4biz][6]
 
 #### Main options:
 
@@ -216,9 +216,9 @@ Clicking on a ticket in your attendance queue, it'll present you the actions ava
 
 •	**Audit**: It presents all changes that occur to a ticket whether automatic or manual;
 
-[1]:images/ticket-search-citsmart.png
-[2]:images/ticket-search-inactive-citsmart.png
-[3]:images/ticket-search-active-citsmart.png
-[4]:images/ticket-list-citsmart.png
-[5]:images/ticket-list-options-citsmart.png
-[6]:images/ticket-list-options-details-citsmart.png
+[1]:images/ticket-search-4biz.png
+[2]:images/ticket-search-inactive-4biz.png
+[3]:images/ticket-search-active-4biz.png
+[4]:images/ticket-list-4biz.png
+[5]:images/ticket-list-options-4biz.png
+[6]:images/ticket-list-options-details-4biz.png

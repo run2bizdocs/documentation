@@ -29,7 +29,7 @@ Configure 4biz Web Services to access the functionality of the
 4biz Experience application.
 
 1.  On 4biz Experience Web, access the Web Services feature for the mobile
-    (System > Settings > Mobile > Citsmart Mobile Web Service);
+    (System > Settings > Mobile > 4biz Mobile Web Service);
 
 2.  Click on the "Link Groups" tab and link the activity executing group to the
     4biz Experience Web Services.
@@ -65,7 +65,7 @@ Certification Issuer), it must be installed. Follow the procedures below:
     Figure 2 - Certificate installation on desktop
 
 3.  Once installed, simply change the application's address to
-    “<https://citsmart.4biz.com.br/citsmart>”.
+    “<https://4biz.4biz.com.br/4biz>”.
 
 ### Android and iOS app installation
 
@@ -205,7 +205,7 @@ Related
 
 [Cofigure parametrization - system](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-system.html)
 
-[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
 [Configure mobile options](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 

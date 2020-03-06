@@ -76,7 +76,7 @@ integration and machine learning with knowledge.
 Builder
 -----
 
-NEURO is a product that has been 100% ready and adequate within 4biz, this product is very powerful
+BUILDER is a product that has been 100% ready and adequate within 4biz, this product is very powerful
 and allows to build new functionalities, applications and integrations. It is very close to RPA (Robotics process automation) products, but it brings different possibilities, such as the natural integration with the
 Service Management framework (SLAs, knowledge, portfolio, tickets, service portal, among others).
 In addition, we understand that the concepts of Service Management is very powerful and can go beyond

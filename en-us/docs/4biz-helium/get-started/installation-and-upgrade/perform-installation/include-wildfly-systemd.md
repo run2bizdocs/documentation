@@ -55,7 +55,7 @@ After=network-online.target
 [Service]
 Environment=LAUNCH_JBOSS_IN_BACKGROUND=1
 EnvironmentFile=-/etc/wildfly/wildfly.conf
-Type=simple
+Type=tasker
 User=wildfly
 Group=wildfly
 ExecStart=/opt/wildfly/bin/launch.sh $WILDFLY_MODE $WILDFLY_CONFIG $WILDFLY_BIND

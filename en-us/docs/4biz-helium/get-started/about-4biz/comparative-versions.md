@@ -28,14 +28,14 @@ Title: Comparison of versions
 |    Capacity Management                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Demand Management                              |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    **Features**                                       |    **4biz Platform 7**    |    **4biz Helium**    |
-|    [Agile Project Management – Simple][6]          |:no_entry_sign:|:new:           |
+|    [Agile Project Management – Tasker][6]          |:no_entry_sign:|:new:           |
 |    Tasks Management with Kanban                   |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    [Experience Center with Users][7]               |:no_entry_sign:|:new:           |
 |    [Warnings / Escalation][8]                      |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Chat] [9]                                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Knowledge Portal][10]                               |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Dashboards and Customized Reports              |:ballot_box_with_check:  |:ballot_box_with_check:  |
-|    [Citsmart Builder Application][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
+|    [4biz Builder Application][11]                     |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    [Mobile and 4biz GO][12]                       |:ballot_box_with_check:  |:ballot_box_with_check::arrows_counterclockwise:|
 |    Contract Management                            |:ballot_box_with_check:  |:ballot_box_with_check:  |
 |    Project Management                             |:ballot_box_with_check:  |:ballot_box_with_check:  |
@@ -86,8 +86,8 @@ The Asset and Configuration Management, regarding to the CMDB, there was a visua
 ### Ticket Management
 In this update, the Ticket Management, in addition to tasks already achievable in the previous version, acquired a new layout in the registration of a service, with new groups of features, giving to users greater agility.
 
-###Agile Project Management – Simple
-4biz's new task-oriented tool, brings an idea of simplifying the whole lifecycle of a task/service in one place. As its name suggests, Simple seeks to streamline even more the daily life of an organization, with greater and better visualization of a process and control of those involved.
+###Agile Project Management – Tasker
+4biz's new task-oriented tool, brings an idea of simplifying the whole lifecycle of a task/service in one place. As its name suggests, Tasker seeks to streamline even more the daily life of an organization, with greater and better visualization of a process and control of those involved.
 
 ### Experience Center with Users
 In this version, 4biz innovates by providing to users the possibility of customize, with the characteristics of their organization, a portal with the information necessary for the proper functioning of the company. This is done in a simple and accessible way, allowing the client greater autonomy within the system.
@@ -101,7 +101,7 @@ In this version, besides going through a reformulation, the use of artificial in
 ### Knowledge Portal
 Version 8 presents a more inclusive Knowledge Portal with more efficient searches.  It's possible, henceforth, for a user to access the functionality without being logged into the system and search for articles with more refined filters, such as tags (key word).
 
-### Citsmart Builder Application
+### 4biz Builder Application
 In this update, the Builder application engine has been enhanced to enable the generation of various features, such as the creation of complex forms, widgets, advanced flow building, among others.
 
 ### Mobile and 4biz GO
@@ -136,12 +136,12 @@ Integration of Saiku with 4biz Analytics.
 [3]:#knowledge-management
 [4]:#assets-and-configuration-management
 [5]:#ticket-management
-[6]:#agile-project-management-simple
+[6]:#agile-project-management-tasker
 [7]:#experience-center-with-users
 [8]:#warnings-escalation
 [9]:#chat
 [10]:#knowledge-portal
-[11]:#citsmart-builder-application
+[11]:#4biz-builder-application
 [12]:#mobile-and-field-service
 [13]:#workflow-management
 [14]:#surveys-and-feedback

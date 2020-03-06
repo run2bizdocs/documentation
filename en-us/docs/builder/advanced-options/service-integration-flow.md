@@ -124,7 +124,7 @@ For a business process, we have, in addition, these components sections:
 - **Connectors**: components used to perform operations related to the database.  
 - **Components**: varied components for performing various tasks.  
 - **Transformers**: components for converting variable types.  
-- **4biz**: components used for integration with an external Citsmart system.  
+- **4biz**: components used for integration with an external 4biz system.  
 
 The other components present in the palette resemble the components of a "Process Flow". Further information regarding the functionality and use of each of the components can be found in the Developing Applications.  
 

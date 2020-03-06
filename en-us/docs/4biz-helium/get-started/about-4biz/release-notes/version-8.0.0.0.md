@@ -27,7 +27,7 @@ Adjustments to avoid editing native expressions and expressions of same name.
 
 The quick access allows the user to find main processes through icons that help in the efficiency of fixing and viewing.
 
-**The users only sees the icons of the processes that they have access, with the exception of Simple, Knowledge Portal, Experience Center and User Guide.**
+**The users only sees the icons of the processes that they have access, with the exception of Tasker, Knowledge Portal, Experience Center and User Guide.**
 
 ### Configuration of notification via email of delegated ticket
 
@@ -116,12 +116,12 @@ The improvement of the occurrence registration allows the requester or technicia
 
 For further information, see [Register ticket occurrence][14]
 
-### Simple - Agile Management at sight
+### Tasker - Agile Management at sight
 
-Simple was created with the purpose of bringing the concept of agile management to the tool.
-Independently or clustered in one of the Problem, Change and Release solutions, Simple allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight.
+Tasker was created with the purpose of bringing the concept of agile management to the tool.
+Independently or clustered in one of the Problem, Change and Release solutions, Tasker allows you to reuse Sprints, share resources, send activities to other Sprints and manage at sight.
 
-For further information, see [Simple][15]
+For further information, see [Tasker][15]
 
 ### Customer's area
 
@@ -184,12 +184,12 @@ __If the customer doesn't want to use the new flows, the latest version 7.1.0 wi
 [12]:/en-us/4biz-helium/processes/tickets/use/approve-a-ticket.html
 [13]:/en-us/4biz-helium/processes/tickets/use/desktop-of-service-desk.html
 [14]:/en-us/4biz-helium/processes/tickets/use/register-ticket-occurrences.html
-[15]:/en-us/4biz-helium/additional-features/project-management/simple-agile-management/simple-agile-management.html
+[15]:/en-us/4biz-helium/additional-features/project-management/tasker-agile-management/tasker-agile-management.html
 [16]:/en-us/4biz-helium/processes/knowledge/use/create-experience-center.html
 [17]:/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html
 [18]:/en-us/4biz-helium/platform-administration/logs-and-auditing/system-audit.html
 [19]:/en-us/4biz-helium/platform-administration/security/implement-password-security-rules.html
-[20]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
-[21]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html
+[20]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
+[21]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html
 
 

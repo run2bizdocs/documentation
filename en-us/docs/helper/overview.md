@@ -30,7 +30,7 @@ In this environment, you will be able to add and review knowledge to Helper, you
 
 ## Configuration
 
-[Make Helper available on the 4biz interface](/en-us/helper/configuration/helper-citsmart.html)
+[Make Helper available on the 4biz interface](/en-us/helper/configuration/helper-4biz.html)
 
 [Create contexts to Helper](/en-us/helper/configuration/context-helper.html)
 

@@ -70,11 +70,11 @@ Procedure
 
 *4th Step: Include required information in the 4biz configured on Okta:*
 
-1. You will need to configure some data in the WildFly directory. Access the directory, open the "/standalone/configuration" folder and change the file "citsmart.cfg".
+1. You will need to configure some data in the WildFly directory. Access the directory, open the "/standalone/configuration" folder and change the file "4biz.cfg".
 
     ![Wildfly Directory](images/okta.img11.png)
 
-2. Accessed the file, you need to include this information in the file "citsmart.cfg":
+2. Accessed the file, you need to include this information in the file "4biz.cfg":
        
    a) In the line *SAML2_HOST* and *SAML2_PORT* include the address and port of the 4biz application;
        
@@ -106,11 +106,11 @@ Procedure
 
     * **Description**: introduce a definition of this new setting Okta;
      
-    * **Alias**: include the user domain that will be saved to the database. Example: okta\administrador@citsmart.com;
+    * **Alias**: include the user domain that will be saved to the database. Example: okta\administrador@4biz.com;
      
-    * **URL domain**: should include the same value (URL) that was entered in the line *OKTA_URL* in the "citsmart.cfg" file; 
+    * **URL domain**: should include the same value (URL) that was entered in the line *OKTA_URL* in the "4biz.cfg" file; 
      
-    * **Token API**: include the same value of the token inserted in the line *OKTA_TOKEN* in the file "citsmart.cfg";
+    * **Token API**: include the same value of the token inserted in the line *OKTA_TOKEN* in the file "4biz.cfg";
      
     * **Group**: insert the ID of the group in which the synchronized and registered user will belong in 4biz;
      
@@ -126,7 +126,7 @@ Procedure
 
 1. Since Okta does not have a logout screen, in parameter 377 of 4biz, we can insert some page address to redirect the user to the end of the session;
 
-2. Set up the logout link also at the address **(Admin > Settings > Customization > Sign-Out-Page)**, then check the option "Use the custom sign-out page". Therefore, enter the URL (https://localhost:8443/citsmart/saml/logout) with the appropriate adaptations (host and port), according to the image below:
+2. Set up the logout link also at the address **(Admin > Settings > Customization > Sign-Out-Page)**, then check the option "Use the custom sign-out page". Therefore, enter the URL (https://localhost:8443/4biz/saml/logout) with the appropriate adaptations (host and port), according to the image below:
 
 ![Logout](images/okta.img19.png)
 

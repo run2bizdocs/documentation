@@ -28,7 +28,7 @@ Procedure
 
     *	Domain\User: enter the domain (local/ldap) and your user;
 
-    E.g.: citsmart.local\name.surname
+    E.g.: 4biz.local\name.surname
     
     *	Password: system access credential;
 

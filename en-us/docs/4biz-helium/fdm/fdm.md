@@ -73,7 +73,7 @@ FDM Artifacts
 !!! warning "ATTENTION"
 
     Artifacts and Fast Deployment Methodology (FDM) are available to our 
-    partners through [MY.4biz](https://my.citsmartcloud.com)
+    partners through [MY.4biz](https://my.4bizcloud.com)
  
  
 

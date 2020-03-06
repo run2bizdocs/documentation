@@ -36,7 +36,7 @@ Procedure
     cd/citbi/
     
     ```
-    docker build -t registry.citsmartcloud.com/templates/bi .
+    docker build -t registry.4bizcloud.com/templates/bi .
     ```
     
 1.  In the folder /citbi/composes, configure the database:
@@ -52,10 +52,10 @@ Procedure
     services:
       citBI:
         container_name: citBI
-        image: registry.citsmartcloud.com/templates/bi:latest
+        image: registry.4bizcloud.com/templates/bi:latest
         environment:
     - BI_HOST=127.0.0.1
-    - BI_DATABASE= citsmart_equipeteste_equatorial
+    - BI_DATABASE= 4biz_equipeteste_equatorial
     - BI_PORT=5432
     - BI_USER=root
     - BI_PASSWORD=1
@@ -104,7 +104,7 @@ docker logs -f citBI
 
 3.  Add DataSource:
 
-    jdbc:postgresql://127.0.0.1:5432/citsmart_equipeteste_equatorial
+    jdbc:postgresql://127.0.0.1:5432/4biz_equipeteste_equatorial
 
 ***Useful commands: box***
 
@@ -147,7 +147,7 @@ Parametrization \> 4biz Parameters;
     -   412: Job to update the password Saiku
 
     Example:
-    http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=loginCitSmart
+    http://127.0.0.1:8282/kettle/executeJob/?job=/home/ec2-user/repo-cit/job_create_users_saiku.kjb&loginParam=login4biz
 
 
 Related

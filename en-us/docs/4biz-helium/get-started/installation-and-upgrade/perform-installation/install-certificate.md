@@ -13,29 +13,29 @@ Installing an SSL certificate is required for the 4biz tool to work. There are t
 How you access 4biz changes the way the SSL certificate is created. There are two ways to access the system URL:
 
 * Through IP addressing in the format https://ENDERECO_IP
-* Through the DNS in format https://citsmart.exemplo.com
+* Through the DNS in format https://4biz.exemplo.com
 
 The certificate creation in both cases is slightly different. Below is the procedure valid for both cases.
 
 
 ### Creating a certificate for a DNS entry
 
-Below is the command to generate an SSL certificate for a DNS entry called `citsmart.example.com`. Remember to change the following parameters:
+Below is the command to generate an SSL certificate for a DNS entry called `4biz.example.com`. Remember to change the following parameters:
 
 * **KEY_NAME:** A name for the key/file. Example 4bizV1.
-* **citsmart.example.com:** Change to the DNS entry that you have created for your application.
+* **4biz.example.com:** Change to the DNS entry that you have created for your application.
 * **validity 365:** Key expiration time in days. Depending on your institution's internal security requirement, set this value. After the time limit has expired, the certificate will expire and you will need to generate another one. Set the time you think is appropriate. In the example the certificate is valid for 1 year (365 days).
 * **PASSWORD:** A password for the certificate. Example: password123456
 
 ``` shell
-/opt/jdk/bin/keytool -genkey -alias KEY_NAME -keyalg RSA -keystore /opt/wildfly/standalone/configuration/KEY_NAME.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass PASSWORD
+/opt/jdk/bin/keytool -genkey -alias KEY_NAME -keyalg RSA -keystore /opt/wildfly/standalone/configuration/KEY_NAME.keystore -ext san=dns:4biz.example.com -validity 365 -storepass PASSWORD
 ```
 
 When the command is executed, a series of questions will be asked, which can be answered or not (completion is optional). If you don't want to complete the information, type [enter] for all but the last one that needs to be answered `yes`.
 
 ``` shell
 
-[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias 4bizV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -ext san=dns:citsmart.example.com -validity 365 -storepass password123456
+[root@server /tmp]# /opt/jdk/bin/keytool -genkey -alias 4bizV1 -keyalg RSA -keystore /opt/wildfly/standalone/configuration/4bizV1.keystore -ext san=dns:4biz.example.com -validity 365 -storepass password123456
 What is your first and last name?
   [Unknown]:
 What is the name of your organizational unit?
@@ -140,7 +140,7 @@ Extensions:
 
 #1: ObjectId: 2.5.29.17 Criticality=false
 SubjectAlternativeName [
-  DNSName: citsmart.example.com
+  DNSName: 4biz.example.com
 ]
 
 #2: ObjectId: 2.5.29.14 Criticality=false
@@ -186,9 +186,9 @@ Access the wildfly in CLI mode and give the commands below, replacing values wit
 
 ```shell
 /subsystem=undertow/server=default-server/https-listener=https:read-attribute(name=security-realm)
-/subsystem=elytron/key-store=citsmartKeyStore:add(path="4bizV1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="password123456"},type=JKS)
-/subsystem=elytron/key-manager=citsmartKeyManager:add(key-store=citsmartKeyStore,credential-reference={clear-text="password123456"})
-/subsystem=elytron/server-ssl-context=citsmartSSLContext:add(key-manager=citsmartKeyManager,protocols=["TLSv1.2"])
+/subsystem=elytron/key-store=4bizKeyStore:add(path="4bizV1.keystore",relative-to=jboss.server.config.dir,credential-reference={clear-text="password123456"},type=JKS)
+/subsystem=elytron/key-manager=4bizKeyManager:add(key-store=4bizKeyStore,credential-reference={clear-text="password123456"})
+/subsystem=elytron/server-ssl-context=4bizSSLContext:add(key-manager=4bizKeyManager,protocols=["TLSv1.2"])
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:remove
 /core-service=management/security-realm=ApplicationRealm/server-identity=ssl:add(keystore-path="4bizV1.keystore", keystore-password-credential-reference={clear-text="password123456"}, keystore-relative-to="jboss.server.config.dir",alias="4bizV1")
 ```

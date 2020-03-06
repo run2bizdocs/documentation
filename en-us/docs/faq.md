@@ -85,7 +85,7 @@ description: Here you have the answers for the most common parameters when talki
     
     The service request scheduling rule is enabled on the 4biz Parameter screen. To enable this rule, proceed as follows:
 
-    1- In the citsmart.cfg file put the routine START_MONITORA_INCIDENTES=TRUE;
+    1- In the 4biz.cfg file put the routine START_MONITORA_INCIDENTES=TRUE;
     
     2- Access the 4biz Parameters feature by navigating in the main menu System > 4biz Parameters;
     
@@ -261,7 +261,7 @@ description: Here you have the answers for the most common parameters when talki
     
     The problem scaling rule is enabled on the 4biz Parameter screen. To enable this rule, proceed as follows:
     
-    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters.
+    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters.
     2. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab.
     3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
@@ -344,7 +344,7 @@ description: Here you have the answers for the most common parameters when talki
 !!! Question "What is the meaning of each inventory status of CI?"
     
     -   Inventory: the inventory was able to read the CI information and ended successfully;
-    -   Ignored: in the citsmart / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
+    -   Ignored: in the 4biz / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
     -   Unreachable: when the server encounters the IC but can not bring the information;
     -   Not inventoried: when neither it finds the IC in the network, but knows that it already existed;
     -   Running: while reading the inventory, the IC is in this status.
@@ -373,7 +373,7 @@ description: Here you have the answers for the most common parameters when talki
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
-    1. Access the 4biz Parameters feature (Parametrization > Citsmart Parameters);
+    1. Access the 4biz Parameters feature (Parametrization > 4biz Parameters);
     2. Then, the 4biz Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
     3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)";
     4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
@@ -403,11 +403,11 @@ description: Here you have the answers for the most common parameters when talki
 
 !!! Question "To which recipient will be sent notifications of CI?"
     
-    CI notifications will be sent to the recipient defined in the Citsmart Parameter screen.
+    CI notifications will be sent to the recipient defined in the 4biz Parameter screen.
     
 	To set the recipient, proceed as follows:
     
-    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters;
+    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters;
     2. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab;
     3. It will display the screen for parameter search;
     4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)";
@@ -425,7 +425,7 @@ description: Here you have the answers for the most common parameters when talki
     WEBSERVICE SCHEME FOR LEGACY SYSTEMS (BUSINESS MONITORING)
     It is possible to connect the EVM component to any software, even one other than the one that the Event Management module normally integrates (Nagios, Zabbix and Inventory), since the data sent (via webservice) follow a pre-established pattern.
     
-    Once the data is sent to the Citsmart Event Monitor, rules can be created (for example with the Esper EPL) so that certain events are triggered according to some condition observed in the data.
+    Once the data is sent to the 4biz Event Monitor, rules can be created (for example with the Esper EPL) so that certain events are triggered according to some condition observed in the data.
     
     Example "Payroll">
     
@@ -448,8 +448,8 @@ description: Here you have the answers for the most common parameters when talki
     AuthName "LDAP Authentication"
     AuthType Basic
     AuthBasicProvider ldap
-    AuthLDAPURL ldap://auth01.citsmartcloud.com/dc=citsmart,dc=com?uid?sub?(objectClass=*)
-    Require ldap-group ou=people,o=citsmartco,dc=citsmart,dc=com
+    AuthLDAPURL ldap://auth01.4bizcloud.com/dc=4biz,dc=com?uid?sub?(objectClass=*)
+    Require ldap-group ou=people,o=4bizco,dc=4biz,dc=com
     Require valid-user
     </Location>
 
@@ -508,7 +508,7 @@ description: Here you have the answers for the most common parameters when talki
     5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br);
     6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
     7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select the same;
-    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.citsmart);
+    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.4biz);
     9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
     10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select the same;
     11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the e-mail account;
@@ -529,10 +529,10 @@ description: Here you have the answers for the most common parameters when talki
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
-    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the parameter search "46 - Enable Portal as Citsmart home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed;
+    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    2. Perform the parameter search "46 - Enable Portal as 4biz home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed;
     3. In order for users to have access to the Portal or Smart Portal;
-    4. Access the 4biz Parameters feature by navigating in the main menu Parameterization > Citsmart Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search.
+    4. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search.
     
 !!! Question "How to enable the satisfaction survey?"
     
@@ -554,9 +554,9 @@ description: Here you have the answers for the most common parameters when talki
     
     System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
     
-    There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (citsmart.cfg), where you can activate or inactivate routines.
+    There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (4biz.cfg), where you can activate or inactivate routines.
     
-    To use this capability, the citsmart.cfg file must exist in the directory:
+    To use this capability, the 4biz.cfg file must exist in the directory:
     ```sh
     \jboss\standalone\configuration\ (When Jboss rises as a single instance)
     \jboss\domain\configuration\ (When using cluster, has domains and hosts)
@@ -581,15 +581,15 @@ description: Here you have the answers for the most common parameters when talki
     
     8- Use of the parameters below is optional. They separate the main connection pool with the flow, inventory, and report execution pool;
     
-       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / citsmartFlux);
+       - JDBC_ALIAS_BPM = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the stream. Enter the name of the datasource, eg java: / jdbc / 4bizFlux);
        
-       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / citsmart_inventory);
+       - JDBC_ALIAS_INVENTORY = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the inventory. Enter the name of the datasource, eg java: / jdbc / 4biz_inventory);
        
-       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / citsmart_reports).
+       - JDBC_ALIAS_REPORTS = java: / jdbc / $ {value} (This parameter defines the name of the datasource of the reports. Enter the name of the datasource, eg java: / jdbc / 4biz_reports).
        
     9- The following parameter separates the processing of the BPM event routine into a separate thread pool from the main system thread pool, to ease the use of database and server resources.
     
-       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / citsmartBpmEvents).    
+       - JDBC_ALIAS_BPM_EVENTOS = java: / jdbc / $ {value} (This parameter defines the name of the BPM event datasource. Enter the name of the datasource, eg java: / jdbc / 4bizBpmEvents).    
 
 !!! Question "How to integrate the client company AD into 4biz Enterprise ITSM that is in the cloud offered by 4biz Corporation?"
     

@@ -10,7 +10,7 @@ Following the example of large companies offering their services based on cloud-
 
 * A legacy of managing various compliance programs and certifications. This means that we automatically inherit compliance with various infrastructure requirements and standards.
 
-In addition to the capabilities provided by the cloud, Citsmart seeks to maintain the security and privacy of its customers' data through internal policies and adoption of standards to ensure compliance with international regulatory requirements.
+In addition to the capabilities provided by the cloud, 4biz seeks to maintain the security and privacy of its customers' data through internal policies and adoption of standards to ensure compliance with international regulatory requirements.
 
 ## Cloud Architecture Overview
 
@@ -18,7 +18,7 @@ A basic overview of how the 4biz cloud works can be seen in the diagram below:
 
 ### Cloud
 
-![Screenshot](images/citsmart-cloud-plataform.png)
+![Screenshot](images/4biz-cloud-plataform.png)
 
 ### On-premises
 
@@ -47,5 +47,5 @@ For each area above, we have technical security processes and measures that ensu
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/23/2019 - João Pelles  
 
-[2]:images/citsmart-on-premises.jpg
-[3]:images/citsmart-inv-evm.jpg
+[2]:images/4biz-on-premises.jpg
+[3]:images/4biz-inv-evm.jpg

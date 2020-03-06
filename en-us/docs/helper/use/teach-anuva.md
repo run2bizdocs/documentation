@@ -12,7 +12,7 @@ Procedure
 
 1.	Access the menu “Dialogues”;
 
-2.	Click on "New" and select one of the options: Simple (only an Interest-Ability interaction) or Complex (when joining multiple simple dialogues);
+2.	Click on "New" and select one of the options: Tasker (only an Interest-Ability interaction) or Complex (when joining multiple simple dialogues);
 
 3.	Inform the Theme related to the Dialogue, this will help you to categorize them, later. A new theme can be registered in the "Theme" menu;
 

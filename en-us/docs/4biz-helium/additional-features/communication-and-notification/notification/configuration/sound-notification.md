@@ -45,4 +45,4 @@ Done, from now on it will be possible to identify new tickets by the sound notif
 
 [1]:/en-us/4biz-helium/additional-features/communication-and-notification/notification/configuration/template-create.html
 
-[2]:/en-us/4biz-helium/workflow/use/create-flow.html
+[2]:/en-us/4biz-helium/tracker/use/create-flow.html

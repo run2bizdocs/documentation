@@ -127,7 +127,7 @@ Related
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
 
-[1]:images/menu-bar-ticket-citsmart.png
+[1]:images/menu-bar-ticket-4biz.png
 [2]:images/tickets-option-ticket.png
 [3]:images/attendance-ticket-comment.png
 [4]:images/attendance-ticket-history.png

@@ -12,7 +12,7 @@ Some configurations can be take to change the standard view of reports.
 2. Change the value indicating the path of the folder with the image;
 
 	```sh
-    /citsmart/images/logo/logo-header.png
+    /4biz/images/logo/logo-header.png
     ```
 	
 3. Save it.

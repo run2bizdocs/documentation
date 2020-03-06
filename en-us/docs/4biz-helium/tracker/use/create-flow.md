@@ -55,4 +55,4 @@ Related
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>02/21/2019 – Larissa Lourenço
 
-[2]:/en-us/4biz-helium/workflow/configuration/expressions-creator.html
+[2]:/en-us/4biz-helium//configuration/expressions-creator.html

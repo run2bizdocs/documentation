@@ -2,7 +2,7 @@ Title: 4biz extra settings
 
 # 4biz extra settings
 
-Create a file called citsmart.cfg in /opt/wildfly/standalone/configuration/ with the information bellow:
+Create a file called 4biz.cfg in /opt/wildfly/standalone/configuration/ with the information bellow:
 
 ``` shell
 START_MONITORA_INCIDENTES=FALSE
@@ -20,12 +20,12 @@ INICIAR_PROCESSAMENTOS_BATCH=TRUE
 Give permission for the wildfly user to this file:
 
 ``` shell
-[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/citsmart.cfg
+[root@server /tmp]# chown wildfly.wildfly /opt/wildfly/standalone/configuration/4biz.cfg
 ```
 
 !!! note
 
-	In the citsmart.cfg file, the default value is TRUE (even if not set), that is, if this 
+	In the 4biz.cfg file, the default value is TRUE (even if not set), that is, if this 
 	option doesn't exist in the file, the system will use the TRUE value for this property. 
 	Defined as TRUE, it enables the Thread that updates the service request fact table at the 
 	system initialization. Defined as FALSE, the update will occur only after adding or changing 
@@ -47,14 +47,14 @@ If you are running wildfly in standalone mode but without cluster configuration,
 #===============================================================
 #Configure Main Scheduler Properties
 #===============================================================
-org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceName = 4bizMonitor
 org.quartz.scheduler.instanceId = AUTO
 #===============================================================
 #Configure ThreadPool
 #===============================================================
 org.quartz.threadPool.threadCount =  5
 org.quartz.threadPool.threadPriority = 5
-org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.class = org.quartz.simpl.TaskerThreadPool
 #===============================================================
 #Configure JobStore
 #===============================================================
@@ -72,12 +72,12 @@ Configuration for Postgres Database
 #============================================================================
 # Configure Main Scheduler Properties
 #============================================================================
-org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceName = 4bizMonitor
 org.quartz.scheduler.instanceId = AUTO
 #============================================================================
 # Configure ThreadPool
 #============================================================================
-org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.class = org.quartz.simpl.TaskerThreadPool
 org.quartz.threadPool.threadCount = 25
 org.quartz.threadPool.threadPriority = 5
 #============================================================================
@@ -87,11 +87,11 @@ org.quartz.jobStore.misfireThreshold = 60000
 org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
 org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.PostgreSQLDelegate
 org.quartz.jobStore.useProperties = true
-org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.dataSource = 4biz
 org.quartz.jobStore.tablePrefix = QRTZ_
 org.quartz.jobStore.isClustered = true
 org.quartz.jobStore.clusterCheckinInterval = 20000
-org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+org.quartz.dataSource.4biz.jndiURL= java:/jdbc/4biz
 ```
 
 Configuration for Microsoft SQL Server Database
@@ -100,12 +100,12 @@ Configuration for Microsoft SQL Server Database
 #============================================================================
 # Configure Main Scheduler Properties
 #============================================================================
-org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceName = 4bizMonitor
 org.quartz.scheduler.instanceId = AUTO
 #============================================================================
 # Configure ThreadPool
 #============================================================================
-org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.class = org.quartz.simpl.TaskerThreadPool
 org.quartz.threadPool.threadCount = 25
 org.quartz.threadPool.threadPriority = 5
 #============================================================================
@@ -115,11 +115,11 @@ org.quartz.jobStore.misfireThreshold = 60000
 org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
 org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.MSSQLDelegate
 org.quartz.jobStore.useProperties = true
-org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.dataSource = 4biz
 org.quartz.jobStore.tablePrefix = QRTZ_
 org.quartz.jobStore.isClustered = true
 org.quartz.jobStore.clusterCheckinInterval = 20000
-org.quartz.dataSource.citsmart.jndiURL= java:/jdbc/citsmart
+org.quartz.dataSource.4biz.jndiURL= java:/jdbc/4biz
 ```
 
 Configuration for Oracle Database
@@ -128,12 +128,12 @@ Configuration for Oracle Database
 #============================================================================
 # Configure Main Scheduler Properties
 #============================================================================
-org.quartz.scheduler.instanceName = CitSmartMonitor
+org.quartz.scheduler.instanceName = 4bizMonitor
 org.quartz.scheduler.instanceId = AUTO
 #============================================================================
 # Configure ThreadPool
 #============================================================================
-org.quartz.threadPool.class = org.quartz.simpl.SimpleThreadPool
+org.quartz.threadPool.class = org.quartz.simpl.TaskerThreadPool
 org.quartz.threadPool.threadCount = 25
 org.quartz.threadPool.threadPriority = 5
 #============================================================================
@@ -143,7 +143,7 @@ org.quartz.jobStore.misfireThreshold = 60000
 org.quartz.jobStore.class = org.quartz.impl.jdbcjobstore.JobStoreTX
 org.quartz.jobStore.driverDelegateClass = org.quartz.impl.jdbcjobstore.oracle.OracleDelegate
 org.quartz.jobStore.useProperties = true
-org.quartz.jobStore.dataSource = citsmart
+org.quartz.jobStore.dataSource = 4biz
 org.quartz.jobStore.tablePrefix = QRTZ_
 org.quartz.jobStore.isClustered = true
 org.quartz.jobStore.clusterCheckinInterval = 20000
@@ -155,8 +155,8 @@ Create all directories below necessary for the solution to run. Remember that th
 
 ``` shell
 
-[root@server /tmp]# mkdir -p /opt/citsmart/{ged,kb,twinwords,attachkb,upload}
-[root@server /tmp]# chown -R wildfly.wildfly /opt/citsmart/
+[root@server /tmp]# mkdir -p /opt/4biz/{ged,kb,twinwords,attachkb,upload}
+[root@server /tmp]# chown -R wildfly.wildfly /opt/4biz/
 
 ```
 

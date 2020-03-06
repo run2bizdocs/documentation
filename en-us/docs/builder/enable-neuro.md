@@ -25,7 +25,7 @@ For 4biz/Builder integration to work:
 - **Parameter 311:**
 
     ```sh
-    citsmart.local\builder.user
+    4biz.local\builder.user
     ```
 
 [1]:images/builder-conection.png

@@ -4,7 +4,7 @@ Title: Completing the installation
 
 After deploying 4biz, you must follow the steps to complete the installation.
 
-1. In a web browser, access the 4biz instance by entering the URL defined for the environment (e.g.: https://citsmart.example.com);
+1. In a web browser, access the 4biz instance by entering the URL defined for the environment (e.g.: https://4biz.example.com);
 
 2. In the first step of installation, enter the license key purchased from 4biz, and then click on "next";
 
@@ -13,14 +13,14 @@ After deploying 4biz, you must follow the steps to complete the installation.
     |Field|Description|Example|
     |-----|---------|-------|
     |Connection Driver|Type of DBMS used in the installation|PostgreSQL |
-    |System access URL|URL to get access to 4biz | https://citsmart.example.com|
+    |System access URL|URL to get access to 4biz | https://4biz.example.com|
     |Enable loggin on system|Enable logs of system |True |
-    |Name of log file|Name of log file | log_citsmart |
+    |Name of log file|Name of log file | log_4biz |
     |Path of the folder that will be the LOG file) |Name of folder where logs will be saved |/var/tmp |
     |Types: "CIT_LOG" (log file), "DB_LOG" (save in the database) |Type of log saving, either file (CIT_LOG) or database (DB_LOG) | CIT_LOG|
     |Extension of log file|Log file extension (only for type CIT_LOG), which will be added to what you entered in "name of log file" | log |
-    |Upload Directory of the repository path|Path of upload directory | /opt/citsmart/upload |
-    |GED Directory |Directory path to the EDMS (Knowledge Base)| /opt/citsmart/ged|
+    |Upload Directory of the repository path|Path of upload directory | /opt/4biz/upload |
+    |GED Directory |Directory path to the EDMS (Knowledge Base)| /opt/4biz/ged|
 
 4. Click on the "Finish" item to complete the installation;
 

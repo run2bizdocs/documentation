@@ -16,7 +16,7 @@ Related
 
 
 [1]:/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-field-service-application.html
-[2]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html
+[2]:/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html
 [3]:/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html
 
 

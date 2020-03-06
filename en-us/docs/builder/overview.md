@@ -1,8 +1,8 @@
 title: Builder Overview
 
-description: connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. NEURO is also CODELESS!
+description: connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. BUILDER is also CODELESS!
 
-# NEURO 
+# BUILDER 
 
 ## Overview 
 
@@ -11,7 +11,7 @@ Builder is a product that has been 100% ready and adequate within 4biz, this pro
 We understand that the concepts of Service Management is very powerful and can go beyond IT, allowing interesting gains to the business. 
 Builder runs with the concept of Dynamic Application & Hot Deploy where there´s no need to restart the server or system on any deploy.
 
-4biz Builder connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. **NEURO is also CODELESS!**
+4biz Builder connects data, solutions and people, empowering departments and companies. is an agile and uncomplicated business process automation platform. It allows for rapid customization and integration with other applications whether legacy or home grown. **BUILDER is also CODELESS!**
 
 With Builder we can create automated workflows in minutes eliminating errors due manual inputs while operating in a secure environment.
 

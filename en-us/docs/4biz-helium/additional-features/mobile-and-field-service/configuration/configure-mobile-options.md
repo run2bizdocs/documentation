@@ -35,7 +35,7 @@ Procedure
 Related
 -------
 
-[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
 [Get signature in field service](/en-us/4biz-helium/additional-features/mobile-and-field-service/use/get-signature-in-attendance.html)
 

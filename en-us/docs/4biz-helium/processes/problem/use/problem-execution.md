@@ -92,7 +92,7 @@ Procedure
     taken to correct the problem and the improvements to be deployed to
     to avoid its subsequent occurrence, among others;
 
-    -   In the “Simple” tab, it's possible the creation of a Kanban;
+    -   In the “Tasker” tab, it's possible the creation of a Kanban;
 
     -   In "Lessons learned", when click in "Add", it'll be possible
     to select and link a knowledge to decimate the instructions to

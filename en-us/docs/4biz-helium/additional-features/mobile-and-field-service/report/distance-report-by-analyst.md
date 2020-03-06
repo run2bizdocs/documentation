@@ -3,7 +3,7 @@ Description: It presents the settings to view the report that demonstrates the m
 # Distance report by analyst
 
 This document is intended to present the configuration to view the report that presents
-the mileage (kilometers) traveled by the attendance analyst that is using the CITSMart Experience app.
+the mileage (kilometers) traveled by the attendance analyst that is using the 4biz Experience app.
 
 Before getting started
 ----------------
@@ -11,7 +11,7 @@ Before getting started
 To view the report, it's necessary to import the report available in the section Attachment.
 
 In the 4biz Experience mobile app, the user will set the flag "Available"
-(APP CITSMART \> Home page \> [Connection] \> Edit \> Available ) to start
+(APP 4biz \> Home page \> [Connection] \> Edit \> Available ) to start
 the km counting.
 
 At the end of the attendance, the user shoud disable the flag "Available", so the system counts

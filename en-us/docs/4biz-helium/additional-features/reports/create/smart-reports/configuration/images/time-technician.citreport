@@ -27,7 +27,7 @@ importNames.importPackage(Packages.br.com.citframework.comparacao);
 importNames.importPackage(Packages.br.com.citframework.integracao);
 importNames.importPackage(Packages.com.google.gson);
 importNames.importPackage(Packages.java.text);
-importNames.importPackage(Packages.br.com.4biz.citsmart.rest.v3.util);
+importNames.importPackage(Packages.br.com.4biz.4biz.rest.v3.util);
 
 var typeDate_ticketTime2 = hashParametros.get("PARAM.typeDate_ticketTime2")=="" ? -1 : importNames.Integer.parseInt(hashParametros.get("PARAM.typeDate_ticketTime2"));
 var startDate_ticketTime2 = importNames.UtilDatas.getTimeStampInicioPeriodo(hashParametros.get("PARAM.startDate_ticketTime2"));

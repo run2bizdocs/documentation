@@ -32,7 +32,7 @@ the guacamole-client, since 4biz only uses the Guacamole daemon, that is, the Gu
 5. Perform the configuration by replacing the variables with the information of your server;
 
     ```java
-    java -Durl=${CITSMART_PROTOCOL}://${CITSMART_URL}/citsmart -DcontainerIdentifier=${CITSMARTGUACD_ID} -DuserName=citsmart.local\\${CITSMART_LOGIN} -Dpassword=${CITSMART_PASSWORD} -jar /citsmart-guacd-encoder.jar &
+    java -Durl=${4biz_PROTOCOL}://${4biz_URL}/4biz -DcontainerIdentifier=${4bizGUACD_ID} -DuserName=4biz.local\\${4biz_LOGIN} -Dpassword=${4biz_PASSWORD} -jar /4biz-guacd-encoder.jar &
     ```
 
 6. Set directory for recording videos (eg.: /mp4);

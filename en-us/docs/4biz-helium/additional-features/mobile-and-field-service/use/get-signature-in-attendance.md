@@ -52,13 +52,13 @@ Procedure
 Related
 ------
 
-[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-app.html)
+[Mobile 4biz Experience application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-app.html)
 
 [Configure mobile options](/en-us/4biz-helium/additional-features/mobile-and-field-service/configuration/configure-mobile-options.html)
 
 [Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
 
-[4biz GO application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[4biz GO application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 !!! tip "About"
 

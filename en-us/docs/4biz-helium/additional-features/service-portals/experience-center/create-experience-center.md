@@ -162,7 +162,7 @@ This structure allows the creation of an experience center using only widgets.
 |My services | Requests| Allows to open a ticket through the Experience Center|
 |My tickets | Requests| Allows to view the list of tickets opened by the user logged|
 ||||
-|Simple | Simple Agile Management | Allows to view the workspaces of the functionality Simple |
+|Tasker | Tasker Agile Management | Allows to view the workspaces of the functionality Tasker |
 ||||
 |Smart Chat | Communication | Allows to enter a logo for this submenu |
 |Call | Communication | Allows to enter the logo for this submenu |

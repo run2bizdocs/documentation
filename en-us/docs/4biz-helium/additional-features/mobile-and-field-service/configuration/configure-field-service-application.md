@@ -81,7 +81,7 @@ environment password. Verify the ticket and make the attendance.
 Related
 -------
 
-[4biz GO application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/citsmart-field-service-manual.html)
+[4biz GO application manual](/en-us/4biz-helium/additional-features/mobile-and-field-service/apps/4biz-field-service-manual.html)
 
 
 !!! tip "About"

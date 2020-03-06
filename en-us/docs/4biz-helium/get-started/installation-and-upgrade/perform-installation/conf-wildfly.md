@@ -13,8 +13,8 @@ Enter the jboss-cli and run the commands below:
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-post-size,value="5000485760")
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-header-size,value="65535")
 /subsystem=undertow/server=default-server/https-listener=https:write-attribute(name=max-parameters,value="3000")
-/subsystem=undertow/configuration=filter/rewrite=citsmart:add(target="/citsmart")
-/subsystem=undertow/server=default-server/host=default-host/filter-ref=citsmart:add(predicate="regex('\^/?\$') and equals(/citsmart)")
+/subsystem=undertow/configuration=filter/rewrite=4biz:add(target="/4biz")
+/subsystem=undertow/server=default-server/host=default-host/filter-ref=4biz:add(predicate="regex('\^/?\$') and equals(/4biz)")
 /subsystem=undertow/server=default-server/host=default-host/setting=access-log:add
 /subsystem=undertow/server=default-server/host=default-host/setting=access-log:write-attribute(name=pattern, value="%h %l %u [%t] \\"%r\\" %s %b \\"%{i,Referer}\\" \\"%{i,User-Agent}\\"")
 /subsystem=messaging-activemq/server=default/jms-queue=filaDocumentoQueue:add(entries=["queue/filaDocumento","java:jboss/exported/jms/queue/filaDocumento"])
