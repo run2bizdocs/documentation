@@ -32,46 +32,31 @@ Procedimento
 Campos 
 -------
 
-| Campo        | Descrição                                                                                 |
-|--------------|-------------------------------------------------------------------------------------------|
-| Nome (\*)    | Descrição do tipo de relacionamento                                                       |
-| Status (\*)  | Indica disponibilidade para uso                                                           |
-| Posição (\*) | Define no desenho de mapa em qual posição ficará a cardinalidade do item de configuração: |
-
--   Ativo
-
--   Inativo
-
--   "Mesmo nível" - do ponto selecionado para o desenho do mapa de IC, significa
-    que o IC ficará no mesmo nível(se “Ligado” não será pedido os níveis);
-
--   "Nível Superior" – Descrição do ponto selecionado para o desenho do mapa de
-    IC, que ficará acima;
-
--   "Nível Inferior" - Descrição do ponto selecionado para o desenho do mapa de
-    IC, que ficará abaixo;
+| Campo        | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome (\*)    | Descrição do tipo de relacionamento                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Status (\*)  | Indica disponibilidade para uso - Ativo - Inativo                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Posição (\*) | Define no desenho de mapa em qual posição ficará a cardinalidade do item de configuração: - "Mesmo nível" - do ponto selecionado para o desenho do mapa de IC, significa que o IC ficará no mesmo nível(se “Ligado” não será pedido os níveis); - "Nível Superior" – Descrição do ponto selecionado para o desenho do mapa de IC, que ficará acima; - "Nível Inferior" - Descrição do ponto selecionado para o desenho do mapa de IC, que ficará abaixo; |
 
 (\*) Indica Obrigatoriedade
 
 Ações
 -----
 
-| Ação     | Descrição                                            |
-|----------|------------------------------------------------------|
-| Gravar   | Insere / Altera o tipo de relacionamento.            |
-| Limpar   | Retorna os campos de cadastro ao seu estado default. |
-| Pesquisa | Retorna à pesquisa de Tipo de relacionamento.        |
+| Ação   | Descrição                                            |
+|--------|------------------------------------------------------|
+| Gravar | Insere / Altera o tipo de relacionamento.            |
+| Limpar | Retorna os campos de cadastro ao seu estado default. |
 
-!!! warning "ATENÇÃO" Caso um Tipo de relacionamento esteja sendo utilizado em
-um desenho de Mapa, então, o sistema não permitirá a edição da posição Mesmo
-Nível.
 
-!!! warning "GRAVAÇÃO" Sempre será gravado o usuário que realizou a gravação, a
-data e a hora da criação.
+!!! warning "ATENÇÃO" 
+    Caso um Tipo de relacionamento esteja sendo utilizado em um desenho de Mapa, então, o sistema não permitirá a edição da posição Mesmo Nível.
+
+!!! warning "GRAVAÇÃO" 
+    Sempre será gravado o usuário que realizou a gravação, a data e a hora da criação.
 
 Relacionado
 -----------
 
-[Relacionar Item de Configuração a um
-serviço](/pt-br/4biz-helium/processes/configuration/use/create-ic-relationship.html)
+[Relacionar Item de Configuração a um serviço](/pt-br/4biz-helium/processes/configuration/use/create-ic-relationship.html)
 
