@@ -35,7 +35,7 @@ Exemplo:
     
 
 !!! success "USUÁRIO Builder"
-    Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Builder contenha no campo login o atributo de identificação do domínio, ou seja, "citsmart.local" (ex. O usuário "Builder" deverá ter no campo login a seguinte informação  "4biz.local\builder.user").
+    Para que a integração funcione corretamente é necessário que o usuário de serviço criado para o Builder contenha no campo login o atributo de identificação do domínio, ou seja, "4biz.local" (ex. O usuário "Builder" deverá ter no campo login a seguinte informação  "4biz.local\builder.user").
 
 
 [1]:images/builder-conection.png

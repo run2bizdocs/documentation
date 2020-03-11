@@ -4,9 +4,9 @@ Description: Aplicación Builder
 
 
 
-La Aplicación Builder es una composición de elementos que interactúan entre sí para componer un conjunto de funcionalidades integradas al Citsmart y sistemas legados. 
+La Aplicación Builder es una composición de elementos que interactúan entre sí para componer un conjunto de funcionalidades integradas al 4biz y sistemas legados. 
 
-Los principales elementos de Citsmart Builder son Objetos de Negocio, Reglas de Negocio, Formularios, Flujos y Procesos de Negocio.
+Los principales elementos de 4biz Builder son Objetos de Negocio, Reglas de Negocio, Formularios, Flujos y Procesos de Negocio.
 
 Antes de empezar
 --------------

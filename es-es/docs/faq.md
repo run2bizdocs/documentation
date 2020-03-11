@@ -343,7 +343,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     
     4- Después de la configuración de los parámetros referentes al nombre de las fases del ciclo de vida del IC, en la pantalla de Gestión de ítems de configuración se muestra la descripción de las fases del ciclo de vida del IC, tal como se especifica en el valor del parámetro.
     
-	CONFIGURACIÓN A PARTIR DE LA PANTALLA DE PARÁMETROS DEL CITSMART
+	CONFIGURACIÓN A PARTIR DE LA PANTALLA DE PARÁMETROS DEL RUN2BIZ
     
     1. Acceda a la funcionalidad de Parámetros del 4biz a través de la navegación en el menú principal Parametrización > Parámetros 4biz;
     2. Después de eso, aparecerá la pantalla de Parámetros de 4biz, haga clic en la pestaña de búsqueda de parámetros de 4biz. Se mostrará la pantalla para la búsqueda de parámetros;
@@ -484,7 +484,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
         funcionará;
      2.  Acceda a la funcionalidad de Parámetros de 4biz a través de la
     navegación en el menú principal Parametrización > Parámetros
-    Citsmart;
+    Run2biz;
     3.  Se mostrará la pantalla de Parámetros de 4biz, haga clic en la
     pestaña de Búsqueda de Parámetros de 4biz;
      4.  Se mostrará la pantalla para la búsqueda de parámetros, realice la búsqueda
@@ -500,7 +500,7 @@ description: Aquí tienes las respuestas de las preguntas más comunes cuando se
     entrada de mensajes de Service Desk" y seleccionelo;
     8.  Se mostrará la pantalla de registro del parámetro con el contenido referente
     al registro seleccionado, en el campo valor, informe el correo electrónico o
-    login de la cuenta de correo electrónico (por ejemplo, soporte.citsmart);
+    login de la cuenta de correo electrónico (por ejemplo, soporte.Run2biz);
     9.  Haga clic en el botón "Grabar" para realizar la operación, en este caso la
     fecha, hora y usuario serán almacenados automáticamente para una futura
     auditoría;

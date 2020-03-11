@@ -4,7 +4,7 @@ Title: Finalizar instalação
 
 Após o deploy do 4biz, você deverá seguir os passos para finalizar a instalação.
 
-1. Em um navegador Web, acessar a instância 4biz informando a URL definida para o ambiente (ex: https://citsmart.exemplo.com);
+1. Em um navegador Web, acessar a instância 4biz informando a URL definida para o ambiente (ex: https://4biz.exemplo.com);
 
 2. No primeiro passo da instalação, inserir a chave da licença adquirida junto à 4biz, e depois disso clicar em "próximo";
 
