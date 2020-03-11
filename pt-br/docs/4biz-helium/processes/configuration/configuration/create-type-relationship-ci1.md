@@ -27,7 +27,7 @@ Procedimento
 
     2.  Editar – Permite editar um tipo de relacionamento;
 
-    3.  Excluir - Permite excluir um tipo de relacionamento**;**
+    3.  Excluir - Permite excluir um tipo de relacionamento;
 
 Campos 
 -------
