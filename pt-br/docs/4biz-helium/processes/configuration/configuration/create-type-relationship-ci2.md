@@ -1,11 +1,9 @@
-Title: Cadastrar tipo de relacionamento de IC1
+Title: Cadastrar tipo de relacionamento de IC
 
-Cadastrar tipo de relacionamento de IC1
+Cadastrar tipo de relacionamento de IC
 ======================================
 
-O cadastro de tipo relacionamento de IC é necessário para a gestão de Itens de
-Configuração (ativos e serviços) no CMDB. Com este cadastro será possível, a
-partir de um IC, definir níveis de relacionamento entre ICs.
+O cadastro de tipo relacionamento de IC é necessário para a gestão de Itens de Configuração (ativos e serviços) no CMDB. Com este cadastro será possível, a partir de um IC, definir níveis de relacionamento entre ICs.
 
 O que fazer antes
 -----------------
@@ -21,13 +19,11 @@ Procedimento
 -   O sistema apresentará a tela com os Tipo de relacionamento cadastrados com
     filtro de Nome e Status;
 
--   O usuário poderá selecionar as opções:
+-   O usuário podera selecionar a opção "Novo" para inserir um novo tipo de relacionamento ou para cada registro rio poderá selecionar as opções:
 
-    1.  Novo – Permite inserir um novo tipo de relacionamento;
+    1. Editar - alterar um tipo de relacionamento;
 
-    2.  Editar – Permite editar um tipo de relacionamento;
-
-    3.  Excluir - Permite excluir um tipo de relacionamento;
+    2. Excluir - excluir um tipo de relacionamento;
 
 Campos 
 -------
@@ -52,7 +48,7 @@ Ações
 !!! warning "ATENÇÃO" 
     Caso um Tipo de relacionamento esteja sendo utilizado em um desenho de Mapa, então, o sistema não permitirá a edição da posição Mesmo Nível.
 
-!!! warning "GRAVAÇÃO" 
+!!! note "GRAVAÇÃO" 
     Sempre será gravado o usuário que realizou a gravação, a data e a hora da criação.
 
 Relacionado
