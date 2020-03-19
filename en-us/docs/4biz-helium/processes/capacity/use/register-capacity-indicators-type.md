@@ -18,7 +18,7 @@ Procedure
 
     1.  **Edit** - to Change the Capacity Type
 
-    2.  **Delete** – to Exclude the Capacity type
+    2.  **Delete** â€“ to Exclude the Capacity type
 
 -   Enter the data and actions;
 
@@ -27,10 +27,10 @@ Fields
 
 | \*Field\*      | \*Description\*                                                                              |
 |----------------|----------------------------------------------------------------------------------------------|
-| Name  (\*)     | Name of the capacity indicator type                                                          |
-| Category  (\*) | Choose one of the pre-defined categories                                                     |
-| Status  (\*)   | Indicates usage availability                                                                 |
-|                | - "Active" – available to use. - "Inative" – unavailable to use.                             |
+| NameÂ  (\*)     | Name of the capacity indicator type                                                          |
+| CategoryÂ  (\*) | Choose one of the pre-defined categories                                                     |
+| StatusÂ  (\*)   | Indicates usage availability                                                                 |
+|                | - "Active" â€“ available to use. - "Inative" â€“ unavailable to use.                             |
 
 (\*) Indicate mandatory field
 
@@ -51,7 +51,3 @@ Related
 !!! tip "About"
 ---------------
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<b>Product/Version:</b> CITSmart | 9.00 &nbsp;&nbsp;
-<b>Updated:</b>19/03/2020 - AndrÃ© L. Fernandes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
