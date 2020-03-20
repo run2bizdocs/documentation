@@ -1,20 +1,21 @@
-title: Register Type of capacity indicators Description: Is intended to maintain types of capacity indicators. 
-# Register type of capacity indicators 
+title: Register Type of capacity indicators 
+Description: Is intended to maintain types of capacity indicators.
+
+# Register type of capacity indicators
+
 This functionality is intended to maintain types of capacity indicators.
 
-Before getting started
-----------------------
+## Before getting started
 
 It's necessary to have defined the access permission to the functionalities of the Capacity Management and have permission of usage the functionality.
 
-Procedure
----------
+## Procedure
 
 -   Access the functionality through the main menu Processes \> Capacity Management \> Capacity Indicator Type;
 
--   The system will present a screen with the types of Capacity Indicators registered and a filter with Name, Category and Status.
+-   The system will present a screen with the types of Capacity Indicators registered and a filter with Name, Category and Status;
 
--   The user can select the option "**New**" to create a new type of Capacity Indicator or for each type listed the user can select :
+-   The user can select the option "**New**" to create a new type of Capacity Indicator or for each type listed the user can select:
 
     1.  **Edit** - to Change the Capacity Type
 
@@ -22,31 +23,30 @@ Procedure
 
 -   Enter the data and actions;
 
-Fields
-------
+## Fields
 
-| \*Field\*      | \*Description\*                                                                              |
-|----------------|----------------------------------------------------------------------------------------------|
-| Name  (\*)     | Name of the capacity indicator type                                                          |
-| Category  (\*) | Choose one of the pre-defined categories                                                     |
-| Status  (\*)   | Indicates usage availability                                                                 |
-|                | - "Active" – available to use. - "Inative" – unavailable to use.                             |
 
-(\*) Indicate mandatory field
+| Field         | Description                                                                                  |
+|---------------|----------------------------------------------------------------------------------------------|
+| Name  (*)     | Name of the capacity indicator type                                                          |
+| Category  (*) | Choose one of the pre-defined categories                                                     |
+| Status  (*)   | Indicates usage availability (Active/Inactive)                                               |
 
-Actions
--------
+(*) Indicate mandatory field
 
-| \*Action\* | \*description\*                                             |
+## Actions
+
+| Action     | Description                                                 |
 |------------|-------------------------------------------------------------|
 | Save       | Create / Change the type of capacity indicator.             |
 | Clear      | Return the fields to default.                               |
 | Search     | Return to the previous list of types of capacity indicators |
 
-Related
--------
+## Related
 
-[Register Capacity Indicator] (/en-us/4biz-helium//processes/capacity/use/register-capacity-indicators.html)
+- [Register capacity indicators](/en-us/citsmart-platform-9/processes/capacity/use/register-capacity-indicators.html)
 
 !!! tip "About"
----------------
+
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Updated:</b> 20/03/2020 - Andre Fernandes
