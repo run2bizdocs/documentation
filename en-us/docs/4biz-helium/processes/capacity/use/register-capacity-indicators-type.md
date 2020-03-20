@@ -51,6 +51,6 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b> 20/03/2020 â€“ Andre Fernandes
+    <b>Updated:</b> 20/03/2020 - Andre Fernandes
 
 
