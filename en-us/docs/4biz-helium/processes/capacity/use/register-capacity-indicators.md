@@ -41,7 +41,7 @@ Fields
 Actions
 -------
 
-| \Action\   | \Description\                                               |
+| Action     | Description                                                 |
 |------------|-------------------------------------------------------------|
 | Save       | Create / Change the capacity indicator.                     |
 | Clear      | Return the fields to default.                               |
