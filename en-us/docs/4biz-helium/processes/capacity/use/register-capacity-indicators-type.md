@@ -1,4 +1,5 @@
-title: Register Type of capacity indicators Description: Is intended to maintain types of capacity indicators. 
+title: Register Type of capacity indicators 
+Description: Is intended to maintain types of capacity indicators. 
 # Register type of capacity indicators 
 This functionality is intended to maintain types of capacity indicators.
 
@@ -25,19 +26,18 @@ Procedure
 Fields
 ------
 
-| \*Field\*      | \*Description\*                                                                              |
+| \Field\        | \Description\                                                                                |
 |----------------|----------------------------------------------------------------------------------------------|
 | Name  (\*)     | Name of the capacity indicator type                                                          |
 | Category  (\*) | Choose one of the pre-defined categories                                                     |
-| Status  (\*)   | Indicates usage availability                                                                 |
-|                | - "Active" – available to use. - "Inative" – unavailable to use.                             |
+| Status  (\*)   | Indicates usage availability (Active/Inactive)                                               |
 
 (\*) Indicate mandatory field
 
 Actions
 -------
 
-| \*Action\* | \*description\*                                             |
+| \Action\   | \Description\                                               |
 |------------|-------------------------------------------------------------|
 | Save       | Create / Change the type of capacity indicator.             |
 | Clear      | Return the fields to default.                               |
@@ -46,8 +46,11 @@ Actions
 Related
 -------
 
-[Register Capacity Indicator] (/en-us/4biz-helium//processes/capacity/use/register-capacity-indicators.html)
+- [Register capacity indicators](/en-us/4biz-helium/processes/capacity/use/register-capacity-indicators.html)
 
 !!! tip "About"
----------------
+
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Updated:</b>20/03/2020 â€“ Andre Fernandes
+
 

@@ -21,9 +21,9 @@ Use
 
 - [Register capacity indicators](/en-us/4biz-helium/processes/capacity/use/register-capacity-indicators.html)
 
-- [Import capacity indicators data](/en-us/4biz-helium/processes/capacity/use/capacity-indicators-data.html)
+- [Register capacity indicators Type](/en-us/4biz-helium/processes/capacity/use/register-capacity-indicators-type.html)
 
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
+    <b>Updated:</b>20/03/2020 – Andre Fernandes
