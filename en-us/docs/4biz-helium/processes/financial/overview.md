@@ -12,7 +12,7 @@ Use
 
 - [Register Cycle](/en-us/4biz-helium/processes/financial/use/register-cycle.html)
 
-- [Register Finantial Item](/en-us/4biz-helium/processes/financial/use/register-finantial-item.html)
+- [Register Financial Item](/en-us/4biz-helium/processes/financial/use/register-financial-item.html)
 
 !!! tip "About"
 

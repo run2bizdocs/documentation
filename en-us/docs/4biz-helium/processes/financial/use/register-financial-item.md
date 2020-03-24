@@ -44,7 +44,7 @@ It's necessary to have defined the access permission to the functionalities of t
 
 ## Related
 
-- [Register finantial cycle](/en-us/4biz-helium/processes/financial/use/register-financial-cycle.html)
+- [Register financial cycle](/en-us/4biz-helium/processes/financial/use/register-financial-cycle.html)
 
 !!! tip "About"
 
