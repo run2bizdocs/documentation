@@ -10,9 +10,9 @@ According to ITIL, the ....
 Use
 -------
 
-- [Register Cycle](/en-us/4biz-helium/processes/finantial/use/register-cycle.html)
+- [Register Cycle](/en-us/4biz-helium/processes/financial/use/register-cycle.html)
 
-- [Register Finantial Item](/en-us/4biz-helium/processes/finantial/use/register-finantial-item.html)
+- [Register Finantial Item](/en-us/4biz-helium/processes/financial/use/register-finantial-item.html)
 
 !!! tip "About"
 

@@ -50,7 +50,7 @@ Actions
 Related
 -------
 
-- [Register finantial item](/en-us/4biz-helium/processes/finantial/use/register-finantial-item.html)
+- [Register finantial item](/en-us/4biz-helium/processes/financial/use/register-financial-item.html)
 
 !!! tip "About"
 
