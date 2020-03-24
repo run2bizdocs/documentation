@@ -1,9 +1,9 @@
-title: Register Type of capacity indicators 
-Description: Is intended to maintain types of capacity indicators.
+title: Register Finantial Item 
+Description: Is intended to maintain finantial item.
 
-# Register type of capacity indicators
+# Register finantial item
 
-This functionality is intended to maintain types of capacity indicators.
+This functionality is intended to maintain finantial item.
 
 ## Before getting started
 
@@ -44,7 +44,7 @@ It's necessary to have defined the access permission to the functionalities of t
 
 ## Related
 
-- [Register capacity indicators](/en-us/4biz-helium/processes/capacity/use/register-capacity-indicators.html)
+- [Register finantial cycle](/en-us/4biz-helium/processes/finantial/use/register-finantial-cycle.html)
 
 !!! tip "About"
 
