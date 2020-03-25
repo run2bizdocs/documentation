@@ -2,7 +2,7 @@
 site_name: 'Run2biz Documentation'
 site_description: 'Documentation of Run2biz Procucts'
 site_author: 'Run2biz Corporation'
-site_url: 'https://docs.run2biz.com/en-us/index.html'
+site_url: 'https://documentation.run2biz.com/en-us/index.html'
 
 # Repository
 #repo_name: '4biz/docs'
@@ -100,7 +100,7 @@ use_directory_urls: false
 # Nav tree
 nav:
 - Home:
-  - 'https://docs.run2biz.com/en-us/home.html'
+  - 'https://documentation.run2biz.com/en-us/home.html'
 - 4biz Helium:
   - Get Started:
     - About 4biz:
