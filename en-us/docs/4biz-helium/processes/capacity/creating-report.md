@@ -1,10 +1,12 @@
 Title: Create Reporst Description
 
-# Creating Reports
+# Creating Capacity Reports
 
-The reports can be created through BI and exported in Xls and PDF.
-Those reports can be generated with all platform capacity data or through external plataform conection.
-These reports can be used for risk analysis and management and integrated into the continuity risk management process.
+Reports can be created using BI and exported in Xls and PDF formats.
+
+These reports can be generated with all the platform's capacity data or through connection with external platforms.
+
+Moreover, these reports can be used for risk analysis and management and integrated into the continuity risk management process.
 
 ## Related
 
