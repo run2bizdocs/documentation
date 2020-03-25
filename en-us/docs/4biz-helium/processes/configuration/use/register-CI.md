@@ -50,8 +50,18 @@ Procedure
     * [x] Group
     * [x] Type of Responsible
     * [x] Responsible
-
+    
 5.  Click on "Save" .
+
+
+### Configuring capacity attributes
+
+1. In the general settings of the configuration item, there is an option to enable the use of capacity indicators in that CI.
+
+2. To configure capacity attributes, click on the **Capacity** item, located in the list of CI attributes (accessible on the left side of the screen).
+
+3. Click on the icon for editing (the pencil icon) , in **notification** enable/disable the notifications for changes in capacity attributes. In the item **forecast**, indicate in percentage the level for sending notification relating to the capacity described
+
 
 Related
 -------
@@ -67,6 +77,8 @@ Related
 [Register type of configuration item](/en-us/4biz-helium/processes/configuration/configuration/register-type-ic.html)
 
 [Register location](/en-us/4biz-helium/platform-administration/region-and-language/register-locations.html)
+
+[Creating capacity reports](en-us/4biz-helium/processes/capacity/creating-report.html)
 
 !!! tip "About"
 
