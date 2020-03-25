@@ -43,7 +43,10 @@ By clicking on **View total capacity**, we have the following information:
 ## Related
 
 [Relating Configuration Item to a service][1]
+[Verify processes related to the configuration item][3]
 
 [1]:/en-us/4biz-helium/processes/configuration/use/create-ic-relationship.html
 
 [2]:/en-us/4biz-helium/processes/configuration/use/create-ic-relationship.html
+
+[3]:/en-us/4biz-helium/processes/configuration/use/CI-processes-related.html
