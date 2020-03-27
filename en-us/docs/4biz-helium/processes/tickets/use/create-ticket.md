@@ -20,12 +20,14 @@ Creating a ticket means opening an Incident or Service Request  within the syste
 3.	Enter the requester's data;
 
 ## Identification Fields 
-| Field            | Description                                         |
-|------------------|-----------------------------------------------------|
-| Requester(\*)    | Name of requester ( an be searchable with %%)       |
-| E-mail (\*)      | Add an e-mail for the requester                     |
-| Unit             | Unit of the requester                               |
-| Contact's origin | Service Desk, Email, Facebook, Twitter among others |
+| Field                | Description                                         |
+|----------------------|-----------------------------------------------------|
+| **Requester(\*)**    | Name of requester (can be searchable with %%)       |
+| **E-mail (\*)**      | Add an e-mail for the requester                     |
+| **Unit**             | Unit of the requester                               |
+| **Contact's origin** | Service Desk, Email, Facebook, Twitter among others |
+
+(*) Indicate mandatory field
 
 !!! Abstract "NOTE"
 
@@ -33,29 +35,30 @@ Creating a ticket means opening an Incident or Service Request  within the syste
 
 ### Selecting the service
 
-The user will select the Incident or Service request to be registered
+The user will select the Incident or Service request to be registered 
 
-| Field         | Description                              |
-|---------------|------------------------------------------|
-| **Portfolio** | The portfolios that the user are linked; |
-| **Service**   | The services of the selectes portfolio;  |
-| **Activity**  | The activities os the selected service;  |
-| **Contract**  | Contracts linked to the portfolio;       |
-| **Impact**    | Impact of the activity;                  |
-| **Urgency**   | Urgency of the activity;                 |
+| Field            | Description                              |
+|------------------|------------------------------------------|
+| **Portfolio**    | The portfolios that the user are linked; |
+| **Service**      | The services of the selectes portfolio;  |
+| **Activity**     | The activities os the selected service;  |
+| **Contract(\*)** | Contracts linked to the portfolio;       |
+| **Impact**       | Impact of the activity;                  |
+| **Urgency**      | Urgency of the activity;                 |
 
-
+(Portfolio/Service/Activity are mandatory)
+(*) Indicate mandatory field
 
 ### Describing the Incident or Service Request
 
 The user will describe the Incident or Service Request
 
-| Field             | Description                                                             |
-|-------------------|-------------------------------------------------------------------------|
-| **Description**   | Will describe the needs for the ticket;                                 |
-| **Send email**    | Select which types and email the user will receive;                     |
-| **Questionnaire** | Information that complements the understanding/purposes of the service; |
-
+| Field               | Description                                                             |
+|---------------------|-------------------------------------------------------------------------|
+| **Description(\*)** | Will describe the needs for the ticket;                                 |
+|**Send email**       | Select which types and email the user will receive;                     |
+| **Questionnaire**   | Information that complements the understanding/purposes of the service; |
+(*) Indicate mandatory field
 
 !!! Abstract "TIP"
 
@@ -91,14 +94,14 @@ Access the small black Arrow button in the upper right side of the screen, below
 | **Release**        | Can search releases to link to the Incident or Service reques, also can create and link the Release |
 
 
-### Saving request
+### Saving 
 
 At the end of the page, you will find a floating button with the functions of:
 
 | Function           | Description                                                                                         |
 |--------------------|-----------------------------------------------------------------------------------------------------|
 | **Back**           | To get back to the desktop of the Service Desk                                                      |
-| **Save**           | To save the ticket and create the number for tracking and monitoring                                |
+| **Save**           | To save the Incident or Service Request and create the number for tracking and monitoring           |
 
 
 When creating the ticket for attendance, the user will see a new option (located at the top side of the screen) called *Layout*, this option allows the user to parametrize how the screen will be presented to the attendant, who can choose from the following possibilities:
