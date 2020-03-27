@@ -23,7 +23,7 @@ After the Incident or Service Request opening the system will retrieve the Incid
 | Field                | Description                                                                                                                                                |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Requester**        | Name of requester (can be searchable with %%)                                                                                                              |
-| **E-mail **          | Add an e-mail for the requester                                                                                                                            |
+| **E-mail**           | Add an e-mail for the requester                                                                                                                            |
 | **Unit**             | Unit of the requester                                                                                                                                      |
 | **Contact's origin** | Service Desk, Email, Facebook, Twitter among others                                                                                                        |
 | **Requester history**| the requester history with No. of calls,Calls resolved on time, Delayed calls, Calls still open, Calls running and delayed, and the level of Satisfaction. |
