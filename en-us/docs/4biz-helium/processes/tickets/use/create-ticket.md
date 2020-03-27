@@ -52,6 +52,10 @@ The user will select the Incident or Service request to be registered
 
 !!! Abstract "NOTE"
 
+    The priority is calculated by crossing the impact and urgency fields, being: High High - priority 1; High Medium - priority 2; Medium Medium - priority 3; Medium Low - priority 4; Low Low - priority 5.
+
+!!! Abstract "NOTE"
+
     After selecting the Portfolio/Service/Activity the system will retreive the SLA to the Incident or Service Request.
 
 ### Describing the Incident or Service Request
