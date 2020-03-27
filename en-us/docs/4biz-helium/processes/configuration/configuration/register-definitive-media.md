@@ -16,13 +16,35 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Configuration
     Management \> Configuration Item \> Media Software;
 
-2.  Complete the fields available in three fields: Basic Data, Licenses and
-    Knowledge;
+2.  For create a definitive media complete the fields available: 
 
-3.  Click on "Save".
+|Fild|Description|
+|---|---|
+|Name (*)|Name of definitive media|
+|Physical address (*)|Physical address of the definitive media|
+|Logical Address|Logical address of the definitive media|
+|Type of Media (*)|Select the type of media of the definitive media|
+|Type of Software|Select the software type of the definitive media|
+|License Type|Select the type of liscensa of the definitive media|
+|No. of licenses|Set the number of licenses allowed for use|
+|Version|Define the final media version|
+
+Licenses
+|Fild|Description|
+|---|---|
+|Key|Product key definition|
+|No. of Usage Permissions|Set the number of permissions to use the definitive media|
+
+Knowledge
+|Fild|Description|
+|---|---|
+|Title|Select the title of the knowledge you want to link to the definitive media|
+
+3.  Click on "Save";
+
+4. For search some definitive media access the "definitive media search" tab and select the media to be able to view, edit or delete.
 
 
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 – Anna Martins
