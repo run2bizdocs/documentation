@@ -2,7 +2,7 @@ title: Analyze Incident or Service Request trends
 
 Description: Aims to make an analysis of the Incident or Service Request, based on the critical amount, to identify which items will influence on the launch of a new request.  
 
-# Analyze service request trends  
+# Analyze Incident or Service Request trends  
 This functionality aims to make an analysis of the Incident or Service Request, based on the critical amount, to identify which items will influence on the launch of a new request.  
 
 Before getting started
