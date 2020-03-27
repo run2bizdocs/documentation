@@ -74,6 +74,7 @@ Procedure
         The user will be able to choose services from the service catalog based on his permissions
 
 
+
     !!! Abstract "NOTES"  
 
         The knowledge available in the tab "Knowldege" of the "Service" item can be defined
