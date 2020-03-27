@@ -49,6 +49,10 @@ Procedure
     
     !!! Abstract "NOTE"
     
+        If the known error option is selected, the system will present a field to define which environment this knowledge should be linked to (Production or Development).
+    
+    !!! Abstract "NOTE"
+    
         It's possible to register more of a solution to the item "Workaround".
         
     !!! Abstract "NOTE"
