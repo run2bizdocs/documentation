@@ -9,9 +9,8 @@ This functionality allows to register the problems found.
 
 ## Before getting started
 
-Before starting to register a problem, it's necessary to register the
-problem portfolio, as well as having the access permissions to the
-"Problem" functionality.
+- [X] It's necessary to register the problem portfolio 
+- [X] Having the access permissions to the "Problem" functionality.
 
 ## Procedure
 
@@ -35,16 +34,18 @@ problem portfolio, as well as having the access permissions to the
 |**Source(\*)**|The source of the problem you're creating|
 |**Other information**| All other information that is necessary to understand the problem|
 
-*Fields with ( * ) are mandatory*
+(*) Indicate mandatory field
 
 ### Selecting an incident
 
-Here it's possible to link an incident to the problem you're creating. We have the following options:
+Here it's possible to link an incident to the problem you're creating. We have the following functions:
 
 |Function|Description|
 |-------|------------|
 |**Register**|This option is to register a new incident to be linked to the problem being created. By clicking on this option, it'll be opened the screen of incident registration|
 |**Add**|This option is to relate an incident already registered. It'll open a box so you can search for the incident you want with the filters available|
+
+(*) Indicate mandatory field
 
 ### Detailing the problem
 
@@ -64,7 +65,7 @@ The user will select all the information about the problem itself.
 |**Severity(\*)**|Select the degree of severity for the problem|
 |**Notifications**|Select which types and email the user will receive|
 
-*Fields with ( * ) are mandatory*
+(*) Indicate mandatory field
 
 ### Linking additional items
 
@@ -72,11 +73,11 @@ On the left side of the screen, besides the three options (Requester, Incidents 
 
 |Function|Description|
 |--------|-----------|
-|**Related CI**|It's possible to link a CI to problem|
-|**Services of the Problem**| It's possible to link services to it|
-|**Release**|It's possible to link a release to the problem or registering a new one|
-|**Problem**|It's possible to link another problem to the one you're creating, or also to create a new one from here|
-|**Knowledge Base**|It's possible to link a knowledge from the Knowledge Base or creating a new one|
+|**Related CI**|Can link a CI to problem|
+|**Services of the Problem**| Can link services to it|
+|**Release**|Can link a release to the problem or registering a new one|
+|**Problem**|Can link another problem to the one you're creating, or also to create a new one from here|
+|**Knowledge Base**|Can link a knowledge from the Knowledge Base or creating a new one|
 
 ### Saving
 
