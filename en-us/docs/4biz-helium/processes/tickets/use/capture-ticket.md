@@ -59,7 +59,6 @@ To become responsible for the Incident or Service Request, you can find in the t
 | **Knowledge**     | Appears when there is knowledge linked to the flow step     |
 | **Layout**        | Enables page layout editing (30% - 70%, 50% - 50% and 100%) |
 
-
 ### Ticket options
 
 In the options, we have:
@@ -75,7 +74,6 @@ In the options, we have:
 | **Create related ticket** | Link a related Incident or Service Request for the attendance                |
 | **Schedule activity**     | Can create an Activities Schedule for the Incident or Service Request        |
 | **Print**                 | Print the Incident or Service Request Information                            |
-
 
 ## Attending an Incident or Service Request
 
@@ -96,7 +94,7 @@ The user can write a comment and perform the following actions
 | **Send email** | Mark to send the comment as an e-mail                                                            |
 | **Add**        | Add the Comment to the Incident or Service Request                                               |
 
-(After adding the comment it´s alse possible to view and interact with all comments made within the ticket (Edit - Delete - Reply the comment)
+After adding the comment it´s alse possible to view and interact with all comments made within the ticket (Edit - Delete - Reply the comment)
 
 ### Assignment and Action
 
@@ -134,9 +132,9 @@ Access the small black Arrow button in the upper right side of the screen, below
 | **Email reading**         | Can search and read e-mails                                                                         |
 | **Requester CI**          | Can search and select the Requester's configuration items                                           |
 | **Related CI**            | Can search and select the configuration items for the Incident or Service Request                   |
-| **Problem**               | Can search Problems to link to the Incident or Service reques, also can create and link the Problem |
-| **Change**                | Can search Changes to link to the Incident or Service reques, also can create and link the Change   |
-| **Release**               | Can search releases to link to the Incident or Service reques, also can create and link the Release |
+| **Problem**               | Can search Problems to link to the Incident or Service request, also can create and link the Problem |
+| **Change**                | Can search Changes to link to the Incident or Service request, also can create and link the Change   |
+| **Release**               | Can search releases to link to the Incident or Service request, also can create and link the Release |
 
 
 ### Saving 
