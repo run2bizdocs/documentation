@@ -146,7 +146,6 @@ We also have the information about:
 
 3. Click on the icon for editing (the pencil icon) , in **notification** enable/disable the notifications for changes in capacity attributes. In the item **forecast**, indicate in percentage the level for sending notification relating to the capacity described
 
-### What to do after
 
 Related
 -------
