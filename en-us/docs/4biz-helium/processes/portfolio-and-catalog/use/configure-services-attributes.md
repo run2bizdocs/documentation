@@ -30,98 +30,98 @@ Procedure
 4.  On the left side, it's presented the different attributes that can be
     configured.
 
-### Service Attributes
+## Service Attributes
 
-#### Details
+### Details
 
 It allows to change/update the service data
 
-#### Service Level Requirements
+### Service Level Requirements
 
 Register the service level requirements
 
-#### Financial Attributes
+### Financial Attributes
 
 Register the service financial attributes
 
-#### Business Cases
+### Business Cases
 
 Register the business case of the service. This business case is a summary of
 all service information
 
-#### Service Map
+### Service Map
 
 Set the design of service map related to the enabling services and configuration
 items. In this design, it's defined which enabling service will be used to
 perform the main service
 
-#### Business Processes
+### Business Processes
 
 Link the business processes that are not supported by the service
 
-#### Support Services
+### Support Services
 
 Link the support/technical services. Those services support the main service
 
-#### Business Owner
+### Business Owner
 
 Link the business owner to the service, which can be employees or groups
 
-#### Business User
+### Business User
 
 Link business users to the service
 
-#### Requests
+### Requests
 
 Register the service activities requests
 
-#### Applications
+### Applications
 
 Link the applications that will be used to run the service
 
-#### Data schema
+### Data schema
 
 Register the data schema of the service
 
-#### Incidents
+### Incidents
 
 Register the service incident activities
 
-#### Procedures
+### Procedures
 
 Register the procedures for the service, which will be used by the continuity
 management to trigger and control the service restoration activities
 
-#### Contracts
+### Contracts
 
 Link the contract that provides the service
 
-#### IT Owners
+### IT Owners
 
 Link the IT service owners to the service, which can be users or groups
 
-#### Knowledge base
+### Knowledge base
 
 Link the knowledge to the service. The knowledge is an information of the
 service provider to deliver the service
 
-#### Skill/Resource
+### Skill/Resource
 
 Link the skills/resources to the service
 
-#### Capacity/Performance
+### Capacity/Performance
 
 Link indicators of capacity/performance to the service
 
-#### Attribute of Demand
+### Attribute of Demand
 
 Link demand attributes to the service
 
-#### Service Evaluations
+### Service Evaluations
 
 Manage the service evaluations that were registered via Smart Portal
 
-#### Service Audit
+### Service Audit
 
 Verify the history of service to audit it
 
