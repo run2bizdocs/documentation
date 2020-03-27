@@ -50,6 +50,10 @@ The user will select the Incident or Service request to be registered
 
 (*) Indicate mandatory field
 
+!!! Abstract "NOTE"
+
+    After selecting the Portfolio/Service/Activity the system will retreive the SLA to the Incident or Service Request.
+
 ### Describing the Incident or Service Request
 
 The user will describe the Incident or Service Request
@@ -57,7 +61,7 @@ The user will describe the Incident or Service Request
 | Field               | Description                                                             |
 |---------------------|-------------------------------------------------------------------------|
 | **Description(\*)** | Will describe the needs for the ticket;                                 |
-|**Send email**       | Select which types and email the user will receive;                     |
+| **Send email**      | Select which types and email the user will receive;                     |
 
 (*) Indicate mandatory field
 
@@ -75,7 +79,7 @@ The user will describe the Incident or Service Request
 
 | Field             | Description                                                                                     |
 |-------------------|-------------------------------------------------------------------------------------------------|
-| **Situation**     |  The situation for the Incident r Service Request (Registered/In Progress, Solved or Canceled)  |
+| **Situation**     |  The situation for the Incident or Service Request (Registered/In Progress, Solved or Canceled) |
 
 (One of the situations have to be selected)
 
