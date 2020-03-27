@@ -1,37 +1,35 @@
 title: Verify configuration item availability
 
-Description: This functionality is intended to verify the CIs availability group.
+Description: This functionality is intended to verify the availability of CI.
 
-# Verify configuration item availability
+# Verifying configuration item availability
 
-This functionality is intended to verify the CIs availability group.
+This functionality is intended to verify the availability of CI.
 
-Before getting started
---------------------------
+## Before getting started
 
-The verification of this availability requires the previous registration of the
-availability group. It is also necessary to link the calendar, the service level
-agreement of type "availability" and the cost per hour of unavailability to the:
-configuration item, the configuration item group and the service contract.
+- [x] Previous registration of the availability group. 
+- [x] It's also necessary to link the calendar, the service level agreement of type "availability" and the cost per hour of unavailability to the: configuration item, the configuration item group and the service contract.
 
-Procedure
--------------
+## Procedure
 
 1.  Access the functionality through the main menu Processes \> Availability
     Management \> Availability;
 
 2.  Click on the Configuration Item tab;
 
-3.  Click on “+” symbol located on the Filters area, to search for the CI group
+3.  Click on “+” symbol located on the Filters area, to search for the CI
     you want;
 
 4.  It can be added several items, the amount you want, to the verification;
 
-5.  Verify the information in Availability per period, total availability and
-    unavailability occurrence, through the period filters;
+6.  Once you add the CI, you can update the charts presented after this field by clicking on "Update Charts".
 
-6.  To download the total availability table and/or the unavailability
-    occurrence, click on "Save table" available in each area.
+5.  Verify the information in **Availability per period**. You can set the period you want and click on "Update" to view it. 
+
+6.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can click on the slices of the chart to see the details about the CI's time distribution. You can also download it by clickin on "Save table";
+
+7.  Verify the information in **Unavailability Occurrences**. You can set the period you want and click on "Update" to view it. It's also possible to download it by clicking on "Save table".
 
 Related
 -----------
