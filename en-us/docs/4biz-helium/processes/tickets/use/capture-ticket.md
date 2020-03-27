@@ -111,7 +111,7 @@ Take actions (the actions are defined by the Service flowand will appear only if
 | **Situation**     |  The situation for the Incident or Service Request (Registered/In Progress, Solved or Canceled) |
 
 
-**Status** – of ticket;
+**Status** – Status of Incident or Service Request :
 
 -   **Registered/In Progress** – the ticket isn't ready to be closed;
 
