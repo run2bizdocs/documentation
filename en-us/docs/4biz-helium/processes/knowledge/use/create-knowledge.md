@@ -99,7 +99,7 @@ In the "Registration" tab, a form will be presented containing the fields for id
 (*) Indicate mandatory field
 
 !!! note "NOTE"
-    If the known error option is selected, the system will present a field to define which environment this knowledge should be linked to (Production or development).
+    If the option for known error is selected in the document type field, the system will present a field to define which environment this knowledge should be linked to (Production or development)
 
 #### Knowledge Content
 
