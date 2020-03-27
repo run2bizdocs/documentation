@@ -2,7 +2,7 @@ title: Registering definitive media
 Description: Registering the authorized and definitive versions of all Configuration Items (CI) of Software in a safe way.
 # Registering definitive media
 
-This functionality has the objective to register the authorized and definitive
+This functionality is intended to register the authorized and definitive
 versions of all Configuration Items (CI) of Software in a safe way.
 
 It can have configuration items associated with licenses and documentation.
@@ -20,23 +20,25 @@ Procedure
 
 |Field|Description|
 |---|---|
-|Name (*)|Name of definitive media|
-|Physical address (*)|Physical address of the definitive media|
+|Name ( * )|Name of definitive media|
+|Physical address ( * )|Physical address of the definitive media|
 |Logical Address|Logical address of the definitive media|
-|Type of Media (*)|Select the type of media of the definitive media|
+|Type of Media ( * )|Select the type of media of the definitive media|
 |Type of Software|Select the software type of the definitive media|
 |License Type|Select the type of liscensa of the definitive media|
 |No. of licenses|Set the number of licenses allowed for use|
 |Version|Define the final media version|
 
-Licenses
+*Fields with ( * ) are mandatory*
+
+**Licenses**
 
 |Field|Description|
 |---|---|
 |Key|Product key definition|
 |No. of Usage Permissions|Set the number of permissions to use the definitive media|
 
-Knowledge
+**Knowledge**
 
 |Fild|Description|
 |---|---|
