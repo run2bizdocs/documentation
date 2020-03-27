@@ -8,9 +8,9 @@ Creating a ticket means opening an Incident or Service Request  within the syste
 
 ## Before getting started
 
-1.	It's necessary to have permission to access the Ticket (Incident or Service Request) portal;
-2.	It's necessary to have a catalog of services registered and configured (Portfolio, services, activities, groups, flow, SLA linked to the contract);
-3.	Have permission for the group linked to the service catalog to view, attend and register tickets(Incident or Service Request).
+- [X] It's necessary to have permission to access the Ticket (Incident or Service Request) portal;
+- [X] Have a catalog of services registered and configured (Portfolio, services, activities, groups, flow, SLA linked to the contract);
+- [X] Have permission for the group linked to the service catalog to view, attend and register tickets(Incident or Service Request).
 
 
 ## Procedure
