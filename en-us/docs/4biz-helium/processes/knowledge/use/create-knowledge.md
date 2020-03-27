@@ -76,7 +76,7 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Field | Description |
 |-------|--------|-----------|
 | Title (*)| Name of the knowledge |
-| Document type (*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) |
+| Document type(*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) |
 | Source/Reference | Inform the source/reference of the knowledge |
 | Folder(*) | Place where the knowledge will be save |
 | Origin(*) | Trigger for the creation of a Knowledge |
@@ -95,6 +95,8 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Legislation | Indication if knowledge is (or makes) part of some legislation |
 | Availability Management | If the knowledge contributes to the Availability Management process |
 | Action | Knowledge management flow activity (e.g.: if the knowledge status is "In drawing" the possible action is "Send for review") |
+
+(*) Indicate mandatory field
 
 #### Knowledge Content
 
