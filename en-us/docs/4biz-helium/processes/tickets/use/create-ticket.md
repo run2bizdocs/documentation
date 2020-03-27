@@ -57,7 +57,7 @@ The user will describe the Incident or Service Request
 |---------------------|-------------------------------------------------------------------------|
 | **Description(\*)** | Will describe the needs for the ticket;                                 |
 |**Send email**       | Select which types and email the user will receive;                     |
-| **Questionnaire**   | Information that complements the understanding/purposes of the service; |
+
 (*) Indicate mandatory field
 
 !!! Abstract "TIP"
@@ -72,9 +72,11 @@ The user will describe the Incident or Service Request
 
 ### Defining Situation of the Incident or Service Request
 
-| Field             | Description                                                             |
-|-------------------|-------------------------------------------------------------------------|
-| **Situation**     |  The needs for the ticket (Registered/In Progress, Solved or Canceled)  |
+| Field             | Description                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------|
+| **Situation**     |  The situation for the Incident r Service Request (Registered/In Progress, Solved or Canceled)  |
+
+(One of the situations have to be selected)
 
 ### Addind attachments
 
