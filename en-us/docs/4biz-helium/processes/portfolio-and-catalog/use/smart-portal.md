@@ -98,5 +98,5 @@ Procedure
     
 !!! tip "About"  
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>02/13/2019 – Larissa Lourenço  
-   
+    <b>Updated:</b>27/03/2020 – Larissa Lourenço  
+ 
