@@ -74,7 +74,7 @@ The knowledge base registration/management interface has the following functiona
 In the "Registration" tab, a form will be presented containing the fields for identification, treatment and control of the knowledge.
 
 | Field | Description |
-|-------|--------|-----------|
+|-------|--------|
 | Title (*)| Name of the knowledge |
 | Document type(*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) |
 | Source/Reference | Inform the source/reference of the knowledge |
