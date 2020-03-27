@@ -71,7 +71,7 @@ Procedure
 
    !!! Abstract "NOTES"  
 
-        The user will be able to choose services from the service catalog based on their permissions
+        The user will be able to choose services from the service catalog based on his permissions
 
 
     !!! Abstract "NOTES"  
