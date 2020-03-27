@@ -98,6 +98,9 @@ In the "Registration" tab, a form will be presented containing the fields for id
 
 (*) Indicate mandatory field
 
+!!! note "NOTE"
+    If the known error option is selected, the system will present a field to define which environment this knowledge should be linked to (Production or development).
+
 #### Knowledge Content
 
 You have an editor [WYSIWYG][1] to work with the HTML content of your document. In it you can insert and edit the text, and you can also insert images, videos, hyperlinks and others.
