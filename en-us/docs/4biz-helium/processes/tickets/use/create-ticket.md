@@ -47,6 +47,7 @@ The user will select the Incident or Service request to be registered
 | **Urgency**      | Urgency of the activity;                 |
 
 (Portfolio/Service/Activity are mandatory)
+
 (*) Indicate mandatory field
 
 ### Describing the Incident or Service Request
