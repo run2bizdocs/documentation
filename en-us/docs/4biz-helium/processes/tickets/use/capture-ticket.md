@@ -127,7 +127,7 @@ Access the small black Arrow button in the upper right side of the screen, below
 |---------------------------|-----------------------------------------------------------------------------------------------------|
 | **Create sub-ticket**     | View or Create a Sub Incident or Service Request for the attendance                                 |
 | **Create related ticket** | Link a related Incident or Service Request for the attendance                                       |
-| **Workarounds**           | View and mantain Workarounds related to this Incident or Service Request                            |
+| **Workarounds**           | View and maintain Workarounds related to this Incident or Service Request                           |
 | **Knowledge**             | Can search and link Knowledges to the Incident or Service Request                                   |
 | **Project**               | Can search and link a Project to the Incident or Service Request                                    |
 | **Schedule**              | Can create an Activities Schedule for the Incident or Service Request                               |
