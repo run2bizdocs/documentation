@@ -127,52 +127,29 @@ Verify the history of service to audit it
 
 !!! Abstract "SERVICE LEVEL REQUIREMENT"
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Information available to maintain Service Level Requirements: Creation date, Service start date,
-Service owner, Service utility, (Specification, Context, Essential Functionalities), Service
-guarantee (Security, Availability, Capacity, Business Continuity, Performance, Planned Interruptions),
-Service Support (Incident Management, Problem Management, Change Management), Conformity (Internal,
-External) and Attached documents.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Information available to maintain Service Level Requirements:  
+    Creation date, Service start date, Service owner, Service utility, (Specification, Context, Essential Functionalities), Service guarantee (Security, Availability, Capacity, Business Continuity, Performance, Planned Interruptions), Service Support (Incident Management, Problem Management, Change Management), Conformity (Internal, External) and Attached documents.
 
 Related
 -------
 
-[Register a
-contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
+[Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Register a
-service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[Create the
-portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
+[Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
-[Register
-group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
+[Register group](/en-us/4biz-helium/initial-settings/access-settings/user/register-groups.html)
 
-[Create
-cycle](/en-us/4biz-helium/platform-administration/time/create-cycle.html)
+[Create cycle](/en-us/4biz-helium/platform-administration/time/create-cycle.html)
 
-[Register configuration
-item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
+[Register configuration item](/en-us/4biz-helium/processes/configuration/use/register-CI.html)
 
-[Create
-calendar](/en-us/4biz-helium/platform-administration/time/create-calendar.html)
+[Create calendar](/en-us/4biz-helium/platform-administration/time/create-calendar.html)
 
-[Video
-Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
-
-!!! tip "About"
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-<b>Updated:</b>27/03/2020 – Andre Fernandes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+[Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNx1eXRaihDR_bxXjGhgFut)'
 
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
-
-
+    <b>Updated:</b>27/03/2020 – Andre Fernandes
