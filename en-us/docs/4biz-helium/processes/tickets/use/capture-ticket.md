@@ -1,84 +1,116 @@
-title: Capturing a ticket
-Description: Capturing the ticket means take responsibility to solve, in a satisfactory way, the ticket.
-# Capturing a ticket
+title: Capturing a ticket - Incident or Service Request
+Description: Capturing the Incident or Service Request means take responsibility to solve, in a satisfactory way, the Incident or Service Request.
+# Capturing a Incident or Service Request
 
-Capturing the ticket means taking responsibility for attending it or contributing to its solution.
+Capturing the Incident or Service Request means taking responsibility for attending it or contributing to its solution.
 
 ## Before getting started
 
-- [X] To capture a ticket, it's necessary to have at least one opened.
-- [X] It's necessary to have permission to view, capture, and perform possible actions within the ticket.
+- [X] To capture a Incident or Service Request, it's necessary to have at least one opened.
+- [X] It's necessary to have permission to view, capture, and perform possible actions within the Incident or Service Request.
 
 ## Procedure
 
-1. To go to the Attendance Interface, access the menu Processes > Ticket Management > Ticket > Open
+1. Access the menu Processes > Ticket Management > Ticket(Incident or Service Request) > Open
 
-2. Find the ticket you want by clicking once to open the actions and selecting the "Open" button or double-clicking to open it directly.
+2. Find the Incident or Service Request you want by clicking once to open the actions and selecting the "Open" button or double-clicking to open it directly.
+
+## Incident or Service Request Information
+
+After the Incident or Service Request opening the system will retrieve the Incident or Service Request information
+
+### Fields 
+| Field                | Description                                                                                                                                                |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Requester**        | Name of requester (can be searchable with %%)                                                                                                              |
+| **E-mail **          | Add an e-mail for the requester                                                                                                                            |
+| **Unit**             | Unit of the requester                                                                                                                                      |
+| **Contact's origin** | Service Desk, Email, Facebook, Twitter among others                                                                                                        |
+| **Requester history* | the requester history with No. of calls,Calls resolved on time, Delayed calls, Calls still open, Calls running and delayed, and the level of Satisfaction. |
+| **Portfolio**        | The portfolios that the user are linked;                                                                                                                   | 
+| **Service**          | The services of the selectes portfolio;                                                                                                                    |
+| **Activity**         | The activities os the selected service;                                                                                                                    |
+| **Contract**         | Contracts linked to the portfolio;                                                                                                                         |
+| **Impact**           | Impact of the activity;                                                                                                                                    |
+| **Urgency**          | Urgency of the activity;                                                                                                                                   |
+| **Description**      | Will describe the needs for the ticket;                                                                                                                    |
+| **Send email**       | Select which types and email the user will receive;                                                                                                        |
 
 
-### Capturing the ticket
+## Add Comments / See History
 
-To become responsible for the ticket, you can find in the menu bar the option "Capture ticket" (item 5) to become responsible for it, another way to be able to capture is by ticket options (item 13) - in the top bar.
+The user can write a comment and perform the following actions
+
+
+## Defining Situation of the Incident or Service Request
+
+| Field             | Description                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------|
+| **Situation**     |  The situation for the Incident or Service Request (Registered/In Progress, Solved or Canceled) |
+
+(One of the situations have to be selected)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Capturing the Incident or Service Request
+
+To become responsible for the Incident or Service Request, you can find in the top menu bar the option "Assign ticket" to become responsible for it.
 
 #### Toolbar Items
 
-![4biz ticket menu bar][1]
+| Item              | Description                                                  |
+|-------------------|--------------------------------------------------------------|
+| **Back**          | Back to the desktop of Service Desk                         |
+| **Number**;       | Incident or Service Request identifier                      |
+| **Task**          | Step of the service flow                                    |
+| **Current group** | The group responsible for the solution                      |
+| **Assignment**    | The person responsible for the Incident or Service Request  |
+| **SLA**           | Total time for resolution                                   |
+| **Limit time**    | Date and time limit for attendance                          |
+| **Attachments**   | View the existing attachment(s) or attach new object        |
+| **View flow**     | Show the service flow                                       |
+| **Scripts**       | Show scripts to attend the service                          |
+| **Knowledge**     | Appears when there is knowledge linked to the flow step     |
+| **Layout**        | Enables page layout editing (30% - 70%, 50% - 50% and 100%) |
 
-**1: Back** - get back to the desktop of Serivce Desk;
-
-**2: Number** - ticket identifier;
-
-**3: Task** - requested;
-
-**4: Current group** – the responsible for the solution;
-
-**5: Assignment** – the person responsible for the ticket;
-
-**6: SLA** – total time for resolution;
-
-**7: Limit time** – presents the date and time limit for attendance;
-
-**8: Attachments** – view existing attachment or attach new file;
-
-**9: View flow**;
-
-**10: Scripts**;
-
-**11: Knowledge of task** – Appears when there is knowledge linked to the flow;
-
-**12: Layout** – enables page layout editing (30% - 70%, 50% - 50% and 100%);
-
-**13: Options**.
 
 ### Ticket options
 
-![tickets option ticket 4biz][2]
-
 In the options, we have:
 
-**1: Assign ticket**;
+| Option                    | Description                                                                  |
+|---------------------------|------------------------------------------------------------------------------|
+| **Assign ticket**         | become responsible for the Incident or Service Request                       |
+| **Delegate**              | Delegate the Incident or Service Request to another attendant                |
+| **Suspend**               | Suspend the attendance for the Incident or Service Request                   |
+| **Change SLA**            | Change the SLA assigned to the Incident or Service Request                   |
+| **Reclassify**            | Reclassify the Portfolio/Service/Activity of the Incident or Service Request |
+| **Create sub-ticket**     | Create a sub Incident or Service Request for the attendance                  |
+| **Create related ticket** | Create a related Incident or Service Request for the attendance              |
+| **Schedule activity**     | Can create an Activities Schedule for the Incident or Service Request        |
+| **Print**                 | Print the Incident or Service Request Information                            |
 
-**2: Delegate**;
-
-**3: Suspend**;
-
-**4: Change SLA**;
-
-**5: Reclassify**;
-
-**6: Create sub-ticket**;
-
-**7: Create related ticket**;
-
-**8: Schedule activity**;
-
-**9: Print**;
 
 ### Attendance
 
 The effective start of attendance occurs from the capture of ticket to finish or forward it to another area. Several features can be used by the analyst: Comments, History, Sending of email notification and Time posting.
-
-![Attendance ticket 4biz][3]
 
 **1: Comments** – area to make comments to people who access this ticket, having the option to be;
 
@@ -124,14 +156,6 @@ Related
 ------------
 
 [Configure access permission of request/incident management](/en-us/4biz-helium/processes/tickets/configuration/access-ticket-management.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
-
-[1]:images/menu-bar-ticket-4biz.png
-[2]:images/tickets-option-ticket.png
-[3]:images/attendance-ticket-comment.png
-[4]:images/attendance-ticket-history.png
-[5]:images/assignment-and-situation-ticket.png
 
 
 !!! tip "About"
