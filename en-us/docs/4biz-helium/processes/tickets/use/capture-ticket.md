@@ -37,10 +37,6 @@ After the Incident or Service Request opening the system will retrieve the Incid
 | **Send email**       | Select which types and email the user will receive;                                                                                                        |
 
 
-## Add Comments / See History
-
-The user can write a comment and perform the following actions
-
 ### Capturing the Incident or Service Request
 
 To become responsible for the Incident or Service Request, you can find in the top menu bar the option "Assign ticket" to become responsible for it.
@@ -75,54 +71,83 @@ In the options, we have:
 | **Change SLA**            | Change the SLA assigned to the Incident or Service Request                   |
 | **Reclassify**            | Reclassify the Portfolio/Service/Activity of the Incident or Service Request |
 | **Create sub-ticket**     | Create a sub Incident or Service Request for the attendance                  |
-| **Create related ticket** | Create a related Incident or Service Request for the attendance              |
+| **Create related ticket** | Link a related Incident or Service Request for the attendance                |
 | **Schedule activity**     | Can create an Activities Schedule for the Incident or Service Request        |
 | **Print**                 | Print the Incident or Service Request Information                            |
 
 
-### Attendance
+## Attending an Incident or Service Request
 
-The effective start of attendance occurs from the capture of ticket to finish or forward it to another area. Several features can be used by the analyst: Comments, History, Sending of email notification and Time posting.
+The effective start of the attendance occurs from the capture of the Incident or Service Request to the finish or forward it to another area.  
+Several features can be used by the analyst: Comments, History, Sending of email notification and Time posting.
 
-**1: Comments** – area to make comments to people who access this ticket, having the option to be;
+### Add Comments / See History
 
-**Privacidade**:
+The user can write a comment and perform the following actions
 
-•	**Private** – only the attendance team can view;
+| Option         | Description                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------|
+| **Comments**   | Area to make comments to people who access this ticket, having the option to have editing format |
+| **History**    | See the Incident or Service Request history                                                      |
+| **Cancel**     | Cancel the Comment                                                                               |
+| **Public**     | Mark it if the attendance team and final user can view                                           |
+| **Post hours** | Possibility to inform the hours spent on a task                                                  |
+| **Send email** | Mark to send the comment as an e-mail                                                            |
+| **Add**        | Add the Comment to the Incident or Service Request                                               |
 
-•	**Public** – the attendance team and final user can view;
+(After adding the comment it´s alse possible to view and interact with all comments made within the ticket (Edit - Delete - Reply the comment)
 
-**Post hours**: possibility to inform the hours spent on a task;
+#### Assignment and Action
 
-**Send email**;
+You can **Direct to group**(identifing the grup that will be directed within the flow) or  
+Take actions (the actions are defined by the Service flowand will appear only if the flow step directs to it)
 
-**Cancel**;
 
-**Add**;
+### Defining Situation of the Incident or Service Request
 
-![Attendance ticket 4biz][4]
+| Field             | Description                                                                                     |
+|-------------------|-------------------------------------------------------------------------------------------------|
+| **Situation**     |  The situation for the Incident or Service Request (Registered/In Progress, Solved or Canceled) |
 
-**2: History** – where you can view and interact with all comments made within the ticket;
 
-#### Assignment and Statust
+**Status** – of ticket;
 
-![Assignment and Situation ticket 4biz][5]
+-   **Registered/In Progress** – the ticket isn't ready to be closed;
 
-**3: Direct to group** – group identifier that will be directed within the flow;
+-   **Solved** – generate response solution to finish the ticket;
 
-**4: Status** – of ticket;
+-   **Canceled** – justify why the activity is being canceled;
 
-- **Registered/In Progress** – the ticket isn't ready to be closed;
+### Linking additional items
 
-- **Solved** – generate response solution to finish the ticket;
+Access the small black Arrow button in the upper right side of the screen, below the menu bar, to perform the desired functions.
 
-- **Canceled** – justify why the activity is being canceled;
+| Function                  | Description                                                                                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------|
+| **Create sub-ticket**     | View or Create a Sub Incident or Service Request for the attendance                                 |
+| **Create related ticket** | Link a related Incident or Service Request for the attendance                                       |
+| **Workarounds**           | View and mantain Workarounds related to this Incident or Service Request                            |
+| **Knowledge**             | Can search and link Knowledges to the Incident or Service Request                                   |
+| **Project**               | Can search and link a Project to the Incident or Service Request                                    |
+| **Schedule**              | Can create an Activities Schedule for the Incident or Service Request                               |
+| **Email reading**         | Can search and read e-mails                                                                         |
+| **Requester CI**          | Can search and select the Requester's configuration items                                           |
+| **Related CI**            | Can search and select the configuration items for the Incident or Service Request                   |
+| **Problem**               | Can search Problems to link to the Incident or Service reques, also can create and link the Problem |
+| **Change**                | Can search Changes to link to the Incident or Service reques, also can create and link the Change   |
+| **Release**               | Can search releases to link to the Incident or Service reques, also can create and link the Release |
 
-**5: Back** – return to the desktop of Service Desk;
 
-**6: Save** - save and maintain the current status of flow;
+### Saving 
 
-**7: Save and submit** - save and advance to the next status of the flow;
+At the end of the page, you will find a floating button with the functions of:
+
+| Function            | Description                                                                                                          |
+|---------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Back**            | To get back to the desktop of the Service Desk                                                                       |
+| **Save**            | To save the Incident or Service Request and create the number for tracking and monitoring                            |
+| **Save and Submit** | To save the Incident or Service Request, create the number for tracking and monitoring and follow the service flow   |
+
 
 Related
 ------------
@@ -133,4 +158,4 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>27/03/2019 – Andre Fernandes
