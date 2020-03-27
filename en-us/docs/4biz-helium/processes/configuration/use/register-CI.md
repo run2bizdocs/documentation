@@ -105,9 +105,7 @@ To search for an specific knowledge, the filters available are: Title, Content, 
     
     |Field|Description|
     |---|---|
-    |Entry type|There are two types: Value - if you set value, after the "Select services", it'll be presented a list with the 
-    service and its values; Accounting for activities performed - for this option, after Select the activities, it'll be presented 
-    the list with the activity you selected, as well as its information and description|
+    |Entry type|There are two types: Value - if you set value, after the "Select services", it'll be presented a list with the service and its values; Accounting for activities performed - for this option, after Select the activities, it'll be presented the list with the activity you selected, as well as its information and description|
     |Expected value*| It's possible to stablish to number for the value expected|
     |Main value*| Set a number for the main value|
     |Additional*| Set the number for the additional|
