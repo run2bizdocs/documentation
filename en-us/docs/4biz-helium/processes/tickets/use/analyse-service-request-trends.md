@@ -1,21 +1,20 @@
-title: Analyze service request trends
+title: Analyze Incident or Service Request trends
 
-Description: Aims to make an analysis of the requests, based on the critical amount, to identify which items will influence on the launch of a new request.  
+Description: Aims to make an analysis of the Incident or Service Request, based on the critical amount, to identify which items will influence on the launch of a new request.  
 
 # Analyze service request trends  
-This functionality aims to make an analysis of the requests, based on the critical amount, to identify which items will influence on the launch of a new request.  
+This functionality aims to make an analysis of the Incident or Service Request, based on the critical amount, to identify which items will influence on the launch of a new request.  
 
 Before getting started
 --------------------------
 
-To make the trend analysis, it's necessary to previously register a service
-request (ticket) linked to a contract, in addition to an active contract.
+To make the trend analysis, it's necessary to previously register an Incident or Service Request (ticket) linked to a contract, in addition to an active contract.
 
 Procedure
 -------------
 
-1.  Access the main menu Processes \> Request and Incident Management \> Trend
-    Analysis, the tab **Service Requests**;
+1.  Access the main menu Processes \> Ticckets(Incident or Service Request) \> Trend
+    Analysis, the tab **Incident / Service Requests**;
 
 2.  Complete all mandatory fields;
 
