@@ -29,7 +29,9 @@ Procedure
 3.  It will appear the registration screen, with the configuration item tabs to
     be set;
 
-4.  Complete the fields provided in the tabs. For the tab **General**, we have to inform:
+4.  Complete the fields provided in the tabs. 
+
+5. For the tab **General**, we have to inform:
 
 |Field|Description|
 |--------|---------|
@@ -63,7 +65,7 @@ Procedure
 |Additional Information| Here you can automatically import or report manuall, informations about the CI, for example: assets acquired from a merged organization and assets absorbed into a consolidated organization|
 |Remote access| Here you can set the port and password required for the remote access of a CI|
 
-On the **Knowledge** tab, we have the option to Add a knowledge direct from the Knowledge Base.
+6. On the **Knowledge** tab, we have the option to Add a knowledge direct from the Knowledge Base.
 
 When click on "Add Knowledge", it'll appear the screan to search for the knowledge you want to link to the CI you're creating and a list of documents already created.
 
@@ -74,11 +76,51 @@ To search for an specific knowledge, the filters available are: Title, Content, 
         On the creation of a Knowledge, it's possible to storage electronic and digital versions of physical
         documentation and asset documentation.
         
-On the **Financial** tab....      
+7. On the **Financial** tab, you'll have all information about apportionments (Service, Business Unit, Result Center, Account, Projects and Activities). Here you can edit it to add a new cost related.
 
-On the **Capacity** tab, it's possible to indicate the capacity/performance indicators that will be linked to this Configuration Items.
+    **Creating new Apportionment**
+    
+    1. Access the main menu Processes > Financial Management > Financial item;
+    
+    2. Complete the fields available on the **Information** tab:
+    
+    |Field|Description|
+    |---|---|
+    |Type*|Cost/Expense, Budget, Revenue|
+    | Classification* |(Capex, Opex, Fixed, Direct, Unit Cost, Indirect, Variable, Assessment)|
+    |Forecast| it's available Only for Revenue and Costs/Expense Category (Used to simulate financial forecasts)|
+    |Budget Account| Specific Account linked to this item|
+    |Forecast financial item| It's possible to search for a title of the forecast financial item|
+    |Due Date*|The date that will expire it|
+    |Category*|The category for this|
+    |Contract|Select a contract to be linked to it|
+    |Cycle*|It's the financial Method, for example, Yarly, Monthly or Quarter|
+    |Subcycle*|Depends on the Cycle|
+    |Code|Freetext to create or insert financial code|
+    |Title*|Title of this Financial Item|
+    |Status*|It'll be always be created as "Pending"|
+    |Description|Description about your financial item|
+    
+    3. On the **Values and Apportionments** tab, complete:
+    
+    |Field|Description|
+    |---|---|
+    |Entry type|There are two types: Value - if you set value, after the "Select services", it'll be presented a list with the 
+    service and its values; Accounting for activities performed - for this option, after Select the activities, it'll be presented 
+    the list with the activity you selected, as well as its information and description|
+    |Expected value*| It's possible to stablish to number for the value expected|
+    |Main value*| Set a number for the main value|
+    |Additional*| Set the number for the additional|
+    |Final value*| Set a number for the value end|
+    |Apportionment| Here we have the options to set all the apportionments types|
+    
+    4. Click on save.
+    
+    
 
-On the **Demand** tab, it's possible to search for a Demand to link in the Configuration Item.
+8. On the **Capacity** tab, it's possible to indicate the capacity/performance indicators that will be linked to this Configuration Items.
+
+9. On the **Demand** tab, it's possible to search for a Demand to link in the Configuration Item.
 
 On the **Warranties** tab, it'll be possible to set a time for the warranty of the Configuration Item.
 By clicking on "Add warranty", it'll present a screen to configure it, they are:
