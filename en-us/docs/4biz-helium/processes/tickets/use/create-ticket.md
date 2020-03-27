@@ -1,4 +1,5 @@
-title:  Creating ticket - Incident or Service Request 
+title:  Creating ticket - Incident or Service Request
+
 Description: Creating a ticket means opening an Incident or Service Request within the system.
 
 # Creating ticket - Incident or Service Request
@@ -139,13 +140,6 @@ Related
 [Register unit](/en-us/4biz-helium/platform-administration/region-and-language/register-unit.html)
 
 [Configure parametrization - ticket](/en-us/4biz-helium/platform-administration/parameters-list/configure-parametrization-ticket.html)
-
-<i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RNrJnhiXj3dbmgsm9-quhfz)'
-
-[1]:images/procedure-ticket-4biz.png
-[2]:images/Select-service-ticket-4biz.png
-[3]:images/Description-service-4biz.png
-
 
 !!! tip "About"
 
