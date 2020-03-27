@@ -1,6 +1,6 @@
-title: Register problem
+title: Registering problem
 Description: It allows to register the problems found.
-# Register problem
+# Registering problem
 
 
 The Problem Management process is responsible for the final resolution and prevention of the failures behind the incidents that affect the normal operation of IT services.
