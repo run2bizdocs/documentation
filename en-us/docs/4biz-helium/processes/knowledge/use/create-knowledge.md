@@ -75,13 +75,13 @@ In the "Registration" tab, a form will be presented containing the fields for id
 
 | Field | Description | Example |
 |-------|--------|-----------|
-| Title | Name of the knowledge | User Manual |
-| Document type | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) | Document |
+| Title (*)| Name of the knowledge | User Manual |
+| Document type (*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) | Document |
 | Source/Reference | Inform the source/reference of the knowledge | Documentation area |
-| Folder | Place where the knowledge will be save | Approval |
-| Origin | Trigger for the creation of a Knowledge | Knowledge |
+| Folder(*) | Place where the knowledge will be save | Approval |
+| Origin(*) | Trigger for the creation of a Knowledge | Knowledge |
 | Status (automatic) | Knowledge lifecycle status | In drawing |
-| Expiration Date | Date when the knowledge becomes obsolete | 31/12/2030 |
+| Expiration Date(*) | Date when the knowledge becomes obsolete | 31/12/2030 |
 | Observation | A description of the knowledge | User manual to assist in creating documentation |
 | Author | Creator of the Knowledge | John Doe |
 | Publisher | The responsible for publishing the Knowledge | John Smith |
@@ -89,7 +89,7 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Creation Date (automatic) | Day when the Knowledge was created | 02/01/2020 |
 | Publication Date (automatic) | Day when the Knowledge was published | 02/01/2020 |
 | Tags | Words (or set of words) used to help the search engine | user-manual |
-| Content | Content of the knowledge that will be made available on the Portal, here it must contain all the information and media related to the document | "Lorem ipsum dolor sit amet, consectetur adipiscing elit..." |
+| Content(*) | Content of the knowledge that will be made available on the Portal, here it must contain all the information and media related to the document | "Lorem ipsum dolor sit amet, consectetur adipiscing elit..." |
 | Attachment | Files related to the Knowledge | user-manual.pdf |
 | Copyright | Indication if the knowledge has copyright | Yes |
 | Legislation | Indication if knowledge is (or makes) part of some legislation | No |
