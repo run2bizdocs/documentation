@@ -1,6 +1,6 @@
 title: Execute problem
 Description: It allows to execute problem.
-# Execute problem
+# Executing problem
 
 This functionality allows to execute the problem. In this step, it's made the classification of the problem and the designation of the appropriate area to handle the problem according to the IT Service Catalog. It's necessary to link the problem to existing incidents and register the problem to facilitate prioritization of problem solving, evaluate the impact on business, and determining the urgency of the solution. This evaluation determines the classification of the problem.
 
