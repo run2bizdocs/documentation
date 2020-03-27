@@ -1,5 +1,7 @@
 title: Capturing a ticket - Incident or Service Request
+
 Description: Capturing the Incident or Service Request means take responsibility to solve, in a satisfactory way, the Incident or Service Request.
+
 # Capturing a Incident or Service Request
 
 Capturing the Incident or Service Request means taking responsibility for attending it or contributing to its solution.
@@ -36,12 +38,11 @@ After the Incident or Service Request opening the system will retrieve the Incid
 | **Description**      | Will describe the needs for the ticket;                                                                                                                    |
 | **Send email**       | Select which types and email the user will receive;                                                                                                        |
 
-
-### Capturing the Incident or Service Request
+## Capturing the Incident or Service Request
 
 To become responsible for the Incident or Service Request, you can find in the top menu bar the option "Assign ticket" to become responsible for it.
 
-#### Toolbar Items
+## Toolbar Items
 
 | Item              | Description                                                  |
 |-------------------|--------------------------------------------------------------|
@@ -97,7 +98,7 @@ The user can write a comment and perform the following actions
 
 (After adding the comment it´s alse possible to view and interact with all comments made within the ticket (Edit - Delete - Reply the comment)
 
-#### Assignment and Action
+### Assignment and Action
 
 You can **Direct to group**(identifing the grup that will be directed within the flow) or  
 Take actions (the actions are defined by the Service flowand will appear only if the flow step directs to it)
