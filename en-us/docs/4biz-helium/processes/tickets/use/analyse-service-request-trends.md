@@ -28,7 +28,7 @@ Procedure
 
 3.  Click on "Create Report";
 
-4.  The system will, based on the filters selected, present the **Number of records:** (retrieved from the total search) and, for each Incidents or Service Rquests, the information : 
+4.  The system will, based on the filters selected, present in the top of the report the **Number of records:** (retrieved from the total search) and inthe bottom of the grid the **Total cost** (sum of the cost of all Incidents or Service Rquests listed), for each Incidents or Service Requests will show the information below on a grid : 
 
 | Report Field     | Description                                                            |
 |------------------|------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ Procedure
 | **Unit**         | Unit assigned to the Incident or Service Request                       |
 | **Locality**     | Locality of the Incident or Service Request Execution                  |
 
- 
+  
 Related
 -----------
 
