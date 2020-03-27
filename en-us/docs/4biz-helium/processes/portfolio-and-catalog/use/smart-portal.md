@@ -69,13 +69,13 @@ Procedure
     about the request available when click on the tab "Evaluations" and have access
     to news about the request when click on the tab "Active Campaigns";
 
-   !!! Abstract "NOTES"  
+    !!! Abstract "NOTES"  
 
         The user will be able to choose services from the service catalog based on his permissions
 
 
 
-   !!! Abstract "NOTES"  
+    !!! Abstract "NOTES"  
 
         The knowledge available in the tab "Knowldege" of the "Service" item can be defined
         in two levels:
