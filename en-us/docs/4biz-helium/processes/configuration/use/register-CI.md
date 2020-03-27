@@ -96,6 +96,8 @@ By clicking on "Add warranty", it'll present a screen to configure it, they are:
 
 5.  Click on "Save" .
 
+*Fields with (*) are mandatory
+
 ### Comparing Versions of CI
 
 1. Access the main menu Processes \>
