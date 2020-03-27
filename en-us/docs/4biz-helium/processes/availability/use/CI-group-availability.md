@@ -1,4 +1,4 @@
-title: Verify CI group availability
+title: Verifying CI group availability
 
 Description: This functionality is intended to verify the CIs availability group.
 # Verifying CI group availability
@@ -22,7 +22,7 @@ This functionality is intended to verify the CIs availability group.
 
 4.  It can be added several items, the amount you want, to the verification;
 
-6.  Once you add the CI, you can update the charts presented after this field by clicking on "Update Charts".
+6.  Once you add the CI group, you can update the charts presented after this field by clicking on "Update Charts".
 
 5.  Verify the information in **Availability per period**. You can set the period you want and click on "Update" to view it. 
 
