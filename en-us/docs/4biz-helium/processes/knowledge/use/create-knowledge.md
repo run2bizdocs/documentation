@@ -113,7 +113,7 @@ You have an editor [WYSIWYG][1] to work with the HTML content of your document. 
     - In the *Server video* tab: it allows to insert a video that is located on the video server or on the computer;
     - In the *Embedded* tab: it allows to insert YouTube videos. When accessing the video, right-click and select “Copy embed code”.
 
-### Saving and Versioning
+### Saving
 
 When creating a knowledge, 4biz will always establish version "1.0" and, when changing a document, the operator can indicate whether the change should be Versioned or not and also if previous versions must be archived.
 
