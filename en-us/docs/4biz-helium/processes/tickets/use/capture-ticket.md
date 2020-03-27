@@ -26,7 +26,7 @@ After the Incident or Service Request opening the system will retrieve the Incid
 | **E-mail **          | Add an e-mail for the requester                                                                                                                            |
 | **Unit**             | Unit of the requester                                                                                                                                      |
 | **Contact's origin** | Service Desk, Email, Facebook, Twitter among others                                                                                                        |
-| **Requester history* | the requester history with No. of calls,Calls resolved on time, Delayed calls, Calls still open, Calls running and delayed, and the level of Satisfaction. |
+| **Requester history**| the requester history with No. of calls,Calls resolved on time, Delayed calls, Calls still open, Calls running and delayed, and the level of Satisfaction. |
 | **Portfolio**        | The portfolios that the user are linked;                                                                                                                   | 
 | **Service**          | The services of the selectes portfolio;                                                                                                                    |
 | **Activity**         | The activities os the selected service;                                                                                                                    |
@@ -40,34 +40,6 @@ After the Incident or Service Request opening the system will retrieve the Incid
 ## Add Comments / See History
 
 The user can write a comment and perform the following actions
-
-
-## Defining Situation of the Incident or Service Request
-
-| Field             | Description                                                                                     |
-|-------------------|-------------------------------------------------------------------------------------------------|
-| **Situation**     |  The situation for the Incident or Service Request (Registered/In Progress, Solved or Canceled) |
-
-(One of the situations have to be selected)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Capturing the Incident or Service Request
 
