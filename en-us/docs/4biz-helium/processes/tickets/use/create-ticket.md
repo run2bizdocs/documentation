@@ -154,5 +154,5 @@ Related
 !!! tip "About"
 
     <b>Product/Verssion:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>27/03/2020 – Andre Fernandes
 
