@@ -26,10 +26,10 @@ When accessing the Knowledge Management, you'll see the main knowledge managemen
 |  Field | Description |
 |--------|-----------|
 | Title | Enter a term that refers to the name of the knowledge. |
-| Type of document | Select the type of information registered. |
+| Document type | Select the type of information registered. |
 | Content | Enter a brief part of the knowledge, you can enter a word or a short sentence. |
 | View by | Select a criterion that references the actions you're allowed. |
-| Status | Select a criterion that matches the knowledge status. |
+| Situation | Select a criterion that matches the knowledge status. |
 | Folder | Select the folder where the knowledge was created. |
     
 ### Interface of knowledge management
