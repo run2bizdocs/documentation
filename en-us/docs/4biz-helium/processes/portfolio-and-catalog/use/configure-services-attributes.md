@@ -3,7 +3,7 @@ title: Configure Incident or Service Request attributes
 Description: Configure the Incident or Service Request attributes of both
 Business/IT Service and Support/Technical Service
 
-Configuring Servive attributes
+Configuring Service attributes
 ==============================
 
 The service attributes are configuration features within the portfolio.
