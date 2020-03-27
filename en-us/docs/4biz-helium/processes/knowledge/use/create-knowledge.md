@@ -7,15 +7,15 @@ Creating knowledge is the act of saving information at 4biz using the Knowledge 
 
 ## Before getting started
 
-- [X] Before creating a knowledge, it's necessary to create folders and define access permissions. With this you can organize the knowledge and allow an easy location when performing a search. (see [Creating access profile][2])
+- [X] it's necessary to create folders and define access permissions. With this you can organize the knowledge and allow an easy location when performing a search. (see [Creating access profile][2])
 
 - [X] To use the notification features, it's necessary to configure the parameters: 82 and 83 (Knowledge Creation/Change), 84 (Deleting knowledge) and 78 and 456 (Expiration of knowledge). (see [Configuring email template][3], see [Configuring parametrization - knowledge][4]).
 
 
 !!! note "NOTE"
-    In versions from 8.0.5.0, parameters 82 and 83 have the same function, so it's not necessary to configure these two parameters, choose one of them. This is because now it has been gathered in a key email template that contemplates all activities that go from creating to archiving knowledge. And what does it mean? In this new scenario you'll use an email template that will contain several keys. This template is already available in a clean installation, or if you already have an environment and are going to update it, you can use the email keys in your already used templates so that they stay in the new standard (see [Key fields of knowledge base emails][5], see [Examples of email templates][6]).
+    Parameters 82 and 83 have the same function, so it's not necessary to configure these two parameters, choose one of them. This is because now it has been gathered in a key email template that contemplates all activities that go from creating to archiving knowledge. And what does it mean? In this new scenario you'll use an email template that will contain several keys. This template is already available in a clean installation, or if you already have an environment and are going to update it, you can use the email keys in your already used templates so that they stay in the new standard (see [Key fields of knowledge base emails][5], see [Examples of email templates][6]).
 
-## Knowledge Management
+## Procedure
 
 1. Access the functionality through the menu Processes > Knowledge Management > Knowledge Management;
 
@@ -32,7 +32,7 @@ When accessing the Knowledge Management, you'll see the main knowledge managemen
 | Situation | Select a criterion that matches the knowledge status. |
 | Folder | Select the folder where the knowledge was created. |
     
-### Interface of knowledge management
+### Creating Knowledge
 
 The main activity of the knowledge base management is the registration of information in 4biz to later enable its management. Let's access the registration interface and know its functions.
 
@@ -69,34 +69,34 @@ The knowledge base registration/management interface has the following functiona
     Note that the "Comments", "History", "Configuration Item" and "Versions" tabs only appear after the information is registered, as they are related to the knowledge management process.
   
 
-### Registration Data
+#### Knowledge Fields
 
 In the "Registration" tab, a form will be presented containing the fields for identification, treatment and control of the knowledge.
 
-| Field | Description | Example |
+| Field | Description |
 |-------|--------|-----------|
-| Title (*)| Name of the knowledge | User Manual |
-| Document type (*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) | Document |
-| Source/Reference | Inform the source/reference of the knowledge | Documentation area |
-| Folder(*) | Place where the knowledge will be save | Approval |
-| Origin(*) | Trigger for the creation of a Knowledge | Knowledge |
-| Status (automatic) | Knowledge lifecycle status | In drawing |
-| Expiration Date(*) | Date when the knowledge becomes obsolete | 31/12/2030 |
-| Observation | A description of the knowledge | User manual to assist in creating documentation |
-| Author | Creator of the Knowledge | John Doe |
-| Publisher | The responsible for publishing the Knowledge | John Smith |
-| Privacy | Information sensitivity: **Confidential** (only the author of the knowledge and the folder administrator will have access to the knowledge), **Internal** (only people who have permission in the folder will have access to knowledge) and **Public** (internal/external) (everyone will have access to knowledge, even those who do not have permission in the folder) | Public(internal) |
-| Creation Date (automatic) | Day when the Knowledge was created | 02/01/2020 |
-| Publication Date (automatic) | Day when the Knowledge was published | 02/01/2020 |
-| Tags | Words (or set of words) used to help the search engine | user-manual |
-| Content(*) | Content of the knowledge that will be made available on the Portal, here it must contain all the information and media related to the document | "Lorem ipsum dolor sit amet, consectetur adipiscing elit..." |
-| Attachment | Files related to the Knowledge | user-manual.pdf |
-| Copyright | Indication if the knowledge has copyright | Yes |
-| Legislation | Indication if knowledge is (or makes) part of some legislation | No |
-| Availability Management | If the knowledge contributes to the Availability Management process | Yes |
-| Action | Knowledge management flow activity (e.g.: if the knowledge status is "In drawing" the possible action is "Send for review") | Send for review |
+| Title (*)| Name of the knowledge |
+| Document type (*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) |
+| Source/Reference | Inform the source/reference of the knowledge |
+| Folder(*) | Place where the knowledge will be save |
+| Origin(*) | Trigger for the creation of a Knowledge |
+| Status (automatic) | Knowledge lifecycle status |
+| Expiration Date(*) | Date when the knowledge becomes obsolete |
+| Observation | A description of the knowledge |
+| Author | Creator of the Knowledge |
+| Publisher | The responsible for publishing the Knowledge |
+| Privacy | Information sensitivity: **Confidential** (only the author of the knowledge and the folder administrator will have access to the knowledge), **Internal** (only people who have permission in the folder will have access to knowledge) and **Public** (internal/external) (everyone will have access to knowledge, even those who do not have permission in the folder) |
+| Creation Date (automatic) | Day when the Knowledge was created |
+| Publication Date (automatic) | Day when the Knowledge was published |
+| Tags | Words (or set of words) used to help the search engine |
+| Content(*) | Content of the knowledge that will be made available on the Portal, here it must contain all the information and media related to the document |
+| Attachment | Files related to the Knowledge |
+| Copyright | Indication if the knowledge has copyright |
+| Legislation | Indication if knowledge is (or makes) part of some legislation |
+| Availability Management | If the knowledge contributes to the Availability Management process |
+| Action | Knowledge management flow activity (e.g.: if the knowledge status is "In drawing" the possible action is "Send for review") |
 
-### Knowledge Content
+#### Knowledge Content
 
 You have an editor [WYSIWYG][1] to work with the HTML content of your document. In it you can insert and edit the text, and you can also insert images, videos, hyperlinks and others.
 
