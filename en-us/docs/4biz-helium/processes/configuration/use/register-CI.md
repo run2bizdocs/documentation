@@ -96,7 +96,7 @@ By clicking on "Add warranty", it'll present a screen to configure it, they are:
 
 5.  Click on "Save" .
 
-*Fields with ( * ) are mandatory
+*Fields with ( * ) are mandatory*
 
 ### Comparing Versions of CI
 
