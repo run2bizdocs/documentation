@@ -28,7 +28,7 @@ Procedure
 
 3.  Click on "Create Report";
 
-4.  The system will, based on the filters selected, present the **Number of records:** retrieved from the total search and, for each Incidents or Service Rquests the information : 
+4.  The system will, based on the filters selected, present the **Number of records:** (retrieved from the total search) and, for each Incidents or Service Rquests, the information : 
 
 | Report Field     | Description                                                            |
 |------------------|------------------------------------------------------------------------|
