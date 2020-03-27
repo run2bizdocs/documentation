@@ -99,4 +99,4 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/30/2019 – Larissa Lourenço 
+    <b>Updated:</b>03/27/2019 – William Costa 
