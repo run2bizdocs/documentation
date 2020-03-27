@@ -30,12 +30,14 @@ Procedure
 |Version|Define the final media version|
 
 Licenses
+
 |Field|Description|
 |---|---|
 |Key|Product key definition|
 |No. of Usage Permissions|Set the number of permissions to use the definitive media|
 
 Knowledge
+
 |Fild|Description|
 |---|---|
 |Title|Select the title of the knowledge you want to link to the definitive media|
