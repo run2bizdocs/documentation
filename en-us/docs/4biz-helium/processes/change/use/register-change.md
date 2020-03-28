@@ -136,6 +136,8 @@ To define the roles and responsibilities of the change, complete the fields:
 
 The change team can view the voting score for approval of the change.
 
+[Approve change](/en-us/4biz-helium/processes/change/use/change-approval.html)
+
 ### Release
 
 To link a release to a change, search for an existing one in "Search for title" or create a new release using the "Register" option
