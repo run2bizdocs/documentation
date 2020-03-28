@@ -32,7 +32,7 @@ The service registration must be preceded by :
     - Edition can be addressed also at the pipeline but on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service.
 
 1 - The System will present tabs to set the service to be edited or registered;  
-2 - Complete all fields necessary os each Information tab;  
+2 - Complete all fields necessary of each Information tab;  
 3 - Save the Service.
 
 !!! Abstract "Information of each tab"
@@ -58,25 +58,40 @@ The service registration must be preceded by :
 ### Main Tab 
 -   Information of service, status, phases, business importance and others.
 
-| Field                                     | Description |
-|-------------------------------------------|-------------|
-| Service Name(\*)                          |             |
-| Initiation Process(\*)                    |             |
-| Category(\*)                              |             |
-| 4Biz Education                            |             |
-| Date of Deployment(\*)                    |             |
-| Service Phase(\*)                         |             |
-| Service Status(\*)                        |             |
-| Criticity                                 |             |
-| Importance of the Service to the Business |             |
-| Type of Service                           |             |
-| Place of Execution of Services            |             |
-| Detail                                    |             |
-| Objective                                 |             |
-| Value                                     |             |
-| Service Template                          |             |
+#### Fields
+
+| Field                                     | Description                                                      |
+|-------------------------------------------|------------------------------------------------------------------|
+| Service Name(\*)                          | Name of the Service                                              |
+| Initiation Process(\*)                    | Select the Initiation Process                                    |
+| Category(\*)                              | informe a categoria de serviço ao qual o novo serviço fará parte |
+| Date of Deployment(\*)                    | Date of the beginning of the Service usage                       |
+| Service Phase(\*)                         | See Box Below                                                    |
+| Service Status(\*)                        | See Box Below                                                    |
+| Criticity                                 | Criticity can be selected at the phase of “Analyze”              |
+| Importance of the Service to the Business | Select the Importance                                            |
+| Type of Service                           | Select the type of service                                       |
+| Place of Execution of Services            | Internal, External or Both                                       |
+| Detail                                    | Details of the Service                                           |
+| Objective                                 | The Objective of the Service                                     |
+| Value                                     | Describe the value to the business                               |
+| Service Template                          | Select a service template                                        |
 
 (*) Indicate mandatory field
+
+#### Phase x Status 
+| Phase   | Status                                                                     |
+|---------|----------------------------------------------------------------------------|
+| Set     | Requirements; Definition                                                   |
+| Analyse | Analysis                                                                   |
+| Approve | Approved                                                                   |
+| Charter | Charter; Design; Development; Creation; Test; Release; Production; Retired |
+
+!!! Note "Note"
+
+    At the **"Analyse"** phase the "Criticity" Field is enabled   
+    The servive is moved to the Service Catalog when "Charter" and "Production" are combined  
+    The servive is moved to the Obsolete Services when "Charter" and "Retired" are combined  
 
 ### Attatched Documents Tab
 -   Artifacts, documents, tabs and others.
