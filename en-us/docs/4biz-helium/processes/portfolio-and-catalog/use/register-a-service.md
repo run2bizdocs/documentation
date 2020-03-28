@@ -1,7 +1,7 @@
 title:  Register / Edit a Service
 Description: This feature provides a variety of actions, such as including, changing, and deleting a service.
 
-# Register / edit a Service
+# Register / Edit a Service
 
 The service registration is divided in two types:
 
@@ -30,13 +30,12 @@ The System will present tabs to set the service to be edited or registered;
 Complete all fields necessary os each Informamation tab;
 
     !!! Abstract "Information of each tab"
-    
         - Main: Information of service, status, phases, business importance and others.
         - Attatched Documents: Artifacts, documents, tabs and others.
         - Presentation: Visualization in the Smart Portal and Ticket Management.
         - Access Permission: Groups that can see the service.
 
-Save tthe Service.
+Save the Service.
 
 ## Action for Edit or Registration
 
@@ -51,6 +50,7 @@ Save tthe Service.
 
 ### Main Tab 
 -   Information of service, status, phases, business importance and others.
+
 | Field              | Description                    |
 |--------------------|--------------------------------|
 |                    |                                |
@@ -59,6 +59,7 @@ Save tthe Service.
 
 ### Attatched Documents Tab
 -   Artifacts, documents, tabs and others.
+
 | Field              | Description                    |
 |--------------------|--------------------------------|
 |                    |                                |
@@ -67,6 +68,7 @@ Save tthe Service.
 
 ### Presentation Tab 
 -  Configures Visualization in the Smart Portal and Ticket Management.
+
 | Field              | Description                    |
 |--------------------|--------------------------------|
 |                    |                                |
@@ -75,6 +77,7 @@ Save tthe Service.
 
 ### Access Permission Tab
 - Set the Groups that can use the service.
+
 | Field              | Description                    |
 |--------------------|--------------------------------|
 |                    |                                |
