@@ -32,7 +32,7 @@ The service registration must be preceded by :
     - Edition can be addressed also at the pipeline but on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service.
 
 1 - The System will present tabs to set the service to be edited or registered;  
-2 - Complete all fields necessary os each Informamation tab;  
+2 - Complete all fields necessary os each Information tab;  
 3 - Save the Service.
 
 !!! Abstract "Information of each tab"
@@ -112,7 +112,7 @@ The service registration must be preceded by :
 ### Multilanguage Tab
 - Service Translation to English, Spanish and Portuguese.
 
-**For each language provide:** 
+**For each language, provide:** 
 -   Service Name 
 -   Description
 
