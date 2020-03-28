@@ -25,7 +25,7 @@ This functionality is intended to create a portfolio of changes in order to spee
 
 5. Select "Advanced" to open portfolio preferences;
 
-Import deprecated template data
+### Import deprecated template data
 
 6. Click in "Import deprecated template data" to import a existing template, Select the template and edit if necessery;
 
