@@ -163,25 +163,74 @@ Set the design of service map related to the enabling services and configuration
 items. In this design, it's defined which enabling service will be used to
 perform the main service
 
+| Components                    | Description |
+|-------------------------------|-------------|
+|  Support Services             |             |
+|  Configuration items          |             |
+|  Drawing Area                 |             |
+
+The Following Functions are available
+
+| Function                    | Description |
+|-----------------------------|-------------|
+| Save                        |             |
+| Print                       |             |
+
 ### Business Processes
 
 Link the business processes that are not supported by the service
+
+| Function                     | Description |
+|------------------------------|-------------|
+| Linking Business Process     |             |
+| New Business Process         |             |
+| Search Area                  |             |
+| Grid with Business Processes |             |
 
 ### Support Services
 
 Link the support/technical services. Those services support the main service
 
+| Function                   | Description |
+|----------------------------|-------------|
+| Linking Service            |             |
+| Search Area                |             |
+| Grid with Support Services |             |
+
 ### Business Owner
 
 Link the business owner to the service, which can be employees or groups
+
+| Function                         | Description |
+|----------------------------------|-------------|
+| Link Business Owner - Employee   |             |
+| Link Business Owner - Group      |             |
+| Search Area                      |             |
+| Grid with Linked Business Owners |             |
 
 ### Business User
 
 Link business users to the service
 
+| Function                        | Description |
+|---------------------------------|-------------|
+| Link user                       |             |
+| Link user group                 |             |
+| Search Area                     |             |
+| Grid with Linked Business Users |             |
+
 ### Requests
 
 Register the service activities requests
+
+| Function                           | Description |
+|------------------------------------|-------------|
+| New Service Request                |             |
+| Link Service Request               |             |
+| Search Area                        |             |
+| Grid with Linked Services Requests |             |
+
+
 
 ### Applications
 
