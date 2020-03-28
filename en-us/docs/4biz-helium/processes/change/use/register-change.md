@@ -1,7 +1,7 @@
-title: Register change
+title: Registering a change
 Description: It's intended to register a change.
 
-# Register change
+# Registering a change
 
 This functionality is intended to register a change. According to ITIL, it's necessary to formalize the change request, so that the responsible team registers all the procedures performed for the change you want (from its request to the impact of its implementation), monitoring it throughout its lifecycle.
 
@@ -27,23 +27,23 @@ To identify an applicant, fill in the fields:
 
 |Fields|Description|
 |---|---|
-|Name (*)|Requestor's full name|
-|Contact (*)|Intify the user's contact|
-|Email (*)|User email|
-|Phone|User phone|
-|Extension||
-|Unit (*)|User unit|
-|Phisical Location|User Physical Location|
-|Other information|Additional user information|
+|Name (\*)|Requester's full name|
+|Contact (\*)|Indentify the user's contact|
+|Email (\*)|User's email|
+|Phone|User's phone number|
+|Extension|The extension number of user|
+|Unit (\*)|User's unit|
+|Phisical Location|User's Physical Location|
+|Other information|Additional user's information|
 
 ### Identify the change
 
-To identify a change, fill in the fields:
+To identify a change, complete the fields:
 
 |Fields|Description|
 |---|---|
-|Title (*)|Title identifying the change|
-|Change description (*)|Description of change|
+|Title (\*)|Title identifying the change|
+|Change description (\*)|Description of change|
 |Effect of not implementing the change|Effective if this change is not implemented |
 |Contract|Contract linked to change|
 |Importance|Importance level of change|
@@ -102,21 +102,21 @@ To review and end the change, use the features:
 ## Relationships
 
 
-### CIs of change
+### CI of change
 
-To link a configuration item, select Cis of the Change> Search Configuration Item and select the configuration item.
+To link a configuration item, select Cis of the Change > Search Configuration Item, and select the configuration item.
 
 ### Moving services
 
-To link a Change Service select Services of the Change> Add Service and select the configuration item.
+To link a Service of Change, select Services of the Change > Add Service, and select the configuration item.
 
 ### Answering Questionnaires
 
-It is not mandatory, but some changes may be accompanied by a questionnaire. It can be used to carry out a survey (assessment), questionnaires can be answered and the answers will be linked to the change. The questionnaire must be created beforehand.
+It's not mandatory, but some changes may come along with a questionnaire. It can be used to make a survey (assessment), questionnaires can be answered and the answers will be linked to the change. The questionnaire must be created beforehand.
 
 ### Define roles and responsibilities
 
-To define the roles and responsibilities of the change, fill in the fields:
+To define the roles and responsibilities of the change, complete the fields:
 
 |Fields|Descriptions|
 |-|-|
@@ -136,7 +136,7 @@ To link a release to a change, search for an existing one in "Search for title" 
 
 To link a problem to a change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
-### Linking a Knowledge Base
+### Link a Knowledge Base
 
 To link a knowledge base to change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
@@ -145,6 +145,8 @@ To link a knowledge base to change, search for an existing one in "Search for ti
 To link a Ticket to change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
 ## History and Audit
+
+To see all the actions and audits took in the Change.
 
 Related 
 ---------------
