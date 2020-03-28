@@ -66,7 +66,7 @@ Register the service level requirements
 | Performance           |             |
 | Planned Interruptions |             |
 
-SERVICE SUPPORT
+-   SERVICE SUPPORT
 
 | Field               | Description |
 |---------------------|-------------|
@@ -74,7 +74,7 @@ SERVICE SUPPORT
 | Problem Management  |             |
 | Change management   |             |
 
-CONFORMITY
+-   CONFORMITY
 
 | Field    | Description |
 |----------|-------------|
