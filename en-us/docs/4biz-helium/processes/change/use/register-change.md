@@ -1,42 +1,150 @@
 title: Register change
-Description: It's intended to register a change. 
-# Register change 
+Description: It's intended to register a change.
+
+# Register change
 
 This functionality is intended to register a change. According to ITIL, it's necessary to formalize the change request, so that the responsible team registers all the procedures performed for the change you want (from its request to the impact of its implementation), monitoring it throughout its lifecycle.
+
 
 Before getting started
 ------------------
 
+
 In order to register a change, it's necessary to previously register a contract, a unit that it is linked to the contract, an employee, a questionnaire, the Change Advisory Board, have a group linked to the contract associated with the Requesters (employees) already registered to this group. If it's necessary to create a new employee, it's necessary to include it in the Requester Group in which it's related to the contract.
 Moreover, it's necessary to have registered the portfolio of changes.
 
-Procedure 
+
+Procedure
 --------------
+1.    Access the main menu Processes > Change Management > Change;
+2.    Click on "Options" and then on "Register";
+3.    Complete the fields available:
 
-1.	Access the main menu Processes > Change Management > Change;
-2.	Click on "Options" and then on "Register";
-3.	Complete the fields available in the areas of: requester and change (including selecting the portfolio you want);
-4.  Indicate the Impact, Urgency and Importance to give the problem prioritization;
-5.	It's also necessary to indicate the preliminary information of "planning", "reversion plan" and "review and closure".
 
-    !!! Abstract "NOTE"
-        
-        It's mandatory to schedule the important phases of the change by clicking on the "Planning" area and then "Other information".
-    
-    !!! Abstract "IMPORTANT"
+### Identify the requester
 
-        In all phases:
-           - Planning,
-           - Reversion Plan and
-           - Review and closure
-           
-        In the tabs
-           Documents   - Knowledge can be referenced with texts, links, images, videos and others
-           Attachments - It's possible to attach any documents 
-           Notes       - It's Free Text and can be used to reference texts or links
+To identify an applicant, fill in the fields:
 
-5.	Click on "Options" and then on "Save”;
+|Fields|Description|
+|---|---|
+|Name (*)|Requestor's full name|
+|Contact (*)|Intify the user's contact|
+|Email (*)|User email|
+|Phone|User phone|
+|Extension||
+|Unit (*)|User unit|
+|Phisical Location|User Physical Location|
+|Other information|Additional user information|
 
+### Identify the change
+
+To identify a change, fill in the fields:
+
+|Fields|Description|
+|---|---|
+|Title (*)|Title identifying the change|
+|Change description (*)|Description of change|
+|Effect of not implementing the change|Effective if this change is not implemented |
+|Contract|Contract linked to change|
+|Importance|Importance level of change|
+|Impact|Impact that change generates|
+|Urgency|Urgency to make the change|
+|Executor Group|The group responsible for executing the change|
+|Notification|Configure notifications between "Send email upon creating the Change", "Send email on the completion of the Change", "Send an Email to the Change Advisory Board", "Send email for other actions of the Change"|
+
+### Plan the move
+
+To plan the change use the features:
+
+|Tabs|Description|
+|-|-|
+|Activities|Create a Workspace or link an existing one|
+|Date|Date for planning the change: In the "Expected start date" field, the start date of the planning must be indicated. In the "Expected end date" field, the end date of the planning must be indicated. After indicating the start date and end date, you can check the conflicts by clicking on "View conflicts". Approval: "Acceptance date" must be given a date to be accepted, "Voting" must be given the date for voting, "Conclusion date" must be given a date for completion|
+|Actions|Add an action for the change|
+|System notifications|Set up a system notification to inform you of the change|
+|Documents|Link knowledge to change|
+|Attachments|Insert attachments to change|
+|Annotations|Add relevant notations for change|
+
+5. It's also necessary to indicate the preliminary information of "planning", "reversion plan" and "review and closure".
+
+### Create a reversal plan
+
+To plan the change reversal use the features:
+
+|Tabs|Description|
+|-|-|
+|Activities | Create a Workspace or link an existing one|
+|Actions | Add an action for the change|
+|System notifications|Set up a system notification to inform you of the change rollback plan|
+|Documents|Link knowledge to the reversal plan|
+|Attachments|Insert attachments to the reversal plan|
+|Annotations|Add relevant notations to the reversal plan|
+
+
+### Review and end the change
+
+To review and end the change, use the features:
+
+|Tabs|Description|
+|-|-|
+|Revision|inform if the change was successful|
+|Activities|Create a Workspace or link an existing one|
+|Incidents|Link an incident to review|
+|Problems|Link an incident to a review|
+|Lesons Learned|Link knowledge to the reversal plan|
+|Closure|Identify the closure of a change|
+|Attachments|Insert attachments|
+|Annotations|Add relevant notations|
+
+5. Click on "Options" and then on "Save”;
+
+## Relationships
+
+
+### CIs of change
+
+To link a configuration item, select Cis of the Change> Search Configuration Item and select the configuration item.
+
+### Moving services
+
+To link a Change Service select Services of the Change> Add Service and select the configuration item.
+
+### Answering Questionnaires
+
+It is not mandatory, but some changes may be accompanied by a questionnaire. It can be used to carry out a survey (assessment), questionnaires can be answered and the answers will be linked to the change. The questionnaire must be created beforehand.
+
+### Define roles and responsibilities
+
+To define the roles and responsibilities of the change, fill in the fields:
+
+|Fields|Descriptions|
+|-|-|
+|Employee|Username|
+|Role|Role that the user will perform|
+|Responsibilities|Select the responsibility to be linked to the user|
+
+### RFC Voting
+
+The change team can view the voting score for approval of the change.
+
+### Link a Release
+
+To link a release to a change, search for an existing one in "Search for title" or create a new release using the "Register" option
+
+### Link a Problem
+
+To link a problem to a change, search for an existing one in "Search for title" or create a new release using the "Register" option
+
+### Linking a Knowledge Base
+
+To link a knowledge base to change, search for an existing one in "Search for title" or create a new release using the "Register" option
+
+### Link a Ticket
+
+To link a Ticket to change, search for an existing one in "Search for title" or create a new release using the "Register" option
+
+## History and Audit
 
 Related 
 ---------------
@@ -46,5 +154,5 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/31/2019 – Larissa Lourenço
+
 
