@@ -42,6 +42,7 @@ The service registration must be preceded by :
     - **Presentation** : Visualization in the Smart Portal and Ticket Management.
     - **Access Permission** : Groups that can see the service.
     - **Multilanguage** : Service Translation to English, Spanish and Portuguese.
+    - **Surveys** : Set the Surveys for the service. (available only on Editing)
 
 ## Action for Edit or Registration
 
@@ -113,8 +114,15 @@ The service registration must be preceded by :
 
 **For each language provide:** 
 -   Service Name 
--   Description-
+-   Description
 
+### Surveys Tab
+- Set the Surveys for the service.
+
+| Function                   | Description |
+|----------------------------|-------------|
+| Link group                 |             |
+| Grid with Linked Groups    |             |
 ## What to do next
 
 Access the Smart Portal and verify the information of the service registered in
