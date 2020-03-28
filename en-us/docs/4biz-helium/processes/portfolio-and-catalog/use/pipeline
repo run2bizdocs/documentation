@@ -27,7 +27,7 @@ in the platform, the same page presents the pipeline as well as the services bei
 
 |Action|Description|
 |------|-----------|
-|New Service|To start creating a service for the Service Portfolio. For the fields to be completed, see the document Register a Service[1]|
+|New Service|To start creating a service for the Service Portfolio. For the fields to be completed, see the document [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)|
 |Service Nanme|To order the list of services in the pipeline by name|
 |ASC|To order the list of services by ascending or descending|
 
@@ -42,7 +42,7 @@ available. For those services, we have the following actions:
 |Action|Description|
 |------|-----------|
 |Edit|To edit all the information for the creation of a service|
-|Advance|To detail all the information about the service. For the fields available in the advance action, see the document Register a Service[1]|
+|Advance|To detail all the information about the service. For the fields available in the advance action, see the document [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)|
 
 5. The next tab is the **Services Catalog**, where we have the services which are alread live and in production. For the list of services available,
 we have the same actions as in the service pipeline:
@@ -50,7 +50,7 @@ we have the same actions as in the service pipeline:
 |Action|Description|
 |------|-----------|
 |Edit|To edit all the information for the creation of a service|
-|Advance|To detail all the information about the service. For the fields available in the advance action, see the document Register a Service[1]|
+|Advance|To detail all the information about the service. For the fields available in the advance action, see the document [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)|
 
 6. Finally, in the **Obsolete Services** tab, It presents services that are retired and those that are out of operation. In this part of the 
 service portfolio are registered the services that are no longer in operation. It is used to maintain a history of services. As in the other tabs,
@@ -59,7 +59,7 @@ We'll have the list of services obsoletes and the following actions:
 |Action|Description|
 |------|-----------|
 |Edit|To edit all the information for the creation of a service|
-|Advance|To detail all the information about the service. For the fields available in the advance action, see the document Register a Service[1]|
+|Advance|To detail all the information about the service. For the fields available in the advance action, see the document [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)|
 
 ## Related
 
@@ -67,6 +67,6 @@ We'll have the list of services obsoletes and the following actions:
 
 [Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
-[1](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
+
 
 
