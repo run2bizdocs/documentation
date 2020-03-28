@@ -39,6 +39,54 @@ It allows to change/update the service data
 ### Service Level Requirements
 
 Register the service level requirements
+*Service level Requirements Tab*
+
+-   Creation date
+
+-   Service start date
+
+-   Service Owner
+
+-   SERVICE USEFULNESS
+
+| Field              | Description |
+|--------------------|-------------|
+| Specification      |             |
+| Context            |             |
+| Essential Features |             |
+
+-   SERVICE WARRANTY
+
+| Field                 | Description |
+|-----------------------|-------------|
+| Safety                |             |
+| Availability          |             |
+| Capacity              |             |
+| Business Continuity   |             |
+| Performance           |             |
+| Planned Interruptions |             |
+
+SERVICE SUPPORT
+
+| Field               | Description |
+|---------------------|-------------|
+| Incident Management |             |
+| Problem Management  |             |
+| Change management   |             |
+
+CONFORMITY
+
+| Field    | Description |
+|----------|-------------|
+| Internal |             |
+| External |             |
+
+*Attached Documents Tab*
+
+-   Type of Attachment to Select
+
+-   Add File Button
+
 
 ### Financial Attributes
 
