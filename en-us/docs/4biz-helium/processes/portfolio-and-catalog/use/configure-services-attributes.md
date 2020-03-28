@@ -90,6 +90,7 @@ Register the service level requirements
 |-------------------------------|-------------|
 |  Type of Attachment to Select |             |
 |  Add File Button              |             |
+|  Grid with Attachments        |             |
 
 The Following Functions are available
 
@@ -148,6 +149,7 @@ all service information
 |-------------------------------|-------------|
 |  Type of Attachment to Select |             |
 |  Add File Button              |             |
+|  Grid with Attachments        |             |
 
 The Following Functions are available
 
@@ -230,62 +232,160 @@ Register the service activities requests
 | Search Area                        |             |
 | Grid with Linked Services Requests |             |
 
-
-
 ### Applications
 
 Link the applications that will be used to run the service
+
+| Function                      | Description |
+|-------------------------------|-------------|
+| Link Application              |             |
+| New Application               |             |
+| Search Area                   |             |
+| Grid with Linked Applications |             | 
 
 ### Data schema
 
 Register the data schema of the service
 
+| Field       | Description |
+|-------------|-------------|
+| Details(\*) |             |
+
+***Attached Documents***
+
+| Components                    | Description |
+|-------------------------------|-------------|
+|  Attachment Description       |             |
+|  Add File Button              |             |
+|  Grid with Attachments        |             |
+
 ### Incidents
 
 Register the service incident activities
+
+| Function                   | Description |
+|----------------------------|-------------|
+| New Incident               |             |
+| Link Incident              |             |
+| Search Area                |             |
+| Grid with Linked Incidents |             |
 
 ### Procedures
 
 Register the procedures for the service, which will be used by the continuity
 management to trigger and control the service restoration activities
 
+| Function                     | Description |
+|------------------------------|-------------|
+| New Service Procedure        |             |
+| Link Procedure Service       |             |
+| Search Area                  |             |
+| Grid with Service Procedures |             |
+
+
 ### Contracts
 
 Link the contract that provides the service
 
+| Function                   | Description |
+|----------------------------|-------------|
+| Link Contract              |             |
+| New Contract               |             |
+| Search Area                |             |
+| Grid with Linked Contracts |             | 
+
 ### IT Owners
 
 Link the IT service owners to the service, which can be users or groups
+
+| Function                   | Description |
+|----------------------------|-------------|
+| Link user                  |             |
+| Link user group            |             |
+| Search Area                |             |
+| Grid with Linked IT Owners |             |
 
 ### Knowledge base
 
 Link the knowledge to the service. The knowledge is an information of the
 service provider to deliver the service
 
+| Function                    | Description |
+|-----------------------------|-------------|
+| Link Knowledge              |             |
+| Search Area                 |             |
+| Grid with Linked Knowledges |             |
+
 ### Skill/Resource
 
 Link the skills/resources to the service
+
+| Function                      | Description |
+|-------------------------------|-------------|
+| Link Capability               |             |
+| New Capability                |             |
+| Search Area                   |             |
+| Grid with Linked Capabilities |             | 
 
 ### Capacity/Performance
 
 Link indicators of capacity/performance to the service
 
+| Function                                         | Description |
+|--------------------------------------------------|-------------|
+| Link capacity/performance indicators             |             |
+| Grid with Linked capacity/performance indicators |             | 
+
 ### Attribute of Demand
 
 Link demand attributes to the service
+
+| Function                           | Description |
+|------------------------------------|-------------|
+| Link demand attributes             |             |
+| Grid with Linked demand attributes |             | 
 
 ### Service Evaluations
 
 Manage the service evaluations that were registered via Smart Portal
 
+| Filter                   | Description |
+|--------------------------|-------------|
+|  Register Period - Start |             |
+|  Register Period - End   |             |
+
+The Following Functions are available
+
+| Function                    | Description |
+|-----------------------------|-------------|
+| Search                      |             |
+| Clear                       |             |
+
 ### Service Audit
 
 Verify the history of service to audit it
 
-!!! Abstract "SERVICE LEVEL REQUIREMENT"
+***Recorded events***
 
-    Information available to maintain Service Level Requirements:  
-    Creation date, Service start date, Service owner, Service utility, (Specification, Context, Essential Functionalities), Service guarantee (Security, Availability, Capacity, Business Continuity, Performance, Planned Interruptions), Service Support (Incident Management, Problem Management, Change Management), Conformity (Internal, External) and Attached documents.
+| Object                  | Description |
+|-------------------------|-------------|
+|  Opening Period - Start |             |
+|  Opening Period - End   |             |
+|  Category               |             |
+|  Search Button          |             |
+|  Clear Button           |             |
+|  Events Grid            |             |
+
+***Register occurrences***
+
+| Object            | Description |
+|-------------------|-------------|
+|  Category (\*)    |             |
+|  Description (\*) |             |
+|  Save Button      |             |
+|  Clear Button     |             |
+
+(*) Indicate mandatory field
 
 Related
 -------
