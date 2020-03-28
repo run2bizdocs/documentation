@@ -28,7 +28,7 @@ in the platform, the same page presents the pipeline as well as the services bei
 |Action|Description|
 |------|-----------|
 |New Service|To start creating a service for the Service Portfolio. For the fields to be completed, see the document [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)|
-|Service Nanme|To order the list of services in the pipeline by name|
+|Service Name|To order the list of services in the pipeline by name|
 |ASC|To order the list of services by ascending or descending|
 
 !!! abstract "NOTE"
