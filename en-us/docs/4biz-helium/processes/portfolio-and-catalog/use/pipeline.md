@@ -23,6 +23,8 @@ in the platform, the same page presents the pipeline as well as the services bei
 
 3. It'll appear three tabs: Services Pipeline, Services Catalog and Obsolete Services;
 
+### Designing Service
+
 4. In the **Services Pipeline** tab, it'll present the services which are not for production yet. We have the following actions available:
 
 |Action|Description|
