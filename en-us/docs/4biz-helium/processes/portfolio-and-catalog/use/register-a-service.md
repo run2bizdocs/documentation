@@ -95,6 +95,8 @@ the portfolio.
 
 ## Related
 
+[Configure Incident or Service Request attributes](/en-us/4biz-helium/processes/portfolio-and-catalog/use/configure-services-attributes.html)
+
 [Create service category](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
 [Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
