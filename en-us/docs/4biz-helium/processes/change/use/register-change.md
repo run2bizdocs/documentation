@@ -52,7 +52,7 @@ To identify a change, complete the fields:
 |Executor Group|The group responsible for executing the change|
 |Notification|Configure notifications between "Send email upon creating the Change", "Send email on the completion of the Change", "Send an Email to the Change Advisory Board", "Send email for other actions of the Change"|
 
-### Plan the move
+### Plan the change
 
 To plan the change use the features:
 
@@ -82,9 +82,9 @@ To plan the change reversal use the features:
 |Annotations|Add relevant notations to the reversal plan|
 
 
-### Review and end the change
+### Review and finish the change
 
-To review and end the change, use the features:
+To review and finish the change, use the features:
 
 |Tabs|Description|
 |-|-|
