@@ -42,11 +42,11 @@ Register the service level requirements
 
 ***Service level Requirements Tab***
 
--   Creation date
-
--   Service start date
-
--   Service Owner
+| Field              | Description |
+|--------------------|-------------|
+| Creation date      |             |
+| Service start date            |             |
+| Service Owner |             |
 
 -   SERVICE USEFULNESS
 
@@ -84,9 +84,10 @@ Register the service level requirements
 
 ***Attached Documents Tab***
 
--   Type of Attachment to Select
-
--   Add File Button
+| Components    | Description |
+|----------|-------------|
+|  Type of Attachment to Select |             |
+| Add File Button |             |
 
 
 ### Financial Attributes
