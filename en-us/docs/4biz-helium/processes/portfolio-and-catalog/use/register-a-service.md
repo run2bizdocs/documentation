@@ -15,15 +15,19 @@ This feature provides a variety of actions, such as including, changing, and del
 ## Before getting started
 
 The service registration must be preceded by :
+
 -   [X]  The registration of a service portfolio,
+
 -   [X]  Create the service category
+
 -   [X]  Create the group(s) what will use the service
+
 -   [X]  Permission to access the Portfolio Management functionality.
 
 ## Procedure
 
 -   Service Registration is addressed at the ***New Service Button*** of the service button in te Pipeline (Design)
--   Edition can be addressed also at the pipeline but  on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service 
+-   Edition can be addressed also at the pipeline but on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service 
 
 The System will present tabs to set the service to be edited or registered;
 
