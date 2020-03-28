@@ -96,33 +96,33 @@ The service registration must be preceded by :
 ### Attatched Documents Tab
 -   Artifacts, documents, tabs and others.
 
-| Components                    | Description |
-|-------------------------------|-------------|
-|  Attachment Description       |             |
-|  Add File Button              |             |
-|  Grid with Attachments        |             |
+| Components                    | Description             |
+|-------------------------------|-------------------------| 
+|  Attachment Description       | Describe the attachment |
+|  Add File Button              |                         |
+|  Grid with Attachments        | View / Delete           |
 
 ### Presentation Tab 
 -  Configures Visualization in the Smart Portal and Ticket Management.
 
-| Field                                        | Description |
-|----------------------------------------------|-------------|
-| Available on portal(\*)                      |             |
-| Available via chat(\*)                       |             |
-| Automatic approval of service evaluation(\*) |             |
-| Name(\*)                                     |             |
-| Description                                  |             |
-| Select an Image Buttom                       |             |
+| Field                                        | Description                                                     |
+|----------------------------------------------|-----------------------------------------------------------------|
+| Available on portal(\*)                      | Indicate If the Service is to be present at the Services Portal |
+| Available via chat(\*)                       | Indicates if the Service can have Chat attendance               |
+| Automatic approval of service evaluation(\*) | Indicates that the Service is to be approved automatically      |
+| Name(\*)                                     | Name of the Service to appear at the Portal                     |
+| Description                                  | Description of the Service to apper at the Portal               |
+| Select an Image Buttom                       | Select an image to the Service (or upload a new one)            |
 
 (*) Indicate mandatory field
 
 ### Access Permission Tab
 - Set the Groups that can use the service.
 
-| Function                   | Description |
-|----------------------------|-------------|
-| Link group                 |             |
-| Grid with Linked Groups    |             |
+| Function                   | Description                              |
+|----------------------------|------------------------------------------|
+| Link group                 | Search and Link Group to use the Service |
+| Grid with Linked Groups    | View / Unlink                            |
 
 ### Multilanguage Tab
 - Service Translation to English, Spanish and Portuguese.
@@ -134,10 +134,10 @@ The service registration must be preceded by :
 ### Surveys Tab
 - Set the Surveys for the service (available only on Editing) 
 
-| Function                   | Description |
-|----------------------------|-------------|
-| Link Survey                |             |
-| Grid with Linked Surveys   |             |
+| Function                   | Description                               |
+|----------------------------|-------------------------------------------|
+| Link Survey                |  Search and Link Surveys to the Service   |
+| Grid with Linked Surveys   |  View / Unlink                            |
 
 ## What to do next
 
