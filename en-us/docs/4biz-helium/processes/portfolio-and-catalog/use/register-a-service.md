@@ -1,39 +1,33 @@
-title:  Register a service
+title:  Register / Edit a Service
 Description: This feature provides a variety of actions, such as including, changing, and deleting a service.
 
-# Register a service
+# Register / edit a Service
 
 The service registration is divided in two types:
 
-•	Business: provides business/IT services;
+-   Business: provides business/IT services;
+-   Technical: provides the support/technical services.
 
-•	Technical: provides the support/technical services.
-
-The choice of Business/Technical type should be in line with the type of contract that pretends to be linked to the Portfolio. Only contracts of the type "Contract" are linked to the type "Business" and only contracts of the type "Underpinning Contract" and "Operational Level Agreement" are linked to the type "Technical".
+The choice of Business/Technical type should be in line with the type of contract that pretends to be linked to the Portfolio.  
+Only contracts of the type "Contract" are linked to the type "Business" and only contracts of the type "Underpinning Contract" and "Operational Level Agreement" are linked to the type "Technical".  
 This feature provides a variety of actions, such as including, changing, and deleting a service.
 
-Before getting started
---------------------------
+## Before getting started
 
-The service registration must be preceded by the registration of a service
-portfolio, the service category, a group, and permission to access the Portfolio
-Management functionality.
+The service registration must be preceded by :
+-   [X]  The registration of a service portfolio,
+-   [X]  Create the service category
+-   [X]  Create the group(s) what will use the service
+-   [X]  Permission to access the Portfolio Management functionality.
 
-Procedure
--------------
+## Procedure
 
-1.  Access the functionality through the main menu Processes \> Portfolio and
-    Catalog Management \> Portfolio;
+-   Service Registration is addressed at the ***New Service Button*** of the service button in te Pipeline (Design)
+-   Edition can be addressed also at the pipeline but  on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service 
 
-2.  Choose the type of portfolio (Business or Technical);
+The System will present tabs to set the service to be edited or registered;
 
-3.  Select a portfolio and click on "Advance";
-
-4.  Click on "New Service";
-
-5.  It will be presented tabs to set the service to be registered;
-
-6.  Complete all mandatory fields that each tab will present;
+Complete all fields necessary os each Informamation tab;
 
     !!! Abstract "Information of each tab"
     
@@ -42,18 +36,57 @@ Procedure
         - Presentation: Visualization in the Smart Portal and Ticket Management.
         - Access Permission: Groups that can see the service.
 
-7.  Complete the other fields if necessary;
+Save tthe Service.
 
-8.  Click on "Save".
+## Action for Edit or registration
 
-What to do next
--------------------
+| Action             | Description                    |
+|--------------------|--------------------------------|
+| **Save**           | To save the Service            |
+| **Delete**         | Delet the service (on Editing) |
+| **Clear**          | Clear the fielsd               |
+| **Clone data**     | Clone another Service          |
+
+## Information Tabs
+
+### Main Tab 
+-   Information of service, status, phases, business importance and others.
+| Field              | Description                    |
+|--------------------|--------------------------------|
+|                    |                                |
+
+(*) Indicate mandatory field
+
+### Attatched Documents Tab
+-   Artifacts, documents, tabs and others.
+| Field              | Description                    |
+|--------------------|--------------------------------|
+|                    |                                |
+
+(*) Indicate mandatory field
+
+### Presentation Tab 
+-  Configures Visualization in the Smart Portal and Ticket Management.
+| Field              | Description                    |
+|--------------------|--------------------------------|
+|                    |                                |
+
+(*) Indicate mandatory field
+
+### Access Permission Tab
+- Set the Groups that can use the service.
+| Field              | Description                    |
+|--------------------|--------------------------------|
+|                    |                                |
+
+(*) Indicate mandatory field
+
+## What to do next
 
 Access the Smart Portal and verify the information of the service registered in
 the portfolio.
 
-Related
------------
+## Related
 
 [Create service category](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/create-service-category.html)
 
@@ -70,4 +103,4 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>28/03/2020 – Andre Fernandes
