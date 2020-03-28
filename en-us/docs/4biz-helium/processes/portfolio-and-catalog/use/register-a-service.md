@@ -38,7 +38,7 @@ Complete all fields necessary os each Informamation tab;
 
 Save tthe Service.
 
-## Action for Edit or registration
+## Action for Edit or Registration
 
 | Action             | Description                    |
 |--------------------|--------------------------------|
