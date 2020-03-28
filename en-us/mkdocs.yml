@@ -265,8 +265,8 @@ nav:
     - 4biz-helium/processes/overview.md
     - Portfolio and Catalog:
       - 4biz-helium/processes/portfolio-and-catalog/overview.md
-      - 4biz-helium/processes/portfolio-and-catalog/use/pipeline.md
       - 4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.md
+      - 4biz-helium/processes/portfolio-and-catalog/use/pipeline.md
       - Register a Service:
         - 4biz-helium/processes/portfolio-and-catalog/use/register-a-service.md
         - Configuring Request:
