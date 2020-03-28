@@ -39,7 +39,8 @@ It allows to change/update the service data
 ### Service Level Requirements
 
 Register the service level requirements
-*Service level Requirements Tab*
+
+***Service level Requirements Tab***
 
 -   Creation date
 
@@ -81,7 +82,7 @@ Register the service level requirements
 | Internal |             |
 | External |             |
 
-*Attached Documents Tab*
+***Attached Documents Tab***
 
 -   Type of Attachment to Select
 
