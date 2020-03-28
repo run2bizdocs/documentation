@@ -20,15 +20,13 @@ Before getting started
 Procedure
 ---------
 
-1.  Access the main menu Processes \> Portfolio and Catalog Management \>
-    Portfolio;
+1.  Access the main menu Processes \> Portfolio and Catalog Management \> Portfolio;
 
 2.  Access the Service Portfolio you want and click on "Advance";
 
 3.  Click on "Advance" in the service to access it;
 
-4.  On the left side, it's presented the different attributes that can be
-    configured.
+4.  On the left side, it's presented the different attributes that can be configured.
 
 ## Service Attributes
 
@@ -163,9 +161,7 @@ The Following Functions are available
 
 ### Service Map
 
-Set the design of service map related to the enabling services and configuration
-items. In this design, it's defined which enabling service will be used to
-perform the main service
+Set the design of service map related to the enabling services and configuration items. In this design, it's defined which enabling service will be used to perform the main service
 
 | Components                    | Description |
 |-------------------------------|-------------|
@@ -274,8 +270,7 @@ Register the service incident activities
 
 ### Procedures
 
-Register the procedures for the service, which will be used by the continuity
-management to trigger and control the service restoration activities
+Register the procedures for the service, which will be used by the continuity management to trigger and control the service restoration activities
 
 | Function                     | Description |
 |------------------------------|-------------|
@@ -394,7 +389,7 @@ Related
 
 [Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
-[Register a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
+[Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html)
 
 [Create the portfolio](/en-us/4biz-helium/processes/portfolio-and-catalog/use/create-the-portfolio.html)
 
