@@ -33,12 +33,12 @@ The System will present tabs to set the service to be edited or registered;
 
 Complete all fields necessary os each Informamation tab;
 
-    !!! Abstract "Information of each tab"
-    
-        - Main: Information of service, status, phases, business importance and others.
-        - Attatched Documents: Artifacts, documents, tabs and others.
-        - Presentation: Visualization in the Smart Portal and Ticket Management.
-        - Access Permission: Groups that can see the service.
+!!! Abstract "Information of each tab"
+  
+    - Main: Information of service, status, phases, business importance and others.
+    - Attatched Documents: Artifacts, documents, tabs and others.
+    - Presentation: Visualization in the Smart Portal and Ticket Management.
+    - Access Permission: Groups that can see the service.
 
 Save the Service.
 
