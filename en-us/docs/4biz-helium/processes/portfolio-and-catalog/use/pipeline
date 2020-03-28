@@ -7,7 +7,13 @@ in the platform, the same page presents the pipeline as well as the services bei
 
 ## Before getting started
 
-- [x] It's necessary to have a service portfolio registered.
+-   [X]  The registration of a service portfolio;
+
+-   [X]  Create the service category;
+
+-   [X]  Create the group(s) what will use the service;
+
+-   [X]  Permission to access the Portfolio Management functionality.
 
 ## Procedure
 
