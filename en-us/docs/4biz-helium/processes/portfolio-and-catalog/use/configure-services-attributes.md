@@ -44,9 +44,11 @@ Register the service level requirements
 
 | Field              | Description |
 |--------------------|-------------|
-| Creation date      |             |
-| Service start date            |             |
-| Service Owner |             |
+| Creation date(\*)  |             |
+| Service start date |             |
+| Service Owner      |             |
+
+(*) Indicate mandatory field
 
 -   SERVICE USEFULNESS
 
@@ -108,6 +110,8 @@ Register the service financial attributes
 | Value(\*)      |                                      |
 | Cycle          |                                      |
 
+(*) Indicate mandatory field
+
 The Following Functions are available
 
 | Function                    | Description |
@@ -120,6 +124,38 @@ The Following Functions are available
 
 Register the business case of the service. This business case is a summary of
 all service information
+
+***Service level Requirements Tab***
+
+| Field               | Description                          |
+|---------------------|--------------------------------------|
+| Business Case(\*)   |                                      |
+| Executive summary   |                                      |
+| Stakeholder/Entity  |                                      |
+| Scenarios           |                                      |
+| Problem/Opportunity |                                      |
+| Proposed Solution   |                                      |
+| Financial analysis  |                                      |
+| Risk analysis       |                                      |
+| Technical viability |                                      |
+| Conclusion          |                                      |
+
+(*) Indicate mandatory field
+
+***Attached Documents Tab***
+
+| Components                    | Description |
+|-------------------------------|-------------|
+|  Type of Attachment to Select |             |
+|  Add File Button              |             |
+
+The Following Functions are available
+
+| Function                    | Description |
+|-----------------------------|-------------|
+| Save                        |             |
+| Clear                       |             |
+
 
 ### Service Map
 
