@@ -117,12 +117,13 @@ The service registration must be preceded by :
 -   Description
 
 ### Surveys Tab
-- Set the Surveys for the service.
+- Set the Surveys for the service (available only on Editing) 
 
 | Function                   | Description |
 |----------------------------|-------------|
-| Link group                 |             |
-| Grid with Linked Groups    |             |
+| Link Survey                |             |
+| Grid with Linked Surveys   |             |
+
 ## What to do next
 
 Access the Smart Portal and verify the information of the service registered in
