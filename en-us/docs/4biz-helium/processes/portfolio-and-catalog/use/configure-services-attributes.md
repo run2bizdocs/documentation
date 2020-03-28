@@ -94,6 +94,22 @@ Register the service level requirements
 
 Register the service financial attributes
 
+| Field          | Description                          |
+|----------------|--------------------------------------|
+| Category(\*)   |                                      |
+| Type(\*)       |                                      |
+| Classification | Only appears if Type equal to “Cost” |
+| Value(\*)      |                                      |
+| Cycle          |                                      |
+
+The Following Functions are available
+
+| Function                    | Description |
+|-----------------------------|-------------|
+| Add to the Service          |             |
+| Add/Edit Financial Category |             |
+| Import                      |             |
+
 ### Business Cases
 
 Register the business case of the service. This business case is a summary of
