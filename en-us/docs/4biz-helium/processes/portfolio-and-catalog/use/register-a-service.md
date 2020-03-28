@@ -35,10 +35,11 @@ Complete all fields necessary os each Informamation tab;
 
 !!! Abstract "Information of each tab"
   
-    - Main: Information of service, status, phases, business importance and others.
-    - Attatched Documents: Artifacts, documents, tabs and others.
-    - Presentation: Visualization in the Smart Portal and Ticket Management.
-    - Access Permission: Groups that can see the service.
+    - **Main** : Information of service, status, phases, business importance and others.
+    - **Attatched Documents** : Artifacts, documents, tabs and others.
+    - **Presentation** : Visualization in the Smart Portal and Ticket Management.
+    - **Access Permission** : Groups that can see the service.
+    - **Multilanguage** : Service Translation to English, Spanish and Portuguese.
 
 Save the Service.
 
@@ -56,38 +57,63 @@ Save the Service.
 ### Main Tab 
 -   Information of service, status, phases, business importance and others.
 
-| Field              | Description                    |
-|--------------------|--------------------------------|
-|                    |                                |
+| Field                                     | Description |
+|-------------------------------------------|-------------|
+| Service Name(\*)                          |             |
+| Initiation Process(\*)                    |             |
+| Category(\*)                              |             |
+| 4Biz Education                            |             |
+| Date of Deployment(\*)                    |             |
+| Service Phase(\*)                         |             |
+| Service Status(\*)                        |             |
+| Criticity                                 |             |
+| Importance of the Service to the Business |             |
+| Type of Service                           |             |
+| Place of Execution of Services            |             |
+| Detail                                    |             |
+| Objective                                 |             |
+| Value                                     |             |
+| Service Template                          |             |
 
 (*) Indicate mandatory field
 
 ### Attatched Documents Tab
 -   Artifacts, documents, tabs and others.
 
-| Field              | Description                    |
-|--------------------|--------------------------------|
-|                    |                                |
-
-(*) Indicate mandatory field
+| Components                    | Description |
+|-------------------------------|-------------|
+|  Attachment Description       |             |
+|  Add File Button              |             |
+|  Grid with Attachments        |             |
 
 ### Presentation Tab 
 -  Configures Visualization in the Smart Portal and Ticket Management.
 
-| Field              | Description                    |
-|--------------------|--------------------------------|
-|                    |                                |
+| Field                                        | Description |
+|----------------------------------------------|-------------|
+| Available on portal(\*)                      |             |
+| Available via chat(\*)                       |             |
+| Automatic approval of service evaluation(\*) |             |
+| Name(\*)                                     |             |
+| Description                                  |             |
+| Select an Image Buttom                       |             |
 
 (*) Indicate mandatory field
 
 ### Access Permission Tab
 - Set the Groups that can use the service.
 
-| Field              | Description                    |
-|--------------------|--------------------------------|
-|                    |                                |
+| Function                   | Description |
+|----------------------------|-------------|
+| Link group                 |             |
+| Grid with Linked Groups    |             |
 
-(*) Indicate mandatory field
+### Multilanguage Tab
+- Service Translation to English, Spanish and Portuguese.
+
+**For each language provide:** 
+-   Service Name 
+-   Description-
 
 ## What to do next
 
