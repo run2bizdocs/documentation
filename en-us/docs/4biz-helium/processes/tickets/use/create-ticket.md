@@ -95,14 +95,14 @@ Access the Paper clip icon on the top of the screen to add attachments.
 
 Access the small black Arrow button in the upper right side of the screen, below the menu bar, to perform the desired functions.
 
-| Function           | Description                                                                                         |
-|--------------------|-----------------------------------------------------------------------------------------------------|
-| **Knowledge**      | Can search and link Knowledges to the Incident or Service Request                                   |
-| **Project**        | Can search and link a Project to the Incident or Service Request                                    |
-| **Schedule**       | Can create an Activities Schedule for the Incident or Service Request                               |
-| **Email reading**  | Can search and read e-mails                                                                         |
-| **Requester CI**   | Can search and select the Requester's configuration items                                           |
-| **Release**        | Can search releases to link to the Incident or Service reques, also can create and link the Release |
+| Function           | Description                                                                                          |
+|--------------------|------------------------------------------------------------------------------------------------------|
+| **Knowledge**      | Search and link Knowledges to the Incident or Service Request                                        |
+| **Project**        | Search and link a Project to the Incident or Service Request                                         |
+| **Schedule**       | Create an Activities Schedule for the Incident or Service Request                                    |
+| **Email reading**  | Search and read e-mails                                                                              |
+| **Requester CI**   | Search and select the Requester's configuration items                                                |
+| **Release**        | Search releases to link to the Incident or Service reques, also can create and link the Release      |
 
 
 ### Saving 
