@@ -26,12 +26,14 @@ The service registration must be preceded by :
 
 ## Procedure
 
--   Service Registration is addressed at the ***New Service Button*** of the service button in te Pipeline (Design)
--   Edition can be addressed also at the pipeline but on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service 
+!!! Abstract "Access"
+  
+    - Service Registration is addressed at the ***New Service Button*** of the service button in te Pipeline (Design).
+    - Edition can be addressed also at the pipeline but on the ***Edit Button*** at Pipeline (Services Catalog) or in the ***Details Tab*** of the Attributes registration of the service.
 
-The System will present tabs to set the service to be edited or registered;
-
-Complete all fields necessary os each Informamation tab;
+1 - The System will present tabs to set the service to be edited or registered;  
+2 - Complete all fields necessary os each Informamation tab;  
+3 - Save the Service.
 
 !!! Abstract "Information of each tab"
   
@@ -40,8 +42,6 @@ Complete all fields necessary os each Informamation tab;
     - **Presentation** : Visualization in the Smart Portal and Ticket Management.
     - **Access Permission** : Groups that can see the service.
     - **Multilanguage** : Service Translation to English, Spanish and Portuguese.
-
-Save the Service.
 
 ## Action for Edit or Registration
 
