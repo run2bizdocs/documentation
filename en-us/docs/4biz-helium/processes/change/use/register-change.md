@@ -21,7 +21,7 @@ Procedure
 3.    Complete the fields available:
 
 
-### Identify the requester
+### Requester
 
 To identify an applicant, fill in the fields:
 
@@ -36,7 +36,7 @@ To identify an applicant, fill in the fields:
 |Phisical Location|User's Physical Location|
 |Other information|Additional user's information|
 
-### Identify the change
+### Change
 
 To identify a change, complete the fields:
 
@@ -52,7 +52,11 @@ To identify a change, complete the fields:
 |Executor Group|The group responsible for executing the change|
 |Notification|Configure notifications between "Send email upon creating the Change", "Send email on the completion of the Change", "Send an Email to the Change Advisory Board", "Send email for other actions of the Change"|
 
-### Plan the change
+!!! Abstract "NOTE"
+    
+        For [Create change portfolio](/en-us/4biz-helium/processes/change/configuration/change-portfolio.html)
+
+### Planning
 
 To plan the change use the features:
 
@@ -66,9 +70,11 @@ To plan the change use the features:
 |Attachments|Insert attachments to change|
 |Annotations|Add relevant notations for change|
 
+[Activities of the change planning phase](/en-us/4biz-helium/processes/change/use/change-planning-activities.html)
+
 5. It's also necessary to indicate the preliminary information of "planning", "reversion plan" and "review and closure".
 
-### Create a reversal plan
+### Reversion plan
 
 To plan the change reversal use the features:
 
@@ -81,8 +87,9 @@ To plan the change reversal use the features:
 |Attachments|Insert attachments to the reversal plan|
 |Annotations|Add relevant notations to the reversal plan|
 
+[Register reversion plan of change](/en-us/4biz-helium/processes/change/use/change-reversion-plan.html)
 
-### Review and finish the change
+### Review and closure
 
 To review and finish the change, use the features:
 
@@ -101,20 +108,21 @@ To review and finish the change, use the features:
 
 ## Relationships
 
-
 ### CI of change
 
 To link a configuration item, select Cis of the Change > Search Configuration Item, and select the configuration item.
 
-### Moving services
+[Relate items to the change](/en-us/4biz-helium/processes/change/use/relate-information-to-change.html)
+
+### Service of the Change    
 
 To link a Service of Change, select Services of the Change > Add Service, and select the configuration item.
 
-### Answering Questionnaires
+### Questionnaires
 
 It's not mandatory, but some changes may come along with a questionnaire. It can be used to make a survey (assessment), questionnaires can be answered and the answers will be linked to the change. The questionnaire must be created beforehand.
 
-### Define roles and responsibilities
+### Roles and responsibilities
 
 To define the roles and responsibilities of the change, complete the fields:
 
@@ -128,19 +136,19 @@ To define the roles and responsibilities of the change, complete the fields:
 
 The change team can view the voting score for approval of the change.
 
-### Link a Release
+### Release
 
 To link a release to a change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
-### Link a Problem
+### Problem
 
 To link a problem to a change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
-### Link a Knowledge Base
+### Knowledge Base
 
 To link a knowledge base to change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
-### Link a Ticket
+### Ticket
 
 To link a Ticket to change, search for an existing one in "Search for title" or create a new release using the "Register" option
 
@@ -156,5 +164,3 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-
-
