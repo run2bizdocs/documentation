@@ -36,7 +36,7 @@ Procedure
 
 It allows to change/update the service data
 
-The Tabs / Fields / Buttons of this function are described at the [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html) Documentation.
+The Tabs / Fields / Buttons of this function are described at the [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html) documentation.
 
 ### Service Level Requirements
 
