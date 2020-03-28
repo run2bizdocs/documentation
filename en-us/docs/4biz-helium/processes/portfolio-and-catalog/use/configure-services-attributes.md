@@ -84,11 +84,17 @@ Register the service level requirements
 
 ***Attached Documents Tab***
 
-| Components    | Description |
-|----------|-------------|
+| Components                    | Description |
+|-------------------------------|-------------|
 |  Type of Attachment to Select |             |
-| Add File Button |             |
+|  Add File Button              |             |
 
+The Following Functions are available
+
+| Function                    | Description |
+|-----------------------------|-------------|
+| Save                        |             |
+| Clear                       |             |
 
 ### Financial Attributes
 
