@@ -105,14 +105,14 @@ The service registration must be preceded by :
 ### Presentation Tab 
 -  Configures Visualization in the Smart Portal and Ticket Management.
 
-| Field                                        | Description                                                     |
-|----------------------------------------------|-----------------------------------------------------------------|
-| Available on portal(\*)                      | Indicate If the Service is to be present at the Services Portal |
-| Available via chat(\*)                       | Indicates if the Service can have Chat attendance               |
-| Automatic approval of service evaluation(\*) | Indicates that the Service is to be approved automatically      |
-| Name(\*)                                     | Name of the Service to appear at the Portal                     |
-| Description                                  | Description of the Service to apper at the Portal               |
-| Select an Image Buttom                       | Select an image to the Service (or upload a new one)            |
+| Field                                        | Description                                                             |
+|----------------------------------------------|-------------------------------------------------------------------------|
+| Available on portal(\*)                      | Indicate If the Service is to be present at the Services Portal         |
+| Available via chat(\*)                       | Indicates if the Service can have Chat attendance                       |
+| Automatic approval of service evaluation(\*) | Indicates that the Service Evaluations are to be automatically approved |
+| Name(\*)                                     | Name of the Service to appear at the Portal                             |
+| Description                                  | Description of the Service to apper at the Portal                       |
+| Select an Image Buttom                       | Select an image to the Service (or upload a new one)                    |
 
 (*) Indicate mandatory field
 
