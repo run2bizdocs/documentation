@@ -348,17 +348,17 @@ Link demand attributes to the service
 
 Manage the service evaluations that were registered via Smart Portal
 
-| Filter                   | Description |
-|--------------------------|-------------|
-|  Register Period - Start |             |
-|  Register Period - End   |             |
+| Filter                   | Description                                |
+|--------------------------|--------------------------------------------|
+|  Register Period - Start | Set a Start date to search the evaluations |
+|  Register Period - End   | Set an End date to search the evaluations  |
 
 The Following Functions are available
 
-| Function                    | Description |
-|-----------------------------|-------------|
-| Search                      |             |
-| Clear                       |             |
+| Function                    | Description            |
+|-----------------------------|------------------------|
+| Search                      | Search with the period |
+| Clear                       | Clear the Filter       |
 
 ### Service Audit
 
@@ -366,23 +366,23 @@ Verify the history of service to audit it
 
 ***Recorded events***
 
-| Object                  | Description |
-|-------------------------|-------------|
-|  Opening Period - Start |             |
-|  Opening Period - End   |             |
-|  Category               |             |
-|  Search Button          |             |
-|  Clear Button           |             |
-|  Events Grid            |             |
+| Object                  | Description                 |
+|-------------------------|-----------------------------|
+|  Opening Period - Start | Set a Start date to opening |
+|  Opening Period - End   | Set an End date of opening  |
+|  Category               | Select a Category of event  |
+|  Search Button          | Search with the filters     |
+|  Clear Button           | Clear the Filter            |
+|  Events Grid            | View                        |
 
 ***Register occurrences***
 
-| Object            | Description |
-|-------------------|-------------|
-|  Category (\*)    |             |
-|  Description (\*) |             |
-|  Save Button      |             |
-|  Clear Button     |             |
+| Object            | Description                |
+|-------------------|----------------------------|
+|  Category (\*)    | Select a Category of event |
+|  Description (\*) | Describe the event         |
+|  Save Button      | Save                       |
+|  Clear Button     | Clear fields               |
 
 (*) Indicate mandatory field
 
