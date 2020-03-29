@@ -4,25 +4,17 @@ Description: This feature provides a variety of actions, such as including, chan
 
 # Create the portfolio
 
-The service portfolio and catalog management consider services coative in terms of the business value provided by them, and this ensures that the correct composition of services to meet the expected results of the business at an appropriate level of investment.
-Portfolio is a complete set of services that will be delivered, grouped by criteria such as size, discipline or strategic value. Thus, all services delivered by the company can and should be part of the Portfolio.
-The portfolio management is strategic as it manages services throughout its lifecycle, focusing on the value they deliver to the business area.
+The service portfolio and catalog management consider services coative in terms of the business value provided by them and this ensures that the correct composition of services to meet the expected results of the business at an appropriate level of investment.  
+Portfolio is a complete set of services that will be delivered, grouped by criteria such as size, discipline or strategic value. Thus, all services delivered by the company can and should be part of the Portfolio.  
+The portfolio management is strategic as it manages services throughout its lifecycle in a Pipeline, focusing on the value they deliver to the business area.  
 This feature provides a variety of actions, such as including, changing, and deleting a portfolio.
 
-Before getting started
---------------------------
+## Before getting started
 
-It's necessary to have defined the access permission to the functionalities of
-the Portfolio Management.
+-   [X] It's necessary to have defined the access permission to the functionalities of the Portfolio Management. The portfolio allows the linkage with searches that need to be previously registered.  
+-   [X] Set parameter 293 to "YES" to enable access permission for user groups in the Portal.
 
-The portfolio allows the linkage with searches that need to be previously
-registered.
-
-Set parameter 293 to "YES" to enable access permission for user groups in the
-Portal.
-
-Procedure
--------------
+## Procedure
 
 1.  Access the functionality Service Portfolio Management through the main menu
     Processes \> Portfolio and Catalog Management \> Portfolio;
@@ -50,14 +42,12 @@ Procedure
     be filled out with the information contained in the "Presentation".
  
  
-What to do next
---------------
+## What to do next
 
 Go to the home page and check the created portfolio.
 
 
-Related
------------
+## Related
 
 [Register satisfaction survey](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
 
@@ -70,5 +60,5 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/03/2019 – Larissa Lourenço
+    <b>Updated:</b>29/03/2020 – Andre Fernandes
 
