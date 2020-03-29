@@ -42,7 +42,7 @@ The Tabs / Fields / Buttons of this function are described at the [Register / Ed
 
 !!! tip " "
 
-    All SLA setup and relationship with other process such as Capacity, Incident, Request, etc
+    All SLA setup and relationship with other process such as Capacity, Incident, Request, etc.
 
 ***Service level Requirements Tab***
 
@@ -133,7 +133,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All Business Case reference. Information about all service strategy should be configurated in this tab
+    All Business Case reference. Information about all service strategy should be configurated in this tab.
 
 ***Business Case Tab***
 
@@ -192,7 +192,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All business process that must be linked with the specific service
+    All business process that must be linked with the specific service.
 
 | Function                     | Description                    |
 |------------------------------|--------------------------------|
@@ -205,7 +205,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All support services that provide support for the mais service, such as 3rd party services
+    All support services that provide support for the mais service, such as 3rd party services.
 
 | Function                   | Description     |
 |----------------------------|-----------------|
@@ -217,7 +217,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    Service Owner, person or group responsbile for design and evaluate the service
+    Service Owner, person or group responsbile for design and evaluate the service.
 
 | Function                         | Description            |
 |----------------------------------|------------------------|
@@ -230,7 +230,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    Main person or users group that uses the service
+    Main person or users group that uses the service.
 
 | Function                        | Description         |
 |---------------------------------|---------------------|
@@ -243,7 +243,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All resquests provided by the service catalog
+    All requests provided by the service catalog.
 
 | Function                           | Description     |
 |------------------------------------|-----------------|
@@ -256,7 +256,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All aplicattions that sustain or runs linked with service
+    All aplicattions that sustain or runs linked with service.
     
 | Function                      | Description     |
 |-------------------------------|-----------------|
@@ -269,7 +269,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All data schema and technical informations about the service
+    All data schema and technical informations about the service.
 
 | Field       | Description                           |
 |-------------|---------------------------------------|
@@ -287,7 +287,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    All incident provided by the service catalog
+    All incident provided by the service catalog.
     
 | Function                   | Description     |
 |----------------------------|-----------------|
@@ -300,7 +300,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    Procedures used by Continuity process for keep the service running in desater recovery need.
+    Procedures used by Continuity process for keep the service running in disaster recovery need.
     
 | Function                     | Description     |
 |------------------------------|-----------------|
@@ -327,7 +327,7 @@ The Following Functions are available
 
 !!! tip " "
 
-    Owner of IT Service
+    Owner of IT Service.
     
 | Function                   | Description         |
 |----------------------------|---------------------|
