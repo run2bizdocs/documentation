@@ -169,10 +169,12 @@ The Following Functions are available
 | Clear                       | Clear the Fields   |
 
 
-### Service Map
+### Configuration Items
 
-Set the design of service map related to the enabling services and configuration items. In this design, it's defined which enabling service will be used to perform the main service
+!!! tip " "
 
+    Responsible for link all CIs, Services Version, Service Map, components and service real capacity trought the map.
+    
 | Components                    | Description                                            |
 |-------------------------------|--------------------------------------------------------|
 |  Support Services             | Select Support Services to Drag to the Drawing area    |
