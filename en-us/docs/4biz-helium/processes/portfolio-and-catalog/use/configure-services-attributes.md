@@ -42,62 +42,63 @@ Register the service level requirements
 
 ***Service level Requirements Tab***
 
-| Field              | Description |
-|--------------------|-------------|
-| Creation date(\*)  |             |
-| Service start date |             |
-| Service Owner      |             |
+| Field              | Description                                   |
+|--------------------|-----------------------------------------------|
+| Creation date(\*)  |  Date of the creation of the Service          |
+| Service start date |  Date that the Service is about to be release |
+| Service Owner      |  Select the Owner of the Service              |
 
 (*) Indicate mandatory field
 
 -   SERVICE USEFULNESS
 
-| Field              | Description |
-|--------------------|-------------|
-| Specification      |             |
-| Context            |             |
-| Essential Features |             |
+| Field              | Description                                    |
+|--------------------|------------------------------------------------|
+| Specification      | Specify the Sercice in a Usefulness view       |
+| Context            | Describe the context of usage of the Service   |
+| Essential Features | Specify the essentials features of the Service |
 
 -   SERVICE WARRANTY
 
-| Field                 | Description |
-|-----------------------|-------------|
-| Safety                |             |
-| Availability          |             |
-| Capacity              |             |
-| Business Continuity   |             |
-| Performance           |             |
-| Planned Interruptions |             |
+| Field                 | Description                                  |
+|-----------------------|----------------------------------------------|
+| Safety                | Describe warranties to Safety                |
+| Availability          | Describe warranties to Availability          |
+| Capacity              | Describe warranties to Capacity              |
+| Business Continuity   | Describe warranties to Business Continuity   |
+| Performance           | Describe warranties to Performance           |
+| Planned Interruptions | Describe warranties to Planned Interruptions |
 
 -   SERVICE SUPPORT
 
-| Field               | Description |
-|---------------------|-------------|
-| Incident Management |             |
-| Problem Management  |             |
-| Change management   |             |
+| Field               | Description                                                      |
+|---------------------|------------------------------------------------------------------|
+| Incident Management | Describe support requirements to the Incident Management process |
+| Problem Management  | Describe support requirements to the Problem Management process  |
+| Change management   | Describe support requirements to the Change Management process   |
 
 -   CONFORMITY
 
-| Field    | Description |
-|----------|-------------|
-| Internal |             |
-| External |             |
+| Field    | Description                                           |
+|----------|-------------------------------------------------------|
+| Internal | Describe internals requirements to service conformity |
+| External | Describe externals requirements to service conformity |
+
 
 ***Attached Documents Tab***
 
-| Components                    | Description |
-|-------------------------------|-------------|
-|  Type of Attachment to Select |             |
-|  Add File Button              |             |
-|  Grid with Attachments        |             |
+| Components                    | Description                   |
+|-------------------------------|-------------------------------|
+|  Type of Attachment to Select | Select the type of attachment |
+|  Add File Button              | Add                           |
+|  Grid with Attachments        | View / Delete                 |
 
 The Following Functions are available
 
-| Function                    | Description |
-|-----------------------------|-------------|
-| Save                        |             |
-| Clear                       |             |
+| Function                    | Description        |
+|-----------------------------|--------------------|
+| Save                        | Save the Attribute |
+| Clear                       | Clear the Fields   |
 
 ### Financial Attributes
 
@@ -105,242 +106,243 @@ Register the service financial attributes
 
 | Field          | Description                          |
 |----------------|--------------------------------------|
-| Category(\*)   |                                      |
-| Type(\*)       |                                      |
-| Classification | Only appears if Type equal to “Cost” |
-| Value(\*)      |                                      |
-| Cycle          |                                      |
+| Category(\*)   | Select the category                  |
+| Type(\*)       | Select Cost or Revenue               |
+| Classification | Only appears if type equal to “Cost” |
+| Value(\*)      | Put the value of the Service         |
+| Cycle          | Setect the cycle                     |
 
 (*) Indicate mandatory field
 
 The Following Functions are available
 
-| Function                    | Description |
-|-----------------------------|-------------|
-| Add to the Service          |             |
-| Add/Edit Financial Category |             |
-| Import                      |             |
+| Function                    | Description                                          |
+|-----------------------------|------------------------------------------------------|
+| Add to the Service          | Add Attribute to Service                             |
+| Add/Edit Financial Category | Create/Edit category                                 |
+| Import                      | Import File with Financial Attributes to the service |
 
 ### Business Cases
 
 Register the business case of the service. This business case is a summary of
 all service information
 
-***Service level Requirements Tab***
+***Business Case Tab***
 
-| Field               | Description                          |
-|---------------------|--------------------------------------|
-| Business Case(\*)   |                                      |
-| Executive summary   |                                      |
-| Stakeholder/Entity  |                                      |
-| Scenarios           |                                      |
-| Problem/Opportunity |                                      |
-| Proposed Solution   |                                      |
-| Financial analysis  |                                      |
-| Risk analysis       |                                      |
-| Technical viability |                                      |
-| Conclusion          |                                      |
+| Field               | Description                                                |
+|---------------------|------------------------------------------------------------|
+| Business Case(\*)   | Business case name                                         |
+| Executive summary   | Write or attach the executive summary of the business case |
+| Stakeholder/Entity  | Define the stakeholders for business case                  |
+| Scenarios           | Define the business scenarios                              |
+| Problem/Opportunity | Define the problem to be resolved                          |
+| Proposed Solution   | Define solutions to the problems                           |
+| Financial analysis  | Write about financial analysis on the business case        |
+| Risk analysis       | Write about the risks envolving the case                   |
+| Technical viability | Write a tech view about the solution                       |
+| Conclusion          | Write a conclusion for the business case                   |
+
 
 (*) Indicate mandatory field
 
 ***Attached Documents Tab***
 
-| Components                    | Description |
-|-------------------------------|-------------|
-|  Type of Attachment to Select |             |
-|  Add File Button              |             |
-|  Grid with Attachments        |             |
+| Components                    | Description                   |
+|-------------------------------|-------------------------------|
+|  Type of Attachment to Select | Select the type of attachment |
+|  Add File Button              | Add                           |
+|  Grid with Attachments        | View / Delete                 |
 
 The Following Functions are available
 
-| Function                    | Description |
-|-----------------------------|-------------|
-| Save                        |             |
-| Clear                       |             |
+| Function                    | Description        |
+|-----------------------------|--------------------|
+| Save                        | Save the Attribute |
+| Clear                       | Clear the Fields   |
 
 
 ### Service Map
 
 Set the design of service map related to the enabling services and configuration items. In this design, it's defined which enabling service will be used to perform the main service
 
-| Components                    | Description |
-|-------------------------------|-------------|
-|  Support Services             |             |
-|  Configuration items          |             |
-|  Drawing Area                 |             |
+| Components                    | Description                                            |
+|-------------------------------|--------------------------------------------------------|
+|  Support Services             | Select Support Services to Drag to the Drawing area    |
+|  Configuration items          | Select Configuration items to Drag to the Drawing area |
+|  Drawing Area                 |  Map Area                                              |
 
 The Following Functions are available
 
-| Function                    | Description |
-|-----------------------------|-------------|
-| Save                        |             |
-| Print                       |             |
+| Function                    | Description        |
+|-----------------------------|--------------------|
+| Save                        | Save the Attribute |
+| Print                       | Print the Map      |
 
 ### Business Processes
 
 Link the business processes that are not supported by the service
 
-| Function                     | Description |
-|------------------------------|-------------|
-| Linking Business Process     |             |
-| New Business Process         |             |
-| Search Area                  |             |
-| Grid with Business Processes |             |
+| Function                     | Description                    |
+|------------------------------|--------------------------------|
+| Linking Business Process     | Search / Link                  |
+| New Business Process         | Create New                     |
+| Search Area                  | Search the Grid                |
+| Grid with Business Processes | View / Unlink                  |
 
 ### Support Services
 
 Link the support/technical services. Those services support the main service
 
-| Function                   | Description |
-|----------------------------|-------------|
-| Linking Service            |             |
-| Search Area                |             |
-| Grid with Support Services |             |
+| Function                   | Description     |
+|----------------------------|-----------------|
+| Linking Service            | Search / Link   |
+| Search Area                | Search the Grid |
+| Grid with Support Services | View / Unlink   |
 
 ### Business Owner
 
 Link the business owner to the service, which can be employees or groups
 
-| Function                         | Description |
-|----------------------------------|-------------|
-| Link Business Owner - Employee   |             |
-| Link Business Owner - Group      |             |
-| Search Area                      |             |
-| Grid with Linked Business Owners |             |
+| Function                         | Description            |
+|----------------------------------|------------------------|
+| Link Business Owner - Employee   | Search / Link Employee |
+| Link Business Owner - Group      | Search / Link Group    |
+| Search Area                      | Search the Grid        |
+| Grid with Linked Business Owners | View / Unlink          |
 
 ### Business User
 
 Link business users to the service
 
-| Function                        | Description |
-|---------------------------------|-------------|
-| Link user                       |             |
-| Link user group                 |             |
-| Search Area                     |             |
-| Grid with Linked Business Users |             |
+| Function                        | Description         |
+|---------------------------------|---------------------|
+| Link user                       | Search / Link User  |
+| Link user group                 | Search / Link Group |
+| Search Area                     | Search the Grid     |
+| Grid with Linked Business Users | View / Unlink       |
 
 ### Requests
 
 Register the service activities requests
 
-| Function                           | Description |
-|------------------------------------|-------------|
-| New Service Request                |             |
-| Link Service Request               |             |
-| Search Area                        |             |
-| Grid with Linked Services Requests |             |
+| Function                           | Description     |
+|------------------------------------|-----------------|
+| New Service Request                | Create New      |
+| Link Service Request               | Search / Link   |
+| Search Area                        | Search the Grid |
+| Grid with Linked Services Requests | View / Unlink   |
 
 ### Applications
 
 Link the applications that will be used to run the service
 
-| Function                      | Description |
-|-------------------------------|-------------|
-| Link Application              |             |
-| New Application               |             |
-| Search Area                   |             |
-| Grid with Linked Applications |             | 
+| Function                      | Description     |
+|-------------------------------|-----------------|
+| Link Application              | Search / Link   |
+| New Application               |  Create New     |
+| Search Area                   | Search the Grid |
+| Grid with Linked Applications | View / Unlink   | 
 
 ### Data schema
 
 Register the data schema of the service
 
-| Field       | Description |
-|-------------|-------------|
-| Details(\*) |             |
+| Field       | Description                           |
+|-------------|---------------------------------------|
+| Details(\*) | Detail the Data Schema of the Service |
 
 ***Attached Documents***
 
-| Components                    | Description |
-|-------------------------------|-------------|
-|  Attachment Description       |             |
-|  Add File Button              |             |
-|  Grid with Attachments        |             |
+| Components                    | Description             |
+|-------------------------------|-------------------------|
+|  Attachment Description       | Describe the attachment |
+|  Add File Button              | Add                     |
+|  Grid with Attachments        | View / Delete           |
 
 ### Incidents
 
 Register the service incident activities
 
-| Function                   | Description |
-|----------------------------|-------------|
-| New Incident               |             |
-| Link Incident              |             |
-| Search Area                |             |
-| Grid with Linked Incidents |             |
+| Function                   | Description     |
+|----------------------------|-----------------|
+| New Incident               | Create New      |
+| Link Incident              | Search / Link   |
+| Search Area                | Search the Grid |
+| Grid with Linked Incidents | View / Unlink   |
 
 ### Procedures
 
 Register the procedures for the service, which will be used by the continuity management to trigger and control the service restoration activities
 
-| Function                     | Description |
-|------------------------------|-------------|
-| New Service Procedure        |             |
-| Link Procedure Service       |             |
-| Search Area                  |             |
-| Grid with Service Procedures |             |
+| Function                     | Description     |
+|------------------------------|-----------------|
+| New Service Procedure        | Create New      |
+| Link Procedure Service       | Search / Link   |
+| Search Area                  | Search the Grid |
+| Grid with Service Procedures | View / Unlink   |
 
 
 ### Contracts
 
 Link the contract that provides the service
 
-| Function                   | Description |
-|----------------------------|-------------|
-| Link Contract              |             |
-| New Contract               |             |
-| Search Area                |             |
-| Grid with Linked Contracts |             | 
+| Function                   | Description     |
+|----------------------------|-----------------|
+| Link Contract              | Search / Link   |
+| New Contract               | Create New      |
+| Search Area                | Search the Grid |
+| Grid with Linked Contracts | View / Unlink   |
 
 ### IT Owners
 
 Link the IT service owners to the service, which can be users or groups
 
-| Function                   | Description |
-|----------------------------|-------------|
-| Link user                  |             |
-| Link user group            |             |
-| Search Area                |             |
-| Grid with Linked IT Owners |             |
+| Function                   | Description         |
+|----------------------------|---------------------|
+| Link user                  | Search / Link User  |
+| Link user group            | Search / Link Group |
+| Search Area                | Search the Grid     |
+| Grid with Linked IT Owners | View / Unlink       |
 
 ### Knowledge base
 
 Link the knowledge to the service. The knowledge is an information of the
 service provider to deliver the service
 
-| Function                    | Description |
-|-----------------------------|-------------|
-| Link Knowledge              |             |
-| Search Area                 |             |
-| Grid with Linked Knowledges |             |
+| Function                    | Description     |
+|-----------------------------|-----------------|
+| Link Knowledge              | Search / Link   |
+| Search Area                 | Search the Grid |
+| Grid with Linked Knowledges | View / Unlink   |
 
 ### Skill/Resource
 
 Link the skills/resources to the service
 
-| Function                      | Description |
-|-------------------------------|-------------|
-| Link Capability               |             |
-| New Capability                |             |
-| Search Area                   |             |
-| Grid with Linked Capabilities |             | 
+| Function                      | Description     |
+|-------------------------------|-----------------|
+| Link Capability               | Search / Link   |
+| New Capability                | Create New      |
+| Search Area                   | Search the Grid |
+| Grid with Linked Capabilities | View / Unlink   | 
 
 ### Capacity/Performance
 
 Link indicators of capacity/performance to the service
 
-| Function                                         | Description |
-|--------------------------------------------------|-------------|
-| Link capacity/performance indicators             |             |
-| Grid with Linked capacity/performance indicators |             | 
+| Function                                         | Description   |
+|--------------------------------------------------|---------------|
+| Link capacity/performance indicators             | Search / Link |
+| Grid with Linked capacity/performance indicators | View / Unlink | 
 
 ### Attribute of Demand
 
 Link demand attributes to the service
 
-| Function                           | Description |
-|------------------------------------|-------------|
-| Link demand attributes             |             |
-| Grid with Linked demand attributes |             | 
+| Function                           | Description   |
+|------------------------------------|---------------|
+| Link demand attributes             | Search / Link |
+| Grid with Linked demand attributes | View / Unlink | 
 
 ### Service Evaluations
 
