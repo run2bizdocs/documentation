@@ -16,40 +16,30 @@ This feature provides a variety of actions, such as including, changing, and del
 
 ## Procedure
 
-1.  Access the functionality Service Portfolio Management through the main menu
-    Processes \> Portfolio and Catalog Management \> Portfolio;
-
-2.  Click on "New Portfolio";
-
-3.  Define if the portfolio is "Business" or "Technical";
-
-4.  Enter the Portfolio data;
-
-5.  Complete the data according to the format to be defined.
+1.  Access the functionality Service Portfolio Management through the main menu Processes \> Portfolio and Catalog Management \> Portfolio;  
+2.  Click on "New Portfolio";  
+3.  Define if the portfolio is "Business" or "Technical";  
+4.  Enter the Portfolio data;  
+5.  Complete the data according to the format to be defined.  
 
 !!! Abstract "RULE"
 
-    The choice of Business/Technical type must be in line with the type of
-    contract to be linked to the portfolio, only contracts of the type
-    "Contract" are linked to the type "Business" and only contracts of the type
-    "Technical Contract" and "Operational Level Agreement" are linked to the
-    "Support" type.
+    The choice of Business/Technical type must be in line with the type of contract to be linked to the portfolio, only contracts of the type **"Contract"** are linked to the type "Business" and only contracts of the type **"Technical Contract"** and **"Operational Level Agreement"** are linked to the **"Support"** type.
     
     
 !!! Abstract "RULE"
 
     If one of the 3 languages on "Multi-languages" tab is left blank, the information will
-    be filled out with the information contained in the "Presentation".
+    be filled out with the information contained in the **"Presentation"**.
  
  
 ## What to do next
 
 Go to the home page and check the created portfolio.
 
-
 ## Related
 
-[Register satisfaction survey](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)
+[Register satisfaction survey](/en-us/4biz-helium/processes/portfolio-and-catalog/configuration/register-satisfaction-survey.html)  
 
 [Define the permission to access Portfolio Management functionalities](/en-us/4biz-helium/initial-settings/access-settings/profile/portfolio-management.html)
 
