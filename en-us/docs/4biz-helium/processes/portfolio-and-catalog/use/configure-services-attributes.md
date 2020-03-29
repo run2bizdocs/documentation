@@ -3,8 +3,7 @@ title: Configure Incident or Service Request attributes
 Description: Configure the Incident or Service Request attributes of both
 Business/IT Service and Support/Technical Service
 
-Configuring Service attributes
-==============================
+# Configuring Service attributes
 
 The service attributes are configuration features within the portfolio.
 
@@ -12,13 +11,11 @@ The guidance described in this knowledge can be followed to configure the
 attributes of both portfolio types, Business/IT Service and Support/Technical
 Service, within Portfolio and Catalog Management.
 
-Before getting started
-----------------------
+## Before getting started
 
 -   [X] It's necessary to have designed Service (Pipeline);
 
-Procedure
----------
+## Procedure
 
 1.  Access the main menu Processes \> Portfolio and Catalog Management \> Portfolio;
 
@@ -430,8 +427,7 @@ The Following Functions are available
 
 (*) Indicate mandatory field
 
-Related
--------
+## Related
 
 [Register a contract](/en-us/4biz-helium/additional-features/contract-management/use/register-contract.html)
 
