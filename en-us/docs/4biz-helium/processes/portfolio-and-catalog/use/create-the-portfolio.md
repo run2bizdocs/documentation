@@ -24,12 +24,12 @@ This feature provides a variety of actions, such as including, changing, and del
 
 !!! Abstract "RULE"
 
-    The choice of Business/Technical type must be in line with the type of contract to be linked to the portfolio, only contracts of the type **"Contract"** are linked to the type "Business" and only contracts of the type **"Technical Contract"** and **"Operational Level Agreement"** are linked to the **"Support"** type.
+    The choice of *Business/Technical* type must be in line with the type of contract to be linked to the portfolio, only contracts of the type **"Contract"** are linked to the type "Business" and only contracts of the type **"Technical Contract"** and **"Operational Level Agreement"** are linked to the **"Support"** type.
     
     
 !!! Abstract "RULE"
 
-    If one of the 3 languages on "Multi-languages" tab is left blank, the information will
+    If one of the 3 languages on **"Multi-languages"** tab is left blank, the information will
     be filled out with the information contained in the **"Presentation"**.
  
  
