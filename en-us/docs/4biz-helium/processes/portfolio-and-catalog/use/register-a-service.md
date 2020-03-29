@@ -16,12 +16,9 @@ This feature provides a variety of actions, such as including, changing, and del
 
 The service registration must be preceded by :
 
--   [X]  The registration of a service portfolio,
-
--   [X]  Create the service category
-
--   [X]  Create the group(s) what will use the service
-
+-   [X]  The registration of a service portfolio,  
+-   [X]  Create the service category  
+-   [X]  Create the group(s) what will use the service  
 -   [X]  Permission to access the Portfolio Management functionality.
 
 ## Procedure
