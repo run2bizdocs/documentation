@@ -64,7 +64,7 @@ The service registration must be preceded by :
 |-------------------------------------------|-------------------------------------------------------------------|
 | Service Name(\*)                          | Name of the Service                                               |
 | Initiation Process(\*)                    | Select the Initiation Process                                     |
-| Category(\*)                              | inform the service category to which the new service will be part |
+| Category(\*)                              | Inform the service category to which the new service will be part |
 | Date of Deployment(\*)                    | Date of the beginning of the Service usage                        |
 | Service Phase(\*)                         | See Box Below                                                     |
 | Service Status(\*)                        | See Box Below                                                     |
@@ -99,7 +99,7 @@ The service registration must be preceded by :
 | Components                    | Description             |
 |-------------------------------|-------------------------| 
 |  Attachment Description       | Describe the attachment |
-|  Add File Button              |                         |
+|  Add File Button              | Add                     |
 |  Grid with Attachments        | View / Delete           |
 
 ### Presentation Tab 
