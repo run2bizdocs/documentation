@@ -60,22 +60,22 @@ The service registration must be preceded by :
 
 #### Fields
 
-| Field                                     | Description                                                      |
-|-------------------------------------------|------------------------------------------------------------------|
-| Service Name(\*)                          | Name of the Service                                              |
-| Initiation Process(\*)                    | Select the Initiation Process                                    |
-| Category(\*)                              | informe a categoria de serviço ao qual o novo serviço fará parte |
-| Date of Deployment(\*)                    | Date of the beginning of the Service usage                       |
-| Service Phase(\*)                         | See Box Below                                                    |
-| Service Status(\*)                        | See Box Below                                                    |
-| Criticity                                 | Criticity can be selected at the phase of “Analyze”              |
-| Importance of the Service to the Business | Select the Importance                                            |
-| Type of Service                           | Select the type of service                                       |
-| Place of Execution of Services            | Internal, External or Both                                       |
-| Detail                                    | Details of the Service                                           |
-| Objective                                 | The Objective of the Service                                     |
-| Value                                     | Describe the value to the business                               |
-| Service Template                          | Select a service template                                        |
+| Field                                     | Description                                                       |
+|-------------------------------------------|-------------------------------------------------------------------|
+| Service Name(\*)                          | Name of the Service                                               |
+| Initiation Process(\*)                    | Select the Initiation Process                                     |
+| Category(\*)                              | inform the service category to which the new service will be part |
+| Date of Deployment(\*)                    | Date of the beginning of the Service usage                        |
+| Service Phase(\*)                         | See Box Below                                                     |
+| Service Status(\*)                        | See Box Below                                                     |
+| Criticity                                 | Criticity can be selected at the phase of “Analyze”               |
+| Importance of the Service to the Business | Select the Importance                                             |
+| Type of Service                           | Select the type of service                                        |
+| Place of Execution of Services            | Internal, External or Both                                        |
+| Detail                                    | Details of the Service                                            |
+| Objective                                 | The Objective of the Service                                      |
+| Value                                     | Describe the value to the business                                |
+| Service Template                          | Select a service template                                         | 
 
 (*) Indicate mandatory field
 
