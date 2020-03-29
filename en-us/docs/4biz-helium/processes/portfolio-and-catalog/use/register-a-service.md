@@ -48,9 +48,9 @@ The service registration must be preceded by :
 
 | Action             | Description                    |
 |--------------------|--------------------------------|
-| **Save**           | To save the Service            |
+| **Save**           | Save the Service               |
 | **Delete**         | Delet the service (on Editing) |
-| **Clear**          | Clear the fielsd               |
+| **Clear**          | Clear the fields               |
 | **Clone data**     | Clone another Service          |
 
 ## Information Tabs
