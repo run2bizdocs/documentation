@@ -116,6 +116,11 @@ The service registration must be preceded by :
 
 (*) Indicate mandatory field
 
+!!! Note "Note"
+
+    At the **"Available via chat"** option, even if it´s marked "Yes", to use the Chat it still have to be combined with Group Permission (to attend the service at the Chat) 
+
+
 ### Access Permission Tab
 - Set the Groups that can use the service.
 
