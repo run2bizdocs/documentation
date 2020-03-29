@@ -32,13 +32,17 @@ Procedure
 
 ### Details
 
-It allows to change/update the service data
+!!! tip " "
+
+    Place where all service parameters must be configured, such as Name, Status, Criticality, Categories, among others.
 
 The Tabs / Fields / Buttons of this function are described at the [Register / Edit a service](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html) documentation.
 
 ### Service Level Requirements
 
-Register the service level requirements
+!!! tip " "
+
+    All SLA setup and relationship with other process such as Capacity, Incident, Request, etc
 
 ***Service level Requirements Tab***
 
@@ -102,7 +106,10 @@ The Following Functions are available
 
 ### Financial Attributes
 
-Register the service financial attributes
+!!! tip " "
+
+    Relationship with financial process. Placeholder for link aportionment by Result Center, Departments.  
+    Including all information about CAPEX, OPEX, Direct Value and others.
 
 | Field          | Description                          |
 |----------------|--------------------------------------|
@@ -124,8 +131,9 @@ The Following Functions are available
 
 ### Business Cases
 
-Register the business case of the service. This business case is a summary of
-all service information
+!!! tip " "
+
+    All Business Case reference. Information about all service strategy should be configurated in this tab
 
 ***Business Case Tab***
 
@@ -180,7 +188,9 @@ The Following Functions are available
 
 ### Business Processes
 
-Link the business processes that are not supported by the service
+!!! tip " "
+
+    All business process that must be linked with the specific service
 
 | Function                     | Description                    |
 |------------------------------|--------------------------------|
@@ -191,7 +201,9 @@ Link the business processes that are not supported by the service
 
 ### Support Services
 
-Link the support/technical services. Those services support the main service
+!!! tip " "
+
+    All support services that provide support for the mais service, such as 3rd party services
 
 | Function                   | Description     |
 |----------------------------|-----------------|
@@ -201,7 +213,9 @@ Link the support/technical services. Those services support the main service
 
 ### Business Owner
 
-Link the business owner to the service, which can be employees or groups
+!!! tip " "
+
+    Service Owner, person or group responsbile for design and evaluate the service
 
 | Function                         | Description            |
 |----------------------------------|------------------------|
@@ -212,7 +226,9 @@ Link the business owner to the service, which can be employees or groups
 
 ### Business User
 
-Link business users to the service
+!!! tip " "
+
+    Main person or users group that uses the service
 
 | Function                        | Description         |
 |---------------------------------|---------------------|
@@ -223,7 +239,9 @@ Link business users to the service
 
 ### Requests
 
-Register the service activities requests
+!!! tip " "
+
+    All resquests provided by the service catalog
 
 | Function                           | Description     |
 |------------------------------------|-----------------|
@@ -234,8 +252,10 @@ Register the service activities requests
 
 ### Applications
 
-Link the applications that will be used to run the service
+!!! tip " "
 
+    All aplicattions that sustain or runs linked with service
+    
 | Function                      | Description     |
 |-------------------------------|-----------------|
 | Link Application              | Search / Link   |
@@ -245,7 +265,9 @@ Link the applications that will be used to run the service
 
 ### Data schema
 
-Register the data schema of the service
+!!! tip " "
+
+    All data schema and technical informations about the service
 
 | Field       | Description                           |
 |-------------|---------------------------------------|
@@ -261,8 +283,10 @@ Register the data schema of the service
 
 ### Incidents
 
-Register the service incident activities
+!!! tip " "
 
+    All incident provided by the service catalog
+    
 | Function                   | Description     |
 |----------------------------|-----------------|
 | New Incident               | Create New      |
@@ -272,8 +296,10 @@ Register the service incident activities
 
 ### Procedures
 
-Register the procedures for the service, which will be used by the continuity management to trigger and control the service restoration activities
+!!! tip " "
 
+    Procedures used by Continuity process for keep the service running in desater recovery need.
+    
 | Function                     | Description     |
 |------------------------------|-----------------|
 | New Service Procedure        | Create New      |
@@ -284,8 +310,10 @@ Register the procedures for the service, which will be used by the continuity ma
 
 ### Contracts
 
-Link the contract that provides the service
+!!! tip " "
 
+    Contracts that use/provide the service. Could be customers, departments, external providers, etc.
+    
 | Function                   | Description     |
 |----------------------------|-----------------|
 | Link Contract              | Search / Link   |
@@ -295,8 +323,10 @@ Link the contract that provides the service
 
 ### IT Owners
 
-Link the IT service owners to the service, which can be users or groups
+!!! tip " "
 
+    Owner of IT Service
+    
 | Function                   | Description         |
 |----------------------------|---------------------|
 | Link user                  | Search / Link User  |
@@ -306,8 +336,9 @@ Link the IT service owners to the service, which can be users or groups
 
 ### Knowledge base
 
-Link the knowledge to the service. The knowledge is an information of the
-service provider to deliver the service
+!!! tip " "
+
+    All articles linked with service to provide information for all analysts and end users.
 
 | Function                    | Description     |
 |-----------------------------|-----------------|
@@ -317,8 +348,11 @@ service provider to deliver the service
 
 ### Skill/Resource
 
-Link the skills/resources to the service
 
+!!! tip " "
+
+    Specific skill that the resource needs hold to provide/sustain the service.
+    
 | Function                      | Description     |
 |-------------------------------|-----------------|
 | Link Capability               | Search / Link   |
@@ -326,9 +360,11 @@ Link the skills/resources to the service
 | Search Area                   | Search the Grid |
 | Grid with Linked Capabilities | View / Unlink   | 
 
-### Capacity/Performance
+### Planed Capacity
 
-Link indicators of capacity/performance to the service
+!!! tip " "
+
+    All information about capacity plan to sustain or desing the service.
 
 | Function                                         | Description   |
 |--------------------------------------------------|---------------|
@@ -337,8 +373,10 @@ Link indicators of capacity/performance to the service
 
 ### Attribute of Demand
 
-Link demand attributes to the service
+!!! tip " "
 
+    Demands that can be provided in service.
+    
 | Function                           | Description   |
 |------------------------------------|---------------|
 | Link demand attributes             | Search / Link |
@@ -346,7 +384,9 @@ Link demand attributes to the service
 
 ### Service Evaluations
 
-Manage the service evaluations that were registered via Smart Portal
+!!! tip " "
+
+    Service evaluation records.
 
 | Filter                   | Description                                |
 |--------------------------|--------------------------------------------|
@@ -362,8 +402,10 @@ The Following Functions are available
 
 ### Service Audit
 
-Verify the history of service to audit it
+!!! tip " "
 
+    Service Audit Trail.
+    
 ***Recorded events***
 
 | Object                  | Description                 |
