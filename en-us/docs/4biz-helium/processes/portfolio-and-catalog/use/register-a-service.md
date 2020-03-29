@@ -90,8 +90,8 @@ The service registration must be preceded by :
 !!! Note "Note"
 
     At the **"Analyse"** phase the "Criticity" Field is enabled   
-    The servive is moved to the Service Catalog when "Charter" and "Production" are combined  
-    The servive is moved to the Obsolete Services when "Charter" and "Retired" are combined  
+    The servive is moved to the Service Catalog when **"Charter" and "Production"** are combined  
+    The servive is moved to the Obsolete Services when **"Charter" and "Retired"** are combined  
 
 ### Attatched Documents Tab
 -   Artifacts, documents, tabs and others.
