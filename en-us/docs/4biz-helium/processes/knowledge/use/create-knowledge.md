@@ -27,11 +27,11 @@ When accessing the Knowledge Management, you'll see the main knowledge managemen
 |  Field | Description |
 |--------|-----------|
 | Title | Enter a term that refers to the name of the knowledge. |
-| Document type | Select the type of information registered. We have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News.|
+| Document type | Select the type of information registered. By default, we have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News.|
 | Content | Enter a brief part of the knowledge, you can enter a word or a short sentence. |
-| View by | Select a criterion that references the actions you're allowed. We have the options: All, Can Review, Can Approve, Can Publish|
-| Situation | Select a criterion that matches the knowledge status. We have the options: All, In drawing, In revision, Reviewed, In Publication, Published, Archived |
-| Folder | Select the folder where the knowledge was created. We have the options: Service Desk, FAQ, For Approval, Partner Portal|
+| View by | Select a criterion that references the actions you're allowed. By default, we have the options: All, Can Review, Can Approve, Can Publish|
+| Situation | Select a criterion that matches the knowledge status. By default, we have the options: All, In drawing, In revision, Reviewed, In Publication, Published, Archived |
+| Folder | Select the folder where the knowledge was created. By default, we have the options: Service Desk, FAQ, For Approval, Partner Portal|
     
 ### Creating Knowledge
 
@@ -78,10 +78,10 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Field | Description |
 |-------|--------|
 | Title (\*)| Name of the knowledge |
-| Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). We have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News |
-| Source/Reference | Inform the source/reference of the knowledge. We have the following options: Development, Build, Systems integration testing, User acceptance testing, Production|
-| Folder(\*) | Place where the knowledge will be save. We have the options: Service Desk, FAQ, For Approval, Partner Portal |
-| Origin(\*) | Trigger for the creation of a Knowledge. We have the following options: Knowledge, Event, Change, Incident, Service, Problem, Quality|
+| Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). By default, we have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News |
+| Source/Reference | Inform the source/reference of the knowledge. By default, we have the following options: Development, Build, Systems integration testing, User acceptance testing, Production|
+| Folder(\*) | Place where the knowledge will be save. By default, we have the options: Service Desk, FAQ, For Approval, Partner Portal |
+| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: Knowledge, Event, Change, Incident, Service, Problem, Quality|
 | Status (automatic) | Knowledge lifecycle status |
 | Expiration Date(\*) | Date when the knowledge becomes obsolete |
 | Observation | A description of the knowledge |
@@ -123,6 +123,10 @@ You have an editor [WYSIWYG][1] to work with the HTML content of your document. 
 ### Saving
 
 When creating a knowledge, 4biz will always establish version "1.0" and, when changing a document, the operator can indicate whether the change should be Versioned or not and also if previous versions must be archived.
+
+!!! abstract "NOTE"
+
+    The tool will inform in a pop-up, if there's a same article you're creating exists in the Knowledge Base.
 
 ### Tips
 
