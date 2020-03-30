@@ -18,12 +18,53 @@ The configurations of the Gold, Silver, and other SLAs will be created here.
 Procedure
 -------------
 
-1.  Access the functionality Time of Attendance through the main menu Processes
-    \> Service Level Management \> Attendance Time;
+1.  Access the functionality Time of Attendance through the main menu Processes \> Service Level Management \> Attendance Time;
 
-2.  Set the type of attendance time and click on the corresponding tab;
+2. Set the type of attendance time and click on the corresponding tab; 
+   
+   |Tabs|Description|
+   |-|-|
+   |Global|For a global use the time of attendance, without specific "Unit" or "Employee"|
+   |Client|For a client use this time attendance|
+   |Specific|For a Specific service use this time attendance|
 
 3.  Complete all mandatory field in **Basic Data**;
+
+| Fields | Description |
+| - | - |
+| Title | Title of identification of the SLA |
+| Status | Status between "Active" or "Inactive" |
+| Impact | Define the SLA impact between "High", "Low" and "Medium" |
+| Urgency | Define the urgency of the SLA between "High", "Low" and "Medium" |
+| Change impact / Urgency | Inform if the impact or urgency involves a change |
+| Seasonal | Select if this SLA will be used of time in time |
+| Start date | Set the start date of validate SLA |
+| End date | Set the end date of SLA |
+| Evaluates in | Set the date to evaluate this SLA |
+| Description | Add a relevant description for using the SLA |
+| Scope | Add a scope to the SLA |
+| Contacts | Add a contact for the SLA |
+| Time of Attendance by Priority | set the service time of attendance, taking into consideration the priority. The priority is used to identify the time required to an action to be taken. The priority goes from 1 to 5, being 1 the highest priority and 5 the lowest. Select the priority to define the time: ** Capture **: set the time of capture of the service request, according to the priority selected; ** Resolution **: set the time of service resolution according to the priority selected. |
+| Hour | Enter the SLA "capture" and "Resolution" time |
+| Minute | Enter SLA "capture" and "Resolution" minutes |
+
+4.  Before complete the fields in **Automation**, it should be properly
+    parametrized, it must be properly parameterized, so it is necessary to
+    execute the steps in the knowledge Creation escalation rule, except for
+    parameter 190 that must be equal to 'N' in this context;
+
+| Fields | Description |
+| - | - |
+| Automation ||
+| Time of Action | Time after a scenario is true for the execution of an automatic action |
+| Email Template | One of the actions is sending email to a group |
+| Priority | The new priority that the service that will be scheduled will receive; |
+| Group | Group to whom the assistance will be directed after the scheduling action;
+| Target | SLA focus / target |
+| Unit (only for Client and Specific) | Unit for using the SLA |
+| Employee (Only for Client and Specific) | Employee with permission to use the SLA |
+| Requester´s Group (Only for Client and Specific) | Requesting group which will be linked to the SLA |
+
 
     !!! Abstract "IMPORTANT"
 
@@ -36,33 +77,18 @@ Procedure
         system automatically replaces what is sent via WebService to the impact, 
         urgency, priority and time of attendance defined in this register.
 
-4.  In **Time of Attendance per Priority**, set the service time of attendance,
-    taking into consideration the priority. The priority is used to identify the
-    time required to an action to be taken. The priority goes from 1 to 5, being
-    1 the highest priority and 5 the lowest. Select the priority to define the
-    time:
 
-    - **Capture**: set the time of capture of the service request, according to
-      the priority selected;
 
-    - **Resolution**: set the time of service resolution according to the priority
-      selected.
-
-5.  Before complete the fields in **Automation**, it should be properly
-    parametrized, it must be properly parameterized, so it is necessary to
-    execute the steps in the knowledge Creation escalation rule, except for
-    parameter 190 that must be equal to 'N' in this context;
-
-6.  Before the N minutes (informed in the time of action) and in case it doesn't
+5.  Before the N minutes (informed in the time of action) and in case it doesn't
     have performed any action in the service request linked to this time of
     attendance, the system will attribute the priority and will escalate the
     execution group to the service request;
 
-7.  In the fields of **Incident/Request/Procedure**, it will be selected the
+6.  In the fields of **Incident/Request/Procedure**, it will be selected the
     services to apply the configurations, taking into consideration the type of
     attendance time selected;
 
-8.  Click on "Save".
+7.  Click on "Save".
 
 
 Related
