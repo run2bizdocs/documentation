@@ -13,6 +13,7 @@ Creating knowledge is the act of saving information at 4biz using the Knowledge 
 
 
 !!! note "NOTE"
+    
     Parameters 82 and 83 have the same function, so it's not necessary to configure these two parameters, choose one of them. This is because now it has been gathered in a key email template that contemplates all activities that go from creating to archiving knowledge. And what does it mean? In this new scenario you'll use an email template that will contain several keys. This template is already available in a clean installation, or if you already have an environment and are going to update it, you can use the email keys in your already used templates so that they stay in the new standard (see [Key fields of knowledge base emails][5], see [Examples of email templates][6]).
 
 ## Procedure
