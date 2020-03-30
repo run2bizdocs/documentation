@@ -50,6 +50,7 @@ Procedure
 |Status*| Here you have a series of options for the CI, depending on the status you chose, when you're editing the CI, the tool will block the edition. For example, when you're editing the CI and chose the status "Destroyed", the edition will no longer be possible|
 |Fixed Assets| You can inform the fixed assests for the CI|
 |Service Criticality*|Here you can set the level of criticality for the service CI|
+|Period of Criticality*| Configure the service criticality period|
 |Impact*| You can set the degree of impact|
 |Urgency*| You can set the degree of urgency|
 |Employee|You can set the employees for the CI using a searching box|
