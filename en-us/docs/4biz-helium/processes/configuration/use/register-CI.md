@@ -72,15 +72,10 @@ When click on "Add Knowledge", it'll appear the screan to search for the knowled
 
 To search for an specific knowledge, the filters available are: Title, Content, Published (Yes/No/All) and Situation.
 
-!!! warning
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+!!! faq "Do you know..."
     
-    !!! warning "WARNING"
-    
-        On the creation of a Knowledge, it's possible to storage electronic and digital versions of physical
-        documentation and asset documentation.
+    On the creation of a Knowledge, it's possible to storage electronic and digital versions of physical
+    documentation and asset documentation.
         
 7. On the **Financial** tab, you'll have all information about apportionments (Service, Business Unit, Result Center, Account, Projects and Activities). Here you can edit it to add a new cost related.
 
@@ -135,10 +130,9 @@ By clicking on "Add warranty", it'll present a screen to configure it, they are:
 |Start Date*|When the warranty starts to count|
 |End Date*| When this warranty will have an end|
 
-    !!! warning "WARNING"
+!!! faq "Do you know..."
     
-        Once you are on the CMDB screen, on the right side of the screen, in the bottom, that's a box to identify the warranty
-        of the CI you have registered on the Warranties tab
+    Once you are on the CMDB screen, on the right side of the screen, in the bottom, that's a box to identify the warranty of the CI you have registered on the Warranties tab
 
 5.  Click on "Save" .
 
