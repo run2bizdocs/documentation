@@ -53,7 +53,7 @@ This functionality is intended to create a portfolio of changes in order to spee
 |Type of Impact and Risk Analysis (\*)|Select the impact and risk to change|
 |Type (\*)|Select the type of change between "Normal", "Emergency", "Standart"|
 |Category|Select the category to portfolio change|
-|Agile analysis of risk|Set a analysis of risk to portfolio change|
+|Agile analysis of risk|Risk analysis is used within the availability process to identify risks and availability|
 |Assessment of the quality of the change|Select of the quality of the change to portfolio change|
 |Satus|Set the statur between "New","Active" and "Retired"|
 
