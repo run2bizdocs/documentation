@@ -171,6 +171,7 @@ The Following Functions are available
 !!! tip " "
 
     Responsible for link all CIs, Services Version, Service Map, components and service real capacity trought the map.
+    Moreover, through its visualization, it's possible to see all the components, use and cost of the service
     
 | Components                    | Description                                            |
 |-------------------------------|--------------------------------------------------------|
