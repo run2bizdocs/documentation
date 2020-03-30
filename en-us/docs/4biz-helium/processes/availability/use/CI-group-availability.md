@@ -22,11 +22,11 @@ This functionality is intended to verify the CIs availability group.
 
 4.  It can be added several items, the amount you want, to the verification;
 
-6.  Once you add the CI group, you can update the charts presented after this field by clicking on "Update Charts".
+5.  Once you add the CI group, you can update the charts presented after this field by clicking on "Update Charts".
 
-5.  Verify the information in **Availability per period**. You can set the period you want and click on "Update" to view it. 
+6.  Verify the information in **Availability per period**. You can set the period you want and click on "Update" to view it. 
 
-6.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can also download it by clickin on "Save table". You can click on the slices of the chart to see the details about the CI's time distribution: Available, Unavailable and Scheduled change. In the chart, at the end, there're the followin information:
+7.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can also download it by clickin on "Save table". You can click on the slices of the chart to see the details about the CI's time distribution: Available, Unavailable and Scheduled change. In the chart, at the end, there're the followin information:
 
 |Information|Description|
 |-----------|-----------|
@@ -38,7 +38,7 @@ This functionality is intended to verify the CIs availability group.
 |Unavailability cost by hour|It presents the cost of unavailability|
 |Total cost of unavailability|The total for the cost of unavailability|
 
-7.  Verify the information in **Unavailability Occurrences**. You can set the period you want and click on "Update" to view it. It's also possible to download it by clicking on "Save table".
+8.  Verify the information in **Unavailability Occurrences**. You can set the period you want and click on "Update" to view it. It's also possible to download it by clicking on "Save table".
 
 
 Related
