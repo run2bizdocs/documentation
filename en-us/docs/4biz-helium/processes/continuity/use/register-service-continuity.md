@@ -200,6 +200,8 @@ Select one day in the calendar and complete the fields for the tabs:
 |**Invocation**|
 
 
+After complete all the information for each phase of the continuity registration, click on "Save".
+
 Related
 -----------
 
