@@ -116,6 +116,7 @@ On the Risk assessment phase, it'll be made the evaluation of the risk. Here you
 |**Risk response measures**|Stablish the risk response measures|
 
 *Critical Service*
+
 The tool will present a list of critical services associated with vital business functions. This information is also available in the [BI report](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
 
 ### Implementation
