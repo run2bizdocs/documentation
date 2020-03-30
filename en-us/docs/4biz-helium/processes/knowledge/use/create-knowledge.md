@@ -84,7 +84,7 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). By default, we have several options to select: ***Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News***|
 | Source/Reference | Inform the source/reference of the knowledge. By default, we have the following options: ***Development, Build, Systems integration testing, User acceptance testing, Production***|
 | Folder(\*) | Place where the knowledge will be save. By default, we have the options: ***Service Desk, FAQ, For Approval, Partner Portal***|
-| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: ***Knowledge, Event, Change, Incident, Service, Problem, Quality, CMDB & ITAM, Events Avalability and Release***|
+| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: ***Knowledge, Event, Change, Incident, Service, Problem, Quality, CMDB & ITAM, Events, Availability and Release***|
 | Status (automatic) | Knowledge lifecycle status |
 | Expiration Date(\*) | Date when the knowledge becomes obsolete |
 | Observation | A description of the knowledge |
