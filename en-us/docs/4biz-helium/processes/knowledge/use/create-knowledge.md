@@ -99,8 +99,8 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Copyright | Indication if the knowledge has copyright |
 | Legislation | Indication if knowledge is (or makes) part of some legislation |
 | Availability Management | If the knowledge contributes to the Availability Management process |
-| Action | Knowledge management flow activity (e.g.: if the knowledge status is ***"In drawing"*** the possible action is ***"Send for review"***). We also have the options, once the document is published: ***Send for review, Send for approval, Send for publication, Publish, Archive.***  |
-|        | All knowledge that changes will be submitted to an approval flow (controlled by the change or service request) |
+| Action(**) | Knowledge management flow activity (e.g.: if the knowledge status is ***"In drawing"*** the possible action is ***"Send for review"***). We also have the options, once the document is published: ***Send for review, Send for approval, Send for publication, Publish, Archive.***  |
+| ---------- | All knowledge that changes will be submitted to an approval flow (controlled by the change or service request) |
 
 (\*) Indicate mandatory field
 
