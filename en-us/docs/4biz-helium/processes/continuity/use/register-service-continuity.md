@@ -6,38 +6,112 @@ Description: Allows to register the continuity of a certain service.
 The Continuity Management focuses on the recovery of IT services and its components in face of an event of disaster.
 This functionality allows to register the continuity of a certain service.
 
-Before getting started
---------------------------
+## Before getting started
 
-Assumes the existence of a defined service in a Portfolio and Catalog Management
-process.
+- [x] The existence of a defined service in a Portfolio and Catalog Management process.
 
-It's necessary to previously register the threat and threat category, both
+- [x] It's necessary to previously register the threat and threat category, both
 linked to each other, in addition to previously register the risk and risk
 category.
 
-It's equally necessary to have registered the automatic actions of Incident,
+- [x] It's equally necessary to have registered the automatic actions of Incident,
 Request and Procedures about the Event Management.
 
-Procedure
--------------
+## Procedure
 
 1.  Access the functionality through the main menu Processes \> Continuity
     Management \> Continuity;
 
-2.  Click on "Continuity Registration";
+2.  Click on "Continuity Registration" and complete the fields:
 
-3.  Complete the field necessary (name and select the client to link);
+|Field|Description|
+|-----|-----------|
+|**Name(\*)**|The name for the continuity|
+|**Client(\*)**|Set the client for this continuity|
 
-4.  Click on "Save".
+(\*)Indicate mandatory fields.
 
-What to do next
--------------------
+Once created the continuity, in the list provided, find the one you want and click on Advance to complete all the information about the continuity.
 
-After register the continuity, it's necessary to execute the following actions:
-set the continuity policy, register the continuity scope and define the
-continuity project, being those actions part of the Initiation phase of the
-complete registration of continuity
+### Initiation
+
+In the initiation phase, set the fields for the tabs Policy, Scope and Project.
+
+**Policy**
+
+|Field|Description|
+|-----|-----------|
+|**Title(\*)**|The title for the policy|
+|**Version(\*)**|The version of the policy|
+|**Expiration date(\*)**|The date that expires the policy|
+|**Description**|The details about the policy|
+|**Assignment(\*)**|Assign the people for the policy|
+|**Attach**|To add files for the policy|
+
+(\*)Indicate mandatory fields.
+
+**Scope**
+
+|Field|Description|
+|-----|-----------|
+|**Executive summary(\*)**|Detail the executive summary|
+|**Description(\*)**|Describe the informations about the scope|
+|**Expiry date(\*)**|The date that'll expire the scope|
+|**Attach**|To add files for the scope|
+
+(\*)Indicate mandatory fields.
+
+**Project**
+
+|Function|Description|
+|--------|-----------|
+|**Link Project**|To link a project already existed|
+|**Create New Project**|To create a new project to the continuity, complete the fields: Name, abbreviation, contract, emergency, severity, name of manager, change, release, status, value for project execution, detail/supplementary instructions. It's necessary to add other information, they are: Resources, Subscriptions and Approvals, Work Order and Baseline|
+
+### Requirements and Strategy
+
+In the requirements and strategy phase, set the fields for the tabs Vital Functions, Business Impact Analysis, Risk Assessment and IT Service Continuity.
+
+**Vital Functions**
+
+|Funtion|Description|
+|-------|-----------|
+|**Add vital function**|To select a process to link to the continuity|
+|**Attach**|To add a file|
+|**Delete**|To delete the vital function linked|
+
+**Business Impact Analysis**
+
+Once selected the Vital Function, click on the icon "+" and complete the fields.
+
+|Field|Description|
+|-----|-----------|
+|**Possible impacts**|Select the possible impacts for that|
+|**Gravity**|Set the degree of severity for this vital function|
+|**Recovery point purpose**|Set the recovery point|
+|**Purpose of recovery time**|Set the time of recovery|
+|**Cost by hour of inactivity**|Set the cost for inactivity|
+|**Maximum tolerable of inactivity**|Set the time tolerable for inactivity|
+|**Cost of impact**|Set the cost of its impact|
+|**Strategy 1,2 and 3**|Describe the strategies for each one of them|
+
+**Risk Assessment**
+
+On the Risk assessment phase, it'll be made the evaluation of the risk. Here you can add possible scenerios for the risks. We have the following functions:
+
+|Function|Description|
+|**Add scenary**| To add a possible scenary of risk. Complete the mandatory fields: Name and vital function|
+|**Add service**|To add a service available for your profile to the risk. You can delete it too|
+|**Add risk**|Select the risk you want to link. Once linked the risk, it's possible to **Select threat** or **Add Threat**. When adding a threat, complete the mandatory fields: Threat Name and Threat Category. Next the Treats tab, there's the **Treatment Plans** to add a treatment plan for the risk|
+
+**IT Service Continuity**
+
+|Field|Description|
+|-----|-----------|
+|**Select Vital Function**|Select the vital function, it'll have the following actions: Services - to see the services of the vital function; Scenarios - To view the scenarios of vital function; Delete - To delete the vital function|
+|**Recovery measures**|Stablish the recovery measures|
+|**Risk response measures**|Stablish the risk response measures|
+
 
 Related
 -----------
