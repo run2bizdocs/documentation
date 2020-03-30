@@ -32,6 +32,10 @@ To locate a knowledge base, you have the following filters:
 | View by | Select a criterion that references the actions you're allowed. By default, we have the options: ***All, Can Review, Can Approve, Can Publish***|
 | Situation | Select a criterion that matches the knowledge status. By default, we have the options: ***All, In drawing, In revision, Reviewed, In Publication, Published, Archived*** |
 | Folder | Select the folder where the knowledge was created. By default, we have the options: ***Service Desk, FAQ, For Approval, Partner Portal***|
+
+!!! TIP "TIP"
+
+    **For the Selection fields** - Other Itens can be created as the business needed.
     
 ### Creating Knowledge
 
@@ -72,7 +76,6 @@ The knowledge base registration/management interface has the following functiona
   
 
 #### Knowledge Fields
-
 In the "Registration" tab, a form will be presented containing the fields for identification, treatment and control of the knowledge.
 
 | Field | Description |
@@ -81,7 +84,7 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). By default, we have several options to select: ***Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News***|
 | Source/Reference | Inform the source/reference of the knowledge. By default, we have the following options: ***Development, Build, Systems integration testing, User acceptance testing, Production***|
 | Folder(\*) | Place where the knowledge will be save. By default, we have the options: ***Service Desk, FAQ, For Approval, Partner Portal***|
-| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: ***Knowledge, Event, Change, Incident, Service, Problem, Quality***|
+| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: ***Knowledge, Event, Change, Incident, Service, Problem, Quality, CMDB & ITAM, Events Avalability and Release***|
 | Status (automatic) | Knowledge lifecycle status |
 | Expiration Date(\*) | Date when the knowledge becomes obsolete |
 | Observation | A description of the knowledge |
@@ -96,7 +99,8 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Copyright | Indication if the knowledge has copyright |
 | Legislation | Indication if knowledge is (or makes) part of some legislation |
 | Availability Management | If the knowledge contributes to the Availability Management process |
-| Action | Knowledge management flow activity (e.g.: if the knowledge status is ***"In drawing"*** the possible action is ***"Send for review"***). We also have the options, once the document is published: ***Send for review, Send for approval, Send for publication, Publish, Archive.***|
+| Action | Knowledge management flow activity (e.g.: if the knowledge status is ***"In drawing"*** the possible action is ***"Send for review"***). We also have the options, once the document is published: ***Send for review, Send for approval, Send for publication, Publish, Archive.***  |
+|        | All knowledge that changes will be submitted to an approval flow (controlled by the change or service request) |
 
 (\*) Indicate mandatory field
 
