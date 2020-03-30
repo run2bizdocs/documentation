@@ -102,7 +102,7 @@ Once selected the Vital Function, click on the icon "+" and complete the fields.
 On the Risk assessment phase, it'll be made the evaluation of the risk. Here you can add possible scenerios for the risks. We have the following functions:
 
 |Function|Description|
-
+|--------|-----------|
 |**Add scenary**| To add a possible scenary of risk. Complete the mandatory fields: Name and vital function|
 |**Add service**|To add a service available for your profile to the risk. You can delete it too|
 |**Add risk**|Select the risk you want to link. Once linked the risk, it's possible to **Select threat** or **Add Threat**. When adding a threat, complete the mandatory fields: Threat Name and Threat Category. Next the Treats tab, there's the **Treatment Plans** to add a treatment plan for the risk|
