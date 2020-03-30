@@ -112,6 +112,93 @@ On the Risk assessment phase, it'll be made the evaluation of the risk. Here you
 |**Recovery measures**|Stablish the recovery measures|
 |**Risk response measures**|Stablish the risk response measures|
 
+### Implementation
+
+In the implementation phase, set the fields availble in the tabs: Continuity Plan, Organizational Planning and Test Strategy.
+
+**Continuity Plan**
+
+|Fields|Description|
+|------|-----------|
+|**Title(\*)**|The title for the continuity plan|
+|**Version**|The version for the continuity plan|
+|**Status(\*)**|Set the status of the plan|
+|**Description**|Describe the plan|
+|**Continuity Procedure(\*)**|Add the continuity procedure|
+|**Assignment(\*)**|Assign the people for this plan|
+|**Validity(\*)**|The date for the expiration of the plan|
+|**Authorization(\*)**|Set if is authorized or not|
+|**Related Change**|Relate a change for the plan|
+
+(\*)Indicate mandatory fields.
+
+|Action|Description|
+|------|-----------|
+|**Relate Knowledge**|To link a document to the plan|
+|**Relate Recovery Measures**|To link recovery measures|
+|**Attachments**|To add files|
+
+**Organizational Planning**
+
+After describe the executive summary, which is mandatory, we have the following levels:
+
+|Level|Description|
+|--------|-----------|
+|**Executive Committee**|To add the group and responsibility. Both are mandatory|
+|**Coordination**|To add the group of coordination. The fields group and responsibility are mandatory|
+|**Recovery Teams**|To add the group of recovery. The fields group and responsibility are mandatory|
+
+**Test Strategy**
+
+|Field|Description|
+|-----|-----------|
+|**Name(\*)**|Identify the test with a name|
+|**Executive summary(\*)**|Describe the executive summary|
+|**Attachments**|To add files to the test|
+|**Select recovery measures**|To search for and select a recovery measures for the plan|
+
+(\*)Indicate mandatory fields.
+
+### Continuous Operation
+
+In the continuous operation phase, set the fields availble in the tabs: Awareness, Review and Audit, Tests and Invocation.
+
+**Awareness**
+
+After describe the Executive summary, which is mandatory, it's possible to complete the Training Registries. Click on Add Register and complete the fields:
+
+|Field|Description|
+|-----|-----------|
+|**Critical Analysis of Action(\*)**|Make a critical analysis of the action|
+|**Type of Activity(\*)**|Select the type of activity|
+|**Status(\*)**|Select the status of the activity|
+
+(\*)Indicate mandatory fields.
+
+**Review and Audit**
+
+On the Registered Audits tab, you can search for an audit already created by Period and Category. It'll appear the audits in the list.
+
+To register an audit, complete the fields:
+
+|Field|Description|
+|-----|-----------|
+|**Category(\*)**|Select the category of the audit|
+|**Description(\*)**|Describe the audit|
+
+**Tests**
+
+Select one day in the calendar and complete the fields for the tabs:
+
+|Tab|Description|
+|---|-----------|
+|**Main informations**|Describe the test information, completing the fields: Event Name, Start Date/Time, End Date/Time and Details|
+|**Group**|Add a group|
+|**Employee**|Add an employee|
+|**Test evidence**| Select or create a test evidence|
+|**Test plans**|Add a test plan|
+|**Invocation**|
+
 
 Related
 -----------
