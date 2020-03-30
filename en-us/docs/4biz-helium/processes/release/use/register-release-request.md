@@ -1,33 +1,112 @@
-title: Register release
+title: Registering release
 Description: This functionality makes available several actions, like, include, change and delete a release. 
-# Register release
+# Registering release
 According to ITIL, release is "one or more changes to an IT service that are built, tested and deployed together. A single release may include changes to hardware, software, documentation, processes and other components".
 This functionality makes available several actions, like, include, change and delete a release.
 
-Before getting started
---------------------------
+## Before getting started
 
-The Release is part of the Change process, so it is necessary to have a
-registered RFC (request for change). To register a release, it's
-necessary to have previously registered the release portfolio, the employee,
+- [x] It's necessary to have a registered RFC (request for change);
+
+- [x] It's necessary to have previously registered the release portfolio, the employee,
 contract, unit linked to the contract, executor group linked to the contract,
-type of release and periodic activity group.
+type of release and periodic activity group
 
-Procedure
--------------
+## Procedure
 
 1.  Access the functionality through the main menu Processes \> Release
     Management \> Release;
 
-2.  Click on the options button “Operations” and then on "Register";
+2.  Click on the options button “Options” and then on "Register";
 
-3.  Complete the fields available in the areas: requester and request.
+3.  Complete the fields available.
 
-4.  It's also necessary to indicate the initial release planning and deployment
-    information. In the "Other information" tab of each phase, assign the
-    beginning and end date and time of each one of them;
+## Identification Fields
 
-5.  Click on the options button “Operations” and then on "Save".
+|Field|Description|
+|-----|-----------|
+|**Name(\*)**| Identify name of the requester|
+|**Contact(\*)**|Inform the contact for the requester|
+|**E-mail(\*)**|The e-mail of the requester|
+|**Phone**|The phone number of the requester|
+|**Extension**|The extension number of the requester|
+|**Unit(\*)**|The unit of the requester|
+|**Physical Location**|The location of the requester|
+|**Other information**|All other information you think is important about the requester|
+
+(\*) Indicate mandatory field
+
+### Release
+
+|Field|Description|
+|-----|-----------|
+|**Search here**|To search for the portfolio you want|
+|**Portfolio(\*)**|Select the portfolio of the release you're creating|
+|**Model(\*)**|Select the model of the portfolio of the release|
+|**Title(\*)**|The title for the release you're creating|
+|**Contract(\*)**|The contract related to the portfolio selected|
+|**Executor Group(\*)**|The group responsible to deal with the release|
+|**Impact(\*)**|Set the degree of the impact|
+|**Urgency(\*)**|Set the degree of the urgency|
+|**Risk(\*)**|Set the degree of the risk|
+|**Release Date**|Set the date for the release|
+|**Version**|The version of this release|
+|**Notifications**|The types of notification regarding the maintenance of the release|
+
+(\*) Indicate mandatory field
+
+### Changes
+
+|Function|Description|
+|--------|-----------|
+|**Search Change**|To link a change already created, use this search box and select it|
+|**Register Change**|To create a new change for this release, click here and it'll be redirected to the screen of change registration|
+
+### Planning
+
+|Tabs|Description|
+|----|-----------|
+|**Activities**|Create a new workspace or link an existing one|
+|**Roles/Responsibilities**|Assign the roles and responsibilities according to the needs|
+|**System notifications**|Set up a system notification to inform you about the release|
+|**Documents**|Link knowledge to the release|
+|**More**|Two more options for the planning phase|
+|**Other information**|Set the dates for the planing: start date, start time, end date and final time|
+|**Notes**|Add relevant notes for the release planning|
+
+### Deployment
+
+|Tabs|Description|
+|----|-----------|
+|**Activities**|Create a new workspace or link an existing one|
+|**Roles/Responsibilities**|Assign the roles and responsibilities according to the needs|
+|**System notifications**|Set up a system notification to inform you about the release|
+|**Documents**|Link knowledge to the release|
+|**More**|Two more options for the deployment phase|
+|**Other information**|Set the dates for the deployment: start date, start time, end date and final time|
+|**Notes**|Add relevant notes for the release deployment|
+
+### Linking additional items
+
+On the left side of the screen, you can link other items to the release being created.
+
+|Function|Description|
+|--------|-----------|
+|**Related CI**|Search and link CI to the release|
+|**Definitive Media**|Search or create a definitive media to link the release|
+|**Problem**|Search or create a problem to link the release|
+|**Knowledge Base**|Search or create a document to link the release|
+|**Tickets**|Search for a ticket to link to link the release|
+
+### Saving
+
+At the end of the page, you'll find a floating button with the functions of:
+
+|Function|Description|
+|--------|-----------|
+|**Cancel**|To cancel the creation of the release|
+|**Save**|To save the release and create the number for tracking and monitoring|
+
 
 Related
 -----------
@@ -49,5 +128,5 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/09/2019 – Larissa Lourenço
+    <b>Updated:</b>01/09/2019 – William Costa
 
