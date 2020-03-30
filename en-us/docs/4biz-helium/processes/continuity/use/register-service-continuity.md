@@ -70,7 +70,9 @@ In the initiation phase, set the fields for the tabs Policy, Scope and Project.
 
 ### Requirements and Strategy
 
-In the requirements and strategy phase, set the fields for the tabs Vital Functions, Business Impact Analysis, Risk Assessment and IT Service Continuity.
+In the requirements and strategy phase, set the fields for the tabs Vital Functions, Business Impact Analysis, Risk Assessment and IT Service Continuity. 
+
+Choose the service on the list of service by criticality, than, choose the viatal function.
 
 **Vital Functions**
 
@@ -100,6 +102,7 @@ Once selected the Vital Function, click on the icon "+" and complete the fields.
 On the Risk assessment phase, it'll be made the evaluation of the risk. Here you can add possible scenerios for the risks. We have the following functions:
 
 |Function|Description|
+
 |**Add scenary**| To add a possible scenary of risk. Complete the mandatory fields: Name and vital function|
 |**Add service**|To add a service available for your profile to the risk. You can delete it too|
 |**Add risk**|Select the risk you want to link. Once linked the risk, it's possible to **Select threat** or **Add Threat**. When adding a threat, complete the mandatory fields: Threat Name and Threat Category. Next the Treats tab, there's the **Treatment Plans** to add a treatment plan for the risk|
@@ -111,6 +114,9 @@ On the Risk assessment phase, it'll be made the evaluation of the risk. Here you
 |**Select Vital Function**|Select the vital function, it'll have the following actions: Services - to see the services of the vital function; Scenarios - To view the scenarios of vital function; Delete - To delete the vital function|
 |**Recovery measures**|Stablish the recovery measures|
 |**Risk response measures**|Stablish the risk response measures|
+
+*Critical Service*
+The tool will present a list of critical services associated with vital business functions. This information is also available in the [BI report](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
 
 ### Implementation
 
