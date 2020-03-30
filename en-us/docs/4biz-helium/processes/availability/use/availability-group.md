@@ -26,7 +26,17 @@ This functionality is intended to verify the availability group.
 
 5.  Verify the information in **Availability per period**. You can set the period you want and click on "Update" to view it. 
 
-6.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can click on the slices of the chart to see the details about the CI's time distribution. You can also download it by clickin on "Save table";
+6.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can also download it by clickin on "Save table". You can click on the slices of the chart to see the details about the CI's time distribution: Available, Unavailable and Scheduled change. In the chart, at the end, there're the followin information:
+
+|Information|Description|
+|-----------|-----------|
+|Name|The name of the availability group|
+|Availability|The total number of the availability for the availability group|
+|Availability Agreement|It presents the total of the available agreement for the availability group|
+|Availability difference|It presents the total difference for the availability|
+|Unavailability time|The time of unavailability|
+|Unavailability cost by hour|It presents the cost of unavailability|
+|Total cost of unavailability|The total for the cost of unavailability|
 
 7.  Verify the information in **Unavailability Occurrences**. You can set the period you want and click on "Update" to view it. It's also possible to download it by clicking on "Save table".
 
