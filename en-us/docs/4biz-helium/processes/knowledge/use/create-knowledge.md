@@ -7,31 +7,31 @@ Creating knowledge is the act of saving information at 4biz using the Knowledge 
 
 ## Before getting started
 
-- [X] it's necessary to create folders and define access permissions. With this you can organize the knowledge and allow an easy location when performing a search. (see [Creating access profile][2])
-
-- [X] To use the notification features, it's necessary to configure the parameters: 82 and 83 (Knowledge Creation/Change), 84 (Deleting knowledge) and 78 and 456 (Expiration of knowledge). (see [Configuring email template][3], see [Configuring parametrization - knowledge][4]).
+- [X] it's necessary to create folders and define access permissions. With this you can organize the knowledge and allow an easy location when performing a search. (see [Creating access profile][2])  
+- [X] To use the notification features, it's necessary to configure the parameters: **82** and **83** (Knowledge Creation/Change), **84** (Deleting knowledge) and **78** and **456** (Expiration of knowledge). (see [Configuring email template][3], see [Configuring parametrization - knowledge][4]).
 
 
 !!! note "NOTE"
     
-    Parameters 82 and 83 have the same function, so it's not necessary to configure these two parameters, choose one of them. This is because now it has been gathered in a key email template that contemplates all activities that go from creating to archiving knowledge. And what does it mean? In this new scenario you'll use an email template that will contain several keys. This template is already available in a clean installation, or if you already have an environment and are going to update it, you can use the email keys in your already used templates so that they stay in the new standard (see [Key fields of knowledge base emails][5], see [Examples of email templates][6]).
+    Parameters 82 and 83 have the same function, so it's not necessary to configure these two parameters, choose one of them. This is because now it has been gathered in a key email template that contemplates all activities that go from creating to archiving knowledge.     And what does it mean? In this new scenario you'll use an email template that will contain several keys.    
+    This template is already available in a clean installation, or if you already have an environment and are going to update it, you can use the email keys in your already used templates so that they stay in the new standard (see [Key fields of knowledge base emails][5], see [Examples of email templates][6]).
 
 ## Procedure
-
 1. Access the functionality through the menu Processes > Knowledge Management > Knowledge Management;
 
 ### Search and Filters
-
-When accessing the Knowledge Management, you'll see the main knowledge management interface. In it you'll find all the knowledge base registries, being able to perform several actions (depending on your permissions in the system), creating new knowledge or editing an existing one. To locate a knowledge base, you have the following filters:
+When accessing the Knowledge Management, you'll see the main knowledge management interface.  
+In it you'll find all the knowledge base registries, being able to perform several actions (depending on your permissions in the system), creating new knowledge or editing an existing one.  
+To locate a knowledge base, you have the following filters:
 
 |  Field | Description |
 |--------|-----------|
 | Title | Enter a term that refers to the name of the knowledge. |
-| Document type | Select the type of information registered. By default, we have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News.|
+| Document type | Select the type of information registered. By default, we have several options to select: ***Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News.***|
 | Content | Enter a brief part of the knowledge, you can enter a word or a short sentence. |
-| View by | Select a criterion that references the actions you're allowed. By default, we have the options: All, Can Review, Can Approve, Can Publish|
-| Situation | Select a criterion that matches the knowledge status. By default, we have the options: All, In drawing, In revision, Reviewed, In Publication, Published, Archived |
-| Folder | Select the folder where the knowledge was created. By default, we have the options: Service Desk, FAQ, For Approval, Partner Portal|
+| View by | Select a criterion that references the actions you're allowed. By default, we have the options: ***All, Can Review, Can Approve, Can Publish***|
+| Situation | Select a criterion that matches the knowledge status. By default, we have the options: ***All, In drawing, In revision, Reviewed, In Publication, Published, Archived*** |
+| Folder | Select the folder where the knowledge was created. By default, we have the options: ***Service Desk, FAQ, For Approval, Partner Portal***|
     
 ### Creating Knowledge
 
@@ -78,16 +78,16 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Field | Description |
 |-------|--------|
 | Title (\*)| Name of the knowledge |
-| Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). By default, we have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News |
-| Source/Reference | Inform the source/reference of the knowledge. By default, we have the following options: Development, Build, Systems integration testing, User acceptance testing, Production|
-| Folder(\*) | Place where the knowledge will be save. By default, we have the options: Service Desk, FAQ, For Approval, Partner Portal |
-| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: Knowledge, Event, Change, Incident, Service, Problem, Quality|
+| Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). By default, we have several options to select: ***Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News***|
+| Source/Reference | Inform the source/reference of the knowledge. By default, we have the following options: ***Development, Build, Systems integration testing, User acceptance testing, Production***|
+| Folder(\*) | Place where the knowledge will be save. By default, we have the options: ***Service Desk, FAQ, For Approval, Partner Portal***|
+| Origin(\*) | Trigger for the creation of a Knowledge. By default, we have the following options: ***Knowledge, Event, Change, Incident, Service, Problem, Quality***|
 | Status (automatic) | Knowledge lifecycle status |
 | Expiration Date(\*) | Date when the knowledge becomes obsolete |
 | Observation | A description of the knowledge |
 | Author | Creator of the Knowledge |
 | Publisher | The responsible for publishing the Knowledge |
-| Privacy | Information sensitivity: **Confidential** (only the author of the knowledge and the folder administrator will have access to the knowledge), **Internal** (only people who have permission in the folder will have access to knowledge) and **Public** (internal/external) (everyone will have access to knowledge, even those who do not have permission in the folder) |
+| Privacy | Information sensitivity: **Confidential** (only the author of the knowledge and the folder administrator will have access to the knowledge), ***Internal*** (only people who have permission in the folder will have access to knowledge) and ***Public*** (internal/external) (everyone will have access to knowledge, even those who do not have permission in the folder) |
 | Creation Date (automatic) | Day when the Knowledge was created |
 | Publication Date (automatic) | Day when the Knowledge was published |
 | Tags | Words (or set of words) used to help the search engine |
@@ -96,7 +96,7 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Copyright | Indication if the knowledge has copyright |
 | Legislation | Indication if knowledge is (or makes) part of some legislation |
 | Availability Management | If the knowledge contributes to the Availability Management process |
-| Action | Knowledge management flow activity (e.g.: if the knowledge status is "In drawing" the possible action is "Send for review"). We also have the options, once the document is published: Send for review, Send for approval, Send for publication, Publish, Archive.|
+| Action | Knowledge management flow activity (e.g.: if the knowledge status is ***"In drawing"*** the possible action is ***"Send for review"***). We also have the options, once the document is published: ***Send for review, Send for approval, Send for publication, Publish, Archive.***|
 
 (\*) Indicate mandatory field
 
@@ -148,7 +148,7 @@ When creating a knowledge, 4biz will always establish version "1.0" and, when ch
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | 8.05 &nbsp;&nbsp;
-    <b>Updated:</b>12/26/2019 – Education Team
+    <b>Updated:</b>30/03/2020 – Andre Fernandes
     
 [1]:https://en.wikipedia.org/wiki/WYSIWYG
 [2]:/en-us/4biz-helium/initial-settings/access-settings/profile/create-profile-access.html
