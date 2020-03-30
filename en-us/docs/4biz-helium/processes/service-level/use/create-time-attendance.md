@@ -13,6 +13,8 @@ Before getting started
 To register a time of attendance, it's necessary to previously register the
 service portfolio.
 
+The configurations of the Gold, Silver, and other SLAs will be created here.
+
 Procedure
 -------------
 
