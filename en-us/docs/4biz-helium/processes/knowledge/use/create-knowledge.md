@@ -26,11 +26,11 @@ When accessing the Knowledge Management, you'll see the main knowledge managemen
 |  Field | Description |
 |--------|-----------|
 | Title | Enter a term that refers to the name of the knowledge. |
-| Document type | Select the type of information registered. |
+| Document type | Select the type of information registered. We have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News.|
 | Content | Enter a brief part of the knowledge, you can enter a word or a short sentence. |
-| View by | Select a criterion that references the actions you're allowed. |
-| Situation | Select a criterion that matches the knowledge status. |
-| Folder | Select the folder where the knowledge was created. |
+| View by | Select a criterion that references the actions you're allowed. We have the options: All, Can Review, Can Approve, Can Publish|
+| Situation | Select a criterion that matches the knowledge status. We have the options: All, In drawing, In revision, Reviewed, In Publication, Published, Archived |
+| Folder | Select the folder where the knowledge was created. We have the options: Service Desk, FAQ, For Approval, Partner Portal|
     
 ### Creating Knowledge
 
@@ -50,7 +50,7 @@ The knowledge base registration/management interface has the following functiona
 | 4 | Interested Parties | Enables parties (users or groups) to be notified when a knowledge is updated |
 | 5 | Notifications | Alternative to send notifications to interested parties |
 
-- **Tabs when editing a Knowledgeo (add to the previous ones)**
+- **Tabs when editing a Knowledge (add to the previous ones)**
 
 | Order (tabs) |  Tab | Description |
 |-------|--------|-----------|
@@ -66,6 +66,7 @@ The knowledge base registration/management interface has the following functiona
 
     
 !!! note "NOTE"
+    
     Note that the "Comments", "History", "Configuration Item" and "Versions" tabs only appear after the information is registered, as they are related to the knowledge management process.
   
 
@@ -75,13 +76,13 @@ In the "Registration" tab, a form will be presented containing the fields for id
 
 | Field | Description |
 |-------|--------|
-| Title (*)| Name of the knowledge |
-| Document type(*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains) |
-| Source/Reference | Inform the source/reference of the knowledge |
-| Folder(*) | Place where the knowledge will be save |
-| Origin(*) | Trigger for the creation of a Knowledge |
+| Title (\*)| Name of the knowledge |
+| Document type(\*) | Category that defines the type of document - there may be more (or less) options in this list (check Active Domains). We have several options to select: Document, FAQ, Known Error, Test Evidence, Recovery measure, Emergency Response Plan, Damage Evaluation Plan, Rescue Plan, Vitar Records Plan, Crisis Management and Public Relationships Plan, Accommodation and Services Plan, Communication Plan, Finances and Administration Plan, Service Quality Plan, Availability Plan, News |
+| Source/Reference | Inform the source/reference of the knowledge. We have the following options: Development, Build, Systems integration testing, User acceptance testing, Production|
+| Folder(\*) | Place where the knowledge will be save. We have the options: Service Desk, FAQ, For Approval, Partner Portal |
+| Origin(\*) | Trigger for the creation of a Knowledge. We have the following options: Knowledge, Event, Change, Incident, Service, Problem, Quality|
 | Status (automatic) | Knowledge lifecycle status |
-| Expiration Date(*) | Date when the knowledge becomes obsolete |
+| Expiration Date(\*) | Date when the knowledge becomes obsolete |
 | Observation | A description of the knowledge |
 | Author | Creator of the Knowledge |
 | Publisher | The responsible for publishing the Knowledge |
@@ -89,17 +90,22 @@ In the "Registration" tab, a form will be presented containing the fields for id
 | Creation Date (automatic) | Day when the Knowledge was created |
 | Publication Date (automatic) | Day when the Knowledge was published |
 | Tags | Words (or set of words) used to help the search engine |
-| Content(*) | Content of the knowledge that will be made available on the Portal, here it must contain all the information and media related to the document |
+| Content(\*) | Content of the knowledge that will be made available on the Portal, here it must contain all the information and media related to the document |
 | Attachment | Files related to the Knowledge |
 | Copyright | Indication if the knowledge has copyright |
 | Legislation | Indication if knowledge is (or makes) part of some legislation |
 | Availability Management | If the knowledge contributes to the Availability Management process |
-| Action | Knowledge management flow activity (e.g.: if the knowledge status is "In drawing" the possible action is "Send for review") |
+| Action | Knowledge management flow activity (e.g.: if the knowledge status is "In drawing" the possible action is "Send for review"). We also have the options, once the document is published: Send for review, Send for approval, Send for publication, Publish, Archive.|
 
-(*) Indicate mandatory field
+(\*) Indicate mandatory field
 
 !!! note "NOTE"
+    
     If the option for known error is selected in the document type field, the system will present a field to define which environment this knowledge should be linked to (Production or development)
+    
+!!! note "NOTE"
+
+    Set the field "Origin" to indicate from where you're creating the knowledge, that can be used to be linked in another process. 
 
 #### Knowledge Content
 
@@ -120,9 +126,11 @@ When creating a knowledge, 4biz will always establish version "1.0" and, when ch
 ### Tips
 
 !!! warning "ATTENTION"
+    
     Pay attention when using “Public” privacy, as there is a risk of making documents inappropriately available. This scenario disregards the access profile configuration and releases document access for all users.
 
 !!! note "Approval Tracker"
+    
     The end user can propose new Documents/Knowledge on the floating button of the Knowledge Portal, the Document is saved in the folder indicated by Parameter 313 of the system. The knowledge Manager searches for unpublished documents or in the indicated folder and, as the approval progresses, the document will gain other statuses.
 
 ### Related
