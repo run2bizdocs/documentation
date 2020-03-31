@@ -47,7 +47,18 @@ On the **Values and Apportionments** tab, complete:
 |Final value*| Set a number for the value end|
 |Apportionment| Here we have the options to set all the apportionments types|
 
-On the Knowledge tab, select a document already created to link to the financial item.
+On the **Knowledge** tab, select a financial document already created to link to the financial item.
+
+On the **Approvals** tab, it's possible to create approvals and verify those that have been created, approved or denied. On the list of approvals we have the following fields:
+
+|Field|Description|
+|-----|-----------|
+|**Ticket**|The number identifying the approval|
+|**Date**|The date of the approval|
+|**Activity**|The financial activity|
+|**Status**|The status of the approval|
+
+On the **History** tab, it'll be presented all the information about the maintenance made on the financial item.
 
 ## Actions
 
