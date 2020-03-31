@@ -17,7 +17,7 @@ Procedure
 
 2.  Click on the event and then on the button “More Options”;
 
-3.  Click on "Create service request";
+3.  Click on "Create incident";
 
 4.  Complete the fields available;
 
