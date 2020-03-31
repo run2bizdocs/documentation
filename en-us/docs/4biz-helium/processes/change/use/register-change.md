@@ -46,9 +46,9 @@ To identify a change, complete the fields:
 |Change description (\*)|Description of change|
 |Effect of not implementing the change|Effective if this change is not implemented |
 |Contract|Contract linked to change|
-|Importance|Importance level of change|
-|Impact|Impact that change generates|
-|Urgency|Urgency to make the change|
+|Importance|Importance level of change, we have the options: **Important**,**Significant** and **Small**|
+|Impact|Impact that change generates, we have the options: **Low**,**Medium** and **High**|
+|Urgency|Urgency to make the change, we have the options: **Low**,**Medium** and **High**|
 |Executor Group|The group responsible for executing the change|
 |Notification|Configure notifications between "Send email upon creating the Change", "Send email on the completion of the Change", "Send an Email to the Change Advisory Board", "Send email for other actions of the Change"|
 
