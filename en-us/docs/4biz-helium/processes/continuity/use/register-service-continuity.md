@@ -117,7 +117,7 @@ On the Risk assessment phase, it'll be made the evaluation of the risk. Here you
 
 *Critical Service*
 
-The tool will present a list of critical services associated with vital business functions. This information is also available in the [BI report](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
+The tool will present a list of critical services associated with vital business functions. This information is also available in the [BI report](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html).
 
 ### Implementation
 
@@ -204,7 +204,10 @@ Select one day in the calendar and complete the fields for the tabs:
 |**Employee**|Add an employee|
 |**Test evidence**| Select or create a test evidence|
 |**Test plans**|Add a test plan|
-|**Invocation**|
+
+!!! abstract "NOTE"
+
+    Those informations and tests are used to predict the services and generate predictive reports.
 
 
 After complete all the information for each phase of the continuity registration, click on "Save".
