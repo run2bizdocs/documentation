@@ -106,6 +106,14 @@ On the left side of the screen, you can link other items to the release being cr
 |**Knowledge Base**|Search or create a document to link the release|
 |**Tickets**|Search for a ticket to link to link the release|
 
+!!! abstract "NOTE"
+
+    In the Related CI, you can link different types of release, for example, software release, hardware, software and others.
+    
+!!! abstract "NOTE"
+
+    In the Knowledge Base, you can add attachments in a document to be linked to the release.
+
 ### Saving
 
 At the end of the page, you'll find a floating button with the functions of:
