@@ -55,6 +55,14 @@ type of release and periodic activity group
 
 (\*) Indicate mandatory field
 
+!!! faq "Do you know?"
+
+    According to the portfolio, the types of release can be **Minor, Major, Significant and Emergency**.
+    **Minor release** is a release of a product that does not add new features or content, maintenance releases are typically intended to solve minor problems, typically "bugs" or security issues.
+    **Major release** means a new version of Software that includes changes to the architecture and/or adds new features and functionality in addition to the original functional characteristics of the preceding software release.
+    **Signifcant release** adds features and functionality improving overall product performance, efficiency and usability.
+    **Emergency release** are exactly what they sound like. Some incident or scenario needs attention ASAP, so will be released a temporary fix.
+
 ### Changes
 
 |Function|Description|
