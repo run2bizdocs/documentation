@@ -107,6 +107,20 @@ At the end of the page, you'll find a floating button with the functions of:
 |**Cancel**|To cancel the creation of the release|
 |**Save**|To save the release and create the number for tracking and monitoring|
 
+## Editing release
+
+Once created a release, it's possible to edit all the information we found in its registration. In addition to that, it'll appear the "Closure" phase, at the end of the page, where you can change the status of the release.
+
+In the Closure field, at the end of the page, there's the following situation:
+
+|Situation|Description|
+|------|-----------|
+|**In Execution**|To edit and see the release without finishing it|
+|**Solved**|To solve and finish the release|
+|**Canceled**|To cancel the release|
+
+To see how to finish the release, see the document [Executing Release](https://documentation.run2biz.com/en-us/4biz-helium/processes/release/use/execute-release.html)
+
 
 Related
 -----------
