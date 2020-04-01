@@ -1,5 +1,6 @@
 title: Create time of attendance
 Description: Provides a variety of actions, such as including, changing, and deleting the time of attendance of type Global (applicable to all services), Client (applicable to the contract services) and Incident/Request/Procedure (applicable to a specific service).
+
 # Create time of attendance
 
 This feature provides a variety of actions, such as including, changing, and 
@@ -113,4 +114,3 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 - Anna Martins
