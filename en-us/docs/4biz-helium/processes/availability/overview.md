@@ -27,7 +27,7 @@ Within the availability process it is possible to check the tab options within t
 |Avaibility Group|The system generates a Avaibility Group report of: **Availability by period**, **Total Availability**, **Unavailability occurrences**|
 |Service|The system generates a service report of: **Availability by period**, **Total Availability**, **Unavailability occurrences**|
 
-that information came from Change/Release/Incident, and the unavailability will be get for event process, and the report will be displayed in Availability process regarding type of CI, or Service Group.
+That information from the tabs came from Change/Release/Incident, and the unavailability will be get for event process, and the report will be displayed in Availability process regarding type of CI, or Service Group.
 
 Use
 -------
