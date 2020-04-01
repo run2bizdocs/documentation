@@ -5,6 +5,12 @@ Description: Is intended to maintain financial item.
 
 This functionality is intended to maintain financial item.
 
+!!! faq "Do you Know ..."
+
+    In the BI reports you could reach synthetic and analytical information about:  
+    Budget, Expenses, Expected Value, Final Value, Cost Value, Main Value, ROI, Cost per Services, CAPEX, OPEX.  
+    Also BI data about Apportionment by Services,  Apportionment by Business Units, Apportionment by Result Centers,  Apportionment by Accouting Accounts,  Apportionment by Projects and  Accounting Activities.  
+
 ## Before getting started
 
 - [x] It's necessary to have defined the access permission to the functionalities of the Capacity Management and have permission of usage the functionality.
@@ -36,8 +42,10 @@ Complete the fields available on the **Information** tab:
 |Status*|It'll be always be created as "Pending"|
 |Description|Description about your financial item|
     
-On the **Values and Apportionments** tab, complete:
-    
+### Values and Apportionments
+
+In this tab you will register The Value of a financial item and also an apportionment fot it´s values
+
 |Field|Description|
 |---|---|
 |Entry type|There are two types: Value - if you set value, after the "Select services", it'll be presented a list with the service and its values; Accounting for activities performed - for this option, after Select the activities, it'll be presented the list with the activity you selected, as well as its information and description|
@@ -47,26 +55,41 @@ On the **Values and Apportionments** tab, complete:
 |Final value*| Set a number for the value end|
 |Apportionment| Here we have the options to set all the apportionments types|
 
-On the **Knowledge** tab, select a financial document already created to link to the financial item.
+(\*) Indicates mandatory field
 
-On the **Approvals** tab, it's possible to create approvals and verify those that have been created, approved or denied. On the list of approvals we have the following fields:
+### Knowledge 
 
-|Field|Description|
-|-----|-----------|
-|**Ticket**|The number identifying the approval|
-|**Date**|The date of the approval|
-|**Activity**|The financial activity|
-|**Status**|The status of the approval|
+Select a financial document already created as a Knowledge to link to the financial item, you can .
 
-On the **History** tab, it'll be presented all the information about the maintenance made on the financial item.
+| Objects    | Description                         |
+|------------|-----------------------------------|
+| Add Knowledge Button | Search / Link           |
+| Grid               | Grid of linked Knowledges |
+| Delete Button      | Unlink Knowledge          |
+
+### Approvals
+
+It's possible to create approvals and verify those that have been created, approved or denied. On the list of approvals we have the following fields:
+
+|Field|Description                           |
+|-----|------------------------------------- |
+|Ticket  |The number identifying the approval|
+|Date    |The date of the approval           |
+|Activity|The financial activity             |
+|Status  |The status of the approval         |
+
+### History**
+
+It'll be presented all the information in a Grid about the changes/actions takes and made on the financial item.
+The Grid wil inform Date and time of the ocurrence, the user, wich element is involved and the action details.
 
 ## Actions
 
-| Action     | Description                                                 |
-|------------|-------------------------------------------------------------|
-|**Save**    | Create / Change the financial item.                         |
-|**Clear**   | Return the fields to default.                               |
-| **Search** | Return to the previous list of financial items.             |
+| Action  | Description                                                 |
+|---------|-------------------------------------------------------------|
+| Save    | Create / Change the financial item.                         |
+| Clear   | Return the fields to default.                               |
+| Search  | Return to the previous list of financial items.             |
 
 ## Related
 
