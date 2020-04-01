@@ -32,8 +32,8 @@ Procedure
 
 | Fields | Description |
 | - | - |
-| Title | Title of identification of the SLA |
-| Status | Status between "Active" or "Inactive" |
+| Title (\*)| Title of identification of the SLA |
+| Status (\*)| Status between "Active" or "Inactive" |
 | Impact | Define the SLA impact between "High", "Low" and "Medium" |
 | Urgency | Define the urgency of the SLA between "High", "Low" and "Medium" |
 | Change impact / Urgency | Inform if the impact or urgency involves a change |
@@ -48,6 +48,8 @@ Procedure
 | Hour | Enter the SLA "capture" and "Resolution" time |
 | Minute | Enter SLA "capture" and "Resolution" minutes |
 
+(*) Indicate mandatory field
+
 4.  Before complete the fields in **Automation**, it should be properly
     parametrized, it must be properly parameterized, so it is necessary to
     execute the steps in the knowledge Creation escalation rule, except for
@@ -60,11 +62,12 @@ Procedure
 | Email Template | One of the actions is sending email to a group |
 | Priority | The new priority that the service that will be scheduled will receive; |
 | Group | Group to whom the assistance will be directed after the scheduling action;
-| Target | SLA focus / target |
-| Unit (only for Client and Specific) | Unit for using the SLA |
-| Employee (Only for Client and Specific) | Employee with permission to use the SLA |
-| Requester´s Group (Only for Client and Specific) | Requesting group which will be linked to the SLA |
+| Target | Target is a place where the user will identify their main targets for using the SLA, when selecting a contract, the services will be listed, selecting a service it is possible to view and change the financial value of each item within the SLA. To select all services just check the contract checkbox, but if you only want specific services select them individually. |
+| Unit (only for "Client" or "Specific") (\*)| Unit for using the SLA |
+| Employee (Only for "Client" or "Specific") (\*)| Employee with permission to use the SLA |
+| Requester´s Group (Only for "Client" or "Specific")(\*)| Requesting group which will be linked to the SLA |
 
+(*) Indicate mandatory field
 
     !!! Abstract "IMPORTANT"
 
