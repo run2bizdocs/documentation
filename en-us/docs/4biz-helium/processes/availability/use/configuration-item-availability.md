@@ -7,6 +7,7 @@ Description: This functionality is intended to verify the availability of CI.
 This functionality is intended to verify the availability of CI.   
 
 The Availability process captures incidents, releases, changes and events information to make the projection of services and events availability.  
+
 The Creation of the availability process indicators report refers to the relationship with CMDB and Events as an information base through the association with configuration item, CI groups, Availability groups and Services.  
 
 The reports created in the availability process are:  
@@ -14,7 +15,7 @@ The reports created in the availability process are:
 - Total availability time, total downtime and scheduled changes  
 - Unavailability Occurrences
 
-*** All reports can be exported to Excel ***.
+***All reports can be exported to Excel***.
 
 In addition to the reported reports, there are also management reports that are made available by the BI of 4biz.
 
