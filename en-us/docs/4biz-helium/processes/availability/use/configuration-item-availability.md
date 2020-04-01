@@ -1,17 +1,30 @@
-title: Verify configuration item availability
+title: Verifying Availability Process
 
 Description: This functionality is intended to verify the availability of CI.
 
-# Verifying configuration item availability
+# Verifying Availability Process
 
-This functionality is intended to verify the availability of CI.
+This functionality is intended to verify the availability of CI.   
 
-!!! faq "Do you Know ..."
+The Availability process captures incidents, releases, changes and events information to make the projection of services and events availability.  
+The Creation of the availability process indicators report refers to the relationship with CMDB and Events as an information base through the association with configuration item, CI groups, Availability groups and Services.  
 
-    In the BI reports you could reach synthetic and analytical information about:  
-    Budget, Expenses, Expected Value, Final Value, Cost Value, Main Value, ROI, Cost per Services, CAPEX, OPEX.  
-    Also BI data about Apportionment by Services,  Apportionment by Business Units, Apportionment by Result Centers,  Apportionment by Accouting Accounts,  Apportionment by Projects and  Accounting Activities.  
-        
+The reports created in the availability process are:  
+- Availability by period; (This report will return: Name of CI, Group or Service,% of Measured Availability, Agreed Availability; Difference between measured and agreed availability, downtime, hourly downtime cost and total downtime cost.  
+- Total availability time, total downtime and scheduled changes  
+- Unavailability Occurrences
+
+*** All reports can be exported to Excel ***.
+
+In addition to the reported reports, there are also management reports that are made available by the BI of 4biz.
+
+-   Mean time to repair (downtime)  
+-   Mean time between failures (uptime)  
+-   Mean time between Incidents  
+-   Number of Service degradations  
+-   Incident handling/resolution times
+
+[See Use Bi Documentation](/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
 
 ## Before getting started
 
