@@ -5,6 +5,8 @@ Description: Is intended to verify the availability group.
 
 This functionality is intended to verify the availability group.
 
+The groups can be used to measure the availability of internal services and external providers jointly, it's the Provider Service ability
+
 ## Before getting started
 
 - [x] Previous registration of the availability group. 
