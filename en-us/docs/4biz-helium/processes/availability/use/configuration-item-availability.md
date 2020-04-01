@@ -6,6 +6,13 @@ Description: This functionality is intended to verify the availability of CI.
 
 This functionality is intended to verify the availability of CI.
 
+!!! faq "Do you Know ..."
+
+    In the BI reports you could reach synthetic and analytical information about:  
+    Budget, Expenses, Expected Value, Final Value, Cost Value, Main Value, ROI, Cost per Services, CAPEX, OPEX.  
+    Also BI data about Apportionment by Services,  Apportionment by Business Units, Apportionment by Result Centers,  Apportionment by Accouting Accounts,  Apportionment by Projects and  Accounting Activities.  
+        
+
 ## Before getting started
 
 - [x] Previous registration of the availability group. 
@@ -61,5 +68,5 @@ Related
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/04/2019 -Larissa Lourenço
+    <b>Updated:</b>01/04/2020 -Andre Fernandes
 
