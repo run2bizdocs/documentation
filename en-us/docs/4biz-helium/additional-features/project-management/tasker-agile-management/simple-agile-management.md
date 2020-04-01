@@ -218,7 +218,8 @@ and management.
 
 5.  The tabs available present:
 
-    -   **Checklist**: adding a checklist will create an item on this tab. To name it,
+    -   **Checklist**: adding a checklist will create an item on this tab. Checklists also works as
+    handover activitiews and acceptance criteria. To name it,
     place the mouse on "Add item...", click on add "+" to add new item. To indicate
     the completion of an item inside the checklist, select the checkbox;
 
