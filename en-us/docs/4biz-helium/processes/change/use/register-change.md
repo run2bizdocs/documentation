@@ -59,6 +59,15 @@ To identify a change, complete the fields:
 !!! Abstract "NOTE"
     
         For [Create change portfolio](/en-us/4biz-helium/processes/change/configuration/change-portfolio.html)
+        
+### Agile analysis of risk
+
+In the risk analysis area, three questions will be asked:
+* Is there a risk stopping important services? - with the options "Yes" or "No"
+* Is there a risk of financial loss? - with the options "Yes" or "No"
+* Is there an image risk? - with the options "Yes" or "No"
+
+then a representation of the risk from 0 to 100 will be presented.
 
 ### Planning
 
