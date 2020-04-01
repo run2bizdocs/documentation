@@ -6,6 +6,10 @@ This functionality makes available several actions, like, include, change and de
 
 ## Before getting started
 
+- [x] Purchases/Provisioning must be initialized in a service request (in a specify service catalog )
+The service request must be check in CMDB if it´s license, hardware, or specific item requested is available. 
+Only after this procedure the release will be created;
+
 - [x] It's necessary to have a registered RFC (request for change);
 
 - [x] It's necessary to have previously registered the release portfolio, the employee,
@@ -19,7 +23,17 @@ type of release and periodic activity group
 
 2.  Click on the options button “Options” and then on "Register";
 
-3.  Complete the fields available.
+4.  At the beginning of the page, we have the following information:
+
+|Information|Description|
+|-----------|-----------|
+|**Number**|The number that'll identify the release|
+|**Phase**|The release phase|
+|**Priority**|The priority of the release when creted|
+|**Current group**|The group responsible for the release when created|
+|**Assignment**|The person who will be responsible for the release|
+|**View flow**|These are the status of the workflow release, which will change according to the release maintenance. It'll appear when you edit or execute the release already created. The status of the flow are: Release, Run, Test, Homologation and Solved. There are checklists for workflow enforcement to link specific item for each phase/steps/status of the workflow|
+|**Execution registration**|This information will appear after created the release, and will present history information about the release|
 
 ## Identification Fields
 
@@ -58,9 +72,13 @@ type of release and periodic activity group
 !!! faq "Do you know?"
 
     According to the portfolio, the types of release can be **Minor, Major, Significant and Emergency**.
+    
     **Minor release** is a release of a product that does not add new features or content, maintenance releases are typically intended to solve minor problems, typically "bugs" or security issues.
+    
     **Major release** means a new version of Software that includes changes to the architecture and/or adds new features and functionality in addition to the original functional characteristics of the preceding software release.
+    
     **Signifcant release** adds features and functionality improving overall product performance, efficiency and usability.
+    
     **Emergency release** are exactly what they sound like. Some incident or scenario needs attention ASAP, so will be released a temporary fix.
 
 ### Changes
@@ -77,10 +95,14 @@ type of release and periodic activity group
 |**Activities**|Create a new workspace or link an existing one|
 |**Roles/Responsibilities**|Assign the roles and responsibilities according to the needs|
 |**System notifications**|Set up a system notification to inform you about the release|
-|**Documents**|Link knowledge to the release|
+|**Documents**|To add documents for identification and control of all aspects of a release package such as software, hardware, documentation, training requirements. You can also add legal documents and general document to control|
 |**More**|Two more options for the planning phase|
 |**Other information**|Set the dates for the planing: start date, start time, end date and final time|
 |**Notes**|Add relevant notes for the release planning|
+
+!!! abstract "NOTE"
+
+    The workspaces are based on Kanban methodology to the easy and agile management of activities. Go to **Creating Kanban to the Planning and Deployment phases** to see how to create a workspace.
 
 ### Deployment
 
@@ -89,12 +111,28 @@ type of release and periodic activity group
 |**Activities**|Create a new workspace or link an existing one|
 |**Roles/Responsibilities**|Assign the roles and responsibilities according to the needs|
 |**System notifications**|Set up a system notification to inform you about the release|
-|**Documents**|Link knowledge to the release|
+|**Documents**|To add documents for identification and control of all aspects of a release package such as software, hardware, documentation, training requirements. You can also add legal documents and general document to control|
 |**More**|Two more options for the deployment phase|
 |**Other information**|Set the dates for the deployment: start date, start time, end date and final time|
 |**Notes**|Add relevant notes for the release deployment|
 
-**Creating a Kanban**
+!!! abstract "NOTE"
+
+    The workspaces are based on Kanban methodology to the easy and agile management of activities. Go to **Creating Kanban to the Planning and Deployment phases** to see how to create a workspace.
+
+### Linking additional items
+
+On the left side of the screen, you can link other items to the release being created.
+
+|Function|Description|
+|--------|-----------|
+|**Related CI**|Search and link CI to the release|
+|**Definitive Media**|Search or create a definitive media to link the release|
+|**Problem**|Search or create a problem to link the release|
+|**Knowledge Base**|Search or create a document to link the release|
+|**Tickets**|Search for a ticket to link to link the release|
+
+## Creating Kanban to the Planning and Deployment phases
 
 In the tool, the Planning and Deployment phases use Workspaces based on Kanban methodology to the easy and agile management of activities, visually organizing in a framework with cards that indicate flow progress.
 
@@ -109,26 +147,6 @@ For a better understanding of how to create a workspace, or using the planning a
 - [Activities of the release planning phase](https://documentation.run2biz.com/en-us/4biz-helium/processes/release/use/release-planning-activities.html)
 
 - [Activities of the deployment release phase](https://documentation.run2biz.com/en-us/4biz-helium/processes/release/use/deployment-release-activities.html)
-
-### Linking additional items
-
-On the left side of the screen, you can link other items to the release being created.
-
-|Function|Description|
-|--------|-----------|
-|**Related CI**|Search and link CI to the release|
-|**Definitive Media**|Search or create a definitive media to link the release|
-|**Problem**|Search or create a problem to link the release|
-|**Knowledge Base**|Search or create a document to link the release|
-|**Tickets**|Search for a ticket to link to link the release|
-
-!!! abstract "NOTE"
-
-    In the Related CI, you can link different types for the release, for example, software release, hardware, software and others.
-    
-!!! abstract "NOTE"
-
-    In the Knowledge Base, you can add attachments in a document to be linked to the release.
 
 ### Saving
 
