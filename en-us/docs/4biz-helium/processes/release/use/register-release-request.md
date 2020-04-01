@@ -150,7 +150,7 @@ For a better understanding of how to create a workspace, or using the planning a
 
 - [Activities of the deployment release phase](https://documentation.run2biz.com/en-us/4biz-helium/processes/release/use/deployment-release-activities.html)
 
-### Saving
+## Saving
 
 At the end of the page, you'll find a floating button with the functions of:
 
