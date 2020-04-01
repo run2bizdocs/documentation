@@ -86,6 +86,7 @@ This feature provides a variety of actions, such as including, changing, and del
 2.  Complete the Target of the SLA:
 
 | Targets Fields                                          | Description                                                                                                                                                    |
+|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Treeview                                                | Treeview with Contracts / Services / Activities ( Will be fill based on the type of SLA                                                                        |
 | Unit (only for "Client" or "Specific") (\*)             | Unit and it´s permission for the SLA, (select a contract, a unit and the system will make a Grid with the selected unit and the priority assigned )            |
 | Employee (Only for "Client" or "Specific") (\*)         | Employee and it´s permission for the SLA (select an Employee and the system will make a Grid with the selected employee and his priority assigned )            |
