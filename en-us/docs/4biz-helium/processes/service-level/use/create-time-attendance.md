@@ -97,7 +97,7 @@ This feature provides a variety of actions, such as including, changing, and del
 !!! faq "Do You Know"
 
     Target is a place where the user will identify their main targets for using the SLA
-    The system will make a treeview with contracts / Services / Activities
+    The system will make a treeview (with contracts / Services / Activities) and on it,  When assign activities to the SLA the system enable te user to View / Edit the financial value of the Service. 
 
 (\*) Indicate mandatory field
 
