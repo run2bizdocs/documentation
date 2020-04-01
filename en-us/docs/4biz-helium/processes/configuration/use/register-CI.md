@@ -176,6 +176,7 @@ We also have the information about:
 |Warranties|It'll present all warranties of this configuration item|
 |Impacted Services|	It'll present all impacted services of this configuration item|
 |Remote access|	It'll present all remote access of this configuration item|
+|Attachments|To attach documents to the CI|
 |History|It'll present all history of this configuration item|
 
 ### Configuring capacity attributes
