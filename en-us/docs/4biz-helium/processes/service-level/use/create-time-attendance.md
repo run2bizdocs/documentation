@@ -17,6 +17,12 @@ This feature provides a variety of actions, such as including, changing, and del
 
 2.  Set the type of attendance time and click on the desired Tab (Search / Register);
 
+| Function           | Description                                                                                         |
+|--------------------|-----------------------------------------------------------------------------------------------------|
+| **Save**           | Save the new SLA                                                                                    |
+| **Delete**         | Delete the SLA Edited                                                                               |
+| **Clear**          | Clear all Form Fields                                                                               |
+
 ## Search
 
 **Select the type of SLA to search for:**
