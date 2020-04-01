@@ -37,6 +37,8 @@ type of release and periodic activity group
 
 ## Identification Fields
 
+When creating a release, complete the fields for the identification.
+
 |Field|Description|
 |-----|-----------|
 |**Name(\*)**| Identify name of the requester|
