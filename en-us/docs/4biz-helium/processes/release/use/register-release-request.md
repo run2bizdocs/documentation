@@ -94,6 +94,22 @@ type of release and periodic activity group
 |**Other information**|Set the dates for the deployment: start date, start time, end date and final time|
 |**Notes**|Add relevant notes for the release deployment|
 
+**Creating a Kanban**
+
+In the tool, the Planning and Deployment phases use Workspaces based on Kanban methodology to the easy and agile management of activities, visually organizing in a framework with cards that indicate flow progress.
+
+This space is to detail the rollout plan, rollback, service validation, test and activities. In the Workspace, activities are inserted and grouped by projects (Workspace), task pane (Sprint) and finally tasks, which can be in groups of cards.
+
+Moreover, you can create a Workspace for the planning or deployment phase you want, for example, for a rollout plan, you can create a workspace called "Rollout Plan" and populate with the information necessary to acomplish that, including the phases, group responsible, notes and history.
+
+For a better understanding of how to create a workspace, or using the planning and deployment phases, see the documents:
+
+- [Tasker Agile Management](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/project-management/tasker-agile-management/simple-agile-management.html). Tasker is the functionality of the tool that creates the kanbans.
+
+- [Activities of the release planning phase](https://documentation.run2biz.com/en-us/4biz-helium/processes/release/use/release-planning-activities.html)
+
+- [Activities of the deployment release phase](https://documentation.run2biz.com/en-us/4biz-helium/processes/release/use/deployment-release-activities.html)
+
 ### Linking additional items
 
 On the left side of the screen, you can link other items to the release being created.
