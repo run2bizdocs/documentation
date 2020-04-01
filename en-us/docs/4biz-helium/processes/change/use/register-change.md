@@ -63,6 +63,7 @@ To identify a change, complete the fields:
 ### Agile analysis of risk
 
 In the risk analysis area, three questions will be asked:
+
 * Is there a risk stopping important services? - with the options "Yes" or "No"
 
 * Is there a risk of financial loss? - with the options "Yes" or "No"
