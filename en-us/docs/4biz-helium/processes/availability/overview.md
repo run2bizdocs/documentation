@@ -18,7 +18,7 @@ plans, measures and improves all aspects of the availability of IT services, and
 ensures that all IT infrastructures, processes, tools, roles etc. are
 appropriate for the agreed service level targets for availability".
 
-Dentro do processe de disponibilidade é possivel verificar dentro de dashboard as opções de abas:
+Within the availability process it is possible to check the tab options within the dashboard:
 
 |Tabs|Description|
 |-|-|
@@ -48,4 +48,3 @@ Configuration
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/14/2019 – Larissa Lourenço
