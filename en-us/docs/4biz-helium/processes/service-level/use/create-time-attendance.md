@@ -9,13 +9,11 @@ This feature provides a variety of actions, such as including, changing, and del
 
 - [x] It's necessary to previously register contract(s) and Service catalog for the SLA (portfolio / services / activities)
 
-- [x] The configurations of the Gold, Silver, and other SLAs will be created here. ????????
-
 ## Procedure
 
 1.  Access the functionality Time of Attendance through the main menu Processes \> Service Level Management \> Attendance Time;
 
-2.  Set the type of attendance time and click on the desired Tab (Search / Register);
+2.  Click on the desired Tab (Search / Register) and action;
 
 | Function           | Description                                                                                         |
 |--------------------|-----------------------------------------------------------------------------------------------------|
@@ -33,7 +31,7 @@ This feature provides a variety of actions, such as including, changing, and del
 | Client     | For a specific contract                                                                                                    |
 | Specific   | For a Specific service                                                                                                     |
 | SLA Title  | Title to search                                                                                                            |
-| Grid       | SLA searched with the criteria With A selection radio button, SLA Title, Description and Status “A” Active or “I” Inactive |
+| Grid       | SLA searched with the criteria with A selection radio button, SLA Title, Description and Status “A” Active or “I” Inactive |
 
 ## Register
 
