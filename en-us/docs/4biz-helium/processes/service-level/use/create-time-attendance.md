@@ -41,7 +41,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 2.  Complete the SLA Basic Data:
 
-| **Fields**                     | **Description**                                                                                                  |
+| **Basic Data Fields**          | **Description**                                                                                                  |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Title (\*)                     | Title of identification of the SLA                                                                               |
 | Status (\*)                    | Status between "Active" or "Inactive"                                                                            |
@@ -66,14 +66,15 @@ This feature provides a variety of actions, such as including, changing, and del
     *Time of Attendance by Priority*
     The priority is used to identify the time required to an action to be taken.
     The priority goes from 1 to 5, being 1 the highest priority and 5 the lowest.
-
-Select the priority to define the Time (in the SLA):  
-**Capture**: set the time of capture of the service request, according to the priority selected;  
-**Resolution**: set the time of service resolution according to the priority selected.
+    Select the priority to define the Time (in the SLA):  
+    **Capture**: set the time of capture of the service request, according to the priority selected;    
+    **Resolution**: set the time of service resolution according to the priority selected.
 
 !!! warning
 
     Before complete the fields in **Automation**, it should be properly parametrized, it must be properly parameterized, so it is necessary to execute the steps in the knowledge Creation escalation rule, except for parameter 190 that must be equal to 'N' in this context;
+
+3.  Complete the Automation Fields ( if it´s needed):
 
 | Automation Fields                                       | Description                                                                                                                                                    |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -81,6 +82,9 @@ Select the priority to define the Time (in the SLA):
 | Email Template                                          | Email Template used to send Notifications                                                                                                                      |
 | Priority                                                | The new priority that the service that will be scheduled will receive;                                                                                         |
 | Group                                                   | Group to whom the assistance will be directed after the scheduling action;                                                                                     |
+
+2.  Complete the Target of the SLA:
+
 | Targets Fields                                          | Description                                                                                                                                                    |
 | Treeview                                                | Treeview with Contracts / Services / Activities ( Will be fill based on the type of SLA                                                                        |
 | Unit (only for "Client" or "Specific") (\*)             | Unit and it´s permission for the SLA, (select a contract, a unit and the system will make a Grid with the selected unit and the priority assigned )            |
