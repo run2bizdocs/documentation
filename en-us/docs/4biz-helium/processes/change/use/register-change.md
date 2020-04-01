@@ -48,11 +48,7 @@ To identify a change, complete the fields:
 |Change description (\*)|Description of change|
 |Effect of not implementing the change|Effective if this change is not implemented |
 |Contract|Contract linked to change|
-|Importance|Importance level of change, we have the options: * **Important** involve a significant amount of preparation and work with complex situations or major,* **Significant**Significant change; Significant changes involve preparation and work, evaluation, authorization and planning for change. 
-Examples:
-	* The purchase and installation of a new server
-	* The re-segmentation of network 
-* **Small** can be evaluated and authorized outside the authority of the CAB (eg by a coordinator).|
+|Importance|Importance level of change, we have the options: * **Important** involve a significant amount of preparation and work with complex situations or major,* **Significant** Significant change; Significant changes involve preparation and work, evaluation, authorization and planning for change.Examples: The purchase and installation of a new server,The re-segmentation of network,**Small** can be evaluated and authorized outside the authority of the CAB (eg by a coordinator).|
 |Impact|Impact that change generates, we have the options: **Low**,**Medium** and **High**.|
 |Urgency|Urgency to make the change, we have the options: **Low**,**Medium** and **High**|
 |Executor Group|The group responsible for executing the change|
