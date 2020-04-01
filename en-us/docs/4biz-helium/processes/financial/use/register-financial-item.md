@@ -21,7 +21,7 @@ This functionality is intended to maintain financial item.
     
 2. Click on "New" and complete the fields available.
     
-## Creating new Apportionment
+## Creating Financial Item.
 
 Complete the fields available on the **Information** tab:
 
@@ -44,7 +44,7 @@ Complete the fields available on the **Information** tab:
     
 ### Values and Apportionments
 
-In this tab you will register The Value of a financial item and also an apportionment fot it´s values
+In this tab you will register The Value of a financial item and also an apportionment for it´s values detailing Apportionment by Services, Apportionment by Business Units, Apportionment by Result Centers, Apportionment by Accouting Accounts, Apportionment by Projects and Accounting Activities.
 
 |Field|Description|
 |---|---|
