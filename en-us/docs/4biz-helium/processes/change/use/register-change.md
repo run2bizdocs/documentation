@@ -176,7 +176,7 @@ To see all the actions and audits took in the Change.
 
 ## Change Schedule
 
-Fauthorized production and viewing of Change schedules, For example, build, testing, and implementation schedules view all scheduled changes in the Periodic Activities Schedule and could be used as whiteboard communication methods
+Authorized production and viewing of Change schedules, For example, build, testing, and implementation schedules view all scheduled changes in the Periodic Activities Schedule and could be used as whiteboard communication methods
 
 Related 
 ---------------
