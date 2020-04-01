@@ -24,7 +24,7 @@ In addition to the reported reports, there are also management reports that are 
 -   Number of Service degradations  
 -   Incident handling/resolution times
 
-[See Use Bi Documentation](/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
+[See Use BI Documentation](/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
 
 ## Before getting started
 
