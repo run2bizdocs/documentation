@@ -38,7 +38,7 @@ Procedure
 | Urgency | Define the urgency of the SLA between "High", "Low" and "Medium" |
 | Change impact / Urgency | Inform if the impact or urgency involves a change |
 | Seasonal | Select if this SLA will be used of time in time |
-| Start date | Set the start date of validate SLA |
+| Start date (\*) | Set the start date of validate SLA |
 | End date | Set the end date of SLA |
 | Evaluates in | Set the date to evaluate this SLA |
 | Description | Add a relevant description for using the SLA |
