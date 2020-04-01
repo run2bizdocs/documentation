@@ -78,7 +78,7 @@ It's possible to create approvals and verify those that have been created, appro
 |Activity|The financial activity             |
 |Status  |The status of the approval         |
 
-### History**
+### History
 
 It'll be presented all the information in a Grid about the changes/actions takes and made on the financial item.
 The Grid wil inform Date and time of the ocurrence, the user, wich element is involved and the action details.
