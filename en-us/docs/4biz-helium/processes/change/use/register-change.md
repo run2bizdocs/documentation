@@ -1,7 +1,7 @@
-title: Registering a change
+title: Create Change
 Description: It's intended to register a change.
 
-# Registering a change
+# Create Change
 
 This functionality is intended to register a change. According to ITIL, it's necessary to formalize the change request, so that the responsible team registers all the procedures performed for the change you want (from its request to the impact of its implementation), monitoring it throughout its lifecycle.
 
