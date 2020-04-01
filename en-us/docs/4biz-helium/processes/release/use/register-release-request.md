@@ -124,7 +124,7 @@ On the left side of the screen, you can link other items to the release being cr
 
 !!! abstract "NOTE"
 
-    In the Related CI, you can link different types of release, for example, software release, hardware, software and others.
+    In the Related CI, you can link different types for the release, for example, software release, hardware, software and others.
     
 !!! abstract "NOTE"
 
