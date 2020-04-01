@@ -105,7 +105,7 @@ To review and finish the change, use the features:
 
 |Tabs|Description|
 |-|-|
-|Revision|inform if the change was successful|
+|Revision|Informe for final User about risk analysis and impact of change|
 |Activities|Create a Workspace or link an existing one|
 |Incidents|Link an incident to review|
 |Problems|Link an incident to a review|
@@ -167,6 +167,10 @@ To link a Ticket to change, search for an existing one in "Search for title" or 
 ## History and Audit
 
 To see all the actions and audits took in the Change.
+
+## Change Schedule
+
+Fauthorized production and viewing of Change schedules, For example, build, testing, and implementation schedules view all scheduled changes in the Periodic Activities Schedule and could be used as whiteboard communication methods
 
 Related 
 ---------------
