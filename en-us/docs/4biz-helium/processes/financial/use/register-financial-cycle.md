@@ -8,7 +8,6 @@ Before getting started
 ----------------------
 
 It's necessary to have defined the access permission to the functionalities of the Financial Management and have permission of usage the functionality.
-It´s also necessary to register the financial cycle.
 
 Procedure
 ---------
@@ -27,6 +26,10 @@ Procedure
 
 ## Registering Cycle
 
+!!! tip
+
+    Example of cycle: fiscal year (12 months)
+
 Enter the Cycle data:
 
 ### Basic data 
@@ -40,6 +43,10 @@ Enter the Cycle data:
 (\*) Indicate mandatory field
 
 ### Subcycles
+
+!!! tip
+
+    Example of cycle: quarter (Q1, Q2, Q3, Q4)
 
 You can add subcycles
 
