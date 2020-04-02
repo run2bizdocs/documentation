@@ -3,6 +3,14 @@ Description:
 
 # Financial Cost Calculation
 
+## Before getting started
+
+It's necessary to have defined the access permission to the functionalities of the Financial Management and have permission of usage the functionality.
+
+It's necessary to have done the financial entries, created the financial cycles and classifications.
+
+## Procedure
+
 1 - Access the main menu Processes > Financial Management > Financial Cost Calculation
 
 2 - In the Financial Cost Calculation main screen, we have the following actions available:
@@ -11,7 +19,7 @@ Description:
 |------|-----------|
 |New| To create a new financial cost calculation|
 |Generate CSV report| To generate a report of CSV|
-|Advanced Filters| To set the filters to finda a cost calculation already created|
+|Advanced Filters| To set the filters to find a cost calculation already created|
 |Edit| Once selected a cost calculation already created, this option will appear to edit it|
 |Remove| Once selected a cost calculation already created, this option will appear to remove it|
 
@@ -21,7 +29,15 @@ Description:
 
 2 - To edit a cost calculation already created, search for it, click on it and then on "Edit";
 
-3 - Complete the fields available:
+3 - Select the period you want, for example, 12 months (January to December);
+
+4 - Select the service you want to make the financial calculation;
+
+5 - Enter the minimum rate.
+
+!!! abstract "Info"
+
+    On a simulation, mark on the "Forecast" checkbox.
 
 |Field|Description|
 |-----|-----------|
@@ -33,7 +49,7 @@ Description:
 
 (\*) Indicate mandatory fields
 
-!!! abstract "NOTA"
+!!! abstract "NOTE"
 
     Select the start date and end date to make the 12-month Plan.
     
@@ -68,6 +84,10 @@ This tab presents the appropriation of costs by categories. The categories are: 
 |%|The percentage reached|
 |Total|The final value of the investment|
 
+!!! tip
+
+    Scenario variation: this field allows to make financial variations
+
 **Cost distribution**
 
 |Field|Description|
@@ -77,7 +97,11 @@ This tab presents the appropriation of costs by categories. The categories are: 
 |Cost|The fixed cost number|
 |Cost breakdown|The breakdown cost|
 
-Then, at the end of the tape, we'll have the information about: **Number of months, Investment apportionment per month, Average cost per month and Total cost per month**
+!!! tip
+
+    Scenario variation: this field allows to make financial variations
+
+At the end of the page, we'll have the information about: **Number of months, Investment apportionment per month, Average cost per month and Total cost per month**
 
 ### Set Price
 
@@ -99,9 +123,14 @@ If you select the **Variable value** option, complete the fields:
 |Estimated quantity|Set the amount|
 |Do you accpet less than expected quantity?|Select if you accept it or not|
 |Monthly unit value|Once completed all values in the previous fields, it'll appear the monthly unit value, with the information of: % Profit margin, Cost and Final Unit Price|
-|How to calculate the amounth monthly|Select how the calculation will be made: Informed manually or Automoatically calculated|
-|Integration flow of quantity capture|It's where the monthly calculation will get the results|
+|How to calculate the amount monthly|Select how the calculation will be made: Informed manually or Automatically calculated|
+|Integration flow of quantity capture|Integration with internal and external systems to capture the amount of (access, services, working hours) made|
+
+!!! tip
+
+    In the "How to calculate the amount monthly", if it's selected "manually", the values should be manually informed; if it's selected "automatically", the integration workflow should be selected to the contabilization of services executed.
 
 For the **Both** option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
 
-
+    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Updated:</b> 04/02/2020 - William Costa
