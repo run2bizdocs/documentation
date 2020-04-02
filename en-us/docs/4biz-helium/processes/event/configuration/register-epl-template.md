@@ -21,15 +21,15 @@ The correlation of events can be done through the configuration of parameters an
 Actions:
 . For Information, which action, urgency, impact and business rules.
 
-Figure 1 
+![Basic-data][1]
  
 . For Warning, which action, urgency, impact and business rules.
 
-Figure 2
+![Warnning][2]
 
 . For Exception, which action, urgency, impact and business rules.
 
-Figure 3
+![exception][3]
 
 Procedure
 -------------
@@ -41,7 +41,14 @@ Procedure
 
 3.  Click on "Save".
 
+[1]:images/basic-data.png
+[2]:images/warnnig.png
+[3]:images/exception.png
+
 !!! tip "About"
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b>01/04/2019 – Anna Martins
+    
+    
+    
