@@ -52,8 +52,10 @@ Once you complete all the information necessary for the SLR, you'll have the fol
 
 |Action|Description|
 |------|-----------|
+|**Create SLA from this Requirement**|This field appears when the SLR is already created and you want to edit it. It's possible to create an SLA already linked to the SLR|
 |**Save**|To create the SLR or to change it when you're editing an SLR|
 |**Clear**|To return the fields to the default|
+|**Delete**|To delete the SLR|
 
 
 
