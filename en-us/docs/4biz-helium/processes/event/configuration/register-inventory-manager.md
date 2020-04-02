@@ -31,7 +31,7 @@ Procedure
 
 | Function   | Description               |
 |------------|---------------------------|
-| **Add**    | Add Manager               |
+| **Add**    | Add Managers to the grids |
 | **Save**   | Save the Managers         |
 | **Delete** | Delete the Manager Edited |
 | **Clear**  | Clear all Form Fields     |
@@ -55,8 +55,8 @@ Register
 
 | **Data Fields**      |
 |----------------------|
-| name (\*)            |
-| Connection Inventory |
+| name (\*): Nome da conexão |
+| Connection Inventory: Origem dos dados de monitoração oriundos de ferramentas internas e externas |
 
 ### SCHEDULER DATA
 
@@ -64,6 +64,10 @@ Register
 |----------------------------|
 | Enable/Disable AutoCorrect |
 | Time for event closure     |
+
+!!! NOTE
+
+    A função de autocorreção é utilizada para arquivar eventos e fechar incidentes relacionados a eles, de maneira automática. A autocorreção depende da configuração do parâmetro "Time for event closure", que significa o intervalo de tempo para verificação de novos eventos.
 
 ### CONFIGURATION TYPE FOR CONFIGURATION ITEMS
 
@@ -137,9 +141,14 @@ Register
 
 (\*) Indicate mandatory field
 
-3.  Complete the fields available in each area;
+!!! faq "Do you know?"
 
-4.  The completion fields will be changed as the *type of configuration* chosen:
+    For each block of information (Configuration Item Parent, Configuration Item Child or Type of Configuration Item), the follow configuration has the same meaning and values:   
+    Action (Create incident, problem, change or send notification, Impact and Urgency to define the priority/criticity).
+
+1.  Complete the fields available in each area;
+
+2.  The completion fields will be changed as the *type of configuration* chosen:
 
     - **Specific Configuration:** it allows to create specific rules to a single
     configuration item. Those rules will be applied when the configuration item
@@ -149,9 +158,9 @@ Register
     Those rules will be applied when the configuration item is being
     inventoried.
 
-1.  Ente the data necessary and click on "Add";
+3.  Ente the data necessary and click on "Add";
 
-2.  Click on "Save".
+4.  Click on "Save".
 
 Related
 -------
