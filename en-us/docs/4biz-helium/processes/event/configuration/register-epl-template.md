@@ -15,7 +15,7 @@ The correlation of events can be done through the configuration of parameters an
 
 . Name: name of correlation  
 . Source: the source of event  
-. Type of connection: external correlation or file.
+. Type of connection: external correlation or file  
 . Category: category of event created
 
 Actions:
