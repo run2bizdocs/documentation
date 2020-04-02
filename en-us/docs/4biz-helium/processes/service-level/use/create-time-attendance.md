@@ -101,7 +101,8 @@ This feature provides a variety of actions, such as including, changing, and del
 !!! faq "Do You Know"
 
     Target is a place where the user will identify their main targets for using the SLA  
-    The system will make a treeview (with contracts, the listing of services in the production environment  and it´s activities.  
+    The system will make a treeview (with contracts, the listing of services in the production environment  and it´s activities). All the customers contracts linked with SLA will be checked as well as portfolios, services and activities.  
+    This way, it's possible to identify which customer/contract is using which service from service catalog (according to the permissions and service level agreement).
     When assign activities to the SLA the system enable te user to View / Edit the financial value of the Service.  
     The service hours refers to working hours of the service level agreement used and will be refered for all services and activities linked.  
     The Service Level Agreements Monitor (SLAM) can be monitored against agreed service level to control breachs and service exceptions appearing in the main screen of incidents and service requests, through the "SLA status" field. It's possible to do the same monitoring through the incident and service request dashboards.  
