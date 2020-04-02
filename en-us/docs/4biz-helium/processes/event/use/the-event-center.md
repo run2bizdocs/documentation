@@ -55,6 +55,17 @@ The information of the chart presents the number of events occurred by service a
 When clicking on the indicator, it presents all events that occurred with its **Unique ID, Status (classification), Source (tool) and Date/Time**. 
 
 
+## Creating event
+
+The events wil be created in the platform through the integration with internal and external monitoring tools. The captured event will be classified (Information, Warning or Exception), the event will be created with logged status and according to the automatic actions, an incident, a problem or a notification can be created.  
+If an automatic action is triggered, the event will have the status changed from logged to running till it has been solved or archived.
+
+## Related 
+
+[Register Invetory manager](/en-us/4biz-helium/processes/event/configuration/register-inventory-manager.html)
+
+
+
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
 
 !!! tip "About"
