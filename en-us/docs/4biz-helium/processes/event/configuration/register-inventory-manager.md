@@ -14,6 +14,11 @@ actions to be taken automatically.
 This feature provides a variety of actions, such as including, changing, and
 deleting Inventory manager.
 
+!!! faq "Do you know?"
+
+    The automatic actions are workflows related to process to facilitate the resolution of events.  
+    The configurations of automatic actions are described further in this document and should be used according to each type of classification of event/configuration item.
+
 Before getting started
 ----------------------
 
