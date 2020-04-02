@@ -582,6 +582,9 @@ nav:
       - 4biz-helium/processes/financial/overview.md
       - 4biz-helium/processes/financial/use/register-financial-cycle.md
       - 4biz-helium/processes/financial/use/register-financial-item.md
+      - 4biz-helium/processes/financial/use/financial-item-category.md
+      - 4biz-helium/processes/financial/use/financial-cost-calculation.md
+      - 4biz-helium/processes/financial/use/financial-report.md
   - Additional Features:
     - Introduction:
       - 4biz-helium/additional-features/introduction.md
