@@ -91,7 +91,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 | Targets Fields                                          | Description                                                                                                                                                    |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Treeview                                                | Treeview with Contracts / Services / Activities ( Will be fill based on the type of SLA                                                                        |
+| Treeview                                                | Treeview with Contracts / Services / Activities ( Will be fill based on the type of SLA, facilitate linking services to customers to show all the services used by a particular customer |
 | Unit (only for "Client" or "Specific") (\*)             | Unit and it´s permission for the SLA, (select a contract, a unit and the system will make a Grid with the selected unit and the priority assigned )            |
 | Employee (Only for "Client" or "Specific") (\*)         | Employee and it´s permission for the SLA (select an Employee and the system will make a Grid with the selected employee and his priority assigned )            |
 | Requester´s Group (Only for "Client" or "Specific")(\*) | Requester Group and it´s permission for the SLA, (select a contract, a unit and the system will make a Grid with the selected unit and the priority assigned ) |
@@ -103,6 +103,10 @@ This feature provides a variety of actions, such as including, changing, and del
     Target is a place where the user will identify their main targets for using the SLA  
     The system will make a treeview (with contracts, the listing of services in the production environment  and it´s activities.  
     When assign activities to the SLA the system enable te user to View / Edit the financial value of the Service. 
+
+!!! note
+    
+    The contracts types retrieved are associated OLAs, Supplier / Underpinning Contracts of services.
 
 (\*) Indicate mandatory field
 
