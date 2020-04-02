@@ -64,6 +64,10 @@ level requirements.
 | Evaluates on            | Set the date to evaluate this SLA                                                                        |
 | Contacts                | Contact for the SLA                                                                                      |
 
+!!! Note "Scope - Change blackout periods"
+   
+    Change Management to provide access to Service Level Agreement details, implementation windows, change blackout periods, and availability requirements
+
 ### Targets
 
 2. Complete the **targets for published time of this SLA**
@@ -138,7 +142,7 @@ The system will show the contracts linked to the SLA in a Grid (with a treeview 
 
 The system will show the contracts linked to the SLA in a Grid (with a treeview of Histories of the SLA, Title, Start Date, End Date, Evaluate On,	Status, Modified By, Modified On)
 
-The treeview  will show edscription, Scope, Default, Type and Priority, Time and Log data)
+The treeview  will show description, Scope, Default, Type and Priority, Time and Log data)
 
 ### Review SLA
 
@@ -150,8 +154,10 @@ Inform Review Data for the SLA:
 - Grid with Reviews
 
 ### Service Quality Plan
+
 Inform Service Quality Plan to be linked to the SLA:   
-- Service Quality Plan* - Service Quality Plan  
+- Service Quality Plan*  
+- Service Quality Plan  
 - Add Function   
 - Grid with Service Quality  
 
