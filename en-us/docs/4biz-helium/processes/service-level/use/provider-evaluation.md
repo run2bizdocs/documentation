@@ -4,7 +4,7 @@ Description: It's possible to graphically verify the provider performance by ser
 
 # Provider evaluation
 
-It' thhe monitoring of Operational Level Agreement and Supplier performance metrics.
+It's the monitoring of Operational Level Agreement and Supplier performance metrics.
 
 Before getting started
 --------------------------
