@@ -52,7 +52,7 @@ This feature provides a variety of actions, such as including, changing, and del
 | Impact                         | Define the SLA impact between "High", "Low" and "Medium"                                                         |
 | Urgency                        | Define the urgency of the SLA between "High", "Low" and "Medium"                                                 |
 | Change impact / Urgency        | Inform if the impact or urgency can be changed in a Incident or Service request registration                     |
-| Seasonal                       | Select if this SLA will be used from f time in time                                                              |
+| Seasonal                       | Select if this SLA will be used from time to time                                                              |
 | Start date (\*)                | Set the start date of SLA                                                                                        |
 | End date                       | Set the end date of SLA ( mandatory if Seasonal is checked)                                                      |
 | Evaluates in                   | Set the date to evaluate this SLA                                                                                |
