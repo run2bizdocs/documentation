@@ -36,7 +36,7 @@ and contract.
 |Field|Description|
 |-|-|
 |SLA Title|Title to search|
-|Grid| SLA searched with the criteria With A selection radio button, SLA Title, Description and Status “A” Active or “I” Inactive |
+|Grid| SLA searched with the criteria With A selection radio button, SLA Title|
 
 ## Register/Edit
 
