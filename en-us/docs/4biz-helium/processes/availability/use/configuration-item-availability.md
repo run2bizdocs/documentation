@@ -8,7 +8,7 @@ This functionality is intended to verify the availability of CI.
 
 The Availability process captures incidents, releases, changes and events information to make the projection of services and events availability.  
 
-The Creation of the availability process indicators report refers to the relationship with CMDB and Events as an information base through the association with configuration item, CI groups, Availability groups and Services. The reports facilitate the ability to calculate the reliability of components ands ervices in terms of agreed availability targets.
+The Creation of the availability process indicators report refers to the relationship with CMDB and Events as an information base through the association with configuration item, CI groups, Availability groups and Services. The reports facilitate the ability to calculate the reliability of components and services in terms of agreed availability targets.
 
 
 The reports created in the availability process are:  
