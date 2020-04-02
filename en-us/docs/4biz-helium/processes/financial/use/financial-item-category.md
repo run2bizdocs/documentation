@@ -3,10 +3,9 @@ Description:Financial Item Category
 
 # Financial Item Category
 
-
 ## Before getting started
 
-- [x] 
+- [x] It's necessary to have access permission to the Financial Management;
 
 ## Procedure
 
@@ -21,7 +20,7 @@ Description:Financial Item Category
 |**Remove**|Remove the Financial item|
 |**Search bar**|Set the keyword to search a Financial Item Caregory|
 |**Advanced Filters**|Search using the "Profile" or "Name" fields|
-|**Erase**|Use erase to clean the select Financial Item Category|
+|**Erase**|Clean the select Financial Item Category|
 |**Grid**| Financial Item Category searched with the criteria with A selection radio button, Profile between: "C", "R" or "A", Name of Financial Item Category|
 
 2. Click on "new" and fill the available fields;
@@ -33,7 +32,7 @@ Description:Financial Item Category
 
 (\*) Indicate mandatory field
 
-3. Click in "Save".
+3. Click on "Save".
 
 !!! tip "About"
 
