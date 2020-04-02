@@ -29,17 +29,18 @@ Complete the fields available on the **Information** tab:
 |---|---|
 |Type*|Cost/Expense, Budget, Revenue|
 | Classification* |(Capex, Opex, Fixed, Direct, Unit Cost, Indirect, Variable, Assessment)|
-|Forecast| it's available Only for Revenue and Costs/Expense Category (Used to simulate financial forecasts)|
-|Budget Account| Specific Account linked to this item|
-|Forecast financial item| It's possible to search for a title of the forecast financial item|
 |Due Date*|The date that will expire it|
-|Category*|The category for this|
+|Reference date*|The date of reference for the item|
+|Forecast| it's available Only for Revenue and Costs/Expense Category (Used to simulate financial forecasts)|
+|Status*|It'll be always be created as "Pending". It'll only be available if the Forecast option is not selected|
+|Category*|The category for this item|
 |Contract|Select a contract to be linked to it|
+|Budget Account| Specific Account linked to this item. It'll only be available if the Forecast option is not selected |
+|Forecast financial item| It's possible to search for a title of the forecast financial item. It'll only be available if the Forecast option is not selected|
 |Cycle*|It's the financial Method, for example, Yarly, Monthly or Quarter|
 |Subcycle*|Depends on the Cycle|
 |Code|Freetext to create or insert financial code|
 |Title*|Title of this Financial Item|
-|Status*|It'll be always be created as "Pending"|
 |Description|Description about your financial item|
     
 ### Values and Apportionments
@@ -53,7 +54,7 @@ In this tab you will register The Value of a financial item and also an apportio
 |Main value*| Set a number for the main value|
 |Additional*| Set the number for the additional|
 |Final value*| Set a number for the value end|
-|Apportionment| Here we have the options to set all the apportionments types|
+|Apportionment| Here we have the options to set all the apportionments types: Apportionment by Services, Apportionment by Business Unit, Apportionment by Result Centers, Apportionment by Accounting Accounts, Apportionment by Projects. Once you select the type, you'll add the service, business unit, result center, accounting account and project. After add it, it'll appear the value and percentage for each one of them|
 
 (\*) Indicates mandatory field
 
