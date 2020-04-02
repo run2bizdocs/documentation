@@ -39,7 +39,7 @@ Procedure
 Search
 ------
 
-**Select the type of SLA to search for:**
+**Select the filter to search for:**
 
 | **Filter** | **Description**         |
 |------------|-------------------------|
