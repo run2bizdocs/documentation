@@ -10,11 +10,13 @@ The Availability process captures incidents, releases, changes and events inform
 
 The Creation of the availability process indicators report refers to the relationship with CMDB and Events as an information base through the association with configuration item, CI groups, Availability groups and Services. The reports facilitate the ability to calculate the reliability of components and services in terms of agreed availability targets.
 
+The data stored in the tool can be accessible for analysis, trending and reporting using the graphical illustration of the analysis results of CI failures over a 12-month rolling window.
 
 The reports created in the availability process are:  
 - Availability by period; (This report will return: Name of CI, Group or Service,% of Measured Availability, Agreed Availability; Difference between measured and agreed availability, downtime, hourly downtime cost and total downtime cost.  
 - Total availability time, total downtime and scheduled changes  
 - Unavailability Occurrences
+- 12-month rolling window
 
 ***All reports can be exported to Excel***.
 
