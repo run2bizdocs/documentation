@@ -11,7 +11,7 @@ information go to: <http://www.espertech.com/esper/esper-documentation/>.
 This feature provides a variety of actions, such as including, changing, and
 deleting the EPL templates.
 
-The correlation of events can be done through the configuration of parameters and scripts within the context of the EPL.
+The correlation of events can be done through the configuration of parameters and scripts that support the integration of Event Management tools for component failure event correlation and potential Problem identification within the context of the EPL.
 
 Procedure
 -------------
