@@ -10,10 +10,19 @@ This functionality is intended to maintain financial item.
     In the BI reports you could reach synthetic and analytical information about:  
     Budget, Expenses, Expected Value, Final Value, Cost Value, Main Value, ROI, Cost per Services, CAPEX, OPEX.  
     Also BI data about Apportionment by Services,  Apportionment by Business Units, Apportionment by Result Centers,  Apportionment by Accouting Accounts,  Apportionment by Projects and  Accounting Activities.  
+    
+!!! note "Attention to the financial entries"
+
+    The financial entries should be done respecting the type, classification, dates, category and eventual apportionments or indicators, as those data will be processed for the calculation creation of cost, revenue, final price, variables, profit, and others. To know more, access the document [Financial Cost Calculation](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/financial-cost-calculation.html).
+    
+!!! note "Templates of cost based on SLA or service catalog" 
+
+    The values can be directly assigned to service level agreements or service level catalog according to the business rule that will be used. To know more, access the document [Create time of attendance](https://documentation.run2biz.com/en-us/4biz-helium/processes/service-level/use/create-time-attendance.html). 
 
 ## Before getting started
 
-- [x] It's necessary to have defined the access permission to the functionalities of the Capacity Management and have permission of usage the functionality.
+- [x] It's necessary to have defined the access permission to the functionalities of the Financial Management and have created the classification, contract, cycle, subcycle and approval workflow.
+
 
 ## Procedure
     
@@ -56,7 +65,7 @@ In this tab you will register The Value of a financial item and also an apportio
 |Main value*| Set a number for the main value|
 |Additional*| Set the number for the additional|
 |Final value*| Set a number for the value end|
-|Apportionment| Here we have the options to set all the apportionments types: Apportionment by Services, Apportionment by Business Unit, Apportionment by Result Centers, Apportionment by Accounting Accounts, Apportionment by Projects. Once you select the type, you'll add the service, business unit, result center, accounting account and project. After add it, it'll appear the value and percentage for each one of them|
+|Apportionment| Here we have the options to set all the apportionments types: Apportionment by Services (assets and CIs), Apportionment by Business Unit, Apportionment by Result Centers, Apportionment by Accounting Accounts, Apportionment by Projects. Once you select the type, you'll add the service, business unit, result center, accounting account and project. After add it, it'll appear the value and percentage for each one of them|
 
 (\*) Indicates mandatory field
 
