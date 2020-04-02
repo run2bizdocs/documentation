@@ -62,7 +62,6 @@ Procedure
 |-|-|
 |Salary Value|Add the salary value of employee|
 |Average Productivity Value|Add the average Productivity Value of employee|
- of employee|
 |Health Insurance Value (Value paid by the Company)|Add the health insurance value paid by the Company|
 |Commuter BenValue paid by the Companyefits (Average)|Add the average commuter benvalue paid by companyefits|
 |Meal Voucher Value (Average)|Add the average meal voucher value of employee|
