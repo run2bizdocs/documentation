@@ -56,6 +56,9 @@ In this reports it's possible to follow up the value on investiments and the dis
 
 [Using Smart Analytics (BI) to generate reports](https://documentation.run2biz.com/en-us/4biz-helium/additional-features/smart-analytics/use-bi-solution.html)
 
+<b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
+    <b>Updated:</b> 20/03/2020 - William Costa
+
 
 
 
