@@ -73,10 +73,6 @@ level requirements.
 | Capture Hour      | Enter the SLA "capture" and "Resolution" time                                   |
 | Capture Minute    | Enter SLA "capture" and "Resolution" minutes                                    |
 
-!!! faq "Do You Know"
-
-    Target is a place where the user will identify their main targets for using the SLA
-    The system will make a treeview (with contracts / Services / Activities) and on it,  When assign activities to the SLA the system enable te user to View / Edit the financial value of the Service. 
 
 
 ### Automation
@@ -134,7 +130,7 @@ The system will show the contracts linked to the SLA in a Grid (with a treeview 
 
 The system will show the history of the SLA in a Grid (with a treeview of services of the Operational Level Agreement, number, Contract Date, Client, Provider, Status)
 
-### Third Party Contract
+### Underpinning Contract (Third Party)
 
 The system will show the contracts linked to the SLA in a Grid (with a treeview of services of the contract, number, Contract Date, Client, Provider, Status)
 
