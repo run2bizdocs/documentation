@@ -130,7 +130,7 @@ If you select the **Variable value** option, complete the fields:
 
     In the "How to calculate the amount monthly", if it's selected "manually", the values should be manually informed; if it's selected "automatically", the integration workflow should be selected to the contabilization of services executed.
 
-For the **Both** option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
+For the "How to price" field, at the **Both** (fixed and variable costs) option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b> 04/02/2020 - William Costa
