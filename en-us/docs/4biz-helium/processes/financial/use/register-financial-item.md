@@ -42,6 +42,8 @@ Complete the fields available on the **Information** tab:
 |Code|Freetext to create or insert financial code|
 |Title*|Title of this Financial Item|
 |Description|Description about your financial item|
+
+(\*) Indicate mandatory fields
     
 ### Values and Apportionments
 
