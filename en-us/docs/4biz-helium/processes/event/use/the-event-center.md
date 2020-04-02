@@ -25,6 +25,21 @@ Procedure
 
 2.  Search for the event and action you want.
 
+3.  On the left side of the screen, right bellow the search area, next where's writted "Event Management", you can select if you want to view the events from the Event Manager or see the Charts of the events.
+
+There are 5 charts available and we'll see each one of them
+
+## Comparison chart by event type
+
+## Number of occurrences by event type
+
+## Number of occurrences by tool
+
+## Number of occurrences by configuration item
+
+## Number of occurrences by service 
+
+
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2ROlR1PEYuzoujqNuxz50uRX)'
 
 !!! tip "About"
