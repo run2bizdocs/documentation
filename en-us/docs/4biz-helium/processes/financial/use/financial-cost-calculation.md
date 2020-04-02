@@ -105,24 +105,3 @@ If you select the **Variable value** option, complete the fields:
 For the **Both** option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
