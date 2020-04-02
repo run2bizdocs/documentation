@@ -24,9 +24,11 @@ Actions:
 Figure 1 
  
 . For Warning, which action, urgency, impact and business rules.
+
 Figure 2
 
 . For Exception, which action, urgency, impact and business rules.
+
 Figure 3
 
 Procedure
