@@ -55,8 +55,8 @@ Register
 
 | **Data Fields**      |
 |----------------------|
-| name (\*): Nome da conexão |
-| Connection Inventory: Origem dos dados de monitoração oriundos de ferramentas internas e externas |
+| name (\*): Name of the connection |
+| Connection Inventory: Source of monitoring data coming from external or internal tools |
 
 ### SCHEDULER DATA
 
@@ -67,7 +67,8 @@ Register
 
 !!! NOTE
 
-    A função de autocorreção é utilizada para arquivar eventos e fechar incidentes relacionados a eles, de maneira automática. A autocorreção depende da configuração do parâmetro "Time for event closure", que significa o intervalo de tempo para verificação de novos eventos.
+    The autocorrect function is used to archieve events and automaticaly close incidents related to them.  
+    The autocorrection depends on the value of the "Time for event closure" field, which means the interval of time to check for new evetns.
 
 ### CONFIGURATION TYPE FOR CONFIGURATION ITEMS
 
