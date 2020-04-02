@@ -145,15 +145,15 @@ The treeview  will show edscription, Scope, Default, Type and Priority, Time and
 Inform Review Data for the SLA:   
 - Review Date* - Date for the review  
 - Review Details* - Detail to be reviewed
-- Observation - - Observation to the review
-- Add Function
+- Observation - - Observation to the review  
+- Add Function  
 - Grid with Reviews
 
 ### Service Quality Plan
 Inform Service Quality Plan to be linked to the SLA:   
-- Service Quality Plan* - Service Quality Plan
-- Add Function 
-- Grid with Service Quality
+- Service Quality Plan* - Service Quality Plan  
+- Add Function   
+- Grid with Service Quality  
 
 
 ## Related
