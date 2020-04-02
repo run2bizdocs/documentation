@@ -150,7 +150,8 @@ Register
 !!! faq "Do you know?"
 
     For each block of information (Configuration Item Parent, Configuration Item Child or Type of Configuration Item), the follow configuration has the same meaning and values:   
-    Action (Create incident, problem, change or send notification, Impact and Urgency to define the priority/criticity).
+    Action (Create incident, problem, change or send notification, Impact and Urgency to define the priority/criticity).  
+    While there is a logged or in execution event, for a service or CI and new incidents occur, the tool will not duplicate the main event. The additional incidents will be linked to the main one. If the main event is arhived, a new one will be created.
 
 1.  Complete the fields available in each area;
 
