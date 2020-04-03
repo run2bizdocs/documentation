@@ -109,6 +109,10 @@ Complete the fields available to set the prices. In the "How to price" field, se
 
 If you select the **Fixed value** option, complete the fields:
 
+Com base no serviço selecionado na aba anterior "Cost by category" será apresentado os custos para o serviço selecionado e utilizando os campos "cost" and "profit" será calculado o preço final de serviço (Final price).    
+
+Os valores contabilizados poderão ser atualizados e publicados no catálogo de serviço e no acordo de nível de serviço (ouro, prata e bronze).
+
 |Field|Description|
 |-----|-----------|
 |% Profit margin|Set the margin you want to work with|
@@ -116,6 +120,11 @@ If you select the **Fixed value** option, complete the fields:
 |Final price|The final price for the fixed value|
 
 If you select the **Variable value** option, complete the fields:
+
+Com base no serviço selecionado na aba anterior "Cost by category" será apresentado os custos para o serviço selecionado e utilizando os campos "estimated quantity", "Monthly unit value" and "Profit Margin" será calculado o preço de serviço.  
+Os campos "estimated quantity" and "Monthly unit value" são relacionados as métricas de demanda que serão contabilizadas através do "Integration flow of quatity capture" para geração do preço variado respeitando as regras estabelecidas e a profit margin.  
+
+Os valores contabilizados poderão ser atualizados e publicados no catálogo de serviço e no acordo de nível de serviço (ouro, prata e bronze).
 
 |Field|Description|
 |-----|-----------|
