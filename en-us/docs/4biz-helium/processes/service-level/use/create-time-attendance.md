@@ -5,13 +5,14 @@ Description: Provides a variety of actions, such as including, changing, and del
 
 This feature provides a variety of actions, such as including, changing, and deleting the time of attendance of type *Global* (applicable to all services), *Customer* (applicable to the contract services) and *Incident/Request/Procedure* (applicable to a specific service).
 
-!!! tip "Example"
+!!! tip "Do you Know"
 
-    Os SLAs padrões são Ouro, Prata e Bronze mas outros tipos poderão ser criados.
+    Standard SLAs are Gold, Silver and Bronze but other types can be created.    
     
 !!! note 
 
-    Após criar o SLA, os valores de custo e preço serão apresentados para cada serviço com base no SLA criado e estes dados came from do processo financeiro [Financial Cost Calculation](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/financial-cost-calculation.html) aba "Cost distribution" e "Set price" conforme estratégia definida (fixo e variável).
+    After creating the SLA, the cost and price values will be presented for each service based on the SLA created and this data will come from the financial process [Financial Cost Calculation](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/financial-cost-calculation.html) on the tab "Cost distribution" and "Set price" according with  the defined strategy (fixed and variable).
+    
 
 ##Before getting started
 
