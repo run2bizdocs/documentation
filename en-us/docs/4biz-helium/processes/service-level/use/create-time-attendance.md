@@ -1,9 +1,17 @@
 title: Create time of attendance
-Description: Provides a variety of actions, such as including, changing, and deleting the time of attendance of type Global (applicable to all services), Client (applicable to the contract services) and Incident/Request/Procedure (applicable to a specific service).
+Description: Provides a variety of actions, such as including, changing, and deleting the time of attendance of type Global (applicable to all services), Customer (applicable to the contract services) and Incident/Request/Procedure (applicable to a specific service).
 
 # Create time of attendance
 
-This feature provides a variety of actions, such as including, changing, and deleting the time of attendance of type *Global* (applicable to all services), *Client* (applicable to the contract services) and *Incident/Request/Procedure* (applicable to a specific service).
+This feature provides a variety of actions, such as including, changing, and deleting the time of attendance of type *Global* (applicable to all services), *Customer* (applicable to the contract services) and *Incident/Request/Procedure* (applicable to a specific service).
+
+!!! tip "Example"
+
+    Os SLAs padrões são Ouro, Prata e Bronze mas outros tipos poderão ser criados.
+    
+!!! note 
+
+    Após criar o SLA, os valores de custo e preço serão apresentados para cada serviço com base no SLA criado e estes dados came from do processo financeiro [Financial Cost Calculation](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/financial-cost-calculation.html) aba "Cost distribution" e "Set price" conforme estratégia definida (fixo e variável).
 
 ##Before getting started
 
