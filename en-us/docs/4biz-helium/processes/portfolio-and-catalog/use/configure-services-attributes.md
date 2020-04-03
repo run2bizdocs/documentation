@@ -112,6 +112,7 @@ The Following Functions are available
 
     A distribuição do modelo de custo criado no processo financeiro "Financial Item" e "Financial Cost Calculation" respeitando o custo de cada serviço e realizando a distribuição com base no modelo de custo.  
     Os valores serão vinculados ao IC automaticamente com base nas regras de negócio.
+    Todo histórico de variação de custo e preço do serviço será apresentado nesta aba financeira.    
 
 | Field          | Description                          |
 |----------------|--------------------------------------|
@@ -317,7 +318,8 @@ The Following Functions are available
 
 !!! tip " "
 
-    Contracts that use/provide the service. Could be customers, departments, external providers, etc.
+    Contracts that use/provide the service. Could be customers, departments, external providers, etc.  
+    Também deverá ser definido ou configurado com base no custo de serviço o preço de venda com base no SLA Ouro, Prata e Bronze.
     
 | Function                   | Description     |
 |----------------------------|-----------------|
