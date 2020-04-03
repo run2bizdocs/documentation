@@ -85,6 +85,10 @@ To search for an specific knowledge, the filters available are: Title, Content, 
     
     2. Complete the fields available on the **Information** tab:
     
+    !!! note
+    
+        The system perform a hierarchical service-based costing model by the distribution of the cost model created in the financial process "Financial Item" and "Financial Cost Calculation" respecting the cost of each CI and making the distribution based on the cost model.
+    
     |Field|Description|
     |---|---|
     |Type*|Cost/Expense, Budget, Revenue|
