@@ -106,7 +106,12 @@ The Following Functions are available
 !!! tip " "
 
     Relationship with financial process. Placeholder for link aportionment by Result Center, Departments.  
-    Including all information about CAPEX, OPEX, Direct Value and others.
+    Including all information about CAPEX, OPEX, Direct Value and others.  
+
+!!! note
+
+    A distribuição do modelo de custo criado no processo financeiro "Financial Item" e "Financial Cost Calculation" respeitando o custo de cada serviço e realizando a distribuição com base no modelo de custo.  
+    Os valores serão vinculados ao IC automaticamente com base nas regras de negócio.
 
 | Field          | Description                          |
 |----------------|--------------------------------------|
