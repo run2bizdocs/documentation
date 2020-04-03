@@ -90,6 +90,14 @@ This tab presents the appropriation of costs by categories. The categories are: 
 
 **Cost distribution**
 
+Os custos calculados serão apropriados nos respectivos serviços e itens de configuração conforme rateio ou valores fixos definidos nas entradas financeiras na página [Register Financial Item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/register-financial-item.html) e serão associados automaticamente ao serviço e ao IC.  
+
+!!! tip "Example"
+
+    Roll-up cost of a customer-facing service (e.g. email) with the breakdown of the costs for the systems (e.g. MS Exchange, Lotus Notes) and the associated supporting IT infrastructure (e.g. servers, databases, network, storage) and applications.
+
+    
+
 |Field|Description|
 |-----|-----------|
 |Category|The category of the distributed cost|
