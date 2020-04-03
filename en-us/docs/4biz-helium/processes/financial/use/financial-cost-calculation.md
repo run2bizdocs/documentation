@@ -90,13 +90,11 @@ This tab presents the appropriation of costs by categories. The categories are: 
 
 **Cost distribution**
 
-Os custos calculados serão apropriados nos respectivos serviços e itens de configuração conforme rateio ou valores fixos definidos nas entradas financeiras na página [Register Financial Item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/register-financial-item.html) e serão associados automaticamente ao serviço e ao IC.  
+The calculated costs will be appropriated in the respective services and configuration items according to the apportionment or fixed values defined in the financial entries on the [Register Financial Item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial /use/register-financial-item.html) and will be automatically associated with the service and the CI.
 
 !!! tip "Example"
 
-    Roll-up cost of a customer-facing service (e.g. email) with the breakdown of the costs for the systems (e.g. MS Exchange, Lotus Notes) and the associated supporting IT infrastructure (e.g. servers, databases, network, storage) and applications.
-
-    
+    Roll-up cost of a customer-facing service (e.g. email) with the breakdown of the costs for the systems (e.g. MS Exchange, Lotus Notes) and the associated supporting IT infrastructure (e.g. servers, databases, network, storage) and applications. 
 
 |Field|Description|
 |-----|-----------|
@@ -117,9 +115,9 @@ Complete the fields available to set the prices. In the "How to price" field, se
 
 If you select the **Fixed value** option, complete the fields:
 
-Com base no serviço selecionado na aba anterior "Cost by category" será apresentado os custos para o serviço selecionado e utilizando os campos "cost" and "profit" será calculado o preço final de serviço (Final price).    
+Based on the selected service in the previous tab "Cost by category", the costs for the selected service will be displayed and the final service price (Final price) using will be calculated "cost" and "profit" fields.
 
-Os valores contabilizados poderão ser atualizados e publicados no catálogo de serviço e no acordo de nível de serviço (ouro, prata e bronze).
+The calculated values may be updated and published in the service catalog and in the service level agreement (gold, silver and bronze).
 
 |Field|Description|
 |-----|-----------|
@@ -129,10 +127,10 @@ Os valores contabilizados poderão ser atualizados e publicados no catálogo de 
 
 If you select the **Variable value** option, complete the fields:
 
-Com base no serviço selecionado na aba anterior "Cost by category" será apresentado os custos para o serviço selecionado e utilizando os campos "estimated quantity", "Monthly unit value" and "Profit Margin" será calculado o preço de serviço.  
-Os campos "estimated quantity" and "Monthly unit value" são relacionados as métricas de demanda que serão contabilizadas através do "Integration flow of quatity capture" para geração do preço variado respeitando as regras estabelecidas e a profit margin.  
+Based on the service selected in the previous tab "Cost by category", the costs for the selected service will be displayed and the service price will be calculate using the fields "estimated quantity", "Monthly unit value" and "Profit Margin".  
+The fields "estimated quantity" and "Monthly unit value" are related to the demand metrics and will be calculated through the "Integration flow of quatity capture" to generate the varied price, respecting the business rules and the profit margin.
 
-Os valores contabilizados poderão ser atualizados e publicados no catálogo de serviço e no acordo de nível de serviço (ouro, prata e bronze).
+The calculated values may be updated and published in the service catalog and in the service level agreement (gold, silver and bronze).
 
 |Field|Description|
 |-----|-----------|
@@ -145,9 +143,8 @@ Os valores contabilizados poderão ser atualizados e publicados no catálogo de 
 
 !!! tip
 
-    In the "How to calculate the amount monthly", if it's selected "manually", the values should be manually informed; if it's selected "automatically", the integration workflow should be selected to the contabilization of services executed.
-
-For the "How to price" field, at the **Both** (fixed and variable costs) option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
+    In the "How to calculate the amount monthly", if it's selected "manually", the values should be manually informed; if it's selected "automatically", the integration workflow should be selected to the contabilization of services executed.  
+    For the "How to price" field, at the **Both** (fixed and variable costs) option, it's possible to set a fixed cost for some cases and, if the number is not reache, it's possible to use variables costs.
 
     <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
     <b>Updated:</b> 04/02/2020 - William Costa
