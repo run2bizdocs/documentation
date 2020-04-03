@@ -93,7 +93,7 @@ This tab presents the appropriation of costs by categories. The categories are: 
 
 **Cost distribution**
 
-The calculated costs will be appropriated in the respective services and configuration items according to the apportionment or fixed values defined in the financial entries on the [Register Financial Item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial /use/register-financial-item.html) and will be automatically associated with the service and the CI.
+The calculated costs will be appropriated in the respective services and configuration items according to the apportionment or fixed values defined in the financial entries on the [Register Financial Item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/register-financial-item.html) and will be automatically associated with the service and the CI.
 
 !!! tip "Example"
 
