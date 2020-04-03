@@ -7,7 +7,10 @@ Description:
 
 It's necessary to have defined the access permission to the functionalities of the Financial Management and have permission of usage the functionality.
 
-It's necessary to have done the financial entries, created the financial cycles and classifications.
+It's necessary to have done the financial entries, created the financial cycles and classifications.  
+
+Com base nas entradas financeiras [Register financial item](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/register-financial-item.html) e a aba "cost distribution" and "set price" é possível monitorar todos os detalhes de custo (Hardware purchase, hardware maintenance, software purchase, software licenses, facility including utilities, personnel, etc) conforme entrada financeira.  
+Essa monitoração dos detalhes de custo também pode ser realizada através dos relatórios.
 
 ## Procedure
 
