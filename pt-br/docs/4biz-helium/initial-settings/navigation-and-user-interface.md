@@ -14,7 +14,7 @@ Figura 1 – Tela inicial da plataforma 4biz
     Helper e informações sobre o login de usuário, versão do ambiente e também
     sua mudança de idioma;
 
--   **2 - Navegação em aplicativos**: acesso aos 13 processos certificados da
+-   **2 - Navegação em aplicativos**: acesso aos 16 processos certificados da
     4biz, funcionalidades de cadastros básicos, criação e emissão de
     relatórios, parâmetros, acesso ao 4biz Builder (engine de aplicativos),
     além de funcionalidades de gerenciamento da plataforma;
