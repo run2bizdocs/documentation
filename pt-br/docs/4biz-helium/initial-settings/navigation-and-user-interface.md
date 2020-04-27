@@ -67,7 +67,7 @@ funcionalidades que o 4biz disponibiliza.
 
 -   **2**: acesso às configurações referentes à manutenção de fluxos;
 
--   **3**: possui todos os 13 processos certificados da Plataforma 4biz;
+-   **3**: possui todos os 16 processos certificados da Plataforma 4biz;
 
 -   **4**: a gestão integrada dispõe de funcionalidades que auxiliam na gestão dos
     processos;
