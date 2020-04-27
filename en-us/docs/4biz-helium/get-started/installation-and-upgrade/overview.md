@@ -2,13 +2,13 @@ Title: Installation overview
 
 # Instalation overview
 
-Before starting the installation, it's necessary to understand all the software necessary for the operation of the 16 certified processes of the platform. Each software plays a role within the solution, so it's necessary to understand the role of each one, the order of installation and the installation context itself. Depending on the type of installation (especially which processes will be implemented) it's not necessary to install all of them. Below the software that comprises the 4biz Workflow platform:
+Before starting the installation, it's necessary to understand all the software necessary for the operation of the 16 certified processes of the platform. Each software plays a role within the solution, so it's necessary to understand the role of each one, the order of installation and the installation context itself. Depending on the type of installation (especially which processes will be implemented) it's not necessary to install all of them. Below the software that comprises the 4biz Tracker platform:
 
 * **4biz Enterprise Platform**: Platform package in java WAR (web application ARchive) to be installed in the wildfly. Mandatory in all scenarios.
 
 * **Wildfly**: Java EE Web application server. Mandatory in all scenarios.
 
-* **SOLR**: platform written in Java maintained by Apache used for indexing and searching text. It's necessary for indexing the texts of the 4biz Workflow knowledge module. Mandatory for the operation of the knowledge base.
+* **SOLR**: platform written in Java maintained by Apache used for indexing and searching text. It's necessary for indexing the texts of the 4biz tracker knowledge module. Mandatory for the operation of the knowledge base.
 
 * **MongoDB**: NoSQL database to store non-relational objects. Mandatory only for the use of inventory and event modules.
 
