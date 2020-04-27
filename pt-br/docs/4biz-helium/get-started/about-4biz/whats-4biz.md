@@ -28,22 +28,25 @@ Há cases de gestão de serviços com processos automatizados em diversas áreas
 *   Comunicação, Marketing entre outros.
 
 Além desses, seguindo as melhores práticas de gestão de serviços, com base na
-biblioteca de melhores práticas da ITIL, o 4biz possui nativamente 13
+biblioteca de melhores práticas da ITIL, o 4biz possui nativamente 16
 processos automatizados, sendo eles:
 
-*   Gerenciamento de Portfólio
-*   Catálogo de Serviços
-*   Gerenciamento de Nível de Serviço
-*   Gerenciamento de Requisição
-*   Gerenciamento de Conhecimento
-*   Gerenciamento de Incidentes
-*   Gerenciamento de Problema
-*   Gerenciamento de Configuração e Ativos
-*   Gerenciamento de Mudança
-*   Gerenciamento de Liberação e Implantação
-*   Gerenciamento de Evento
-*   Gerenciamento de Disponibilidade
-*   Gerenciamento de Continuidade
+*   AM = Asset Management	
+*   AVM = Gerenciamento de Disponibilidade	
+*   CAP = Gerenciamento de Capacidade	
+*   CHG = Gerenciamento de Mudança
+*   EV = Gerenciamento de Eventos
+*   FM = Gerenciamento Financeiro	
+*   IM = Gerenciamento de Incidentes	
+*   ITSCM = Gerenciamento de Continuidade de Serviços de TI	
+*   KM = Gerenciamento do Conhecimento 	
+*   PM = Gerenciamento de Problema
+*   REL = Gerenciamento de Liberação e Implantação	
+*   RF = Cumprimento de Requisição	
+*   SACM = Gerenciamento de Ativos de Serviço & Gerenciamento de Configuração	
+*   SCM = Gerenciamento do Catálogo de Serviço	
+*   SLM = Gerenciamento de Nível de Serviço
+*   SPM = Gerenciamento de Portifólio
 
 História do 4biz
 --------------------
