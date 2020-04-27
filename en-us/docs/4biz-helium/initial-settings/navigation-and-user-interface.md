@@ -10,7 +10,7 @@ Figure 1 – 4biz homepage Screen
 
 -   **1 - Banner frame**: in the internal area of the system, the taskbar contains navigation items and tools. As the main menu, with all the 4biz functionalities, buttons with VoIP integration, the virtual assistant Helper and information about the user login, environment version and also their language change;
 
--   **2 - Navigation in applications**: access to 4biz's 13 certified processes,
+-   **2 - Navigation in applications**: access to 4biz's 16 certified processes,
     basic registration functionalities, creation and emission of reports, parameters,
     access to 4biz Builder (application engine), in addition to functionalities 
     of the platform management;
@@ -59,7 +59,7 @@ Clicking on the main navigation menu, it'll present all the features that
 
 -   **2**: access to settings for maintaining flows;
 
--   **3**: it has all 13 Certified Processes of the 4biz;
+-   **3**: it has all 16 Certified Processes of the 4biz;
 
 -   **4**: the integrated management has functionalities that help in the management
     of the processes;
