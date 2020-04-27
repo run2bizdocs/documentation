@@ -577,7 +577,7 @@ nav:
         - Register Risk:
           - 4biz-helium/processes/continuity/configuration/register-continuity-risk.md
           - 4biz-helium/processes/continuity/configuration/risk-category.md
-        - 4biz-helium/processes/continuity/configuration/continuity-template.md
+          - 4biz-helium/processes/continuity/configuration/continuity-template.md
     - Financial:
       - 4biz-helium/processes/financial/overview.md
       - 4biz-helium/processes/financial/use/register-financial-cycle.md
