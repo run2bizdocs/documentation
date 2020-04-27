@@ -584,7 +584,13 @@ nav:
           - 4biz-helium/processes/continuity/configuration/register-continuity-risk.md
           - 4biz-helium/processes/continuity/configuration/risk-category.md
         - 4biz-helium/processes/continuity/configuration/continuity-template.md
-    - Financeiro:        
+    - Financeiro:
+      - 4biz-helium/processes/financial/overview.md
+      - 4biz-helium/processes/financial/use/register-financial-cycle.md
+      - 4biz-helium/processes/financial/use/register-financial-item.md
+      - 4biz-helium/processes/financial/use/financial-item-category.md
+      - 4biz-helium/processes/financial/use/financial-cost-calculation.md
+      - 4biz-helium/processes/financial/use/financial-report.md        
   - Recursos adicionais:
     - Introdução:
       - 4biz-helium/additional-features/introduction.md
