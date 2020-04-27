@@ -29,21 +29,24 @@ for example:
 *   Communication, Marketing and others.
 
 Therefore, following the best service management practices, based on the ITIL best 
-practice library, 4biz natively has 13 automated processes, they are:
+practice library, 4biz natively has 16 automated processes, they are:
 
-*   Portfolio Management
-*   Service Catalog
-*   Service Level Management
-*   Request Management
-*   Knowledge Management
-*   Incident Management
-*   Problem Management
-*   Assets and Configuration Management
-*   Change Management
-*   Release and Deployment Management
-*   Event Management
-*   Availability Management
-*   Continuity Management
+*   AM = Asset Management	
+*   AVM = Availability Management	
+*   CAP = Capacity Management	
+*   CHG = Change Management
+*   EV = Event Management
+*   FM = Financial Management	
+*   IM = Incident Management	
+*   ITSCM = IT Service Continuity Management	
+*   KM = Knowledge Management 	
+*   PM = Problem Management
+*   REL = Release and Deployment Management	
+*   RF = Request Fulfillment	
+*   SACM = Service Asset and Configuration Management	
+*   SCM = Service Catalog Management	
+*   SLM = Service Level Management
+*   SPM = Portfolio Management
 
 4biz History
 --------------------
