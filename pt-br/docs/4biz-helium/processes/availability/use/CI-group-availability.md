@@ -39,7 +39,7 @@ indisponibilidade ao: item de configuração, ao grupo de item de configuração
 |Custo por hora de indisponibilidade|Apresenta o custo por hora de indisponibilidade|
 |Custo total de indisponibilidade|O total do custo de indisponibilidade|
 
-8.  Verifique as informações em **Ocorrências de indisponibilidade**. Você pode definir o período desejado e clicar em "Atualizar" para visualizá-lo. Também é possível fazer o download clicando em "Salvar tabela"
+8.  Verifique as informações em **Ocorrências de indisponibilidade**. Você pode definir o período desejado e clicar em "Atualizar" para visualizá-lo. Também é possível fazer o download clicando em "Salvar tabela".
 
 Relacionado
 ----------------
