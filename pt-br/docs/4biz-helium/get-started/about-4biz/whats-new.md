@@ -4,3 +4,7 @@ Description: Descreve O que há de novo no 4biz Helium
 # O que há de novo no 4biz Helium?
 
 Página em construção!
+
+# Comparativo de versões
+
+Em breve...

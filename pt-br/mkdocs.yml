@@ -105,21 +105,17 @@ nav:
     - Sobre o 4biz:
       - index.md
       - 4biz-helium/get-started/about-4biz/whats-4biz.md
-      - 4biz-helium/get-started/about-4biz/whats-new-helium.md
-      - 4biz-helium/get-started/about-4biz/introduction-to-platform.md
-    - Notas de Release:
-      - 4biz-helium/get-started/about-4biz/release-notes.md
-      - 4biz-helium/get-started/about-4biz/comparative-versions.md      
+      - 4biz-helium/get-started/about-4biz/whats-new
+      - 4biz-helium/get-started/about-4biz/release-notes.md    
       - 4biz-helium/get-started/about-4biz/release-policy.md      
     - Arquitetura:
+      - 4biz-helium/get-started/installation-and-upgrade/overview.md
       - 4biz-helium/get-started/architecture/architecture.md
       #- 4biz-helium/get-started/architecture/on-premise.md
-    - Instalação e atualização:
-      - 4biz-helium/get-started/installation-and-upgrade/overview.md
       - 4biz-helium/get-started/installation-and-upgrade/system-requirements.md
 #      - 4biz-helium/get-started/installation-and-upgrade/download-software.md
 #      - 4biz-helium/get-started/installation-and-upgrade/perform-installation.md
-      - Realizar instalação:
+      - Instalação On Premisses:
         - 4biz-helium/get-started/installation-and-upgrade/perform-installation/start-install.md
         - 4biz-helium/get-started/installation-and-upgrade/perform-installation/install-jdk.md
         - 4biz-helium/get-started/installation-and-upgrade/perform-installation/install-wildfly.md
@@ -734,6 +730,23 @@ nav:
     - helper/use/teach-helper.md
     - helper/use/trainning-helper.md
     - helper/use/monitoring-helper.md
+- Tracker:
+  - 4biz-helium/tracker/overview.md
+  - Criar um fluxo de trabalho:
+    - 4biz-helium/tracker/use/create-flow.md
+    - 4biz-helium/tracker/use/user-task-configure.md
+  - Expressões:
+    - 4biz-helium/tracker/configuration/expressions.md
+    - 4biz-helium/tracker/configuration/expressions-creator.md
+  - Modelagem de processo:
+    - 4biz-helium/tracker/use/modeling.md
+- Tasker:
+  - 4biz-helium/additional-features/project-management/tasker-agile-management/simple-agile-management.md
+  - 4biz-helium/additional-features/project-management/tasker-agile-management/workspace.md
+  - 4biz-helium/additional-features/project-management/tasker-agile-management/sprint.md
+  - 4biz-helium/additional-features/project-management/tasker-agile-management/list.md
+  - 4biz-helium/additional-features/project-management/tasker-agile-management/task.md
+  - 4biz-helium/additional-features/project-management/tasker-agile-management/card.md    
 - Ajuda:
   - faq.md
   - glossary.md
