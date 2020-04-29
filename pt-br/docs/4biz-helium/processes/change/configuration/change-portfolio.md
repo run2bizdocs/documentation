@@ -58,7 +58,7 @@ Esta funcionalidade tem por objetivo criar um portfólio de mudanças a fim de a
 
  !!! Abstract "NOTA"
     
-        Atenão com os tipos:
+        Atenção com os tipos:
         - "Normal: é uma mudança que segue um fluxo normal de avaliação, aprovação e autorização"
         - "Emergencial: é uma alteração em um serviço que pretende reparar de emergência um erro no serviço de TI"
         - "Padrão: é uma alteração previamente aprovada pelo Gerenciamento de Mudanças e já possui procedimentos aceitos e estabelecidos" 
