@@ -66,130 +66,129 @@ Procedimento
 |Informações Adicionais|Aqui, você pode importar ou reportar automaticamente informações manuais, sobre o IC, por exemplo: ativos adquiridos de uma organização mesclada e ativos absorvidos em uma organização consolidada|
 |Acesso Remoto|Aqui você pode definir a porta e a senha necessárias para o acesso remoto de um IC|
 
-6. On the **Knowledge** tab, we have the option to Add a knowledge direct from the Knowledge Base.
+6. Na guia **Conhecimentos**, temos a opção de adicionar um documento diretamente da Base de Conhecimento.
 
-When click on "Add Knowledge", it'll appear the screan to search for the knowledge you want to link to the CI you're creating and a list of documents already created.
+Ao clicar em "Adicionar conhecimento", será exibida a tela para pesquisar o conhecimento que você deseja vincular ao IC que você está criando e uma lista de documentos já criados.
 
-To search for an specific knowledge, the filters available are: Title, Content, Published (Yes/No/All) and Situation.
+Para procurar um conhecimento específico, os filtros disponíveis são: Título, Conteúdo, Publicado (Sim / Não / Todos) e Situação.
 
-!!! faq "Do you know..."
+!!! faq "Você sabia?"
     
-    On the creation of a Knowledge, it's possible to storage electronic and digital versions of physical
-    documentation and asset documentation.
+    Na criação de um Conhecimento, é possível armazenar versões eletrônicas e digitais de dados de documentação física e documentação de ativos.
         
-7. On the **Financial** tab, you'll have all information about apportionments (Service, Business Unit, Result Center, Account, Projects and Activities). Here you can edit it to add a new cost related.
+7. Na guia **Financeiro**, você terá todas as informações sobre rateios (Serviço, Unidade de Negócios, Centro de Resultados, Conta, Projetos e Atividades). Aqui você pode editá-lo para adicionar um novo custo relacionado.
 
-    **Creating new Apportionment**
+    **Criando novo rateio**
     
-    1. Access the main menu Processes > Financial Management > Financial item;
+    1. Acessar o menu principal Processos > Gerência Financeira > Item Financeiro;
     
-    2. Complete the fields available on the **Information** tab:
+    2. Preencher os campos disponíveis na guia **Informações**:
     
     !!! note
     
-        The system perform a hierarchical service-based costing model by the distribution of the cost model created in the financial process "Financial Item" and "Financial Cost Calculation" respecting the cost of each CI and making the distribution based on the cost model.
+        O sistema executa um modelo hierárquico de custo baseado em serviço pela distribuição do modelo de custo criado no processo financeiro "Item financeiro" e "Cálculo de custo financeiro" respeitando o custo de cada IC e efetuando a distribuição com base no modelo de custo.
     
-    |Field|Description|
+    |Campo|Descrição|
     |---|---|
-    |Type*|Cost/Expense, Budget, Revenue|
-    | Classification* |(Capex, Opex, Fixed, Direct, Unit Cost, Indirect, Variable, Assessment)|
-    |Forecast| it's available Only for Revenue and Costs/Expense Category (Used to simulate financial forecasts)|
-    |Budget Account| Specific Account linked to this item|
-    |Forecast financial item| It's possible to search for a title of the forecast financial item|
-    |Due Date*|The date that will expire it|
-    |Category*|The category for this|
-    |Contract|Select a contract to be linked to it|
-    |Cycle*|It's the financial Method, for example, Yarly, Monthly or Quarter|
-    |Subcycle*|Depends on the Cycle|
-    |Code|Freetext to create or insert financial code|
-    |Title*|Title of this Financial Item|
-    |Status*|It'll be always be created as "Pending"|
-    |Description|Description about your financial item|
+    |Tipo*|Orçamento, Custo/Despesa, Receita|
+    |Classificação* |(Capex, Direto, Fixo, Custo Unitário, Opex, Indireto, Variável, Rateio)|
+    |Data de vencimento*|A data que expirará|
+    |Data de referência*|A data de referência|
+    |Previsão|Está disponível apenas para a categoria Receita e Custos/Despesas (usada para simular previsões financeiras)|
+    |Categoria*|A categoria da que está sendo criada|
+    |Contrato|Selecionar um contrato para ser vinculado|
+    |Conta de orçamento|Uma conta específica para ser vinculada a esse item|
+    |Item financeiro de previsão|É possível procurar um título do item financeiro previsto| 
+    |Ciclo*|É o método financeiro, por exemplo, Anual, Mensal ou Trimestral|
+    |Subcicle*|Depende do ciclo|
+    |Código|Texto livre para criar ou inserir código financeiro|
+    |Título*|Título desse Item Financeiro|
+    |Status*|Sempre será criado como "Pendente"|
+    |Descrição|Descrição acerca do item financeiro|
     
-    3. On the **Values and Apportionments** tab, complete:
+    3. Na guia **Valores e Rateios**, preencher:
     
-    |Field|Description|
+    |Campo|Descrição|
     |---|---|
-    |Entry type|There are two types: Value - if you set value, after the "Select services", it'll be presented a list with the service and its values; Accounting for activities performed - for this option, after Select the activities, it'll be presented the list with the activity you selected, as well as its information and description|
-    |Expected value*| It's possible to stablish to number for the value expected|
-    |Main value*| Set a number for the main value|
-    |Additional*| Set the number for the additional|
-    |Final value*| Set a number for the value end|
-    |Apportionment| Here we have the options to set all the apportionments types|
+    |Tipo de lançamento|Existem dois tipos: Valor - se você definir o valor, após o "Selecionar serviços", será apresentada uma lista com o serviço e seus valores; Contabilização de atividades prestadas - para esta opção, após Selecionar as atividades, será apresentada a lista da atividade que você selecionou, bem como suas informações e descrição|
+    |Valor previsto*|É possível estabelecer um número para o valor esperado|
+    |Valor principal*|Definir um valor para o valor principal|
+    |Adicionais*| Definir um número para os adicionais|
+    |Valor final*|Definir um número para o valor final|
+    |Rateio|Aqui temos as opções para definir todos os tipos de rateio|
     
-    4. Click on save.
+    4. Clicar para gravar.
     
     
 
-8. On the **Capacity** tab, it's possible to indicate the capacity/performance indicators that will be linked to this Configuration Items.
+8. Na guia **Capacidade**, é possível indicar os indicadores de capacidade/desempenho que serão vinculados a esses itens de configuração.
 
-9. On the **Demand** tab, it's possible to search for a Demand to link in the Configuration Item.
+9. Na guia **Demanda**, é possível procurar uma Demanda para ser vinculada ao item de configuração.
 
-On the **Warranties** tab, it'll be possible to set a time for the warranty of the Configuration Item.
-By clicking on "Add warranty", it'll present a screen to configure it, they are:
+10. Na guia **Garantias**, será possível definir o tempo de garantia do item de configuração. Ao clicar em "Adicionar garantia", será exibida uma tela para configurá-lo, eles são:
 
-|Field|Description|
+|Campo|Descrição|
 |------|----------|
-|Provider*|It's possible to search for a provider by its Name/Company Name or Individual Taxpayer's Registry/Corporate Taxpayer's ID|
-|Start Date*|When the warranty starts to count|
-|End Date*| When this warranty will have an end|
+|Fornecedor*|É possível procurar um fornecedor por seu Nome/Nome da empresa ou CPF/CNPJ|
+|Data início*|Quando a garantia começa a contar|
+|Data final*|Quando esta garantia terá um fim|
 
-!!! faq "Do you know..."
+!!! faq "Você sabia?"
     
-    Once you are on the CMDB screen, on the right side of the screen, in the bottom, that's a box to identify the warranty of the CI you have registered on the Warranties tab
+    Quando você estiver na tela do CMDB, no lado direito da tela, na parte inferior, há uma caixa para identificar a garantia do IC que você registrou na guia Garantias
 
-5.  Click on "Save" .
+11.  Clicar em "Gravar".
 
-*Fields with ( * ) are mandatory*
+*Campos com ( * ) são obrigatórios*
 
-### Comparing Versions of CI
+### Comparar versões de IC
 
-1. Access the main menu Processes \>
-    Configuration Management \> CMDB;
+1. Acessar o menu principal Processos \>
+    Gerência de Configuração \> CMDB;
     
-2. On the CMDB screen, select for a CI you want.
+2. Na tela de CMDB, selecione o IC que desejar.
 
-3. At the top of the screen, after the magnifier icon, click to see the options available.
+3. No topo da tela, depois do ícone de lupa, clicar para ver as opções disponíveis.
 
-4. Click on **Inventory status**. It'll appear the scream with all the options for status, for example: inventoried, ingnored, in execution and others. Select one of the status.
+4. Clicar em **Status do inventário**. Aparecerá uma tela com todas as opções de status, por exemplo: inventariado, ignorado, em execução e outros. Selecione um dos status.
 
-5. After select the status, by clicking on one of the items, it'll be possible to compare and verify the discrepancy between the previous versions of the item.  
+5. Após selecionar o status, clicando em um dos itens, será possível comparar e verificar a discrepância entre as versões anteriores do item.  
 
-### Verifying processes linked to the CI
+### Verificar os processos vinculados ao IC
 
-Once created the CI, you can access it through the CI screen and link it to other preocesses of the tool.
+Depois de criar o IC, você pode acessá-lo através da tela do IC e vinculá-lo a outros processos da ferramenta.
 
-|Item|Description|
+|Item|Descrição|
 |-----|----------|
-|Reationship|It'll present the relationships with other processes|
-|Request|It'll present all requests related to the configuration item|
-|Incidents|It'll show all incidents related to the configuration item|
-|Problems|It'll present all the problems related to the configuration item|
-|Changes|It'll present all changes related to the configuration item, it is possible that the configuration item can only be changed with a linked change, to activate this rule go to Parameters> Number 85 and the tool will facilitate the prevention of changes in a configuration item without that has change|
-|Releases|It'll present all releases related to the configuration item|
-|Knowledges|It'll present all the knowledges related to the configuration item|
-|Events|It'll show all events related to the configuration item|
-|Financial|It'll present all finances related to the configuration item|
-|Capacity|It'll present all the capabilities related to the configuration item|
-|Demand|It'll present all the demands related to the configuration item|
+|Relacionamentos|Apresentará os relacionamentos com outros processos|
+|Requisições|Apresentará todas as requisições relacionadas ao item de configuração|
+|Incidentes|Apresentará todos os incidentes relacionados ao item de configuração|
+|Problemas|Apresentará todos os problemas relacionados ao item de configuração|
+|Mudanças|Apresentará todas as mudanças relacionadas ao item de configuração, é possível que o item de configuração possa ser alterado apenas com uma mudança vinculada. Para ativar esta regra, vá para Parâmetros > Número 85 e a ferramenta facilitará a prevenção de mudanças em uma configuração item sem que tenha mudado|
+|Liberações|Apresentará todas as liberações relacionadas ao item de configuraçãom|
+|Conhecimentos|Apresentará todos os conhecimentos relacionadas ao item de configuração|
+|Eventos|Apresentará todos os eventos relacionadas ao item de configuração|
+|Financeiro|Apresentará todas as finanças relacionadas ao item de configuração|
+|Capacidade|Apresentará todas as capacidades relacionadas ao item de configuração|
+|Demanda|Apresentará todas as demandas relacionadas ao item de configuração|
 
-We also have the information about:
+Além disso, temos as informações sobre:
 
-|Item|Description|
+|Item|Descrição|
 |-----|----------|
-|Warranties|It'll present all warranties of this configuration item|
-|Impacted Services|	It'll present all impacted services of this configuration item|
-|Remote access|	It'll present all remote access of this configuration item|
-|Attachments|To attach documents to the CI|
-|History|It'll present all history of this configuration item|
+|Garantias|Apresentará todas as garantias relacionadas ao item de configuração|
+|Serviços impactados|Apresentará todos os serviços impactados pelo item de configuração|
+|Acessos remotos|Apresentará todo o acesso remoto deste item de configuração|
+|Anexos|Para anexar documentos ao IC|
+|Histórico|Apresentará todo o histórico desse item de configuração|
 
-### Configuring capacity attributes
+### Configurar atributos de capacidade
 
-1. In the general settings of the configuration item, there is an option to enable the use of capacity indicators in that CI.
+1. Nas configurações gerais do item de configuração, há uma opção para ativar o uso de indicadores de capacidade nesse IC.
 
-2. To configure capacity attributes, click on the **Capacity** item, located in the list of CI attributes (accessible on the left side of the screen).
+2. Para configurar atributos de capacidade, clique no item **Capacidade**, localizado na lista de atributos de IC (acessível no lado esquerdo da tela).
 
-3. Click on the icon for editing (the pencil icon) , in **notification** enable/disable the notifications for changes in capacity attributes. In the item **forecast**, indicate in percentage the level for sending notification relating to the capacity described
+3. Clique no ícone para edição (o ícone de lápis), em **notificaçã ** ativar/desativar as notificações para alterações nos atributos de capacidade. No item **previsão**, indique em porcentagem o nível de envio da notificação referente à capacidade descrita.
 
 Relacionado
 ----------------
