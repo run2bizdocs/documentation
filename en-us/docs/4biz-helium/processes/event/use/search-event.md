@@ -7,7 +7,7 @@ This functionality is intended to locate an event in the Event Management.
 Before getting started
 --------------------------
 
-- [] To locate the information necessary, it's necessary to previously register an
+- [x] To locate the information necessary, it's necessary to previously register an
 event collected by the monitoring tool.
 
 Procedure
