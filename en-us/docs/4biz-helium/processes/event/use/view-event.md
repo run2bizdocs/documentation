@@ -13,10 +13,10 @@ collected by the monitoring tool.
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Processes \> Event Management
+1. Access the functionality through the main menu Processes \> Event Management
     \> Event;
 
-2 The User will be able to filter the events by:
+2. The User will be able to filter the events by:
 
 . Tool : Nagios,Zabbix, Inventory, Global Business
 . Classification: Information, Warning, Exception, UpDown, Unknown
@@ -28,7 +28,7 @@ Procedure
 
 !!! faq "Do you know..."
 
-    tool facilitate the classification of events by type and required actions  
+    The tool facilitate the classification of events by type and required actions  
     For example: filtering events as information (batch job completed on time) alerts,warning alerts, exception alerts
 
 3. the system willl create a Grid with all events (Archived / Logged / Running)  with the follow Information:  
