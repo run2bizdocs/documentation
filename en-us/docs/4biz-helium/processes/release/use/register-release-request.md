@@ -23,7 +23,7 @@ type of release and periodic activity group
 
 2.  Click on the options button “Options” and then on "Register";
 
-4.  At the beginning of the page, we have the following information:
+3.  At the beginning of the page, we have the following information:
 
 |Information|Description|
 |-----------|-----------|
