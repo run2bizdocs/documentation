@@ -14,7 +14,7 @@ This feature provides a variety of actions, such as including, changing, and del
     After creating the SLA, the cost and price values will be presented for each service based on the SLA created and this data will come from the financial process [Financial Cost Calculation](https://documentation.run2biz.com/en-us/4biz-helium/processes/financial/use/financial-cost-calculation.html) on the tab "Cost distribution" and "Set price" according with  the defined strategy (fixed and variable).
     
 
-##Before getting started
+## Before getting started
 
 - [x] It's necessary to previously register contract(s) and Service catalog for the SLA (portfolio / services / activities)
 
@@ -74,7 +74,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 (\*) Indicate mandatory field
 
-!!! faq "Do You KnowT"
+!!! faq "Do You Know"
 
     *Time of Attendance by Priority*
     The priority is used to identify the time required to an action to be taken.
@@ -85,7 +85,7 @@ This feature provides a variety of actions, such as including, changing, and del
 
 !!! warning
 
-    Before complete the fields in **Automation**, it should be properly parametrized, it must be properly parameterized, so it is necessary to execute the steps in the knowledge Creation escalation rule, except for parameter 190 that must be equal to 'N' in this context;
+    Before complete the fields in **Automation**, it must be properly parameterized, so it is necessary to execute the steps in the knowledge Creation escalation rule, except for parameter 190 that must be equal to 'N' in this context;
 
 3.  Complete the Automation Fields ( if it´s needed):
 
