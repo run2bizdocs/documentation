@@ -92,7 +92,7 @@ level requirements.
 
 !!! warning
 
-    Before complete the fields in **Automation**, it should be properly parametrized, it must be properly parameterized, so it is necessary to execute the steps in the knowledge Creation escalation rule, except for parameter 190 that must be equal to 'N' in this context;
+    Before complete the fields in **Automation**, it must be properly parameterized, so it is necessary to execute the steps in the knowledge Creation escalation rule, except for parameter 190 that must be equal to 'N' in this context;
 
 ### Unit Priorities
 
