@@ -24,10 +24,10 @@ and contract.
 
 |Function|Description|
 |-|-|
-|**Save**| Save the new SLA|
+|**Save**| Save the new improvement plan|
 |**Clear**| Clear all Form Fields|
 |**Search**|Search for improvement plans|
-|**Delete**|Delete the SLA Edited|
+|**Delete**|Delete the improvement plan Edited|
 
 ## Search
 
@@ -35,7 +35,7 @@ and contract.
 
 |Field|Description|
 |-|-|
-|SLA Title|Title to search|
+|Title|Title to search|
 |Grid| SLA searched with the criteria With A selection radio button, SLA Title|
 
 ## Register/Edit
@@ -45,7 +45,7 @@ and contract.
 |Fields|Description|
 |-|-|
 |Title (\*)|Set a title for improvement plan|
-|Provider|Set the provider for improvement plan for between: "CITSmart Company", "External Provider Company", "Infraestructure Department", "Internal Provider", "Main Vein Suppliers", "N3 Results", "Service Provider", "Supplier test"|
+|Provider|Set the provider for the improvement plan|
 |Contract|Set a contract to improvement plan|
 |Start Date (\*)|Set day to start using improvement plan|
 |End Date (\*)|Set day to stop using improvement plan|
@@ -108,7 +108,7 @@ After create a monitoring you can: "Edit", "Delete" and "Select".
 
 6. To create a report click on "Create report" will open another page generating the desired report.
 
-7.  Click on "Save";
+7.  Click on "Save".
 
 
 Related
