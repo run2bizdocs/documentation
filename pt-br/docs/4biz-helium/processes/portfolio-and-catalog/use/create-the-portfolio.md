@@ -36,7 +36,7 @@ previamente.
 |--------------------|--------------------------------------------|
 | **Novo Portfólio** | Criar novo                                 |
 | **Editar**         | Editar o portfólio                         |
-| **Avançar**        | [Cadastrar/Edit Serviços](/en-us/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html) para o Portfólio |
+| **Avançar**        | [Cadastrar/Edit Serviços](/pt-br/4biz-helium/processes/portfolio-and-catalog/use/register-a-service.html) para o Portfólio |
 
 !!! Abstract "REGRA"
 
