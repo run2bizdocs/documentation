@@ -1,7 +1,7 @@
-title: Create change portfolio
+title: Register a Portfolio of Change
 Description: It's intended to create a change portfolio in order to speed the creation of a new change
 
-# Register a Portfolio Change
+# Register a Portfolio of Change
 
 This functionality is intended to create a portfolio of changes in order to speed up the creation of a new change by grouping them by specific criteria.
 
