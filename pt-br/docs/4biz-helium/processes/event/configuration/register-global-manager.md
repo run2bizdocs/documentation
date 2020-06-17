@@ -72,7 +72,7 @@ Procedimento
             Eventos - EPL. Clicar no botão "Validar EPL de Exception" para validar a
             EPL informada.
 
-1.  Clicar no botão "Gravar".
+3.  Clicar no botão "Gravar".
 
 
 
