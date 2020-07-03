@@ -7,7 +7,7 @@ This functionality is intended to close the occurrence and all actions of an eve
 Before getting started
 --------------------------
 
-It's necessary to previously register the event.
+- [x] It's necessary to have registered the event.
 
 Procedure
 -------------
