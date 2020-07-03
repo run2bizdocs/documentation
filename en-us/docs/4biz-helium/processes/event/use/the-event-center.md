@@ -13,7 +13,7 @@ This functionality is intended to present some functionalities for the event man
 Before getting started
 --------------------------
 
-To have access to all event options, it's necessary to
+- [x] To have access to all event options, it's necessary to
 have a function server with EVM and Mongo application that can communicate  with
 ITSM.
 
