@@ -1,13 +1,13 @@
 title: Create a change from an event
-Description:Is intended to create a change from an event.
-# Create a change from an event
+Description:It is intended to create a request for change through an event.
+# Create a request for change through an event
 
-This functionality is intended to create a change from an event.
+This functionality is intended to create a request for change through an event.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the event.
+- [x] It's necessary to have registered the event.
 
 Procedure
 -------------
@@ -19,9 +19,9 @@ Procedure
 
 3.  Click on "Create request for change";
 
-4.  Complete the fields;
+4.  It'll appear the page to register the change;
 
-5.  Click on the button “Operations” then "Save".
+5.  Complete the fields and then on "Save".
 
 Related
 -----------
