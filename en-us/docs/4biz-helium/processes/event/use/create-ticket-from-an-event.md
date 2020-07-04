@@ -1,8 +1,8 @@
 title: Create ticket from an event
-Description:It Is intended to create an incident through an event. 
-# Create incident from an event
+Description:It Is intended to create a request/incident through an event. 
+# Create request/incident from an event
 
-This functionality is intended to create an incident through an event.
+This functionality is intended to create a request/incident through an event.
 
 Before getting started
 --------------------------
@@ -17,7 +17,7 @@ Procedure
 
 2.  Click on the event and then on “More Options”;
 
-3.  Click on "Create incident";
+3.  Click on "Create request/incident";
 
 4.  Complete the fields available;
 
