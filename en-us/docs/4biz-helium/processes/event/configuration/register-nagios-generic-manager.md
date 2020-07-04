@@ -18,9 +18,8 @@ deleting a Nagios generic manager.
 Before getting started
 --------------------------
 
-To register the Nagios generic manager, it's necessary to previously register
-the 4biz Event Monitor connection, the time, occurrence category, automatic
-action and the 4biz Inventory connection.
+- [x] it's necessary to previously register the 4biz Event Monitor connection, 
+the time, occurrence category, automatic action and the 4biz Inventory connection.
 
 Procedure
 -------------
@@ -28,9 +27,14 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Event Management
     \> Nagios \> Nagios Generic Manager;
 
-2.  Complete all fields available;
+2.  To register a new manager, click on "Register Managers" and complete all fields available:
 
-3.  Click on "Save".
+    - Name
+    - Monitoring Tool - Connection
+    
+3.  Once select the monitoring tool, complete information for Host Information, Service Information and Other Information and Insert/Change;    
+
+4.  Click on "Save".
 
 Related
 -------
