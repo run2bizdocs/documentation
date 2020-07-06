@@ -10,7 +10,7 @@ The groups can be used to measure both availability of internal services and ext
 ## Before getting started
 
 - [x] Previous registration of the availability group. 
-- [x] It's also necessary to link the calendar, the service level agreement of type "availability" and the cost per hour of unavailability to the: configuration item, the configuration item group and the service contract.
+- [x] It's also necessary to link the calendar, the service level agreement of type "availability" and the cost per hour of unavailability to the: configuration item, configuration item group and service contract.
 
 ## Procedure
 
