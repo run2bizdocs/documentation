@@ -19,7 +19,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Event Management
     \> Connections \> Monitoring Tools;
 
-2.  Complete the fields available;
+2.  Complete the fields available: Name, EVM - Connecting the 4biz Event Monitor, Tool, Address, Port and Status;
 
 3.  Click on "Test Connection";
 
