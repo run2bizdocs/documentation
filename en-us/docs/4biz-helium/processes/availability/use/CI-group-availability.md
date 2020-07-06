@@ -26,7 +26,7 @@ This functionality is intended to verify the availability of the CI group.
 
 6.  Verify the information in **Availability by period**. You can set the period you want and click on "Update" to view it. 
 
-7.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can also download it by clickin on "Save table". You can click on the slices of the chart to see the details about the CI's time distribution: Available, Unavailable and Scheduled change. In the chart, at the end, there're the followin information:
+7.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can also download it by clickin on "Save table". You can click on the slices of the chart to see the details about the CI's time distribution: Available, Unavailable and Scheduled change. In the chart, at the end, there're the following information:
 
 |Information|Description|
 |-----------|-----------|
