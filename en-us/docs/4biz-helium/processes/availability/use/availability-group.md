@@ -5,7 +5,7 @@ Description: Is intended to verify the availability group.
 
 This functionality is intended to verify the availability group.
 
-The groups can be used to measure the availability of internal services and external providers jointly, it's the Provider Service ability
+The groups can be used to measure both availability of internal services and external providers.
 
 ## Before getting started
 
@@ -19,14 +19,14 @@ The groups can be used to measure the availability of internal services and exte
 
 2.  Click on the tab Availability Group;
 
-3.  Click on “+” symbol located on the Filters area, to search for the availability group
+3.  Click on the “+” symbol, located on the Filters area, to search for the availability group
     you want;
 
-4.  It can be added several groups, the amount you want, to the verification;
+4.  It can be added several groups, the amount you want, for the verification;
 
 5.  Once you add the Availability group, you can update the charts presented after this field by clicking on "Update Charts".
 
-6.  Verify the information in **Availability per period**. You can set the period you want and click on "Update" to view it. 
+6.  Verify the information in **Availability by period**. You can set the period you want and click on "Update" to view it. 
 
 7.  Verify the information in **Total Availability**. You can set the period you want and click on "Update" to view it. You can also download it by clickin on "Save table". You can click on the slices of the chart to see the details about the CI's time distribution: Available, Unavailable and Scheduled change. In the chart, at the end, there're the followin information:
 
