@@ -6,7 +6,7 @@ Presentation
 ----------------
 
 According to ITIL, the capacity can be defined as "The maximum throughput that a
-configuration item or IT service can deliver. For some types of CIs, the
+configuration item or IT service can deliver. For some types of CI, the
 capacity may be the size or the volume - for example, a disk drive".
 
 The capacity management can be defined as "The process responsible for ensuring
