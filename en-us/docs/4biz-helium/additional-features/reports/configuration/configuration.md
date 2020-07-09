@@ -1,8 +1,8 @@
-Title: Configure presentation of reporting
+Title: Configuring presentation of reports
 
-# Configure presentation of reporting
+# Configuring presentation of reports
 
-Some configurations can be take to change the standard view of reports.
+Some configurations can be performed to change the standard visualization of reports.
 
 ## Procedure
 
@@ -23,9 +23,4 @@ Some configurations can be take to change the standard view of reports.
 2. Change the value indicating whether the search is done in the general context (NO) or in the group context (YES);
 3. Save.
 
-
-!!! tip "About"
-
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
 	
