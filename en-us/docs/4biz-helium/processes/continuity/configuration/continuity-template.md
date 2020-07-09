@@ -1,12 +1,12 @@
 title: Registering continuity template
-Description: Is intended to register the continuity template, which will be used to customize the test registration screen.
+Description: Intended to register the continuity template, which will be used to customize the test registration screen.
 # Registering continuity template
 
 This functionality is intended to register the continuity template, which will be used to customize the test registration screen.
 
 ## Before getting started
 
-- [x] It's necessary to previously register a questionnaire.
+- [x] It's necessary to have registered a questionnaire.
 
 Procedure
 -------------
@@ -37,7 +37,7 @@ Procedure
 |------|-----------|
 |**Save**|To save the template being created|
 |**Delete**|When editing a template, it's possible to delete it|
-|**Clear**|To return the fields as the default|
+|**Clear**|To return the fields to default|
 
 ## Related
 
@@ -45,8 +45,4 @@ Procedure
 
 <i class='fa fa-youtube-play  fa-2x' style='color:#97ce17;vertical-align: middle;'> </i> [Video Library](https://www.youtube.com/playlist?list=PLB5qK2uzf2RPwpIsGu97d5LVHeTNzpTMC)'
 
-!!! tip "About"
-
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/07/2019 – Larissa Lourenço
 
