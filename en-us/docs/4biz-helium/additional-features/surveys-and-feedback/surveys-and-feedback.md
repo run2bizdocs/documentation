@@ -19,8 +19,3 @@ This will facilitate gathering customer feedback for customer satisfaction
 [2]:/en-us/4biz-helium/additional-features/communication-and-notification/notification/use/notification.html
 [3]:/en-us/4biz-helium/additional-features/communication-and-notification/email/register-email-notification.html  
 
-!!! tip "About"
-
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019 - João Pelles  
-	
