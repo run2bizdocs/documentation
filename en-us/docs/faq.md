@@ -198,10 +198,10 @@ description: Here you have the answers for the frequently asked questions about 
 
 ***Usage***
 
-!!! Question "What is the meaning of each privacy a knowledge can have in the knowledge base?"
+!!! Question "What is the meaning of each privacy that a knowledge can have in the knowledge base?"
     
-    - Public: all users with access to the Knowledge Portal have access, regardless of whether they have access to the knowledge folder.
-    - Confidential: only author and approver can view knowledge.
+    - Public: all users with access to the Knowledge Portal.
+    - Confidential: only author and approver can view the knowledge.
     - Internal: only people with permission in the knowledge folder can view.
     
 !!! Question "Is it possible to version knowledge in the knowledge management?"
@@ -216,14 +216,14 @@ description: Here you have the answers for the frequently asked questions about 
     
     Thus, the document that has the highest score, is presented first and the others, with lower scores, in sequence.
     
-    To calculate the document score Solr uses a standard algorithm, where the frequency of the searched term is checked. But, it is possible to change the punctuation with the use of the boosts.
+    To calculate the document score, Solr uses a standard algorithm, where the frequency of the searched term is checked. But, it is possible to change the punctuation with the use of boosts.
     
-    Solr's boosters can be used in two moments at the time of indexing or query, and their use in search is more common.
+    Solr's boosters can be used in two moments: at the time of indexing or query, and when performing a search.
     Some boosters that may change the calculation of the score at the time of the survey are:
     
     -   term^num: where "num" is the importance of the search term, example: incident^2;
     
-    -   And the field boosters and dismax and edismax functions can also be used to boost search.
+    -   the field boosters and dismax and edismax functions can also be used to boost search.
     
     At ITSM, no booster is used, so far, only Solr's standard score calculation is used, and at the end of the search the ranking is done by the score and by the number of times the knowledge was voted / liked.
     
@@ -235,16 +235,16 @@ description: Here you have the answers for the frequently asked questions about 
     
     1. To configure a parameter navigate to the screen “Parametrization > Knowledge Management”;
     2. Search for the parameter “SOLR URL server (i.e.: http://localhost:8983/solr/collection_name)”;
-    3. After inserting the SOLR server URL, a URL example would be the following: http://localhost:8983/solr/base_conhecimento .
+    3. After inserting the SOLR server URL, a URL example would be: http://localhost:8983/solr/base_conhecimento .
 
     INDEXING EXISTING KNOWLEDGE ENTRIES
 	
     1. To index knowledge entries navigate to the screen “System > Configurations > Knowledge Management (Index)”;
-    2. If there are indexed knowledge entries already click on “Remove Knowledge base index”;
-    3. Shortly after, click on "Index Knowledge Base";
+    2. If there are indexed knowledge entries click on “Remove Knowledge base index”;
+    3. Then, click on "Index Knowledge Base";
     4. If any errors occur click on “Refresh the Index Server”;
-    5. Shortly after, click again on ”Index Knowledge Base";
-    6. If any errors occur contact the ITSM Support.    
+    5. Then, click again on ”Index Knowledge Base";
+    6. If any errors occur contact the Support.    
     
 ### Problem Management    
 
@@ -252,20 +252,20 @@ description: Here you have the answers for the frequently asked questions about 
 
 !!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
-    Both a Request and an Incident may have attached documents in their opening and in their attendance, for Problems and Changes, documents may be attached to each stage of the solution and also, if necessary, in each of the defined stages in the resolution of the problem or change.
+    Both Request and Incident may have attached documents in their opening and in their attendance. For Problems and Changes, documents may be attached to each stage of the solution and also, if necessary, in each of the defined stages in the resolution of the problem or change.
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (the default is 1GB).
     
 ***Configuration***    
     
-!!! Question "How to enable the scheduling rule of the problems module?"
+!!! Question "How to enable the scheduling rule of the problem module?"
     
-    The problem scaling rule is enabled on the 4biz Parameter screen. To enable this rule, proceed as follows:
+    The problem scaling rule is enabled on the 4biz Parameter screen. To enable this rule, proceed:
     
-    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters.
-    2. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab.
-    3. It will display the screen for parameter search, perform the parameter search "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select the same.
+    1. Access the 4biz Parameters feature by navigating in the main menu Parametrization > 4biz Parameters.
+    2. The 4biz Parameters screen will appear, click on the 4biz Parameters Search tab.
+    3. Search for the parameter "194 - Enable the problem escalation defined in the scheduling rules (Ex: Y or N - Default 'N')" and select it.
     4. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the value "Y" to enable problem escalation;
-    5. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
+    5. Click on "Save".
     
 ### Change Management     
 
@@ -273,16 +273,15 @@ description: Here you have the answers for the frequently asked questions about 
 
 !!! Question "Is it possible to evaluate the impact of changes in order to approve the change registration?"
 
-    The process of risks in change begins in the design of the change portfolio where the "**Type of Impact and Risk Analysis**" is provided, which can be simplified or complete. The next step is in the change register to inform the data of the risk(s) in the left lateral bar in the item of risk analysis, that will be presented with the indication defined in the portfolio of change:
+    The process of risks in change begins in the design of the change portfolio, where the "**Type of Impact and Risk Analysis**" is provided, which can be simplified or completed. The next step is in the change registration to inform the data of the risk(s) in the left side in the item of risk analysis, that will be presented with the indication defined in the portfolio of change:
     
     *   "**Simplified**" for a simplified analysis in the item.
     
-    *   "**Complete**" for a complete risk analysis with the definitionof Targets, Impact Analysis and Risk Evaluation. 
+    *   "**Complete**" for a complete risk analysis with the definition of Targets, Impact Analysis and Risk Evaluation. 
 
 !!! Question "Is it possible to attach documents to incidents, requests, problems and changes?"
 
-    Both a Request and an Incident may have attached documents in their opening and in their attendance, for Problems and Changes, documents may be attached to each stage of the solution and also, if necessary, in each of the defined stages in the resolution of the problem or change.
-    
+    Both Request and Incident may have attached documents in their opening and in their attendance. For Problems and Changes, documents may be attached to each stage of the solution and also, if necessary, in each of the defined stages in the resolution of the problem or change.
     Documents can be of any type (extension) and their maximum size can be set by the administrator in system parameter 278 (the default is 1GB).
 
 !!! Question "How to update a Configuration Item directly by the Request for Change?"
@@ -298,13 +297,13 @@ description: Here you have the answers for the frequently asked questions about 
 
 ***Configuration***
        
-!!! Question "How to define the obligatoriness of the linking change with CI?"
+!!! Question "How to define the obligation of the linking change with CI?"
     
     The requirement of the change link to the CI is determined on the 4biz Parameter screen. To determine this requirement, proceed as instructed below:
 
     1. Access the 4biz Parameter feature navigating through the main menu;
     2. The 4biz Parameter screen will be displayed, click on the Search tab;
-    3. The parameter search screen will be displayed. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)";
+    3. Search for the parameter "85 - Verification of change link related to the configuration item (Default: Y)";
     4. Select it;
     5. Then, the parameter registry screen featuring the selected entry data will be displayed, on the value field, insert the "Y" value;
     6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
@@ -312,21 +311,21 @@ description: Here you have the answers for the frequently asked questions about 
     
 !!! Question "How to enable the change module escalation rule?"
     
-    The changes escalating rule is enacted on the 4biz Parameter screen.
+    The changes escalating rule is enabled on the 4biz Parameter screen.
     
-    To enable this rule, proceed as follows:
+    To enable this rule:
 
     1. Access the 4biz Parameters feature navigating through the main menu Parametrization > 4biz Parameters;
     2. The 4biz Parameters screen will be displayed, click on the 4biz Parameters Search tab;
-    3. The 4biz Parameters search screen will be displayed, search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)";
-    4. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation;
-    5. Click on the "Save" button to confirm the procedure, at which date, time and user will automatically be stored for a future audit.
+    3. Search for the parameter "193 - Enable Change Escalation Rules (e.g. : Y or N - Default ´N´)";
+    4. The parameter registration screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact the change escalation;
+    5. Click on "Save".
     
 ### Assets and Configuration Management    
 
 ***Usage***
 
-!!! Question "Is it possible to assign responsibility for a configuration item to a user/group?"    
+!!! Question "Is it possible to assign responsibility of a configuration item to a user/group?"    
     
     Yes. It's possible to assign the person responsible for a CI by editing its options (Processes > Configuration Management > CMDB > Search > Edit > Responsible Type > Responsible). Note that updating a CI may be tied to Change Management, being necessary to link the ID of a RFC.
     
@@ -344,10 +343,10 @@ description: Here you have the answers for the frequently asked questions about 
 !!! Question "What is the meaning of each inventory status of CI?"
     
     -   Inventory: the inventory was able to read the CI information and ended successfully;
-    -   Ignored: in the 4biz / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this markup appears when this occurs;
-    -   Unreachable: when the server encounters the IC but can not bring the information;
-    -   Not inventoried: when neither it finds the IC in the network, but knows that it already existed;
-    -   Running: while reading the inventory, the IC is in this status.
+    -   Ignored: in the 4biz / pages / evmInventoryConfiguracao / evmInventoryConfiguracao.load screen we have an option to ignore the machines being inventoried, this mark appears when this occurs;
+    -   Unreachable: when the server encounters the CI but cannot bring the information;
+    -   Not inventoried: when neither it finds the CI in the network, but knows that it already exists;
+    -   Running: while reading the inventory, the CI is at this status.
 
 ***Configuration***
 
@@ -361,60 +360,60 @@ description: Here you have the answers for the frequently asked questions about 
     
     2- Insert the parameters value (attributes):
     
-      - Name of the CIs Group which are in the Development Phase (i.e.: CIs in Development)
+      - Name of the CI Group which are in the Development Phase (i.e.: CI in Development)
       
-      - Name of the CIs Group which are in the Production Phase (i.e.: CIs in Production)
+      - Name of the CI Group which are in the Production Phase (i.e.: CI in Production)
       
-      - Name of the CIs group which are being confirmated (i.e.: CIs Being Confirmated).
+      - Name of the CI group which are being confirmed (i.e.: CI Being Confirmated).
     
-    3- Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
+    3- Click on "Save";
     
-    4- After configuring the parameters related to the CI lifecycle phases, the CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
+    4- The CI lifecycle phases' descriptions will be displayed on the Configuration Items Management screen, according to what was specified in the parameter value.
     
 	CONFIGURATION THROUGH THE GCAS CONFIGURATION SCREEN
     
     1. Access the 4biz Parameters feature (Parametrization > 4biz Parameters);
     2. Then, the 4biz Parameters screen will be displayed, click on the Search tab. The parameter search screen will be displayed;
-    3. Perform a search for the parameter "92 - Name of The Ci Group is In Development Phase (e.g.: CIs in Development)";
+    3. Perform a search for the parameter "92 - Name of The CI Group is In Development Phase (e.g.: CI in Development)";
     4. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
     5. On the Value field, insert the name of the CI group in development;
-    6. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
-    7. Search for the parameter "93 - Name of The CIs Group in Production Phase (e.g.: ICs em Produção)";
-    8. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
+    6. Click on "Save";
+    7. Search for the parameter "93 - Name of The CI Group in Production Phase";
+    8. Select it. Then, the parameter registration screen featuring the selected entry data will be displayed;
     9. On the Value field, insert the name of the CI group in production phase;
-    10. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit;
-    11. Perform the search for the parameter "94 - Name of the group of ICs that are in the Production Phase (Ex: CIs in Homologation)";
-    12. Select it. Then, the parameter registry screen featuring the selected entry data will be displayed;
+    10. Click on the "Save";
+    11. Perform the search for the parameter "94 - Name of the group of CI that are in the Production Phase";
+    12. Select it. Then, the parameter registration screen featuring the selected entry data will be displayed;
     13. In the value field, enter the name of the CI group of the homologation phase;
-    14. Click on the "Save" button to confirm the entry, at which time, date and user will be stored for a future audit.    
+    14. Click on "Save".    
 
-!!! Question "How to define the obligatoriness of linking the change with the CI?"
+!!! Question "How to define the obligation of linking the change with the CI?"
 
-    The obligation of the change with the CI is mandatory in the 4biz Parameter screen. To define this requirement, proceed as follows:
+    The obligation of the change with the CI is mandatory in the 4biz Parameter screen. To define this requirement:
     
-    1. Access the 4biz Parameters feature by navigating the main menu Parameterization > Parameters 4biz;
-    2. The 4biz Parameters screen appears, click on the 4biz Parameter Search tab;
-    3. It will appear the screen for parameter search. Search for the parameter "85 - Check the link of change related to the  
+    1. Access the 4biz Parameters feature by navigating the main menu Parametrization > Parameters 4biz;
+    2. The 4biz Parameters screen will appear, click on the 4biz Parameter Search tab;
+    3. It will appear the screen to search for the parameter. Search for the parameter "85 - Check the link of change related to the  
     Configuration Item (Default: S)";
     4. Select it;
     5. It will be presented the parameter registration screen with the contents of the selected registration, in the value field, enter the value "S";
-    6. Click on "Save" to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
+    6. Click on "Save";
     7. After setting the parameter, when registering a Configuration Item, the change link is mandatory.
 
 !!! Question "To which recipient will be sent notifications of CI?"
     
     CI notifications will be sent to the recipient defined in the 4biz Parameter screen.
     
-	To set the recipient, proceed as follows:
+	To set the recipient:
     
     1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters;
-    2. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab;
+    2. The 4biz Parameters screen will appear, click on the 4biz Parameters Search tab;
     3. It will display the screen for parameter search;
-    4. Perform the search for parameter "90 - Sending Notification E-mails from ICs (1-Group, 2-Owner, 3-All)";
+    4. Search for the parameter "90 - Sending Notification E-mails from CI (1-Group, 2-Owner, 3-All)";
     5. Select the same;
     6. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the identification number of the recipient (1 - Group, 2 - Owner or 3 - All);
-    7. Click the "Record" button to perform the operation, in which case the date, time and user will be stored automatically for a future audit;
-    8. After configuration of the parameter, notifications of IC notifications will be sent to the recipient (group, owner or all), as specified in the parameter value.
+    7. Click on "Save";
+    8. After configuration of the parameter, the notifications of CI will be sent to the recipient (group, owner or all), as specified in the parameter value.
 
 ### Event Management
 
@@ -423,7 +422,7 @@ description: Here you have the answers for the frequently asked questions about 
 !!! Question "How can Event Management become a business monitoring tool?"
 
     WEBSERVICE SCHEME FOR LEGACY SYSTEMS (BUSINESS MONITORING)
-    It is possible to connect the EVM component to any software, even one other than the one that the Event Management module normally integrates (Nagios, Zabbix and Inventory), since the data sent (via webservice) follow a pre-established pattern.
+    It is possible to connect the EVM component to any software, the Event Management module normally integrates (Nagios, Zabbix and Inventory), since the data sent (via webservice) follow a pre-established pattern.
     
     Once the data is sent to the 4biz Event Monitor, rules can be created (for example with the Esper EPL) so that certain events are triggered according to some condition observed in the data.
     
@@ -466,21 +465,21 @@ description: Here you have the answers for the frequently asked questions about 
 
 !!! Question "How to configure the automatic satisfaction survey response?"
     
-    The automatic response mechanism, which will answer automatically all service request satisfaction surveys, kicks in when the satisfaction survey is not filled out by the user within the deadline determined by the systems manager.
+    The automatic response mechanism, which will automatically answer all service request satisfaction surveys, is used when the satisfaction survey is not completed by the user within the deadline determined by the system manager.
     
-    To configure the automatic responses, proceed as instructed below:
+    To configure the automatic responses:
 
     1- Configure the following system parameters which determine the behavior of the automatic response mechanism:
      
-      - Parameter 139: Determines a deadline, in days, the user has to fill out the satisfaction survey, before it is automatically filled out by the system;
+      - Parameter 139: Determines a deadline, in days, the user has to fill out the satisfaction survey, before it is automatically completed by the system;
     
-      - Parameter 152: Default rating which will be attributed to surveys that have been automatically filled out. Options: EXCELLENT, GOOD, REGULAR, POOR;
+      - Parameter 152: Default rating which will be attributed to surveys that have been automatically completed. Options: EXCELLENT, GOOD, REGULAR, POOR;
      
       - Parameter 151: Activates or deactivates system automatic responses. Y to activate and N to deactivate.
      
     2- Access the Batch Processing feature (System > Batch Processing);
     
-    3- The batch processing entry screen will be displayed, fill out the fields:
+    3- The batch processing screen will be displayed, complete the fields:
      
        - Description: insert the description which will identify the processing. For example: "Automatic satisfaction survey response";
    
@@ -496,63 +495,61 @@ description: Here you have the answers for the frequently asked questions about 
     
 	RULE: from the moment of the entry, at the scheduled time and date, the unanswered requests (beyond the deadline defined on parameter 139) will automatically be answered (according to the value determined on parameter 152), in case parameter 151 has an "Y" value.
 	
-!!! Question "How to enable automatic e-mail reading routine?"
+!!! Question "How to enable automatic email reading routine?"
     
-    When sending an e-mail to 4biz support, the automatic e-mail will be read, if the e-mail refers to a request, the title of the e-mail will be verified, if it contains the word 'Request' and the Number of the request, if it contains, the e-mail will be stored as an occurrence in the relevant request.
+    When sending an email to 4biz support, the automatic email will be read. If the email refers to a request, the title of the email will be verified, if it contains the word 'Request' and the Number of the request, the email will be stored as an occurrence in the relevant request.
     
-    For this e-mail reading routine to work perfectly, the following procedures must be followed:
+    For this email reading routine to work perfectly, the following procedures must be followed:
     
     1. Install the java 7 version, if it has lower version the routine will not work;
     2. Access the 4biz Parameters feature by navigating in 4biz Parameters Search tab;
     4. It will display the screen for parameter search, search the parameter "23-SMTP READ - Service Desk mail entry server" and select it;
-    5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the e-mail entry server (eg orion.egrupo.com.br);
-    6. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
-    7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select the same;
-    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the e-mail or login of the e-mail account (eg support.4biz);
-    9. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.
-    10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select the same;
-    11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the e-mail account;
-    12. Click on the "Save" button to perform the operation, in this case the date, time and user will be stored automatically for a future audit;
+    5. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the email entry server (eg orion.egrupo.com.br);
+    6. Click on "Save";
+    7. Perform the search for the parameter "24 - SMTP READY - Service Desk mail inbox" and select it;
+    8. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the email or login of the email account (eg support.4biz);
+    9. Click on "Save";
+    10. Perform the parameter search "25 - SMTP READY - Service Desk E-Mailbox Password" and select it;
+    11. The parameter registration screen with the contents of the selected record will be displayed, in the value field, the password of the email account;
+    12. Click on "Save";
     13. Perform the search of the parameter "26 - SMTP READY - Service Desk e-mail server provider (imaps, pops, imap, pop, etc)" and select it;
-    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read e-mails (eg imap or pop) and click the "Save" button to perform the operation, In this case the date, time and user will be stored automatically for a future audit;
-    15. Perform the search for the parameter "27 - SMTP READY - Service Desk mail server port" and select the same;
+    14. The parameter registration screen with the contents of the selected record will be displayed in the value field, inform the protocol that will be used to read emails (eg imap or pop) and click on "Save";
+    15. Perform the search for the parameter "27 - SMTP READY - Service Desk mail server port" and select it;
     16. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the port that will be used to access the mail server (587 for pop server or 995 for imap server);
-    17. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
+    17. Click on "Save";
     18. Perform the search for the parameter "28 - SMTP READY - Service Desk E-Mailbox Folder" and select it;
-    19. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the folder of the e-mail account's inbox;
-    20. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit;
-    21. Perform the search for the parameter "200 - Enable routine for reading new e-mails automatically (ex: Y or N - Default 'N')" and select the same one;
+    19. The parameter registration screen with the contents of the selected record will be displayed, in the value field, inform the folder of the email account's inbox;
+    20. Click on "Save";
+    21. Perform the search for the parameter "200 - Enable routine for reading new e-mails automatically (ex: Y or N - Default 'N')" and select it;
     22. The parameter registration screen with the contents of the selected record will be displayed, in the value field, enter the "Y" value to activate the automatic reading routine;
-    23. Click the "Record" button to perform the operation, in which case the date, time and user will be automatically stored for a future audit.	
+    23. Click on "Save".	
 
 !!! Question "How to enable the Service Portal (Smart Portal)?"
     
     In order for users to have access to the Portal or Smart Portal, you must enable it as follows:
     
-    1. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
-    2. Perform the parameter search "46 - Enable Portal as 4biz home screen?" And select the same. After that, the parameter registration screen with the contents of the selected registry will be displayed;
-    3. In order for users to have access to the Portal or Smart Portal;
-    4. Access the 4biz Parameters feature by navigating in the main menu Parameterization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search.
-    
+    1. Access the 4biz Parameters feature by navigating in the main menu Parametrization > 4biz Parameters. The 4biz Parameters screen will appear, click the 4biz Parameters Search tab. Once this is done, it will display the screen for parameter search;
+    2. Search for the parameter "46 - Enable Portal as 4biz home screen?" And select it. After that, the parameter registration screen with the contents of the selected registry will be displayed;
+        
 !!! Question "How to enable the satisfaction survey?"
     
-    The satisfaction survey is the evaluation of the request fulfillment performed through the e-mail notification.
+    The satisfaction survey is the evaluation of the request fulfillment performed through email notification.
     
-    To enable the satisfaction survey, proceed as instructed below:
+    To enable the satisfaction survey:
     
-    1. Create an e-mail template (the e-mail template must contain the following keyword: ${LINKPESQUISASATISFACAO});
+    1. Create an email template (the email template must contain the following keyword: ${LINKPESQUISASATISFACAO});
     2. Access the 4biz Parameters feature navigating through the main menu Parametrization > 4biz Parameters;
     3. The 4biz Parameters screen will be displayed, click on the 4biz Parameters Search tab;
-    4. Search for the parameter "Send e-mail when running requests/incidents flows";
+    4. Search for the parameter "Send email when running requests/incidents flows";
     5. Select it;
-    6. The parameter registry screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enact sending e-mails related to the service requests;
-    7. Click on the "Save" button to confirm the procedure;
+    6. The parameter registration screen will be displayed according to the selected entry, on the Value field, insert the "Y" value to enable the sending of emails related to the service requests;
+    7. Click on "Save";
     8. Access the request, incident and contract services for the business service Portfolio and Catalog Management > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and technical service Portfolio Management and Catalog > Portfolio and Catalog Management > Support Menu > Advanced Portfolio > Service Catalog > Next Service and verify if the e-mail template that has been created is entered in the field "E-mail Template at Completion of Requests/Incidents";
-    9. When an e-mail notification is received warning the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
+    9. When an email notification is received warning that the service request has been executed, a link to the satisfaction survey will be displayed. Clicking on the link opens a screen to evaluate the attendance.
    
 !!! Question "How to improve the performance of 4biz Enterprise ITSM?"
     
-    System performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
+    The system performance is defined as the time the software takes to perform a given task, since this performance is a strong quality attribute perceived by software users.
     
     There is the capability of the system to work with more than one instance. For this, it is necessary to use the configuration file (4biz.cfg), where you can activate or inactivate routines.
     
@@ -600,7 +597,7 @@ description: Here you have the answers for the frequently asked questions about 
     
 !!! Question "How to replace each image of the 4biz Enterprise ITSM logos?"
     
-    Whenever there is a need to properly customize the CTSmart Enterprise ITSM logos, the following procedure must be performed:
+    Whenever there is a need to properly customize the 4biz logos, the following procedure must be performed:
     
     1- Access path: System > Settings > Environment settings; Three frames will appear for image upload:
     
@@ -614,7 +611,7 @@ description: Here you have the answers for the frequently asked questions about 
 	
     2- Upload (can be different images).
     
-	RULE: If you do not choose a new logo, the default logo will be 4biz logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the 4biz ITSM.
+	RULE: If you do not choose a new logo, the default logo will be 4biz logo. For copyright purposes, this logo change is allowed only in the Enterprise version of the 4biz.
 
     MOST PRECISE IMAGE CONFIGURATION FOR JASPER REPORTS
 	
@@ -622,11 +619,11 @@ description: Here you have the answers for the frequently asked questions about 
 
     RULE: if the user-customized image is not configured correctly in reports, it must be redesigned with more appropriate ratios.   
 
-!!! Question "What does it take to configure an IC that is physically on the client's corporate network to be inventoried by the 4biz Enterprise ITSM that is in the cloud offered by 4biz Corporation?"
+!!! Question "What does it take to configure a CI that is physically on the client's corporate network to be inventoried by the 4biz?"
    
-    [Original] In the cloud, mongodb and evm / inv are in the client structure, because it is not possible to connect in an internal range with source from the cloud.
+    [Original] In the cloud, mongodb and evm / inv are in the client structure because it is not possible to connect on an internal range with source from the cloud.
     
-    [For validation] In this particular scenario, the MongoDB, 4biz EVM, and 4biz Inventory components must be installed and configured within the client's network framework because 4biz Enterprise ITSM (Cloud) can not connect to a client's internal range.
+    [For validation] In this particular scenario, the MongoDB, 4biz EVM, and 4biz Inventory components must be installed and configured within the client's network framework because 4biz can not connect to a client's internal range.
     
 !!! Question "What is the attachment upload features file size limit?"
     
@@ -635,107 +632,6 @@ description: Here you have the answers for the frequently asked questions about 
 !!! Question "What is the Fato table of the service request module and how to insert data?"
     
     The service request Fato table is intended to receive consolidated information regarding the service request.
-    
-    For example: 
-    
-        IDSOLICITACAOSERVICO
-        DATAHORASOLICITACAO
-        DIAABERTURA
-        MESABERTURA
-        ANOABERTURA
-        DATAHORAFIM
-        DIAFECHAMENTO
-        MESFECHAMENTO
-        ANOFECHAMENTO
-        IDGRUPOATUAL
-        GRUPOATUAL
-        IDPRIORIDADE
-        NOMEPRIORIDADE
-        IDSERVICOCONTRATO
-        IDCONTRATO
-        NUMEROCONTRATO
-        IDTIPOSERVICO
-        NOMETIPOSERVICO
-        IDPORTFOLIOSERVICO
-        DESCPORTFOLIOSERVICO
-        IDSOLICITANTE
-        SOLICITANTE
-        IDUSUARIORESPONSAVELATUAL
-        TECNICORESPONSAVEL
-        IDTIPODEMANDASERVICO
-        TIPOSOLICITACAO
-        IDCAUSAINCIDENTE
-        CAUSA
-        IDCATEGORIASOLUCAO
-        CATEGORIASOLUCAO
-        IDSTATUS
-        STATUS
-        IDACORDONIVELSERVICO
-        PRAZOSLA_HH
-        PRAZOSLA_MM
-        IDCALENDARIO
-        CALENDARIO
-        DATAHORALIMITE
-        DIALIMITESLA
-        MESLIMITESLA
-        ANOLIMITESLA
-        TAREFAATUAL
-        IDCLIENTE
-        CLIENTE
-        IDFORNECEDOR
-        FORNECEDOR
-        IDCATEGORIASERVICO
-        CATEGORIASERVICO
-        IDCONDICAOOPERACAO
-        NOMECONDICAOOPERACAO
-        IDORIGEM
-        ORIGEMDASOLICITACAO
-        IDMOEDA
-        MOEDA
-        IDTIPOFLUXO
-        FLUXO
-        IDIMPORTANCIANEGOCIO
-        IMPORTANCIASERVICOAONEGOCIO
-        IDLOCALIDADE
-        LOCALIDADE
-        IDUNIDADE
-        UNIDADE
-        URGENCIA
-        IMPACTO
-        RUPTURASLA
-        QTDEREABERTURAS
-        HOUVERECLASSIFICACAO
-        TEMPOATENDIMENTOHH
-        TEMPOATENDIMENTOMM
-        TEMPOATRASOHH
-        TEMPOATRASOMM
-        MAJOR
-        NOTAPESQUISASATISFACAO
-        QTDESOLICITACOESFILHAS
-        QTDESUBSOLICITACOES
-        QTDEBASECONHECIMENTO
-        QTDEPROBLEMAS
-        QTDELIBERACAO
-        QTDEMUDANCAS
-        QTDEICS
-        QTDEAPLICACOES
-        QTDEPROJETOS
-        QTDEANEXOS
-        QTDEAGENDAMENTOATIVIDADES
-        QTDEAGENDAMENTATIVFINALIZADAS
-        CONTRATOAPOIO
-        SERVICOAPOIO
-        CUSTOSERVICO
-        SERVICOINDISPONIVEL
-        QTDEELOGIOS
-        QTDEQUEIXAS
-        PROCEDIMENTOCONTINUIDADE
-        CUSTOINDISPONIBILIDADE
-        IDSERVICO
-        NOMESERVICO
-        IDATIVIDADE
-        NOMEATIVIDADE
-        DATAHORACARGA
     
     This information is fed through the 4biz batch processing routine, running the Rhino scripts as the DBMS.
 
@@ -753,16 +649,16 @@ description: Here you have the answers for the frequently asked questions about 
 
     The permissions on the folder must be read and write to the user that JBoss uses.
     
-!!! Question "When does data synchronization occur with LDAP?"
+!!! Question "When does the data synchronization occurs with LDAP?"
     
     The system synchronizes the credential data of its users with LDAP in three different situations:
     
     1. On application activation, usually in sequence to the product version update procedure;
     2. When the user logs in (access to the system with its login and password), then the system automatically checks the user's 
     authentication and permission;
-    3. In the LDAP Configuration menu option, when the user clicks its 'Synchronize' link.   
+    3. In the LDAP Configuration menu option, when the user clicks on the 'Synchronize' link.   
 
-!!! Question "When is removed the data from the Logdata table?"
+!!! Question "When it is removed the data from the Logdata table?"
     
     The backup routine of the LogData table removes the data from the table and saves it to a file, that is, the table becomes clean after processing.
     
@@ -786,21 +682,21 @@ description: Here you have the answers for the frequently asked questions about 
     
         https://docs.oracle.com/javase/9/troubleshoot/time-zone-settings-jre.htm#JSTGD362    
 
-!!! Question "Why in some reports does the same request appear more than once?"
+!!! Question "Why in some reports the same request appears more than once?"
     
-    In some reports such as "Report Incidents / Service Requests - Detailed", both in pdf format and in xls format, the same request may exist more than once, however they are distinct details because it deals with each step of the request, so each time it "repeats" is because it changes the task, or the responsible, or the phase, or the situation, or the group solver or the final hour of service.
+    In some reports such as "Report Incidents / Service Requests - Detailed", both in pdf format and in xls format, the same request may exist more than once, however they are distinct details because it deals with each step of the request, so each time it "repetition" is because it changes the task, or the responsible, or the phase, or the situation, or the group solver or the final hour of service.
     
-    In other reports, such as the "Report Incidents / Service Requests", there is no detail of the request according to the activities and therefore the request is not shown more than once.
+    In other reports, such as the "Report Incidents / Service Requests", there is no detail of the request according to the activities and therefore the request is not presented more than once.
     
-!!! Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual when selecting in the filter the situation 'in progress' and the 'solver group'?"
+!!! Question "Why is the result 'Empty Report' when generating the reportQuantitativeControlPercentual and selecting in the filter the status 'in progress' and the 'solver group'?"
     
-    This is not an error, the solver group field is populated only when the request is terminated, this causes to only brings results to situations such as "Closed", incompatible with what is being requested / reported in the filters.    
+    This is not an error, the solver group field is completed only when the request is finished, this happens only to bring results to status such as "Closed", incompatible with what is being requested / reported in the filters.    
 
 !!! Question "Will the backup be overwritten or will there be a file for every day?"
     
     If your routine has a daily backup, a file will be created every day, containing the name and date of the file.
     
-!!! Question "Why does my instance with DBMS SQL Server is slow on the ticket listing screen?" 
+!!! Question "Why does my instance with DBMS SQL Server is slow on the ticket list screen?" 
 
     In the standalone.xml file you must add the following configuration to the SQL Server database access URL:
     ;sendStringParametersAsUnicode=false
