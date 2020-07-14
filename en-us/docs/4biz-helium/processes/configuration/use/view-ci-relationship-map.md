@@ -1,6 +1,6 @@
-Title: See map of relationship of a CI
+Title: See CI Relationship Map
 
-# See map of relationship of a CI
+# See CI Relationship Map
 
 The relationship map is the place where you can visually have an overview of the relationship tree that exists between CIs and CIs and Services. There you can use several filters to shape the type of result that will be presented.
 
