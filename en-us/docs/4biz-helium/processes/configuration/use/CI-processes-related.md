@@ -5,9 +5,6 @@ Description: Allows to verify the processes related to the CI
 
 This functionality allows to verify the processes related to the CI, in addition to the general information.
 
-Before getting started
---------------------------
-
 To verify the processes, it's necessary to previously register the configuration
 item and have related it.
 
