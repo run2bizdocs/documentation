@@ -109,8 +109,8 @@ Now you can create a workflow, think about a business need and the actors involv
 ## Related
 [Basic concepts](https://docs.run2biz.com/en-us/4biz-helium/tracker/basic-concepts.html)
 
-[1]:images/tracker-menu-citsmart.png
-[2]:images/tracker-management-citsmart.png
+[1]:images/builder-menu-citsmart.png
+[2]:images/builder-management-citsmart.png
 [3]:images/fist-button-citsmart.jpg
 [4]:images/second-button-citsmart.jpg
 [5]:images/flow-data-citsmart.png
