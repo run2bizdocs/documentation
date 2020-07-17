@@ -1,6 +1,6 @@
 title: Register Nagios/Zabbix connection
 Description: Register the Nagios/Zabbix tools that will be linked to the Event Management to monitor the various configuration items.
-#Register Nagios/Zabbix connection
+# Register Nagios/Zabbix connection
 
 This functionality is intended to register the Nagios/Zabbix tools that will be
 linked to the Event Management to monitor the various configuration items.
