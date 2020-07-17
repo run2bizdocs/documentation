@@ -1,7 +1,7 @@
 title: Continuity tests calendar
 
 Description: Allows to view the events of service continuity tests. 
-# Continuity tests calendar
+# Continuity test calendar
 
 The Continuity Registration is a process that pass through several phases. The forth phase is called Continuous Operation, where it'll be defined the continuity Awareness (education and training), Review and audit, Tests and Invocation. This functionality allows to view the events of service continuity tests.
 
