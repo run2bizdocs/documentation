@@ -1,6 +1,6 @@
 title: Register notification recipient
 Description: Set the recipients that will receive the notifications.
-#Register notification recipient
+# Register notification recipient
 
 This functionality is intended to set the recipients that will receive the
 notifications. The recipient can be one or more employee and/or group.
