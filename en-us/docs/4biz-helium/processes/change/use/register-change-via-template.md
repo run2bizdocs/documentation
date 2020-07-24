@@ -1,19 +1,19 @@
 title: Register change via template
 Description: It allows to register changes via template
+
 # Register change via template
 
-It allows to register the change via a previously registered template. The idea of the template is to speed up the registration of new changes by grouping them in a similar theme.
+It allows the creation of changes using a previously registered template. The idea of the template is to speed up the creation of new changes by grouping them in a similar theme.
 
 Before getting started
 ----------------
 
-It's necessary to have registered a template of the portfolio of changes.
+It is necessary to have registered a template of the portfolio of changes.
 
 Procedure
 ------------
 
-1.  Access the main menu Processes \>
-    Change Management \> Change;
+1.  Access the main menu Processes \> Change Management \> Change;
 
 2.  Click on "Options" and then on "Register via template";
 

@@ -5,27 +5,18 @@ Description: Change Management is the process responsible for evaulate, coordina
 Presentation
 ----------------
 
-Change Management is the process responsible to evaluate, coordinate and
-decide about making change proposals to Configuration Items (CI). According  
-to ITIL, the main goal of this process is ensure that changes are made in a
-controlled way, and being evaluated, prioritized, planned, tested, implanted
-and documented.
+Change Management is the process responsible to evaluate, coordinate and decide about making change proposals to Configuration Items (CI). According
 
-Changes can be categorized as: Standard Change, Normal Change and Emergency
-Change.
+to ITIL, the main goal of this process is to ensure that changes are made in a controlled way, and being evaluated, prioritized, planned, tested, implemented, and documented.
 
--   **Standard Change**:authorized of low risk, it occurs with frequency.
-    It's initiated by a defined trigger that follows a procedure or work instruction
-    to make the activities - well known - have a pre-determined budget. E.g.: Install
-    a standard *desktop* application package..
+Changes can be categorized as: Standard Change, Normal Change and Emergency Change.
 
--   **Normal Change**: any change in services other than emergency or standard.
-    It follows the policies, deadlines and procedures defined by the organization.
 
--   **Emergency Change**: changes that need to be done as soon as possible.
-    E.g.: Change to resolve a Major Incident or implement a security fix.
-    The Change Management process usually has a specific procedure to handle 
-    emergency changes.
+-   **Standard Change**:preauthorized,  low risk change. Usually the most frequent type of change. It is initiated by a defined trigger that follows a procedure or work instruction to make the activities that are well known and have a pre-determined budget. E.g.: Install a standard desktop application package.
+
+-   **Normal Change**: any change in services other than emergency or standard. It follows the policies, deadlines and procedures defined by the organization.
+
+-   **Emergency Change**: changes that need to be done as soon as possible. E.g.: Change to resolve a Major Incident or implement a security fix. 
 
 Use
 -------
