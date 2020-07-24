@@ -3,15 +3,9 @@ Description: Introdução ao produto 4biz
 
 # O que é 4biz?
 
-O 4biz, desenvolvido pela 4biz Corporation®, é uma **plataforma que
-conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os
-resultados do negócio.**
+O 4biz, desenvolvido pela 4biz Corporation®, é uma plataforma de Gestão de Serviços que conecta pessoas e recursos digitais para otimizar o trabalho e amplificar os resultados do negócio.
 
-Através dos portais de relacionamento otimizamos a experiência de clientes e
-colaboradores e por meio do **Workflow Digital Inteligente** e gestão ágil, com uso
-de Kanbans, conectamos times para uma maior colaboração centrada no cliente,
-gerando assim, melhoria progressiva e interativa, simplicidade na execução,
-praticidade, alinhamento e agilidade.
+Através dos portais digitais de relacionamento otimizamos a experiência dos usuários e, por meio do **Workflow Digital Inteligente e gestão ágil**, conectamos times para uma maior colaboração centrada no cliente. Criamos esta metodologia usando o framework do Kanban, o que dá maior visibilidade a gestão de tarefas, simplifica na execução e promove a  interação e alinhamento dos times.
 
 Quais as possibilidades de uso?
 -------------------------------

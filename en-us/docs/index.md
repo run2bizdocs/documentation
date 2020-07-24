@@ -2,8 +2,11 @@ Title: Welcome
 
 # We are here to help you!
 
-Welcome to the 4biz Documentation Center. Here you will find useful information about our product, installation guides, platform configuration and process deployment. See also our developer site: https://developers.run2biz.com/en-us/home.html.
+We are here to help you!
+Welcome to the 4biz Documentation Center. Here you will find useful information about our product such as installation guides, platform configuration and process deployment. 
 
-Click the menu above to enter the documentation tree for our products.
+Click on the menus on the top of the page to access the documentation tree for our products.
+
+You might also want to check our developer site: https://developers.run2biz.com/en-us/home.html.
 
 :abc: Search interface accessible through hotkeys (F or S).
