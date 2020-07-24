@@ -7,13 +7,11 @@ This functionality is intended to register the change justification that will be
 Procedure
 ------------
 
-1.  Access the main menu Processes \>
-    Change Management \> Change Request Justification;
+1.  Access the main menu Processes > Change Management > Change Request Justification.
 
 2.  Click on "New”;
 
-3.  Complete the fields necessary (Description, status and inform if this
-    register suits the reason for suspending the request);
+3.  Complete the necessary fields (Description, status and inform if this register suits the reason for suspending the request).
 
 4.  Click on "Save".
 

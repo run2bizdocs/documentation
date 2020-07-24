@@ -3,15 +3,15 @@ Description: It's intended to create a change portfolio in order to speed the cr
 
 # Register a Portfolio of Change
 
-This functionality is intended to create a portfolio of changes in order to speed up the creation of a new change by grouping them by specific criteria.
+This functionality is intended to create a Change portfolio to speed up the creation of a new changes by grouping them by specific criteria.
 
 ## Procedure
 
-1.    Access the main menu Processes > Change Management > Portfolio Change;
+1.    Access the main menu Processes > Change Management > Portfolio Change.
       
-2.    Click on "New Portfolio"";
+2.    Click on "New Portfolio".
    
-3.    Complete the fields available:
+3.    Complete the available fields:
 
 |Field|Description|
 |-|-|
@@ -27,9 +27,9 @@ This functionality is intended to create a portfolio of changes in order to spee
 
 ### Import deprecated template data
 
-6. Click in "Import deprecated template data" to import a existing template, Select the template and edit if necessery;
+6. Click in "Import discontinued template data" to import an existing template, Select the template and edit if necessary.
 
-7. Click on "Save" to add the import template to your portfolio;
+7. Click on "Save" to add the import template to your portfolio.
 
 ### New Model
    
@@ -57,31 +57,23 @@ This functionality is intended to create a portfolio of changes in order to spee
 |Assessment of the quality of the change|Select of the quality of the change to portfolio change|
 |Satus|Set the statur between "New","Active" and "Retired"|
 
- !!! Abstract "NOTE"
-    
-        Attantion with type between:
-        - "Normal: it's a change that follows a normal flow of evaluation, approval and authorization;;
-        - "Emergency: it's a change in a service that pretends to emergency repair an error in the IT service."
-        - "Standart: it's a change that is previously pre-approved by the Change Management and already has accepted and established procedures;" 
-      
-
 #### Contract
 
-To link a contract select "Link Contract" and search a contract with a filter;
+To link a contract, select "Link Contract" and search a contract with a filter.
 
 #### Change
 
-To register the change complete the fields:
+To register the change, complete the fields:
 
 |Field|Description|
 |-|-|
-|Change Title||
+|Change Name ||
 |Change description||
 |Effect of not implementing the change||
 
 #### Planning
 
-To plan the change use the features:
+To plan the change, use the features:
 
 |Tabs|Description|
 |-|-|
@@ -95,7 +87,7 @@ To plan the change use the features:
 
 #### Reversion plan
 
-To plan the change reversal use the features:
+To plan the change reversal, use the features:
 
 |Tabs|Description|
 |-|-|
