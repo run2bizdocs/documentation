@@ -1,33 +1,29 @@
 title: Suspend release registration
 Description: Allows to suspend the execution of the release.
+
 # Suspend release registration
 This functionality allows to suspend the execution of the release.
 
 Before getting started
 --------------------------
 
-In order to suspend the execution of the release, it's necessary to
-register the release, the justification of the request for release and
-permission to suspend.
+To suspend the execution of a release, it is necessary to register the release, the justification of the request for release and permission to suspend.
 
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Access the functionality through the main menu Processes > Release Management > Release.
 
-2.  Find the release you want to suspend, click on it and then on the
-    button “More Options”. Select the option "Suspend";
+2.  Find the release you want to suspend, click on it and then on the button “More Options”. Select the option "Suspend”.
 
-3.  Complete the justification of the suspension and its complement;
+3.  Complete the justification of the suspension and its complement.
 
 4.  Click on "Save";
 
 What to do next
 -------------------
 
-Verify if the status of the release is "Suspended" in the release 
-list.
+Verify if the status of the release is "Suspended" in the release list.
 
 Related
 -----------

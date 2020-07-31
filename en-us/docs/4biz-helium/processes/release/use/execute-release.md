@@ -1,24 +1,22 @@
 title: Execute release
 Description:Allows to register the information about the execution of the change's release. 
 # Executing the release
-This functionality allows to register the information about the execution of the change's release.
+This functionality allows you to record all the information about the execution of a release
 
 ## Before getting started
 
-- [x] It's necessary to previously register a release and the permission to execute this request.
+- [x] It is necessary to previously register a release and the permission to execute this request.
 
 Procedure
 -------------
 
-1. Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1. Access the functionality through the main menu Processes > Release Management > Release.
 
-2.  Find the release to be executed, click on the button “Open” and
-    confirm the task attribution;
+2.  Find the release to be executed, click on the button “Open” and confirm the task attribution.
 
 ## Closure
 
-In the Closure field, at the end of the page, there's the following situation:
+In the Closure field, at the end of the page, there is the following situation:
 
 |Situation|Description|
 |------|-----------|
@@ -28,9 +26,9 @@ In the Closure field, at the end of the page, there's the following situation:
 
 !!! abstract "NOTE"
 
-    It's mandatory to set a situation.
+    It is mandatory to set a situation.
 
-When select solved or canceled, it'll be necessary to complete two fields:
+When select solved or canceled, it will be necessary to complete two fields:
 
 |Field|Description|
 |-----|-----------|
@@ -56,9 +54,9 @@ At the end of the page, you will find a floating button with the functions of:
 |Function|Description|
 |--------|-----------|
 |**Save and keep the current task**|To save the information of the ticket without finishing it or moving it to the next step|
-|**Save and forward the flow**|To finish the ticket and moving it to the next step in the flow|
+|**Save and forward the flow**|to finish the ticket and moving it to the next step in the flow|
 |**Create PDF**|To create a file in pdf for this release|
-|**Cancel**|To cancel the edition you made in the release|
+|**Cancel**|Ignore all the changes that you´ve made to the release|
 
 
 Related
