@@ -7,8 +7,7 @@ This feature provides a variety of actions, such as including, changing, and del
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Currency;
+1.  Access the functionality through the main menu Integrated Management > Contract Management > Currency.
 
 2.  Complete the fields available;
 

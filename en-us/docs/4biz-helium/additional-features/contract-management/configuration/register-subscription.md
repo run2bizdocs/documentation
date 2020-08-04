@@ -2,22 +2,19 @@ title: Register subscription
 Description: This feature provides a variety of actions, such as including, changing, and deleting the signature.
 # Register subscription
 
-This functionality is intended to register subscription fields to be associated with a subscription group, in order to customize the subscriptions present in the Work Orders report. These Work Order reports are used to register, prove, and charge for services rendered to the client.
-This feature provides a variety of actions, such as including, changing, and deleting the signature.
+This functionality is intended to create subscription fields to be associated with a subscription group, to customize the subscriptions, present in the Work Orders report. These Work Order reports are used to create, prove, and charge for services rendered to the client. This feature provides a variety of actions, such as including, changing, and deleting the signature.
 
 Before getting started
 --------------------------
 
-It's necessary to have registered the employee.
+It is necessary to have registered the employee.
 
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Subscriptions;
+1.  Access the functionality through the main menu Integrated Management > Contract Management > Subscriptions.
 
-2.  In the tab "**Subscription Registration**", complete the fields necessary
-    (responsible, phase and paper);
+2.  In the tab "Subscription Registration", complete the fields necessary (responsible, phase and paper).
 
 3.  Click on "Save".
 

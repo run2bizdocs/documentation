@@ -2,10 +2,7 @@ title: Configuring messaging within 4biz
 Description: It provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email).
 # Configuring messaging within 4biz
 
-4biz provides a communication channel between the requester (Smart Portal)
-and the technician (service/ticket request area) through message (email). This
-communication aims to facilitate the resolution of a ticket. This knowledge
-gathers information pertinent to the configuration of the messaging service.
+4biz provides a communication channel between the requester (Smart Portal) and the technician (service/ticket request area) through message (email). This communication aims to facilitate the resolution of a ticket. This knowledge gathers information pertinent to the configuration of the messaging service.
 
 
 Before getting started
@@ -16,9 +13,7 @@ It is necessary to configure the email account (SMTP) beforehand (check related 
 Procedure
 -------------
 
-1.  In order for the messaging service to be available within 4biz, it is
-    necessary to set the parameter 417 with the ID number of the email template
-    that has some variables to be sent to the messaging;
+1.  For the messaging service to be available within 4biz, it is necessary to set the parameter 417 with the ID number of the email template that has some variables to be sent on the message.
 
 2.  Below are the keys for sending email:
 

@@ -1,27 +1,23 @@
 Title: Chat
 # Chat
 
-The notion of "Chat" is used to allude to the exchange of written messages of instantaneous form. In this case, it allows the user to have the right contact to the system attendant in order to solve doubts, make requests and others. The parameters of this application allow to activate the chat, set the default agreement for call opening and adjust the default group, and other actions.
+The notion of "Chat" is used to allude to the exchange of written messages of instantaneous form. In this case, it allows the user to have contact to an attendant. In this section you will learn how to activate the chat, set the default agreement for call opening and adjust the default group, and other actions.
 
 Chat can be used in three ways:
 
--   Manual: exchange of messages between several types of users (e.g.: requester
-    and attendant) on a 4biz instance;
+-   Manual: exchange of messages between several types of users (e.g.: requester and attendant) on a 4biz instance.
 
--   Automatic: used for messaging between user and a virtual assistant - via Chatbot, 
-    using Helper artificial intelligence;
+-   Automatic: used for messaging between user and a virtual assistant - via Chatbot, using Helper artificial intelligence.
 
--   Both: used to enable contact between the requester and the attendant, also allowing 
-    a user to interact with a chatbot.
+-   Both: used to enable contact between the requester and the attendant, also allowing a user to interact with a chatbot.
 
 !!! Abstract "NOTE"
     
-    To interact with a Chatbot, it's necessary to have purchased this service. If you have any 
-    questions, contact 4biz.
+    To interact with a Chatbot, it is necessary to have purchased this service. If you have any questions, contact 4biz.
 
 # Before getting started
 
-In order for chat to be available, it's necessary to configure the parameters of activation of the functionality.
+For chat to be available, it is necessary to configure the parameters of the functionality.
 
 •	Manual Usage: 299, 315, 316, 317, 447 e 423.
 
@@ -33,7 +29,7 @@ By enabling parameter 423 the chat will open integrated with the virtual assista
 
 Below there are some examples of how to use 4biz Chat in different scenarios:
 
-## Access to Smart Chat without configure Helper - Ticket creation
+## Access to Smart Chat without configure Helper - Ticket creation¶
 
 1. Access the Smart Portal or Experience Center;
 2. Click on the "Talk" icon at the bottom of the screen to start the conversation;
