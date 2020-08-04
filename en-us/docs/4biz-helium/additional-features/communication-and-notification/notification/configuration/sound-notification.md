@@ -7,14 +7,14 @@ This feature allows the configuration of an audible alarm to signal to the atten
 
 ## Before getting started
 
-* [x] Have at least one workflow defined in your 4biz environment;
-* [x] It is essential to have the minimum conditions for audio playback on your computer;
+* [x] Have at least one workflow defined in your 4biz environment.
+* [x] It is essential to have the minimum conditions for audio playback on your computer.
 
 ## Procedure
 
 ### Creating notification template
 
-1. Access the functionality through the main menu System > Notificações > Notification Template;
+1. Access the functionality through the main menu System > Notifications > Notification Template.
 2. Click on "New" to create the template;
 3. Inform the notification data, click on "Sound Notification" and import the audio file;
 4. Save the information.
