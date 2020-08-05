@@ -2,7 +2,7 @@ Title: Atualização do 4biz on-premisses
 
 # Atualização do 4biz/builder
 
-Este procedimento tem por objetivo demonstrar o passo-a-passo da atualização do produto 4biz em servidores de aplicação Wildfly.
+Este procedimento tem por objetivo demonstrar o passo-a-passo da atualização do produto 4biz/Builder em servidores de aplicação Wildfly.
 
 Para efeito desde documento, iremos utilizar como exemplo o seguinte cenário:
 
