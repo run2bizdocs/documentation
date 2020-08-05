@@ -2,8 +2,11 @@ Title: Bem-vindo
 
 # Estamos aqui para ajudá-lo!
 
-Bem-vindo ao Centro de Documentação do 4biz. Aqui você encontrará informações úteis sobre nossos produtos, guias de instalação, configuração da plataforma e implantação dos processos. Veja também nosso site para desenvolvedores: https://developers.run2biz.com.
+Estamos aqui para ajudá-lo!
+Bem-vindo ao Centro de Documentação 4biz. Aqui você encontrará informações úteis sobre o nosso produto, como guias de instalação, configuração da plataforma e implantação de processos.
 
-Clique no menu acima para entrar na árvore de documentação dos nossos produtos.
+Clique nos menus na parte superior da página para acessar a árvore de documentação de nossos produtos.
 
-:abc: Interface de pesquisa acessível através de teclas de atalho (F ou S).
+Você também pode consultar o site do desenvolvedor: https://developers.run2biz.com/en-us/home.html.
+
+:abc: Interface de pesquisa acessível através das teclas de atalho (F ou S).

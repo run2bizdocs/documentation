@@ -1,13 +1,13 @@
-title: Create a problem from an event
-Description:Is intended to create a problem in an event.
-# Create a problem from an event
+title: Create a problem through an event
+Description:It is intended to create a problem through an event.
+# Create a problem through an event
 
-This functionality is intended to create a problem in an event.
+This functionality is intended to create a problem through an event.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the event.
+- [x] It's necessary to have registered the event.
 
 Procedure
 -------------
@@ -19,9 +19,9 @@ Procedure
 
 3.  Click on "Create problem request";
 
-4.  Complete the fields;
+4.  It'll appear the page to create the problem;
 
-5.  Click on the button "Save".
+5.  Complete the fields and Click on "Save".
 
 Related
 -----------

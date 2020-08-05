@@ -1,6 +1,6 @@
 title: Register notification recipient
 Description: Set the recipients that will receive the notifications.
-#Register notification recipient
+# Register notification recipient
 
 This functionality is intended to set the recipients that will receive the
 notifications. The recipient can be one or more employee and/or group.
@@ -11,7 +11,7 @@ deleting a recipient.
 Before getting started
 --------------------------
 
-To register the notifical recipient, it's necessary to previously register the
+- [x] To register the notifical recipient, it's necessary to have registered the
 employee and group.
 
 Procedure
@@ -20,9 +20,9 @@ Procedure
 1.  Access the functionality through the main menu Process \> Event Management
     \> Business Monitor \> Recipient Configuration;
 
-2.  Complete the fields available;
+2.  Complete the name;
 
-3.  Click on the tab **Recipients - Employee** and then on "Add" to link the
+3.  Click on the tab **Recipients - Employees** and then on "Add" to link the
     employee;
 
 4.  Click on the tab **Recipients - Groups** and then on "Add" to link groups;

@@ -1,8 +1,9 @@
 title: Suspend change
 Description: It allows to suspend a change
+
 # Suspend change
 
-This functionality allows to suspend a change.
+How to suspend a change.
 
 Before getting started
 ----------------
@@ -15,10 +16,9 @@ Procedure
 1.  Access the main menu Processes \>
     Change Management \> Change;
 
-2.  Find the change you want to suspend, click on the icon "More Options" and then on
-    "Suspend”;
+2.  Find the change you want to suspend, click on the icon "More Options" and then on "Suspend”.
 
-3.  Complete the fields necessary (the suspension justification and its complement);
+3.  Complete the necessary fields (the suspension justification and its complement).
 
 4.  Click on "Save".
 

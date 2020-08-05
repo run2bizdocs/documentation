@@ -1,6 +1,7 @@
-title: Configure user activity in the tasker Description: This document is
-intended to configure the activity within the tasker, called user task. \#
-Configure user activity in the tasker
+title: Configure user activity in the tasker 
+Description: This document is intended to configure the activity within the tasker, called user task. 
+
+# Configure user activity in the tasker
 
 When designing a workflow, it is possible to insert several elements, among
 them, the User Activity. This document is intended to guide the configuration of
@@ -11,14 +12,6 @@ Before getting started
 
 To use the "User Activity" element, it's necessary to have, at least, a
 registered workflow in the tool, with the event elements: "start" and "end".
-
-!!! Abstract "NOTE"
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Within the *Interface* tab, choosing the "Builder Form" Interaction Type: have 2 distinct Builder 
-forms configured for the creation form to be displayed next to the monitoring form. 
-It is also necessary to create the Ticket Template for each of the forms.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Procedure
 ---------

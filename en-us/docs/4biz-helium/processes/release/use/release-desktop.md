@@ -1,19 +1,19 @@
 title: Release request desktop
 Description: The desktop of the Release Management is a space where all release requests and their service history are available.
+
 # Release request desktop
-The desktop of the Release Management is a space where all release requests and their service history are available, making the visualization of each item, with its main information, easier. In this space, there's also the possibility of numerous actions, for example, edit, suspend, change an item and others.
+
+The desktop of the Release Management is a space where all release requests and their service history are available, making the visualization of each item, with its main information, easier. In this space, there is also the possibility of numerous actions, for example, edit, suspend, change an item and others.
 
 Before getting started
 --------------------------
 
-To have access to all the possibilities of viewing the options of a release,
-it's necessary to have at least one already registered.
+To have access to all the possibilities of viewing the options of a release, it is necessary to have at least one already registered.
 
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Access the functionality through the main menu Processes > Release Management > Release.
 
 2.  Search for the release and the actions you want.  
 

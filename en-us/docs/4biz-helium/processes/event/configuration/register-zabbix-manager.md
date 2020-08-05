@@ -16,7 +16,7 @@ deleting a Zabbix manager.
 Before getting started
 --------------------------
 
-To register the Zabbix manager, it's necessary to previously register the
+- [x] To register the Zabbix manager, it's necessary to have registered the
 4biz Event Monitor connection, time, occurrence category, automatic action
 and 4biz Inventory connection.
 
@@ -26,7 +26,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Event Management
     \> Zabbix \> Zabbix Manager;
 
-2.  Complete the fields available in each area;
+2.  Complete the fields available for: Basic Data, Scheduler Data, Configuration Item Parent and Configuration Item Child;
 
 3.  In the parent configuration item area, it's possible to register the CI in
     4biz, with the data of the Host selected. Click on "Create CI". Remember
@@ -35,11 +35,11 @@ Procedure
 
     - Enter the data of the child configuration item;
 
-    - Conduct a relationship between the Host service and the child configuration
+    - Make a relationship between the Host service and the child configuration
     item. Each host service must be related to its respective child
     configuration item.
 
-1.  Click on "Save".
+4.  Click on "Save".
 
 Related
 -------

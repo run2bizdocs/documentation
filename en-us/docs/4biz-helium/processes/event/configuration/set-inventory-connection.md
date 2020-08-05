@@ -9,7 +9,7 @@ Inventory connection, according to the IP and port where the Jboss of the
 Before getting started
 --------------------------
 
-The functionality configuration requires an application server Inventory,
+- [x] The functionality configuration requires an application server Inventory,
 functional and communicable with ITSM.
 
 Procedure
@@ -22,9 +22,9 @@ Procedure
 
 3.  Select the type of *Inventory* connection, in the field "Ignore machines
     already inventoried" (in the case of inventoried machines, it's possible to
-    define how many days this machine will be without new inventory, and
-    therefore its status will be set to Ignored until the total of days
-    parameterized) two boxes will open that refer to Period and Period format,
+    define how many days this machine will have without new inventory, and
+    then its status will be set to Ignored until the total of days
+    configured), two boxes will be opened, which refer to Period and Format of the period,
     select the option that best fits and save the settings;
 
       ![inventory integration](images/inventory-connection-one.png)
@@ -41,14 +41,14 @@ Procedure
 
        Figure 2 -4biz inventory integration - OCS inventory
 
-       + After installing OCS Inventory, it does not default to any type of
+       + After installing OCS Inventory, it doesn't come as default to any type of
          integration with another system, so in the Inventory files menu you need to
          assign GENERATE_OCS_FILES = ON, OCS_FILES_FORMAT = XML and specify the path
          where the XML files will be stored in OCS_FILES_PATH
 
        + The location specified for generating XML files is very strategic:
 
-          + If the OCS server is the same as Inventory Server, this is the least
+          + If the OCS server is the same as Inventory Server, this is the lowest
             risk because the folder is likely to be readable;
 
           + If the OCS server is **NOT** the same Inventory server, you must choose
@@ -63,8 +63,8 @@ Procedure
     port and/or the Capture Agent (port 7103 developed by 4biz Corporation,
     in .Net). Initially, Inventory performs a "ping" command to verify that the
     machine is active. If you can perform the command, try to access the SNMP
-    port of the configuration item. If access to the port is not successful,
-    Inventory tries to access through the capture agent by clicking the "Test
+    port of the configuration item. If the access to the port is not successful,
+    the Inventory tries to access through the capture agent by clicking the "Test
     Connection" button;
 
 6.  Click on "Save and Apply Settings".

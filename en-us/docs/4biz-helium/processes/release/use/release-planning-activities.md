@@ -7,44 +7,29 @@ This functionality allows to plan the activities to be executed with the release
 Before getting started
 --------------------------
 
-Planning activities occur after the Release has been registered, so check 
-to see if there is a Release and if you are allowed to create/execute activities.
+Planning activities occur after the Release has been registered, so check to see if there is a Release and if you can create/execute activities.
 
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Access the functionality through the main menu Processes > Release Management > Release.
 
-2.  Find the release you want to Plan, click on the button “Open” and
-    then on "Release Planning";
+2.  Find the release you want to Plan, click on the button “Open” and then on "Release Planning”.
 
-3.  We can create a Kanban to manage the activities registered. Click on "+
-    Workspace" (available in the area called "Activities") and complete the data
-    available, for example, the title, its phase (to be done, in progress,
-    etc.), select the user or group responsible for the execution of tasks and
-    others;
+3.  You can create a Kanban to manage the activities registered. Click on "+ Workspace" (available in the area called "Activities") and complete the available fields, for example, the title, its phase (to be done, in progress, etc.), select the user or group responsible for the execution of tasks and others;
 
-4.  It is possible to link the roles and responsibilities, projects, notes, 
-    documents and system notifications to the release. To do so, it is necessary to 
-    click on the available frame, select the item you want to link it to the release. 
-    Also, it is possible to link the release to a Kanban already created;
+4.  It is possible to link the roles and responsibilities, projects, notes, documents, and system notifications to the release. To do so, it is necessary to click on the available frame, select the item you want to link it to the release. Also, it is possible to link the release to a Kanban already created.
 
     !!! Abstract "NOTE"
     
-        When linking an existing Kanban, if the user does not have permission to access 
-        a particular Workspace, the system will display a message informing it. The user 
-        must then request permission in Workspace and Sprint or create a new Kanban framework.
+        When linking an existing Kanban, if the user does not have permission to access a Workspace, the system will display a message informing it. The user must then request permission in Workspace and Sprint or create a new Kanban framework.
 
-5.  In addition to allowing the link of responsibilities, projects, and
-    notification of systems, it's possible to create from scratch to fit the
-    release in thesis, by clicking on the "Register" button and complete the
-    required fields.
+5.  You can also create a new one by clicking on the "Register" button and complete the required fields.
 
 What to do next
 -------------------
 
-It's necessary to register the information about "release implementation".
+It is necessary to register the information about "release implementation".
 
 Related
 -----------

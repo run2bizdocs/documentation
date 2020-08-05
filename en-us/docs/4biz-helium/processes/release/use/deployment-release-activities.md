@@ -1,52 +1,37 @@
 title: Activities of the deployment release phase
 Description: This functionality is intended to plan the activities to be deployed to the release. 
+
 # Activities of the deployment release phase
 
-This functionallity allows to plan the activities to be implemented along the release, 
-similar to what occurs in the Release Planning phase.
+This functionality allows you to plan the activities to be implemented along the release, such as what occurs in the Release Planning phase.
 
 Before getting started
 --------------------
 
-Before performing the activities inherent to the Release Deployment, there must 
-be a Release with the planning phase completed.
+Before performing the activities related to the Release Deployment, there must be a Release with the planning phase completed.
 
 
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Processes \> Release
-    Management \> Release;
+1.  Access the functionality through the main menu Processes > Release Management > Release.
 
-2.  Find the release request you want to Plan the activity, click on the
-    button “Open” and then on the area "Deployment Release";
+2.  Find the release request you want to Plan the activity, click on the button “Open” and then on the area "Deployment Release”.
 
-3.  We can create a Kanban to manage the activities registered. Click on "+
-    Workspace" (available in the area called "Activities") and complete the data
-    available, for example, the title, its phase (to be done, in progress,
-    etc.), select the user or group responsible for the execution of tasks and
-    others;
+3.  You can create a Kanban to manage the activities registered. Click on "+ Workspace" (available in the area called "Activities") and complete the available data, for example, the title, its phase (to be done, in progress, etc.), select the user or group responsible for the execution of tasks and others;
     
     !!! Abstract "NOTE"
     
-        When linking an existing Kanban, if the user does not have permission to 
-        access a particular Workspace, the system will display a message informing 
-        it. The user must then request permission in Workspace and Sprint or create 
-        a new Kanban framework.
+        When linking an existing Kanban, if the user does not have permission to access a Workspace, the system will display a message informing it. The user must then request permission in Workspace and Sprint or create a new Kanban framework.
 
-4.  You can link the roles and responsibilities, projects, documents, notes and
-    notifications of system to the release. To do so, it's necessary to
-    click on the available frame, select the item to link it to the release;
+4.  You can link the roles and responsibilities, projects, documents, notes, and notifications of system to the release. To do so, it is necessary to click on the available frame, select the item to link it to the release.
 
-5.  In addition to allowing the link of responsibilities, projects, and
-    notification of systems, it's possible to create from scratch to fit the
-    release in thesis, by clicking on the "Register" button and complete the
-    required fields.
+5.  In addition to allowing the link of responsibilities, projects, and notification of systems, it is possible to create one from scratch by clicking on the "Register" button and complete the required fields.
 
 What to do next
 -------------------
 
-It's possible to link other functionalities to the release.
+It is possible to link other functionalities to the release.
 
 Related
 -----------

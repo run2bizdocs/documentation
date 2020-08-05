@@ -2,21 +2,19 @@ title: Register subscription group
 Description: Allows to register groups of subscriptions that will be printed in reports.
 # Register subscription group
 
-This functionality allows to register groups of subscriptions that will be printed in reports.
+This functionality allows you to create groups of subscriptions that will be printed in reports.
 
 Before getting started
 --------------------------
 
-It's necessary to have registered the employee subscription.
+It is necessary to have created the employee subscription.
 
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> Subscription Group;
+1.  Access the functionality through the main menu Integrated Management > Contract Management > Subscription Group.
 
-2.  In the tab "**Subscription Group Registration**", complete the field
-    necessary;
+2.  In the tab "Subscription Group Registration", complete the field necessary.
 
 3.  Click on "Add" and then on "Save".
 

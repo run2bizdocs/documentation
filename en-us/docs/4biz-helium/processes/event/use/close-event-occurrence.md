@@ -1,13 +1,13 @@
 title: Close event occurrence
-Description:Is intended to close the event occurrence.
+Description:Is intended to close the event.
 # Close event occurrence
 
-This functionality is intended to close the event occurrence.
+This functionality is intended to close the event.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the event.
+- [x] It's necessary to have registered the event.
 
 Procedure
 -------------
@@ -15,7 +15,7 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Event Management
     \> Event;
 
-2.  Click on the event and then on the button “Close occurrence”;
+2.  Click on the event and then on “Close occurrence”;
 
 3.  Click on "Yes" for the closing confirmation question.
 

@@ -3,33 +3,24 @@ Description: Introduction to the 4biz product
 
 # What is 4biz ?
 
-4biz, developed by 4biz Corporation®, is a **platform that 
-connects people and digital resources to optimize work and increase 
-business results.**
+4biz, developed by 4biz Corporation®, is a Service Management platform that connects people and digital resources to optimize work and amplify business results.
 
-Through the relationship portals, we optimize the experience of customers 
-and employees. Moreover, through the **Intelligent Digital Workflow** and agile 
-management, using Kanbans, we connect teams to a greater customer-centric 
-collaboration, generating progressive and interactive improvement, simplicity 
-in execution, practicality, alignment and agility.
+Through digital relationship portals, we optimize the user experience, and, through Intelligent **Digital Workflow and agile management**, we connect teams for greater customer-centric collaboration. We created this methodology using the Kanban framework, which gives greater visibility to task management, simplifies execution, and promotes team interaction and alignment.
 
-What are the possibilities of usage?
+What are the possibilities?
 -------------------------------
 
-There are cases of service management with automated processes in several areas, 
-for example:
+There are cases of service management automated processes in several areas, such as:
 
 *   Education.
 *   Purchases.
 *   Travel.
 *   Human resources, such as staff, training, others.
-*   Personal department, such as request for benefits, vacation, payroll, clarification, others.
 *   Legal, such as elaboration and analysis of contracts, support, others.
-*   Field service, such as the exchange of equipment, execution of repairs and maintenance, others.
-*   Communication, Marketing and others.
+*   Field service, such as equipment maintenance,  repairs and others.
+*   Communication, Marketing, and others.
 
-Therefore, following the best service management practices, based on the ITIL best 
-practice library, 4biz natively has 16 automated processes, they are:
+The 16 certified processes are:
 
 *   AM = Asset Management	
 *   AVM = Availability Management	
@@ -51,39 +42,28 @@ practice library, 4biz natively has 16 automated processes, they are:
 4biz History
 --------------------
 
-4biz is a product that had its initial construction to meet the needs of ITSM (IT Service Management),
-mainly for the fulfillment of the ITIL requirements, preached by the institution Pink Elephant, through
-PinkVerify certification. Nowadays, 4biz meets 16 processes out of the 16 possible. The main
-functionalities are Ticket Management (incidents and requests), Service Portfolio and Catalog, Knowledge
-Base, SLA, Changes and CMDB.
-The current 4biz target audience are companies that have IT departments, as well as the need of
-ITSM solutions to manage their ITs.
+4biz was initially created to meet the needs of ITSM (IT Service Management), always following the ITIL framework, and using the Pink Elephant Institution in Canada which is the standard for ITIL certification. 
+
+Now a days, 4biz meets 16 processes out of the 16 possible processes. The main functionalities are Ticket Management (incidents and requests), Service Portfolio and Catalog, Knowledge Base, SLA, Changes, and CMDB.
 
 Evolution
 ------------
 
-The main change introduced in the last year was the focus on business processes beyond IT, that is,
-Corporate Service Management, a proof of this is the adaptation of the service statement that became
-Connecting processes. Delivering experiences.
-This decision was based on the capacity of our Workflow to adapt to various business needs, and Builder,
-by allowing the construction of new data inputs and integration possibilities.
-We also created in the year 2018 the products CE - Center of Experiences. This product is an initiative to
-create a digital workspace builder. 
+One of the changes was the focus on business processes beyond IT, where the platform evolves to the Management of Business Services. This evolution was possible thanks to the ability of our workflow to adapt to different business needs.
+
+Another important point is the Builder that allows the construction of new data entries and integration possibilities.
+
+In 2018 we added another feature - Experience Center. This product is an initiative to create a digital workspace builder to meet the different needs of the many profiles of users, departments, and companies. 
 
 Helper
 -----
 
-ANUVA was also initiated and represents the Artificial Intelligence of 4biz, where it promotes
-integration and machine learning with knowledge.
+Helper is 4biz's Artificial Intelligence platform. It uses artificial intelligence to conduct increasingly improved dialogues with users on different platforms and, in addition to that, it can integrate with other systems, retrieving data through APIs, obtain better and more complete responses to questions from your users.
 
 Builder
 -----
 
-BUILDER is a product that has been 100% ready and adequate within 4biz, this product is very powerful
-and allows to build new functionalities, applications and integrations. It is very close to RPA (Robotics process automation) products, but it brings different possibilities, such as the natural integration with the
-Service Management framework (SLAs, knowledge, portfolio, tickets, service portal, among others).
-In addition, we understand that the concepts of Service Management is very powerful and can go beyond
-IT, allowing interesting gains to the business units.
+Builder is the development framework of 4biz, which allows you to build new features, applications, and integrations. Create codeless dynamic forms and low code integrations or automate data workflows with powerful orchestrations. Extend your possibilities by taking advantage of Builder's natural integration with the Service Management Framework.
 
 !!! tip "About"
 

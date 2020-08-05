@@ -8,7 +8,7 @@ Title: Implementing 4biz Inventory
 
 ## Before getting started
 
-4biz Inventory works in conjunction with [4biz Event Monitor - EVM][1] and as a data collector (eg XML packages) and EVM serves as a repositories for this information. Therefore, to enable Inventory, you must first configure EVM.  
+- [x] 4biz Inventory works together with [4biz Event Monitor - EVM][1] as a data collector (eg.: XML packages), and EVM serves as repositories for this information. Therefore, to enable the Inventory, you must first configure the EVM.  
 
 
 ## Procedure
@@ -28,12 +28,6 @@ To test the Inventory, [configure][4] the connections in the 4biz instance.
 [Implement 4biz Event Monitor][5]
 
 [Asset and Configuration Management][6]
-
-
-!!! tip "About"
-
-    <b>Product/Version:</b> 4biz | Helium &nbsp;&nbsp;
-    <b>Updated:</b>01/22/2019
 
 
 [1]:/en-us/4biz-helium/additional-features/add-ons/event-monitor.html

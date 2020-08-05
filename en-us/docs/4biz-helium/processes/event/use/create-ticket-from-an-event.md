@@ -1,13 +1,13 @@
 title: Create ticket from an event
-Description:Is intended to create an incident in an event. 
-# Create ticket from an event
+Description:It Is intended to create a service request through an event. 
+# Create a service request from an event
 
-This functionality is intended to create an incident in an event.
+This functionality is intended to create a service request through an event.
 
 Before getting started
 --------------------------
 
-It's necessary to previously register the event.
+- [x] It's necessary to have registered the event.
 
 Procedure
 -------------
@@ -15,13 +15,13 @@ Procedure
 1.  Access the functionality through the main menu Processes \> Event Management
     \> Event;
 
-2.  Click on the event and then on the button “More Options”;
+2.  Click on the event and then on “More Options”;
 
-3.  Click on "Create incident";
+3.  Click on "Create service request";
 
-4.  Complete the fields available;
+4.  It'll appear the ticket page to create the service request;
 
-5.  Click on the button “Operations” then "Save".
+5.  Click on "Save".
 
 Related
 -----------

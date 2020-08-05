@@ -2,7 +2,7 @@ title: Register service work order (WO)
 Description: Is intended to register the service work orders (WO).
 # Register service work order (WO)
 
-This functionality is intended to register the service work orders (WO).
+This functionality is intended to create service work orders (WO).
 
 Before getting started
 --------------
@@ -13,14 +13,11 @@ Prior registration of the type of service and the category of service is require
 Procedure
 -------------
 
-1.  Access the functionality through the main menu Integrated Management \>
-    Contract Management \> WO Service Registration;
+1.  Access the functionality through the main menu Integrated Management > Contract Management > WO Service Registration.
 
 2.  Click on "New";
 
-3.  Complete the fields necessary (service name, abbreviation, status, date of
-    deployment, category of service, service detail, service objective, type of
-    event, service importance for the business and service execution location);
+3.  Complete the necessary fields (service name, abbreviation, status, date of deployment, category of service, service detail, service objective, type of event, service importance for the business and service execution location).
 
 4.  Click on "Save".
 

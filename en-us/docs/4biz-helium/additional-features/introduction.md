@@ -2,7 +2,7 @@ Title: Aditional Features
 
 # Aditional Features
 
-In the aditional features menu, you will find the following topics:
+In the additional feature’s menu, you will find the following topics:
 
 * Automation of operation
 
