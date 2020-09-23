@@ -714,8 +714,8 @@ nav:
     - builder/advanced-options/variables.md
   - Add-Ons:
     - builder/addons/addons-list.md
-  - Dicionário de Banco de Dados:
-    - builder/database-dictionary.md
+ # - Dicionário de Banco de Dados:
+ #   - builder/database-dictionary.md
   - Neuro FAQ:
     - builder/builder-faq.md
 - Helper:
